@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-08T11:01:39.884897+00:00",
-  "total": 440,
+  "generado": "2026-05-08T15:13:35.102284+00:00",
+  "total": 437,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1467,18 +1467,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT025/"
     },
     {
-      "Código": "262318FC024",
-      "Título": "PCT PARA EL REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP RUIZ JIMÉNEZ",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "02/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318FC024/"
-    },
-    {
       "Código": "262318GT010",
       "Título": "\"El Evangelio nos abraza a todos: atención a la diversidad en Religión Católica\"",
       "CEP": "23200016 - CEP Jaén",
@@ -1765,18 +1753,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE041/"
-    },
-    {
-      "Código": "262922GE117",
-      "Título": "CdA: ACTUACIONES DE ÉXITO EN EL CEIP RICARDO LEÓN (AÑO I)",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "19/01/2026",
-      "Fin": "11/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE117/"
     },
     {
       "Código": "262922GT003",
@@ -3507,18 +3483,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
-      "Código": "261104GE001",
-      "Título": "ÁLBUM ILUSTRADO Y EMOCIÓN: TEORÍA Y PRÁCTICA EN EL PRIMER CICLO DE LA EDUCACIÓN INFANTIL",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "14/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104GE001/"
-    },
-    {
       "Código": "261811GE076",
       "Título": "ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS",
       "CEP": "18200016 - CEP Granada",
@@ -3577,18 +3541,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
-    },
-    {
-      "Código": "262115GE022",
-      "Título": "VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "14/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/"
     },
     {
       "Código": "262115GE069",
@@ -4321,6 +4273,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE041/"
+    },
+    {
+      "Código": "262115GE022",
+      "Título": "VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "14/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/"
     },
     {
       "Código": "262115GE025",
