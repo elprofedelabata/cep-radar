@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-10T07:54:39.918718+00:00",
-  "total": 432,
+  "generado": "2026-05-10T10:53:29.140772+00:00",
+  "total": 433,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1731,18 +1731,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT058/"
     },
     {
-      "Código": "262321GE028",
-      "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "26/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE028/"
-    },
-    {
       "Código": "262922GE041",
       "Título": "BASES PARA TRABAJAR EL ESTUDIO DE LA FE EN EL AULA",
       "CEP": "29200014 - CEP Málaga",
@@ -2691,6 +2679,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE248/"
     },
     {
+      "Código": "261811GE255",
+      "Título": "OPTIMIZACIÓN SISTÉMICA DE LA LABOR ASESORA: HACIA UN MODELO DE GESTIÓN COLABORATIVA DE ALTO RENDIMIENTO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "11/05/2026",
+      "Fin": "12/05/2026",
+      "Dirigido a": "Asesorías de formación",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE255/"
+    },
+    {
       "Código": "261812GE112",
       "Título": "CAJAS DE CAMBIOS AUTOMÁTICAS Y MOTORES MARINOS",
       "CEP": "18200028 - CEP Motril",
@@ -2943,18 +2943,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE041/"
     },
     {
-      "Código": "262320GE054",
-      "Título": "PERCUSIÓN CORPORAL: RITMO Y MOVIMIENTO",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "20/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE054/"
-    },
-    {
       "Código": "262320GE057",
       "Título": "EVALUACIÓN: ANOTACIONES DE CAMPO Y PORTFOLIO DOCENTE",
       "CEP": "23200031 - CEP Úbeda",
@@ -3001,6 +2989,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/"
+    },
+    {
+      "Código": "262321GE028",
+      "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "26/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE028/"
     },
     {
       "Código": "262923GE102",
@@ -4405,6 +4405,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE032/"
+    },
+    {
+      "Código": "262320GE054",
+      "Título": "PERCUSIÓN CORPORAL: RITMO Y MOVIMIENTO",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "20/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE054/"
     },
     {
       "Código": "262922GE153",
