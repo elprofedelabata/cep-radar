@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-09T22:31:54.294627+00:00",
-  "total": 433,
+  "generado": "2026-05-10T05:28:28.221874+00:00",
+  "total": 432,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2876,8 +2876,8 @@
       "CEP": "23200028 - CEP Linares - Andújar",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "26/05/2026",
-      "Fin": "09/06/2026",
+      "Inicio": "02/06/2026",
+      "Fin": "16/06/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE033/"
@@ -4297,18 +4297,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE001/"
-    },
-    {
-      "Código": "262116GE100",
-      "Título": "V CONGRESO NEUROCIENCIA Y EDUCACIÓN. INTERCAMBIO DE EXPERIENCIAS EDUCATIVAS.",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Congreso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/05/2026",
-      "Fin": "09/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE100/"
     },
     {
       "Código": "262116GE154",
