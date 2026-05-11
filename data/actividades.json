@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-11T08:56:42.029123+00:00",
-  "total": 426,
+  "generado": "2026-05-11T12:34:30.077332+00:00",
+  "total": 421,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -49,18 +49,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104GT161/"
-    },
-    {
-      "Código": "261104MDFP012",
-      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "29/05/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
     },
     {
       "Código": "261105FC168",
@@ -1359,30 +1347,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT106/"
     },
     {
-      "Código": "262117FC010",
-      "Título": "EL DESARROLLO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP SUTEFIE",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "20/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC010/"
-    },
-    {
-      "Código": "262117FC013",
-      "Título": "PENSAMIENTO COMPUTACIONAL A TRAVÉS DE LENGUA Y MATEMÁTICAS",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "10/09/2025",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC013/"
-    },
-    {
       "Código": "262117FC016",
       "Título": "INNOVACIÓN E INCLUSIÓN EN EL CEIP LA RÁBIDA:CdA, MULTINIVEL Y TDE.",
       "CEP": "21200037 - CEP Aracena",
@@ -2463,6 +2427,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/"
     },
     {
+      "Código": "261104MDFP012",
+      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/05/2026",
+      "Fin": "22/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
+    },
+    {
       "Código": "261104MDFP013",
       "Título": "ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD",
       "CEP": "11200011 - CEP Cádiz",
@@ -3399,18 +3375,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ARE007/"
     },
     {
-      "Código": "264127PRI022",
-      "Título": "CLAVES PARA UNA ESCUELA INCLUSIVA ATENDIENDO A LA DIVERSIDAD",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "12/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI022/"
-    },
-    {
       "Código": "269922QPF013",
       "Título": "PROCESO DE ADMISIÓN ENSEÑANZAS DE RÉGIMEN GENERAL (2º CICLO DE E. INFANTIL A BACHILLERATO Y EDUCACIÓN ESPECIAL) ORIENTAL",
       "CEP": "29200014 - CEP Málaga",
@@ -3927,16 +3891,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE098/"
     },
     {
-      "Código": "261812GE113",
-      "Título": "PAQUETE DEL SOFTWARE SOL (FACTUSOL, NOMINASOL Y CONTASOL)",
+      "Código": "261812GE133",
+      "Título": "TUTORÍA VIRTUAL EN ENTORNOS MOODLE",
       "CEP": "18200028 - CEP Motril",
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/04/2026",
-      "Fin": "08/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Inicio": "18/05/2026",
+      "Fin": "15/06/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE113/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE133/"
     },
     {
       "Código": "261813CTD032",
@@ -4239,18 +4203,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE027/"
     },
     {
-      "Código": "262318GE077",
-      "Título": "CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "11/05/2026",
-      "Fin": "13/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/"
-    },
-    {
       "Código": "262318GE092",
       "Título": "JORNADAS PARA EL APRENDIZAJE Y LA ENSEÑANZA DE LAS MATEMÁTICAS",
       "CEP": "23200016 - CEP Jaén",
@@ -4465,18 +4417,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE063/"
-    },
-    {
-      "Código": "26401GE071",
-      "Título": "XLI JORNADAS DE TEATRO DEL SIGLO DE ORO DE ALMERÍA. CICLO ACADÉMICO 2025",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/05/2026",
-      "Fin": "09/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE071/"
     },
     {
       "Código": "26401GE075",
@@ -4755,6 +4695,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PER013/"
     },
     {
+      "Código": "264127PRI022",
+      "Título": "CLAVES PARA UNA ESCUELA INCLUSIVA ATENDIENDO A LA DIVERSIDAD",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "12/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI022/"
+    },
+    {
       "Código": "264127PRI028",
       "Título": "INTERVENCIÓN COORDINADA ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO: ACTUACIÓN DE LA INSPECCIÓN EDUCATIVA, LA FISCALÍA Y LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO",
       "CEP": "41200017 - CEP Sevilla",
@@ -5017,18 +4969,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269909PF248/"
-    },
-    {
-      "Código": "269910OE600",
-      "Título": "TRANSFORMANDO PARA LA INCLUSIÓN",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "27/01/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269910OE600/"
     },
     {
       "Código": "269917OE600",
