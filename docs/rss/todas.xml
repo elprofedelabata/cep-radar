@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 19 May 2026 19:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:56:04 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -1071,13 +1071,6 @@
       <pubDate>Fri, 08 May 2026 11:01:39 +0000</pubDate>
     </item>
     <item>
-      <title>261812GE131 — EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO</title>
-      <description>18200028 - CEP Motril | Curso | 21/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/</link>
-      <guid isPermaLink="false">261812GE131</guid>
-      <pubDate>Wed, 06 May 2026 15:56:58 +0000</pubDate>
-    </item>
-    <item>
       <title>261813GE045 — EXPERIENCIAS DOCENTES RELEVANTES 25/26 - CEP GUADIX</title>
       <description>18200031 - CEP Guadix | Jornadas | 27/05/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE045/</link>
@@ -1132,13 +1125,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE033/</link>
       <guid isPermaLink="false">262319GE033</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262319GE043 — LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL</title>
-      <description>23200028 - CEP Linares - Andújar | Curso Semipresencial | 25/05/2026 → 27/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/</link>
-      <guid isPermaLink="false">262319GE043</guid>
-      <pubDate>Mon, 04 May 2026 22:22:25 +0000</pubDate>
     </item>
     <item>
       <title>262319GE046 — V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR</title>
@@ -1384,6 +1370,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/</link>
       <guid isPermaLink="false">262318GE109</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>262319GE043 — LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL</title>
+      <description>23200028 - CEP Linares - Andújar | Curso Semipresencial | 25/05/2026 → 27/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/</link>
+      <guid isPermaLink="false">262319GE043</guid>
+      <pubDate>Mon, 04 May 2026 22:22:25 +0000</pubDate>
     </item>
     <item>
       <title>262922GE166 — COMPOSICIONES FLORALES ATADAS Y EN BASES: EL ESTILO CLÁSICO Y ACTUAL</title>
@@ -1741,6 +1734,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE098/</link>
       <guid isPermaLink="false">261812GE098</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>261812GE131 — EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO</title>
+      <description>18200028 - CEP Motril | Curso | 21/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/</link>
+      <guid isPermaLink="false">261812GE131</guid>
+      <pubDate>Wed, 06 May 2026 15:56:58 +0000</pubDate>
     </item>
     <item>
       <title>261812GE133 — TUTORÍA VIRTUAL EN ENTORNOS MOODLE</title>

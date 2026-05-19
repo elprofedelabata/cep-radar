@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-19T19:41:27.292607+00:00",
+  "generado": "2026-05-19T22:56:04.203127+00:00",
   "total": 326,
   "actividades": [
     {
@@ -1827,18 +1827,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE130/"
     },
     {
-      "Código": "261812GE131",
-      "Título": "EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/05/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/"
-    },
-    {
       "Código": "261813GE045",
       "Título": "EXPERIENCIAS DOCENTES RELEVANTES 25/26 - CEP GUADIX",
       "CEP": "18200031 - CEP Guadix",
@@ -1933,18 +1921,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE033/"
-    },
-    {
-      "Código": "262319GE043",
-      "Título": "LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "25/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/"
     },
     {
       "Código": "262319GE046",
@@ -2365,6 +2341,18 @@
       "Dirigido a": "Orientación educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
+    },
+    {
+      "Código": "262319GE043",
+      "Título": "LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "25/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/"
     },
     {
       "Código": "262922GE166",
@@ -2977,6 +2965,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE098/"
+    },
+    {
+      "Código": "261812GE131",
+      "Título": "EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/05/2026",
+      "Fin": "12/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/"
     },
     {
       "Código": "261812GE133",
