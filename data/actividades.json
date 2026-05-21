@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-21T06:00:40.583739+00:00",
-  "total": 306,
+  "generado": "2026-05-21T12:38:10.340661+00:00",
+  "total": 274,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -183,42 +183,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT108/"
     },
     {
-      "Código": "261409FC003",
-      "Título": "HERRAMIENTAS DIGITALES PARA LA ACCESIBILIDAD E INCLUSIÓN EN EL AULA",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "15/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC003/"
-    },
-    {
-      "Código": "261409GT001",
-      "Título": "INTERNACIONALIZACIÓN DEL  IES FLORENCIO PINTADO CON ERASMUS +",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT001/"
-    },
-    {
-      "Código": "261409GT009",
-      "Título": "USO DE HERRAMIENTAS DE GOOGLE WORKSPACE PARA LA MEJORA DE LA PRÁCTICA DOCENTE",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT009/"
-    },
-    {
       "Código": "261409GT012",
       "Título": "CREACIÓN DE MATERIAL DIGITAL PARA FOMENTAR LA TRANSVERSALIDAD ENTRE DEPARTAMENTOS",
       "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
@@ -229,18 +193,6 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT012/"
-    },
-    {
-      "Código": "261409GT016",
-      "Título": "COMPETENCIA MATEMÁTICA EN EL VISO",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT016/"
     },
     {
       "Código": "261409GT032",
@@ -255,18 +207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT032/"
     },
     {
-      "Código": "261409GT037",
-      "Título": "SENTIR, APRENDER, CRECER: UN ESPACIO MULTISENSORIAL PARA LA INCLUSIÓN.",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "11/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT037/"
-    },
-    {
       "Código": "261410FC004",
       "Título": "METODOLOGÍAS ACTIVAS DE APRENDIZAJE (CONTINUACIÓN)",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -277,90 +217,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC004/"
-    },
-    {
-      "Código": "261410FC006",
-      "Título": "EL LABORATORIO DE ESCRITURA CREATIVA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC006/"
-    },
-    {
-      "Código": "261410FC015",
-      "Título": "INICIACIÓN AL LENGUAJE NATURAL ASISTIDO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC015/"
-    },
-    {
-      "Código": "261410FC040",
-      "Título": "MÁS BIBLIOTECA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC040/"
-    },
-    {
-      "Código": "261410FC041",
-      "Título": "APLICACIÓN DEL DUA Y HERRAMIENTAS DIGITALES PARA UNA RESPUESTA INCLUSIVA EN EL AULA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC041/"
-    },
-    {
-      "Código": "261410FC044",
-      "Título": "NUEVAS TECNOLOGÍAS APLICADAS A LA ATENCIÓN A LA DIVERSIDAD",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC044/"
-    },
-    {
-      "Código": "261410FC053",
-      "Título": "REFUERZO EN COMPETENCIA MATEMÁTICA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC053/"
-    },
-    {
-      "Código": "261410GT003",
-      "Título": "ESTRATEGIAS METODOLÓGICAS INCLUSIVAS E INNOVADORAS PARA FOMENTAR HÁBITOS SALUDABLES EN LA EDUCACIÓN DE PERSONAS ADULTAS",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT003/"
     },
     {
       "Código": "261410GT007",
@@ -387,18 +243,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT010/"
     },
     {
-      "Código": "261410GT013",
-      "Título": "INTEGRACIÓN DEL ENTORNO LOCAL EN LA PRÁCTICA DOCENTE: PROPUESTAS DIDÁCTICAS INTERDISCIPLINARES PARA 1º Y 2º DE ESO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT013/"
-    },
-    {
       "Código": "261410GT014",
       "Título": "MANEJO DEL CUADERNO SÉNECA Y OTROS USOS DE LA PLATAFORMA DOCENTE",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -421,54 +265,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT033/"
-    },
-    {
-      "Código": "261410GT048",
-      "Título": "INGLÉS COMO VEHÍCULO PARA LA INCLUSIÓN Y LA INNOVACIÓN. DISEÑO DE METODOLOGÍAS ACTIVAS PARA EL AULA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT048/"
-    },
-    {
-      "Código": "261410GT061",
-      "Título": "EL CEPER MAESTRO ANTONIO ÉCIJA EN LAS REDES",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT061/"
-    },
-    {
-      "Código": "261410GT063",
-      "Título": "EL LENGUAJE NATURAL ASISTIDO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT063/"
-    },
-    {
-      "Código": "261410GT064",
-      "Título": "GENERANDO HÁBITOS DE VIDA SALUDABLE II",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT064/"
     },
     {
       "Código": "261811GE020",
@@ -879,18 +675,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT105/"
     },
     {
-      "Código": "262116GT106",
-      "Título": "RECURSOS DIDÁCTICOS PARA ESPAÑOL COMO LENGUA EXTRANJERA EN LA ESPA",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "30/09/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT106/"
-    },
-    {
       "Código": "262117FC016",
       "Título": "INNOVACIÓN E INCLUSIÓN EN EL CEIP LA RÁBIDA:CdA, MULTINIVEL Y TDE.",
       "CEP": "21200037 - CEP Aracena",
@@ -1191,18 +975,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT058/"
     },
     {
-      "Código": "262922GE041",
-      "Título": "BASES PARA TRABAJAR EL ESTUDIO DE LA FE EN EL AULA",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "12/05/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE041/"
-    },
-    {
       "Código": "262922GT003",
       "Título": "INTERNACIONALIZACIÓN CEIP PARQUE CLAVERO",
       "CEP": "29200014 - CEP Málaga",
@@ -1225,30 +997,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GT002/"
-    },
-    {
-      "Código": "262924FC011",
-      "Título": "PCT PARA EL  DESARROLLO DE LAS COMPETENCIAS MATEMÁTICA Y LA COMPETENCIA LECTORA EN EL IES PÉREZ DE GUZMÁN",
-      "CEP": "29200038 - CEP Ronda",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "15/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262924FC011/"
-    },
-    {
-      "Código": "262924FC013",
-      "Título": "METODOLOGÍAS ACTIVAS",
-      "CEP": "29200038 - CEP Ronda",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "15/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262924FC013/"
     },
     {
       "Código": "262926GT02",
@@ -2235,30 +1983,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
     },
     {
-      "Código": "262318GE105",
-      "Título": "RED  PROFESIONAL DE PT",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/01/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE105/"
-    },
-    {
-      "Código": "262318GE108",
-      "Título": "RED PROFESIONAL AL",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/01/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE108/"
-    },
-    {
       "Código": "262318GE109",
       "Título": "RED PROFESIONAL ORIENTACIÓN",
       "CEP": "23200016 - CEP Jaén",
@@ -2559,18 +2283,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
-      "Código": "261811GE085",
-      "Título": "FORMACIÓN SIMMERSIVE: AULA INMERSIVA CPIFP HURTADO DE MENDOZA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/"
-    },
-    {
       "Código": "261812CTD051",
       "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
       "CEP": "18200028 - CEP Motril",
@@ -2787,30 +2499,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE019/"
     },
     {
-      "Código": "261812GE098",
-      "Título": "DEPORTE DE PALA COMO HERRAMIENTA EDUCATIVA",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE098/"
-    },
-    {
-      "Código": "261812GE131",
-      "Título": "EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/05/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/"
-    },
-    {
       "Código": "261812GE133",
       "Título": "TUTORÍA VIRTUAL EN ENTORNOS MOODLE",
       "CEP": "18200028 - CEP Motril",
@@ -2979,18 +2667,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE024/"
     },
     {
-      "Código": "261813GE036",
-      "Título": "LAS FUENTES HISTÓRICAS Y ARTÍSTICAS DE NUESTRAS COFRADÍAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE036/"
-    },
-    {
       "Código": "261813GE047",
       "Título": "DISEÑO Y GESTIÓN DE EXPOSICIONES",
       "CEP": "18200031 - CEP Guadix",
@@ -3097,30 +2773,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE097/"
-    },
-    {
-      "Código": "262318GE116",
-      "Título": "JORNADAS EOI 2026: HERRAMIENTAS PARA EL PRESENTE",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "29/04/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE116/"
-    },
-    {
-      "Código": "262319GE040",
-      "Título": "APLICACIÓN DIDÁCTICA DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA PROVINCIA DE JAÉN",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE040/"
     },
     {
       "Código": "262320GE054",
@@ -3387,18 +3039,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI022/"
     },
     {
-      "Código": "264127PRI025",
-      "Título": "JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "18/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/"
-    },
-    {
       "Código": "264127PRI028",
       "Título": "INTERVENCIÓN COORDINADA ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO: ACTUACIÓN DE LA INSPECCIÓN EDUCATIVA, LA FISCALÍA Y LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO",
       "CEP": "41200017 - CEP Sevilla",
@@ -3519,18 +3159,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT10/"
     },
     {
-      "Código": "264129INT12",
-      "Título": "INCLUSIÓN DEL ALUMNADO TEA EN EL AULA ORDINARIA. EDUCACIÓN SECUNDARIA",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "29/04/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT12/"
-    },
-    {
       "Código": "264129INT25",
       "Título": "LA COMPETENCIA LINGÜÍSTICA EN EL CEIP BLAS INFANTE",
       "CEP": "41200030 - CEP Osuna - Écija",
@@ -3639,16 +3267,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269920KPF616/"
     },
     {
-      "Código": "269927KPF386",
-      "Título": "AUTOEVALUACIÓN DE PLANES DE MEJORA Y MEMORIA DE AUTOEVALUACIÓN",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso Semipresencial",
+      "Código": "269923KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "21/05/2026",
+      "Inicio": "25/05/2026",
+      "Fin": "26/06/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927KPF386/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
     },
     {
       "Código": "269929KPF616",
@@ -3661,18 +3289,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/"
-    },
-    {
-      "Código": "269932BE001",
-      "Título": "X JORNADAS PROVINCIALES DE BIBLIOTECAS ESCOLARES ''LECTURA SIN LÍMITES''",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269932BE001/"
     }
   ]
 }
