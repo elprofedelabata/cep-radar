@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-24T14:54:54.023484+00:00",
-  "total": 254,
+  "generado": "2026-05-24T18:58:54.571914+00:00",
+  "total": 252,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1431,30 +1431,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE033/"
     },
     {
-      "Código": "262320FP003",
-      "Título": "PODA Y TALA EN ALTURA",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/06/2026",
-      "Fin": "04/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320FP003/"
-    },
-    {
-      "Código": "262321GE028",
-      "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "26/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE028/"
-    },
-    {
       "Código": "262923GE102",
       "Título": "RED IDEA: ESPACIOS QUE EDUCAN DESDE EL SER",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -1743,6 +1719,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
     },
     {
+      "Código": "262320FP003",
+      "Título": "PODA Y TALA EN ALTURA",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/06/2026",
+      "Fin": "04/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320FP003/"
+    },
+    {
       "Código": "264127ACT035",
       "Título": "ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO",
       "CEP": "41200017 - CEP Sevilla",
@@ -1945,18 +1933,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP010/"
-    },
-    {
-      "Código": "261107GE022",
-      "Título": "EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/05/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
     },
     {
       "Código": "261408FP022",
