@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-25T12:55:09.992327+00:00",
-  "total": 240,
+  "generado": "2026-05-25T16:14:04.890357+00:00",
+  "total": 238,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -97,18 +97,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT108/"
-    },
-    {
-      "Código": "261409GT012",
-      "Título": "CREACIÓN DE MATERIAL DIGITAL PARA FOMENTAR LA TRANSVERSALIDAD ENTRE DEPARTAMENTOS",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GT012/"
     },
     {
       "Código": "261409GT032",
@@ -1131,18 +1119,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132FC023/"
     },
     {
-      "Código": "261104FEDAP056",
-      "Título": "JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "30/05/2026",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/"
-    },
-    {
       "Código": "261105FED013",
       "Título": "JORNADAS DE EXPERIENCIAS DE ÉXITO DE CENTROS EDUCATIVOS  (CEP DE JEREZ)",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -1491,6 +1467,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP014/"
     },
     {
+      "Código": "261104FEDAP056",
+      "Título": "JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "30/05/2026",
+      "Fin": "30/05/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/"
+    },
+    {
       "Código": "261104FEDAP092",
       "Título": "ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS",
       "CEP": "11200011 - CEP Cádiz",
@@ -1585,30 +1573,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/"
-    },
-    {
-      "Código": "269928KPF609",
-      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "28/05/2026",
-      "Fin": "30/08/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF609/"
-    },
-    {
-      "Código": "269928KPF610",
-      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "28/05/2026",
-      "Fin": "30/08/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF610/"
     },
     {
       "Código": "261104FEDAP011",
@@ -1789,6 +1753,30 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF610/"
+    },
+    {
+      "Código": "269928KPF609",
+      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
+      "CEP": "41200029 - CEP Castilleja de la Cuesta",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "28/05/2026",
+      "Fin": "30/08/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF609/"
+    },
+    {
+      "Código": "269928KPF610",
+      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)",
+      "CEP": "41200029 - CEP Castilleja de la Cuesta",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "28/05/2026",
+      "Fin": "30/08/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF610/"
     },
     {
       "Código": "261104FEDAP057",
@@ -2857,18 +2845,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269914KPF610/"
-    },
-    {
-      "Código": "269923KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "25/05/2026",
-      "Fin": "26/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
     },
     {
       "Código": "269933FP012",
