@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 25 May 2026 16:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:13:40 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -81,13 +81,6 @@
       <description>14200034 - CEP Priego - Montilla | Grupos de trabajo | 01/11/2025 → 31/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT007/</link>
       <guid isPermaLink="false">261410GT007</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261410GT010 — EL TEATRO COMO HERRAMIENTA DIDÁCTICA E INCLUSIVA</title>
-      <description>14200034 - CEP Priego - Montilla | Grupos de trabajo | 01/11/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT010/</link>
-      <guid isPermaLink="false">261410GT010</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -861,13 +854,6 @@
       <pubDate>Thu, 14 May 2026 08:26:20 +0000</pubDate>
     </item>
     <item>
-      <title>261104FEDAP056 — JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN</title>
-      <description>11200011 - CEP Cádiz | Jornadas | 30/05/2026 → 30/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/</link>
-      <guid isPermaLink="false">261104FEDAP056</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261104FEDAP092 — ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS</title>
       <description>11200011 - CEP Cádiz | Curso | 02/06/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/</link>
@@ -910,13 +896,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>262319GE027 — TECNIFICACIÓN EN PROGRESIÓN Y GUIAJE EN BARRANCOS</title>
-      <description>23200028 - CEP Linares - Andújar | Otros | 29/05/2026 → 31/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE027/</link>
-      <guid isPermaLink="false">262319GE027</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>264127ACT035 — ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO</title>
       <description>41200017 - CEP Sevilla | Curso | 04/05/2026 → 04/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/</link>
@@ -929,6 +908,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/</link>
       <guid isPermaLink="false">261104FEDAP011</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261104FEDAP056 — JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN</title>
+      <description>11200011 - CEP Cádiz | Jornadas | 30/05/2026 → 30/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/</link>
+      <guid isPermaLink="false">261104FEDAP056</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>262922GE161 — TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN</title>
@@ -1425,6 +1411,13 @@
       <description>23200016 - CEP Jaén | Curso | 06/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE097/</link>
       <guid isPermaLink="false">262318GE097</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262319GE027 — TECNIFICACIÓN EN PROGRESIÓN Y GUIAJE EN BARRANCOS</title>
+      <description>23200028 - CEP Linares - Andújar | Otros | 29/05/2026 → 31/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE027/</link>
+      <guid isPermaLink="false">262319GE027</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
