@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-26T14:31:14.320239+00:00",
-  "total": 229,
+  "generado": "2026-05-26T17:19:14.718079+00:00",
+  "total": 224,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -229,18 +229,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT008/"
-    },
-    {
-      "Código": "261814GT027",
-      "Título": "RED DE MATERIALES BILINGÜES",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT027/"
     },
     {
       "Código": "261814GT029",
@@ -1095,18 +1083,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE096/"
     },
     {
-      "Código": "261811GE018",
-      "Título": "ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Encuentro",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "01/06/2026",
-      "Fin": "21/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE018/"
-    },
-    {
       "Código": "261811GE158",
       "Título": "PROGRAMACIÓN DE TORNO CNC FAGOR Y PROCESO DE MECANIZADO",
       "CEP": "18200016 - CEP Granada",
@@ -1359,30 +1335,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
     },
     {
-      "Código": "261811GE247",
-      "Título": "CONGRESO AUTONÓMICO DE BUENAS PRÁCTICAS EN REFUERZO DE LA COMPETENCIA LECTORA: «SENTIR, COMPRENDER, RAZONAR Y RESOLVER»",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Congreso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "11/06/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE247/"
-    },
-    {
-      "Código": "261811GE248",
-      "Título": "CONGRESO AUTONÓMICO DE BUENAS PRÁCTICAS EN REFUERZO DE LA COMPETENCIA  MATEMÁTICA: «SENTIR, COMPRENDER, RAZONAR Y RESOLVER»",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Congreso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "11/06/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE248/"
-    },
-    {
       "Código": "262318GE109",
       "Título": "RED PROFESIONAL ORIENTACIÓN",
       "CEP": "23200016 - CEP Jaén",
@@ -1453,6 +1405,42 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
+    },
+    {
+      "Código": "261811GE018",
+      "Título": "ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA EDUCATIVA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Encuentro",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "01/06/2026",
+      "Fin": "21/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE018/"
+    },
+    {
+      "Código": "261811GE247",
+      "Título": "CONGRESO AUTONÓMICO DE BUENAS PRÁCTICAS EN REFUERZO DE LA COMPETENCIA LECTORA: «SENTIR, COMPRENDER, RAZONAR Y RESOLVER»",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Congreso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "11/06/2026",
+      "Fin": "12/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE247/"
+    },
+    {
+      "Código": "261811GE248",
+      "Título": "CONGRESO AUTONÓMICO DE BUENAS PRÁCTICAS EN REFUERZO DE LA COMPETENCIA  MATEMÁTICA: «SENTIR, COMPRENDER, RAZONAR Y RESOLVER»",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Congreso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "11/06/2026",
+      "Fin": "12/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE248/"
     },
     {
       "Código": "261812GE114",
@@ -1791,18 +1779,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE024/"
     },
     {
-      "Código": "261409GE037",
-      "Título": "ATENCIÓN A LA DIVERSIDAD E IGUALDAD A TRAVÉS DE UN LENGUAJE INCLUSIVO",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE037/"
-    },
-    {
       "Código": "261410FP009",
       "Título": "JORNADAS DE DETECCIÓN DE NECESIDADES FORMATIVAS DEL PROFESORADO DE FP",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -1813,18 +1789,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FP009/"
-    },
-    {
-      "Código": "261811GE010",
-      "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/05/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
       "Código": "261812CTD051",
@@ -2223,18 +2187,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE045/"
     },
     {
-      "Código": "261813GE047",
-      "Título": "DISEÑO Y GESTIÓN DE EXPOSICIONES",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "26/05/2026",
-      "Fin": "01/06/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE047/"
-    },
-    {
       "Código": "261814GE013",
       "Título": "XVI ENCUENTRO DE AULAS ESPECÍFICAS: ESTRATEGIAS DE CONTENCIÓN PARA  ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
       "CEP": "18200041 - CEP Baza",
@@ -2293,18 +2245,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE001/"
-    },
-    {
-      "Código": "262116GE166",
-      "Título": "JORNADA PROVINCIAL AULA DE JAQUE",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "30/04/2026",
-      "Fin": "15/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE166/"
     },
     {
       "Código": "262318GE092",
