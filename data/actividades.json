@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-27T16:56:59.236299+00:00",
-  "total": 209,
+  "generado": "2026-05-27T19:57:31.125074+00:00",
+  "total": 207,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1143,18 +1143,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/"
     },
     {
-      "Código": "264127AFP051",
-      "Título": "MANIOBRAS CON CUERDAS: ESCALADA DEPORTIVA EN ROCA (NIVEL 3)",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "14/06/2026",
-      "Fin": "14/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP051/"
-    },
-    {
       "Código": "264127INF009",
       "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
       "CEP": "41200017 - CEP Sevilla",
@@ -1215,16 +1203,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
     },
     {
-      "Código": "26403GE048",
-      "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso Semipresencial",
+      "Código": "264127AFP051",
+      "Título": "MANIOBRAS CON CUERDAS: ESCALADA DEPORTIVA EN ROCA (NIVEL 3)",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
       "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "01/06/2026",
-      "Fin": "25/06/2026",
+      "Inicio": "14/06/2026",
+      "Fin": "14/06/2026",
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP051/"
     },
     {
       "Código": "264129FP10",
@@ -1347,6 +1335,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
     },
     {
+      "Código": "264128FP043",
+      "Título": "DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP · INICIACIÓN",
+      "CEP": "41200029 - CEP Castilleja de la Cuesta",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "02/06/2026",
+      "Fin": "18/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/"
+    },
+    {
       "Código": "269933FP014",
       "Título": "ENCUENTRO REGIONAL ANDALUZ DE ASESORÍAS DE FP: IMPULSO A LA INNOVACIÓN Y AL TRABAJO EN RED",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -1465,18 +1465,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE014/"
-    },
-    {
-      "Código": "261409GE024",
-      "Título": "UN AULA, MIL POSIBILIDADES : DISEÑO DE ESPACIOS DE APRENDIZAJE PARA EDUCACIÓN INFANTIL",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "22/04/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE024/"
     },
     {
       "Código": "261410FP009",
@@ -2091,6 +2079,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE039/"
     },
     {
+      "Código": "26403GE048",
+      "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "01/06/2026",
+      "Fin": "25/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
+    },
+    {
       "Código": "264127AFP038",
       "Título": "TÉCNICAS DE IMPRESIÓN 3D CON FILAMENTOS TÉCNICOS Y ESCANEO DE ÚLTIMA GENERACIÓN PARA LA FABRICACIÓN DE LA ESTRUCTURA DE UN DRONE",
       "CEP": "41200017 - CEP Sevilla",
@@ -2259,18 +2259,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL002/"
     },
     {
-      "Código": "264127REL004",
-      "Título": "BIBLIA Y ARTE CRISTIANO. RELATOS Y SIMBOLOGÍA PARA TRABAJAR EN CLASE DE RELIGIÓN.",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL004/"
-    },
-    {
       "Código": "264128CON035",
       "Título": "ASESORAMIENTO PUNTUAL DE LA CONVIVENCIA EN EL CENTRO PÍO XII: CONDUCTAS DISRUPTIVAS",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -2281,18 +2269,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128CON035/"
-    },
-    {
-      "Código": "264128FP043",
-      "Título": "DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP · INICIACIÓN",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/06/2026",
-      "Fin": "18/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/"
     },
     {
       "Código": "264128NEE020",
