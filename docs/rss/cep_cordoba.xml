@@ -5,7 +5,14 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Wed, 27 May 2026 06:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:46:29 +0000</lastBuildDate>
+    <item>
+      <title>261408FP029 — FORMACIÓN EN SALUD CAPILAR</title>
+      <description>14200010 - CEP Córdoba | Curso | 03/06/2026 → 04/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP029/</link>
+      <guid isPermaLink="false">261408FP029</guid>
+      <pubDate>Wed, 27 May 2026 12:46:28 +0000</pubDate>
+    </item>
     <item>
       <title>261408GE058 — XVII JORNADAS DE INTERCAMBIO DE EXPERIENCIAS EDUCATIVAS EN CIENCIAS SOCIALES, GEOGRAFÍA, HISTORIA E HISTORIA DEL ARTE</title>
       <description>14200010 - CEP Córdoba | Curso | 06/06/2026 → 06/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -21,20 +28,6 @@
       <pubDate>Thu, 14 May 2026 08:26:20 +0000</pubDate>
     </item>
     <item>
-      <title>269908KPF609 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF609/</link>
-      <guid isPermaLink="false">269908KPF609</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>269908KPF610 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF610/</link>
-      <guid isPermaLink="false">269908KPF610</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
       <title>261408FP022 — RED PERICLES. DIGITALIZACIÓN DE PROYECTOS ENTRE FAMILIAS PROFESIONALES</title>
       <description>14200010 - CEP Córdoba | Curso a Distancia | 16/02/2026 → 29/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP022/</link>
@@ -47,6 +40,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE014/</link>
       <guid isPermaLink="false">261408GE014</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>269908KPF609 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF609/</link>
+      <guid isPermaLink="false">269908KPF609</guid>
+      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>269908KPF610 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF610/</link>
+      <guid isPermaLink="false">269908KPF610</guid>
+      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
