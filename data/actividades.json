@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-28T17:30:56.249111+00:00",
-  "total": 186,
+  "generado": "2026-05-28T20:03:23.090378+00:00",
+  "total": 185,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -145,18 +145,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE198/"
-    },
-    {
-      "Código": "261811GT140",
-      "Título": "NATURALIZACIÓN Y PROYECCIÓN DE ESPACIOS ESCOLARES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "03/11/2025",
-      "Fin": "04/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT140/"
     },
     {
       "Código": "261812GE045",
