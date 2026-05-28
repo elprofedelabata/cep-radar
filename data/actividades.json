@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-28T13:00:28.185031+00:00",
-  "total": 190,
+  "generado": "2026-05-28T17:30:56.249111+00:00",
+  "total": 186,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1143,18 +1143,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/"
     },
     {
-      "Código": "261104MDFP012",
-      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "29/05/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
-    },
-    {
       "Código": "261105FED013",
       "Título": "JORNADAS DE EXPERIENCIAS DE ÉXITO DE CENTROS EDUCATIVOS  (CEP DE JEREZ)",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -1261,6 +1249,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP011/"
+    },
+    {
+      "Código": "261104MDFP012",
+      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "29/05/2026",
+      "Fin": "22/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
     },
     {
       "Código": "261105CTD110",
@@ -1767,30 +1767,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE024/"
     },
     {
-      "Código": "261814GE013",
-      "Título": "XVI ENCUENTRO DE AULAS ESPECÍFICAS: ESTRATEGIAS DE CONTENCIÓN PARA  ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE013/"
-    },
-    {
-      "Código": "261814GE035",
-      "Título": "ESTRATEGIAS DE CONTENCIÓN VERBAL Y FÍSICA EN ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "14/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
-    },
-    {
       "Código": "262115GE027",
       "Título": "JORNADA FINAL PROVINCIAL DE BIBLIOTECAS ESCOLARES",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -1935,18 +1911,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE086/"
     },
     {
-      "Código": "26402GE021",
-      "Título": "HERRAMIENTAS PARA EL CUIDADO DEL BIENESTAR DOCENTE II: MINDFULNESS EN LA GESTIÓN EMOCIONAL DOCENTE",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26402GE021/"
-    },
-    {
       "Código": "26403GE048",
       "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -2077,18 +2041,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PER005/"
-    },
-    {
-      "Código": "264127PRI022",
-      "Título": "CLAVES PARA UNA ESCUELA INCLUSIVA ATENDIENDO A LA DIVERSIDAD",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "12/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI022/"
     },
     {
       "Código": "264127PRI028",
