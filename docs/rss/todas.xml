@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Fri, 29 May 2026 06:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:39:26 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -137,13 +137,6 @@
       <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 30/01/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/</link>
       <guid isPermaLink="false">261814GT030</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262115GT035 — NUEVAS TECNOLOGÍAS APLICADAS A LAS CIENCIAS SOCIALES A PARTIR DE UN ENFOQUE PATRIMONIAL</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Grupos de trabajo | 01/10/2025 → 30/06/2026 | Dirigido a: Educación Permanente | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GT035/</link>
-      <guid isPermaLink="false">262115GT035</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -504,6 +497,13 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
+      <title>261104FEDAP056 — JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN</title>
+      <description>11200011 - CEP Cádiz | Jornadas | 30/05/2026 → 30/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/</link>
+      <guid isPermaLink="false">261104FEDAP056</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>261104MDFP014 — ESTRATEGIAS AVANZADAS DE IA GENERATIVA DE GOOGLE APLICADAS A LA FORMACIÓN PROFESIONAL</title>
       <description>11200011 - CEP Cádiz | Curso Semipresencial | 11/06/2026 → 21/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP014/</link>
@@ -588,6 +588,13 @@
       <pubDate>Tue, 05 May 2026 07:52:51 +0000</pubDate>
     </item>
     <item>
+      <title>261814GE046 — JORNADAS DE EXPERIENCIAS EDUCATIVAS DE ÉXITO</title>
+      <description>18200041 - CEP Baza | Jornadas | 10/06/2026 → 10/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE046/</link>
+      <guid isPermaLink="false">261814GE046</guid>
+      <pubDate>Fri, 29 May 2026 12:39:26 +0000</pubDate>
+    </item>
+    <item>
       <title>262318GE132 — JORNADA FINAL DE EDUCACIÓN PERMANENTE</title>
       <description>23200016 - CEP Jaén | Jornadas | 04/06/2026 → 04/06/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/</link>
@@ -614,6 +621,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF009/</link>
       <guid isPermaLink="false">264127INF009</guid>
       <pubDate>Mon, 25 May 2026 12:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>264128FP046 — FP A PUNTO. NUEVAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL (CFGM EN PLANTA QUÍMICA) ALIANZA ESTRATÉGICA CON EL SECTOR MINERO E INDUSTRIAL</title>
+      <description>41200029 - CEP Castilleja de la Cuesta | Jornadas | 15/06/2026 → 15/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP046/</link>
+      <guid isPermaLink="false">264128FP046</guid>
+      <pubDate>Fri, 29 May 2026 12:39:26 +0000</pubDate>
     </item>
     <item>
       <title>261410GE006 — RED DE MEDIACIÓN Y ALUMNADO AYUDANTE 25/26 CEP PRIEGO-MONTILLA</title>
@@ -665,13 +679,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261105FED013 — JORNADAS DE EXPERIENCIAS DE ÉXITO DE CENTROS EDUCATIVOS  (CEP DE JEREZ)</title>
-      <description>11200023 - CEP Jerez de la Frontera | Jornadas | 03/06/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED013/</link>
-      <guid isPermaLink="false">261105FED013</guid>
-      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
       <title>262922GE161 — TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN</title>
       <description>29200014 - CEP Málaga | Curso | 04/05/2026 → 02/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE161/</link>
@@ -686,13 +693,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
-      <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
-      <guid isPermaLink="false">262925FP016</guid>
-      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
-    </item>
-    <item>
       <title>264127AFP051 — MANIOBRAS CON CUERDAS: ESCALADA DEPORTIVA EN ROCA (NIVEL 3)</title>
       <description>41200017 - CEP Sevilla | Curso | 14/06/2026 → 14/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP051/</link>
@@ -700,25 +700,11 @@
       <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>264128FP043 — DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP · INICIACIÓN</title>
-      <description>41200029 - CEP Castilleja de la Cuesta | Curso | 02/06/2026 → 18/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/</link>
-      <guid isPermaLink="false">264128FP043</guid>
-      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
-    </item>
-    <item>
       <title>269933FP014 — ENCUENTRO REGIONAL ANDALUZ DE ASESORÍAS DE FP: IMPULSO A LA INNOVACIÓN Y AL TRABAJO EN RED</title>
       <description>29020723 - CEP para la Innovación en Formación Profesional | Jornadas | 09/06/2026 → 10/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP014/</link>
       <guid isPermaLink="false">269933FP014</guid>
       <pubDate>Thu, 14 May 2026 08:26:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>261104FEDAP056 — JORNADAS PARA  DOCENTES DE CONSERVATORIO: EN CLAVE DE INNOVACIÓN</title>
-      <description>11200011 - CEP Cádiz | Jornadas | 30/05/2026 → 30/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP056/</link>
-      <guid isPermaLink="false">261104FEDAP056</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261104MDFP011 — ACTUALIZACIÓN CONTABLE Y FISCAL: IVA, IRPF, IS, VERIFACTU</title>
@@ -740,6 +726,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105CTD110/</link>
       <guid isPermaLink="false">261105CTD110</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261105FED013 — JORNADAS DE EXPERIENCIAS DE ÉXITO DE CENTROS EDUCATIVOS  (CEP DE JEREZ)</title>
+      <description>11200023 - CEP Jerez de la Frontera | Jornadas | 03/06/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED013/</link>
+      <guid isPermaLink="false">261105FED013</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
       <title>261107CTD090 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS - S.E.P. HAZAS DE SUERTE</title>
@@ -1036,13 +1029,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262115GE063 — HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 27/05/2026 → 28/05/2026 | Dirigido a: Comunidad educativa | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/</link>
-      <guid isPermaLink="false">262115GE063</guid>
-      <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
-    </item>
-    <item>
       <title>262116GE001 — GESTIÓN ECONÓMICA Y ADMINISTRATIVA PARA SECRETARI@S NOVELES</title>
       <description>21200025 - CEP Bollullos - Valverde | Curso con Seguimiento | 17/09/2025 → 15/06/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE001/</link>
@@ -1097,6 +1083,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE555/</link>
       <guid isPermaLink="false">262923GE555</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
+      <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
+      <guid isPermaLink="false">262925FP016</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
     </item>
     <item>
       <title>26401GE086 — BIENESTAR EMOCIONAL. INCLUSIÓN EN INTEGRACIÓN EN LAS AULAS DEL CONSERVATORIO DE MÚSICA.</title>
@@ -1211,6 +1204,13 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
+      <title>264128FP043 — DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP · INICIACIÓN</title>
+      <description>41200029 - CEP Castilleja de la Cuesta | Curso | 02/06/2026 → 18/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/</link>
+      <guid isPermaLink="false">264128FP043</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
+    </item>
+    <item>
       <title>264128NEE020 — BIENESTAR EMOCIONAL Y ATENCIÓN A LA DIVERSIDAD CEIP STO. DOMINGO DE SILOS</title>
       <description>41200029 - CEP Castilleja de la Cuesta | Curso | 27/04/2026 → 04/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128NEE020/</link>
@@ -1246,20 +1246,6 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
-      <title>269908KPF609 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF609/</link>
-      <guid isPermaLink="false">269908KPF609</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>269908KPF610 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF610/</link>
-      <guid isPermaLink="false">269908KPF610</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
       <title>269915KPF609 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269915KPF609/</link>
@@ -1271,20 +1257,6 @@
       <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269915KPF610/</link>
       <guid isPermaLink="false">269915KPF610</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>269928KPF609 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)</title>
-      <description>41200029 - CEP Castilleja de la Cuesta | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF609/</link>
-      <guid isPermaLink="false">269928KPF609</guid>
-      <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>269928KPF610 — CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)</title>
-      <description>41200029 - CEP Castilleja de la Cuesta | Curso a Distancia | 28/05/2026 → 30/08/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF610/</link>
-      <guid isPermaLink="false">269928KPF610</guid>
       <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
     </item>
     <item>
