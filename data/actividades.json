@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-30T08:14:25.484153+00:00",
-  "total": 178,
+  "generado": "2026-05-30T11:11:12.442256+00:00",
+  "total": 177,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -685,18 +685,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127GT119/"
-    },
-    {
-      "Código": "264127GT126",
-      "Título": "HERRAMIENTAS PARA LA ATENCIÓN A LA DIVERSIDAD II",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127GT126/"
     },
     {
       "Código": "264127GT150",
