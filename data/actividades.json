@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-31T22:46:38.054663+00:00",
+  "generado": "2026-06-01T06:44:34.485960+00:00",
   "total": 175,
   "actividades": [
     {
@@ -1071,18 +1071,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129FP10/"
     },
     {
-      "Código": "261104FEDAP092",
-      "Título": "ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "02/06/2026",
-      "Fin": "03/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/"
-    },
-    {
       "Código": "262922GE161",
       "Título": "TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN",
       "CEP": "29200014 - CEP Málaga",
@@ -1129,6 +1117,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP014/"
+    },
+    {
+      "Código": "261104FEDAP092",
+      "Título": "ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "02/06/2026",
+      "Fin": "03/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/"
     },
     {
       "Código": "261104MDFP011",
