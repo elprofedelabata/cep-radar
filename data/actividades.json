@@ -1,5 +1,5 @@
 {
-  "generado": "2026-06-02T23:25:55.004855+00:00",
+  "generado": "2026-06-03T06:43:26.349376+00:00",
   "total": 144,
   "actividades": [
     {
@@ -951,18 +951,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE246/"
     },
     {
-      "Código": "262318GE132",
-      "Título": "JORNADA FINAL DE EDUCACIÓN PERMANENTE",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "04/06/2026",
-      "Fin": "04/06/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/"
-    },
-    {
       "Código": "269933FP014",
       "Título": "ENCUENTRO REGIONAL ANDALUZ DE ASESORÍAS DE FP: IMPULSO A LA INNOVACIÓN Y AL TRABAJO EN RED",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -1561,6 +1549,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
+    },
+    {
+      "Código": "262318GE132",
+      "Título": "JORNADA FINAL DE EDUCACIÓN PERMANENTE",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/06/2026",
+      "Fin": "04/06/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/"
     },
     {
       "Código": "262922GE161",
