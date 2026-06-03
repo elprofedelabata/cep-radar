@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-03T06:43:26.349376+00:00",
-  "total": 144,
+  "generado": "2026-06-03T14:20:06.648518+00:00",
+  "total": 134,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -97,18 +97,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT014/"
-    },
-    {
-      "Código": "261410GT033",
-      "Título": "XXII YINCANA MATEMÁTICA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT033/"
     },
     {
       "Código": "261811GE192",
@@ -315,30 +303,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT018/"
     },
     {
-      "Código": "262116GT020",
-      "Título": "ACTUALIZACIÓN METODOLÓGICA EN EL ÁMBITO SOCIOLINGÜÍSTICO",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT020/"
-    },
-    {
-      "Código": "262116GT021",
-      "Título": "Actualización metodológica en el ámbito científico tecnológico",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT021/"
-    },
-    {
       "Código": "262116GT025",
       "Título": "RELACIONES LABORALES Y SEGURIDAD SOCIAL EN LA FP DUAL",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -349,18 +313,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT025/"
-    },
-    {
-      "Código": "262116GT030",
-      "Título": "DESARROLLO DE CONTENIDOS PRÁCTICOS PARA EL MÓDULO 0191. MANTENIMIENTO ELECTROMECÁNICO EN INDUSTRIAS DE PROCESO",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT030/"
     },
     {
       "Código": "262116GT034",
@@ -927,18 +879,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE250/"
     },
     {
-      "Código": "262318GE109",
-      "Título": "RED PROFESIONAL ORIENTACIÓN",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "15/01/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Orientación educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
-    },
-    {
       "Código": "261811GE246",
       "Título": "LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA",
       "CEP": "18200016 - CEP Granada",
@@ -949,30 +889,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE246/"
-    },
-    {
-      "Código": "269933FP014",
-      "Título": "ENCUENTRO REGIONAL ANDALUZ DE ASESORÍAS DE FP: IMPULSO A LA INNOVACIÓN Y AL TRABAJO EN RED",
-      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "09/06/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP014/"
-    },
-    {
-      "Código": "261104FEDAP092",
-      "Título": "ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/06/2026",
-      "Fin": "03/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/"
     },
     {
       "Código": "261104MDFP012",
@@ -997,18 +913,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105CTD110/"
-    },
-    {
-      "Código": "261105FED013",
-      "Título": "JORNADAS DE EXPERIENCIAS DE ÉXITO DE CENTROS EDUCATIVOS  (CEP DE JEREZ)",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "03/06/2026",
-      "Fin": "03/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED013/"
     },
     {
       "Código": "261107CTD090",
@@ -1551,18 +1455,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
     },
     {
-      "Código": "262318GE132",
-      "Título": "JORNADA FINAL DE EDUCACIÓN PERMANENTE",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/06/2026",
-      "Fin": "04/06/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/"
-    },
-    {
       "Código": "262922GE161",
       "Título": "TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN",
       "CEP": "29200014 - CEP Málaga",
@@ -1585,18 +1477,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/"
-    },
-    {
-      "Código": "26401GE086",
-      "Título": "BIENESTAR EMOCIONAL. INCLUSIÓN EN INTEGRACIÓN EN LAS AULAS DEL CONSERVATORIO DE MÚSICA.",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "18/05/2026",
-      "Fin": "01/06/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE086/"
     },
     {
       "Código": "26403GE048",
@@ -1677,7 +1557,7 @@
       "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
       "Inicio": "21/10/2025",
-      "Fin": "06/06/2026",
+      "Fin": "13/06/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL001/"
@@ -1689,22 +1569,10 @@
       "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
       "Inicio": "23/10/2025",
-      "Fin": "06/06/2026",
+      "Fin": "13/06/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL002/"
-    },
-    {
-      "Código": "264132GE016",
-      "Título": "ACTUACIONES PARA LA MEJORA DE LAS COMPETENCIAS PROFESIONALES DE LA INSPECCIÓN EDUCATIVA.",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/02/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Inspección educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132GE016/"
     },
     {
       "Código": "269907OE001",
@@ -1729,6 +1597,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP012/"
+    },
+    {
+      "Código": "269933FP014",
+      "Título": "ENCUENTRO REGIONAL ANDALUZ DE ASESORÍAS DE FP: IMPULSO A LA INNOVACIÓN Y AL TRABAJO EN RED",
+      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "09/06/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP014/"
     }
   ]
 }
