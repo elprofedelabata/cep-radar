@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-09T16:24:24.551749+00:00",
-  "total": 112,
+  "generado": "2026-06-09T19:54:37.746837+00:00",
+  "total": 109,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -603,18 +603,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE135/"
     },
     {
-      "Código": "261814GE046",
-      "Título": "JORNADAS DE EXPERIENCIAS EDUCATIVAS DE ÉXITO",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/06/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE046/"
-    },
-    {
       "Código": "262319GE047",
       "Título": "XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -1047,42 +1035,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812CTD077/"
     },
     {
-      "Código": "261812GE129",
-      "Título": "SISTEMA DE  ESCOLARIZACIÓN EN FORMACIÓN PROFESIONAL. ÚLTIMAS NOVEDADES (ANDALUCÍA ORIENTAL)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/06/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE129/"
-    },
-    {
-      "Código": "261812GE130",
-      "Título": "SISTEMA DE  ESCOLARIZACIÓN EN FORMACIÓN PROFESIONAL. ÚLTIMAS NOVEDADES (ANDALUCÍA OCCIDENTAL)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/06/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE130/"
-    },
-    {
-      "Código": "261812GE134",
-      "Título": "SISTEMA DE  ESCOLARIZACIÓN EN FORMACIÓN PROFESIONAL. ÚLTIMAS NOVEDADES (ANDALUCÍA ORIENTAL)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/06/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE134/"
-    },
-    {
       "Código": "261813CTD032",
       "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
       "CEP": "18200031 - CEP Guadix",
@@ -1249,6 +1201,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE045/"
+    },
+    {
+      "Código": "261814GE046",
+      "Título": "JORNADAS DE EXPERIENCIAS EDUCATIVAS DE ÉXITO",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "10/06/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE046/"
     },
     {
       "Código": "262318GE092",
