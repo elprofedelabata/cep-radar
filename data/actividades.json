@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-09T19:54:37.746837+00:00",
-  "total": 109,
+  "generado": "2026-06-09T23:08:52.652316+00:00",
+  "total": 108,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -217,18 +217,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE104/"
-    },
-    {
-      "Código": "262116GT007",
-      "Título": "ACTUALIZACIÓN METODOLÓGICA III - \"EL PODCAST\"",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT007/"
     },
     {
       "Código": "262116GT025",
