@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-09T05:59:35.255878+00:00",
-  "total": 117,
+  "generado": "2026-06-09T09:44:59.515835+00:00",
+  "total": 113,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -579,18 +579,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
     },
     {
-      "Código": "264132FC023",
-      "Título": "HERRAMIENTAS DIGITALES INNOVADORAS PARA LA MEJORA DE LAS COMPETENCIAS LINGUISTICA Y MATEMATEMATICA DEL ALUMNADO CEIP VIRGEN DEL MONTE",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132FC023/"
-    },
-    {
       "Código": "261105FED019",
       "Título": "VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -651,30 +639,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/"
     },
     {
-      "Código": "264127INF009",
-      "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/06/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF009/"
-    },
-    {
-      "Código": "264128FP046",
-      "Título": "FP A PUNTO. NUEVAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL (CFGM EN PLANTA QUÍMICA) ALIANZA ESTRATÉGICA CON EL SECTOR MINERO E INDUSTRIAL",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/06/2026",
-      "Fin": "15/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP046/"
-    },
-    {
       "Código": "261811GE086",
       "Título": "SEMINARIO DE COMPENSACIÓN EDUCATIVA",
       "CEP": "18200016 - CEP Granada",
@@ -697,6 +661,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
+    },
+    {
+      "Código": "264127INF009",
+      "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "15/06/2026",
+      "Fin": "22/06/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF009/"
     },
     {
       "Código": "261811GE246",
@@ -1299,18 +1275,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
     },
     {
-      "Código": "262922GE161",
-      "Título": "TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/05/2026",
-      "Fin": "09/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE161/"
-    },
-    {
       "Código": "26403GE048",
       "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -1333,18 +1297,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
-    },
-    {
-      "Código": "264127PER005",
-      "Título": "GESTIÓN ADMINISTRATIVA PARA EQUIPOS DIRECTIVOS DE CENTROS DE EDUCACIÓN PERMANENTE Y SECCIONES II",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "27/01/2026",
-      "Fin": "09/06/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PER005/"
     },
     {
       "Código": "264127PRI028",
