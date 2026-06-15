@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-15T07:07:21.116147+00:00",
-  "total": 93,
+  "generado": "2026-06-15T15:35:43.124525+00:00",
+  "total": 88,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -495,6 +495,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
     },
     {
+      "Código": "261410GE053",
+      "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "17/04/2026",
+      "Fin": "22/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
+    },
+    {
       "Código": "262319GE047",
       "Título": "XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -531,18 +543,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE086/"
     },
     {
-      "Código": "261811GE092",
-      "Título": "NATURALEZA ECLESIAL DE LA ASIGNATURA DE RELIGIÓN CATÓLICA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "17/10/2025",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
-    },
-    {
       "Código": "261105FED019",
       "Título": "VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -553,18 +553,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/"
-    },
-    {
-      "Código": "261408GE117",
-      "Título": "EL CEP COMO RECURSO EDUCATIVO. DÍAS DE ESCUELA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Otros",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "11/06/2026",
-      "Fin": "17/06/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE117/"
     },
     {
       "Código": "261104MDFP012",
@@ -625,18 +613,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FP009/"
-    },
-    {
-      "Código": "261811GE018",
-      "Título": "ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Encuentro",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/06/2026",
-      "Fin": "21/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE018/"
     },
     {
       "Código": "261811GE219",
@@ -1047,18 +1023,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
     },
     {
-      "Código": "264127AFP038",
-      "Título": "TÉCNICAS DE IMPRESIÓN 3D CON FILAMENTOS TÉCNICOS Y ESCANEO DE ÚLTIMA GENERACIÓN PARA LA FABRICACIÓN DE LA ESTRUCTURA DE UN DRONE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "26/05/2026",
-      "Fin": "11/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
-    },
-    {
       "Código": "264127INF009",
       "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
       "CEP": "41200017 - CEP Sevilla",
@@ -1081,30 +1045,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI028/"
-    },
-    {
-      "Código": "264127REL001",
-      "Título": "ACTUALIZACIÓN CIENTÍFICA Y DIDACTICA DEL PROFESORADO DE RELIGIÓN CATÓLICA DE INFANTIL Y PRIMARIA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/10/2025",
-      "Fin": "13/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL001/"
-    },
-    {
-      "Código": "264127REL002",
-      "Título": "ACTUALIZACIÓN CIENTÍFICA Y DIDÁCTICA DEL PROFESORADO DE RELIGIÓN CATÓLICA DE SECUNDARIA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "23/10/2025",
-      "Fin": "13/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127REL002/"
     },
     {
       "Código": "269907OE001",
