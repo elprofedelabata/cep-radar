@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-14T22:58:04.732329+00:00",
-  "total": 95,
+  "generado": "2026-06-15T07:07:21.116147+00:00",
+  "total": 93,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -159,18 +159,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/"
     },
     {
-      "Código": "262116FC018",
-      "Título": "P.C.T. DE LA COMPETENCIA MATEMÁTICA EN EL  CEIP DUNAS DE DOÑANA",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116FC018/"
-    },
-    {
       "Código": "262116FC026",
       "Título": "INNOVACIÓN EDUCATIVA E IMPLANTACIÓN EN EL AULA",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -193,18 +181,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE104/"
-    },
-    {
-      "Código": "262116GT025",
-      "Título": "RELACIONES LABORALES Y SEGURIDAD SOCIAL EN LA FP DUAL",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "22/10/2025",
-      "Fin": "15/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GT025/"
     },
     {
       "Código": "262117FC016",
