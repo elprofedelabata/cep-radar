@@ -1,5 +1,5 @@
 {
-  "generado": "2026-06-16T07:13:13.059722+00:00",
+  "generado": "2026-06-16T14:51:21.188591+00:00",
   "total": 87,
   "actividades": [
     {
@@ -387,6 +387,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE024/"
     },
     {
+      "Código": "26401GE087",
+      "Título": "WEBINAR PROYECTOS DE INVESTIGACIÓN, INNOVACIÓN Y MATERIALES EDUCATIVOS (25-26)",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Otros",
+      "Estado": "En proyecto",
+      "Inicio": "18/06/2026",
+      "Fin": "18/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE087/"
+    },
+    {
       "Código": "264127FC076",
       "Título": "PCT EN COMPETENCIA LECTORA Y MATEMÁTICA EN EL CEIP MANUEL ALTOLAGUIRRE",
       "CEP": "41200017 - CEP Sevilla",
@@ -543,18 +555,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE086/"
     },
     {
-      "Código": "261105FED019",
-      "Título": "VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "24/06/2026",
-      "Fin": "25/06/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/"
-    },
-    {
       "Código": "261104MDFP012",
       "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
       "CEP": "11200011 - CEP Cádiz",
@@ -565,6 +565,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
+    },
+    {
+      "Código": "261105FED019",
+      "Título": "VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA",
+      "CEP": "11200023 - CEP Jerez de la Frontera",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "24/06/2026",
+      "Fin": "25/06/2026",
+      "Dirigido a": "Otros",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/"
     },
     {
       "Código": "261107CTD090",
@@ -601,18 +613,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FP009/"
-    },
-    {
-      "Código": "261811GE219",
-      "Título": "CONVIVENCIA +. PRÁCTICAS RELEVANTES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "10/06/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE219/"
     },
     {
       "Código": "261812CTD051",

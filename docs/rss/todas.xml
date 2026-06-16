@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 16 Jun 2026 07:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:51:21 +0000</lastBuildDate>
     <item>
       <title>261104GT161 — TRANSFORMACIÓN DIGITAL EDUCATIVA ¡LO APRENDÍ, LO ENSEÑÉ!</title>
       <description>11200011 - CEP Cádiz | Grupos de trabajo | 01/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -231,6 +231,13 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
+      <title>26401GE087 — WEBINAR PROYECTOS DE INVESTIGACIÓN, INNOVACIÓN Y MATERIALES EDUCATIVOS (25-26)</title>
+      <description>04200019 - CEP Almería | Otros | 18/06/2026 → 18/06/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE087/</link>
+      <guid isPermaLink="false">26401GE087</guid>
+      <pubDate>Tue, 16 Jun 2026 14:51:21 +0000</pubDate>
+    </item>
+    <item>
       <title>264127FC076 — PCT EN COMPETENCIA LECTORA Y MATEMÁTICA EN EL CEIP MANUEL ALTOLAGUIRRE</title>
       <description>41200017 - CEP Sevilla | Formación en centros | 14/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC076/</link>
@@ -322,18 +329,18 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261105FED019 — VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA</title>
-      <description>11200023 - CEP Jerez de la Frontera | Jornadas | 24/06/2026 → 25/06/2026 | Dirigido a: Otros | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/</link>
-      <guid isPermaLink="false">261105FED019</guid>
-      <pubDate>Fri, 22 May 2026 12:11:54 +0000</pubDate>
-    </item>
-    <item>
       <title>261104MDFP012 — CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO</title>
       <description>11200011 - CEP Cádiz | Curso Semipresencial | 29/05/2026 → 22/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/</link>
       <guid isPermaLink="false">261104MDFP012</guid>
       <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>261105FED019 — VIII JORNADAS RESIDENCIAS ESCOLARES: LA REALIDAD DE LAS RESIDENCIAS ESCOLARES EN ANDALUCÍA</title>
+      <description>11200023 - CEP Jerez de la Frontera | Jornadas | 24/06/2026 → 25/06/2026 | Dirigido a: Otros | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/</link>
+      <guid isPermaLink="false">261105FED019</guid>
+      <pubDate>Fri, 22 May 2026 12:11:54 +0000</pubDate>
     </item>
     <item>
       <title>261107CTD090 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS - S.E.P. HAZAS DE SUERTE</title>
@@ -355,13 +362,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FP009/</link>
       <guid isPermaLink="false">261410FP009</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GE219 — CONVIVENCIA +. PRÁCTICAS RELEVANTES</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 10/06/2026 → 10/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE219/</link>
-      <guid isPermaLink="false">261811GE219</guid>
-      <pubDate>Tue, 05 May 2026 19:03:24 +0000</pubDate>
     </item>
     <item>
       <title>261812CTD051 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS</title>
