@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-17T06:58:05.720230+00:00",
-  "total": 87,
+  "generado": "2026-06-17T13:35:23.189163+00:00",
+  "total": 84,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -85,18 +85,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE198/"
-    },
-    {
-      "Código": "261812GE045",
-      "Título": "FORMACION PARA COORDINADORES Y COORDINADORAS DEL PLAN DE SALUD LABORAL Y PRL",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "En proyecto",
-      "Inicio": "18/11/2025",
-      "Fin": "12/12/2025",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE045/"
     },
     {
       "Código": "261812GT096",
@@ -399,18 +387,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE087/"
     },
     {
-      "Código": "264127FC076",
-      "Título": "PCT EN COMPETENCIA LECTORA Y MATEMÁTICA EN EL CEIP MANUEL ALTOLAGUIRRE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC076/"
-    },
-    {
       "Código": "264127GT119",
       "Título": "LA IGUALDAD ES POSIBLE EN EL IES LEONARDO",
       "CEP": "41200017 - CEP Sevilla",
@@ -483,18 +459,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129GE002/"
     },
     {
-      "Código": "264130FP004",
-      "Título": "ELABORACIÓN DE PLANOS ELÉCTRICOS CON PLATAFORMA EPLAN ELECTRIC P8",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "22/10/2025",
-      "Fin": "03/12/2025",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130FP004/"
-    },
-    {
       "Código": "264131GT020",
       "Título": "NEUROCIENCIA EDUCATIVA APLICADA A LA EOI",
       "CEP": "41200054 - CEP Lebrija",
@@ -519,18 +483,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
     },
     {
-      "Código": "262319GE047",
-      "Título": "XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Otros",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/06/2026",
-      "Fin": "23/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE047/"
-    },
-    {
       "Código": "262925GE311",
       "Título": "CONSTRUYENDO MATEMÁTICAS EN EDUCACIÓN INFANTIL: PROPUESTA DIDÁCTICAS CON MATERIAL MANIPULATIVO",
       "CEP": "29200041 - CEP Antequera",
@@ -553,6 +505,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE086/"
+    },
+    {
+      "Código": "262319GE047",
+      "Título": "XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Otros",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "23/06/2026",
+      "Fin": "23/06/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE047/"
     },
     {
       "Código": "261104MDFP012",
