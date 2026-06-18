@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-18T06:42:39.484003+00:00",
-  "total": 84,
+  "generado": "2026-06-18T12:44:24.583393+00:00",
+  "total": 83,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -61,18 +61,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT108/"
-    },
-    {
-      "Código": "261410GT007",
-      "Título": "INNOVACION EN EL DIAGNOSTICO AUTOMOTRIZ: DEL MULTÍMETRO AL OSCILOSCOPIO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT007/"
     },
     {
       "Código": "261811GE198",
@@ -481,6 +469,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
+    },
+    {
+      "Código": "261814GE047",
+      "Título": "CONOCE EL AULA DEL FUTURO DEL CEP BAZA",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "10/06/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE047/"
     },
     {
       "Código": "262925GE311",
@@ -961,18 +961,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
-    },
-    {
-      "Código": "26403GE048",
-      "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/06/2026",
-      "Fin": "25/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
     },
     {
       "Código": "264127INF009",
