@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-22T07:09:55.633077+00:00",
-  "total": 83,
+  "generado": "2026-06-22T15:11:48.729654+00:00",
+  "total": 82,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -85,18 +85,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT096/"
-    },
-    {
-      "Código": "261814FC010",
-      "Título": "ESCUELA 4.0 EN EL IES GREGORIO SALVADOR",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "10/11/2025",
-      "Fin": "25/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC010/"
     },
     {
       "Código": "261814FC017",
@@ -459,6 +447,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
     },
     {
+      "Código": "271107GE005",
+      "Título": "CONSTRUIR, COOPERAR Y PENSAR: CLAVES PARA UN AULA ACTIVA",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE005/"
+    },
+    {
+      "Código": "271107GE006",
+      "Título": "CONÉCTATE.COM: PAUSAS PARA EL BIENESTAR EMOCIONAL EN EL ÁMBITO ESCOLAR",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "13/10/2026",
+      "Fin": "01/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE006/"
+    },
+    {
       "Código": "261410GE053",
       "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -495,6 +507,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/"
     },
     {
+      "Código": "271104PF011",
+      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/09/2026",
+      "Fin": "20/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104PF011/"
+    },
+    {
       "Código": "261811GE086",
       "Título": "SEMINARIO DE COMPENSACIÓN EDUCATIVA",
       "CEP": "18200016 - CEP Granada",
@@ -517,18 +541,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE047/"
-    },
-    {
-      "Código": "261104MDFP012",
-      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "29/05/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
     },
     {
       "Código": "261105FED019",
@@ -939,18 +951,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE025/"
     },
     {
-      "Código": "261814GE046",
-      "Título": "JORNADAS DE EXPERIENCIAS EDUCATIVAS DE ÉXITO",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "10/06/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE046/"
-    },
-    {
       "Código": "262318GE092",
       "Título": "JORNADAS PARA EL APRENDIZAJE Y LA ENSEÑANZA DE LAS MATEMÁTICAS",
       "CEP": "23200016 - CEP Jaén",
@@ -961,18 +961,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
-    },
-    {
-      "Código": "264127INF009",
-      "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "15/06/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF009/"
     },
     {
       "Código": "264127PRI028",
