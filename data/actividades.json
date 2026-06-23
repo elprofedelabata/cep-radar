@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-23T05:57:44.154258+00:00",
-  "total": 82,
+  "generado": "2026-06-23T09:31:10.868603+00:00",
+  "total": 80,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -327,18 +327,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT047/"
     },
     {
-      "Código": "262319GT058",
-      "Título": "PENSAMIENTO LÓGICO MATEMÁTICO: BANCO DE RECURSOS PARA TRABAJAR EN EL AULA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "27/10/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT058/"
-    },
-    {
       "Código": "26401GE024",
       "Título": "WEBINAR FEIE: CICLO DE MEJORA (FORMACIÓN, EVALUACIÓN E INNOVACIÓN EDUCATIVA)",
       "CEP": "04200019 - CEP Almería",
@@ -517,18 +505,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104PF011/"
-    },
-    {
-      "Código": "261811GE086",
-      "Título": "SEMINARIO DE COMPENSACIÓN EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Otros",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "15/04/2026",
-      "Fin": "17/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE086/"
     },
     {
       "Código": "262319GE047",
