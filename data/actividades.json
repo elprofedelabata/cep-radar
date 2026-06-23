@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-23T09:31:10.868603+00:00",
-  "total": 80,
+  "generado": "2026-06-23T12:27:32.211637+00:00",
+  "total": 81,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -97,18 +97,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/"
-    },
-    {
-      "Código": "261814GT029",
-      "Título": "ALCREBITE DE CINE",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT029/"
     },
     {
       "Código": "261814GT030",
@@ -493,6 +481,30 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/"
+    },
+    {
+      "Código": "271104FEDAP004",
+      "Título": "VIVE LA MÚSICA EN EL AULA: PROPUESTAS PARA UN APRENDIZAJE MUSICAL ACTIVO E INCLUSIVO",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "22/09/2026",
+      "Fin": "29/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP004/"
+    },
+    {
+      "Código": "271104FEDAP027",
+      "Título": "II ENCUENTRO DE LA RED DE DOCENTES DE MÚSICA DE CÁDIZ",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/09/2026",
+      "Fin": "05/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP027/"
     },
     {
       "Código": "271104PF011",
