@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-24T12:12:54.234965+00:00",
-  "total": 342,
+  "generado": "2026-06-24T16:06:45.974716+00:00",
+  "total": 340,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -145,18 +145,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC016/"
-    },
-    {
-      "Código": "262117GT019",
-      "Título": "PATRIMONIO DE NUESTRA SIERRA",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/"
     },
     {
       "Código": "262117GT023",
@@ -2103,30 +2091,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE047/"
     },
     {
-      "Código": "261814GT003",
-      "Título": "ACTIVE READING STRATEGIES: INTEGRANTING SKILLS",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT003/"
-    },
-    {
-      "Código": "261814GT008",
-      "Título": "FERIA ALCREBITE EMPRENDE 4º Edición",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT008/"
-    },
-    {
       "Código": "261814GT015",
       "Título": "JUEGOS MATEMÁTICOS EN LA SEMANA DE LA CIENCIA DEL IES JOSÉ DE MORA",
       "CEP": "18200041 - CEP Baza",
@@ -2341,6 +2305,18 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE021/"
+    },
+    {
+      "Código": "262117GT019",
+      "Título": "PATRIMONIO DE NUESTRA SIERRA",
+      "CEP": "21200037 - CEP Aracena",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "03/11/2025",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/"
     },
     {
       "Código": "262318GE017",

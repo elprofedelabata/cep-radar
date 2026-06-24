@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:06:46 +0000</lastBuildDate>
     <item>
       <title>261104GT161 — TRANSFORMACIÓN DIGITAL EDUCATIVA ¡LO APRENDÍ, LO ENSEÑÉ!</title>
       <description>11200011 - CEP Cádiz | Grupos de trabajo | 01/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -88,13 +88,6 @@
       <description>21200037 - CEP Aracena | Formación en centros | 31/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC016/</link>
       <guid isPermaLink="false">262117FC016</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117GT019 — PATRIMONIO DE NUESTRA SIERRA</title>
-      <description>21200037 - CEP Aracena | Grupos de trabajo | 03/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/</link>
-      <guid isPermaLink="false">262117GT019</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -1232,20 +1225,6 @@
       <pubDate>Thu, 18 Jun 2026 12:44:24 +0000</pubDate>
     </item>
     <item>
-      <title>261814GT003 — ACTIVE READING STRATEGIES: INTEGRANTING SKILLS</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT003/</link>
-      <guid isPermaLink="false">261814GT003</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT008 — FERIA ALCREBITE EMPRENDE 4º Edición</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT008/</link>
-      <guid isPermaLink="false">261814GT008</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
       <title>261814GT015 — JUEGOS MATEMÁTICOS EN LA SEMANA DE LA CIENCIA DEL IES JOSÉ DE MORA</title>
       <description>18200041 - CEP Baza | Grupos de trabajo | 15/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT015/</link>
@@ -1370,6 +1349,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE021/</link>
       <guid isPermaLink="false">262117GE021</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>262117GT019 — PATRIMONIO DE NUESTRA SIERRA</title>
+      <description>21200037 - CEP Aracena | Grupos de trabajo | 03/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/</link>
+      <guid isPermaLink="false">262117GT019</guid>
+      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
       <title>262318GE017 — ASESORAMIENTO COLABORATIVO A CENTROS PÚBLICOS ENE-JUN 2026</title>
