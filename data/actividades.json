@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-24T05:57:34.380251+00:00",
-  "total": 373,
+  "generado": "2026-06-24T08:58:51.746125+00:00",
+  "total": 352,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -447,6 +447,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE006/"
     },
     {
+      "Código": "274130PER001",
+      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE (CEPER/SEP)",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "17/09/2026",
+      "Fin": "23/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130PER001/"
+    },
+    {
       "Código": "261410GE053",
       "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -565,18 +577,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
-    },
-    {
-      "Código": "261104FEDAP054",
-      "Título": "FLAMENCO Y CINE. XIX EDICIÓN FLAMENCO CEP DE CÁDIZ",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "05/05/2026",
-      "Fin": "12/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP054/"
     },
     {
       "Código": "261104GT083",
@@ -1047,30 +1047,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR048/"
     },
     {
-      "Código": "261409FC002",
-      "Título": "IMPLEMENTACIÓN DEL MODELO DIALÓGICO DE RESOLUCIÓN DE CONFLICTOS",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC002/"
-    },
-    {
-      "Código": "261409FC015",
-      "Título": "USO DE HERRAMIENTAS DIGITALES QUE FAVOREZCAN LA ATENCIÓN  A LA DIVERSIDAD.",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC015/"
-    },
-    {
       "Código": "261409FC017",
       "Título": "EL CUADERNO DE SÉNECA: ASPECTOS BÁSICOS.",
       "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
@@ -1081,30 +1057,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC017/"
-    },
-    {
-      "Código": "261409FC029",
-      "Título": "REFUERZO EN COMPETENCIA MATEMÁTICA",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC029/"
-    },
-    {
-      "Código": "261409FC035",
-      "Título": "CUADERNO SÉNECA PARA LA EVALUACIÓN COMPETENCIAL DEL ALUMNADO",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "11/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409FC035/"
     },
     {
       "Código": "261409GT025",
@@ -2883,18 +2835,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
     },
     {
-      "Código": "264127ACS018",
-      "Título": "GESTIÓN DE PANELES DIGITALES INTERACTIVOS MEDIANTE UNA APP",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "02/03/2026",
-      "Fin": "02/03/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACS018/"
-    },
-    {
       "Código": "264127ACS021",
       "Título": "IV CONGRESO  DE INNOVACIÓN EDUCATIVA: CÓDIGO ESCUELA 4.0",
       "CEP": "41200017 - CEP Sevilla",
@@ -3063,18 +3003,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC054/"
     },
     {
-      "Código": "264127FC060",
-      "Título": "PCT EN COMPETENCIA MATEMÁTICA Y COMPETENCIA LINGÜÍSTICA EN EL CEIP MANUEL GIMÉNEZ FERNÁNDEZ",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC060/"
-    },
-    {
       "Código": "264127FC061",
       "Título": "PCT COMPETENCIA MATEMÁTICA EN EL CEIP LOS AZAHARES",
       "CEP": "41200017 - CEP Sevilla",
@@ -3099,18 +3027,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC065/"
     },
     {
-      "Código": "264127FC066",
-      "Título": "PCT EN COMPETENCIA MATEMÁTICA EN EL CEIP ANDALUCÍA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC066/"
-    },
-    {
       "Código": "264127FC071",
       "Título": "PCT COMPETENCIA LECTORA Y PCT COMPETENCIA MATEMÁTICA EN EL CEIP PÍO XII",
       "CEP": "41200017 - CEP Sevilla",
@@ -3123,18 +3039,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC071/"
     },
     {
-      "Código": "264127FC076",
-      "Título": "PCT EN COMPETENCIA LECTORA Y MATEMÁTICA EN EL CEIP MANUEL ALTOLAGUIRRE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC076/"
-    },
-    {
       "Código": "264127FC078",
       "Título": "PCT COMPETENCIA LECTORA/PCT COMPETENCIA MATEMÁTICA EN EL CEIP MENÉNDEZ PIDAL",
       "CEP": "41200017 - CEP Sevilla",
@@ -3145,18 +3049,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC078/"
-    },
-    {
-      "Código": "264127FC088",
-      "Título": "PCT EN COMPETENCIA MATEMÁTICA EN EL CEIP MANUEL CANELA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC088/"
     },
     {
       "Código": "264127FC089",
@@ -4285,150 +4177,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812CTD077/"
-    },
-    {
-      "Código": "261813CTD032",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD032/"
-    },
-    {
-      "Código": "261813CTD033",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD033/"
-    },
-    {
-      "Código": "261813CTD034",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD034/"
-    },
-    {
-      "Código": "261813CTD035",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD035/"
-    },
-    {
-      "Código": "261813CTD036",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD036/"
-    },
-    {
-      "Código": "261813CTD037",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD037/"
-    },
-    {
-      "Código": "261813CTD038",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD038/"
-    },
-    {
-      "Código": "261813CTD039",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD039/"
-    },
-    {
-      "Código": "261813CTD041",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD041/"
-    },
-    {
-      "Código": "261813CTD042",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD042/"
-    },
-    {
-      "Código": "261813CTD043",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD043/"
-    },
-    {
-      "Código": "261813CTD044",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813CTD044/"
     },
     {
       "Código": "261814GE025",
