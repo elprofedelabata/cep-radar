@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-25T16:14:18.614911+00:00",
-  "total": 271,
+  "generado": "2026-06-25T19:44:04.979765+00:00",
+  "total": 266,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -85,18 +85,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT096/"
-    },
-    {
-      "Código": "261814FC017",
-      "Título": "DESARROLLO INTEGRAL DE LAS COMPETENCIAS COMUNICATIVAS",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "20/10/2025",
-      "Fin": "01/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/"
     },
     {
       "Código": "262116FC026",
@@ -505,6 +493,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104PF011/"
+    },
+    {
+      "Código": "274130INT001",
+      "Título": "JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/09/2026",
+      "Fin": "15/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT001/"
     },
     {
       "Código": "262319GE047",
@@ -1251,18 +1251,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE246/"
     },
     {
-      "Código": "261811GT004",
-      "Título": "DESARROLLO DE LA COMPETENCIA LINGÜÍSTICA A TRAVÉS DE LA OBRA DE ARTE",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT004/"
-    },
-    {
       "Código": "261811GT005",
       "Título": "APLICACIÓN DE LA METODOLOGÍA OAOA A LAS MATEMÁTICAS EN SECUNDARIA",
       "CEP": "18200016 - CEP Granada",
@@ -1347,18 +1335,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT075/"
     },
     {
-      "Código": "261811GT082",
-      "Título": "EL CLUB DE DETECTIVES DE LETRAS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT082/"
-    },
-    {
       "Código": "261811GT092",
       "Título": "+ DE 30 MINUTOS DE MATEMÁTICAS",
       "CEP": "18200016 - CEP Granada",
@@ -1369,18 +1345,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT092/"
-    },
-    {
-      "Código": "261811GT099",
-      "Título": "CONSERVACIÓN DE ARTE Y CULTURA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT099/"
     },
     {
       "Código": "261811GT103",
@@ -1441,18 +1405,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT161/"
-    },
-    {
-      "Código": "261811GT162",
-      "Título": "EDUCANDO PARA LA CIBERCONVIVENCIA: EL ROL DEL MEDIADOR DIGITAL EN LA ESO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT162/"
     },
     {
       "Código": "261812CTD052",
@@ -1585,6 +1537,18 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT115/"
+    },
+    {
+      "Código": "261814FC017",
+      "Título": "DESARROLLO INTEGRAL DE LAS COMPETENCIAS COMUNICATIVAS",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Formación en centros",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "20/10/2025",
+      "Fin": "01/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/"
     },
     {
       "Código": "261814FC024",
@@ -1840,7 +1804,7 @@
     },
     {
       "Código": "262319FC010",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP MANUEL ANDÚJAR",
+      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA",
       "CEP": "23200028 - CEP Linares - Andújar",
       "Modalidad": "Formación en centros",
       "Estado": "Actividad en desarrollo",
@@ -1861,30 +1825,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC013/"
-    },
-    {
-      "Código": "262319FC015",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC015/"
-    },
-    {
-      "Código": "262319FC016",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA LECTORA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC016/"
     },
     {
       "Código": "262319FC017",
