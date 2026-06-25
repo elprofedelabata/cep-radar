@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-25T05:56:07.441277+00:00",
-  "total": 338,
+  "generado": "2026-06-25T08:48:00.751591+00:00",
+  "total": 319,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -735,30 +735,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/"
     },
     {
-      "Código": "261107FC008",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA Y LECTORA  EN EL CEIP TARTESSOS",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Asesorías de formación",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC008/"
-    },
-    {
-      "Código": "261107FC009",
-      "Título": "LA IMPRESIÓN 3D COMO RECURSO EDUCATIVO EN EL CPR CAMPIÑA DE TARIFA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC009/"
-    },
-    {
       "Código": "261107FC010",
       "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA LECTORA  EN EL IES LAS PALOMAS",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -879,30 +855,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC072/"
     },
     {
-      "Código": "261107FC087",
-      "Título": "APs CON ALMA INCLUSIVA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC087/"
-    },
-    {
-      "Código": "261107FC105",
-      "Título": "MEJORA COMPETENCIA MATEMATICA Y LECTORA EN CEIP GENERAL CASTAÑOS",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC105/"
-    },
-    {
       "Código": "261107FC109",
       "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA LECTORA EN EL CEIP ANDALUCÍA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -939,18 +891,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
     },
     {
-      "Código": "261107GT062",
-      "Título": "ATENCIÓN A LA DIVERSIDAD DEL TDAH A LAS ALTAS CAPACIDADES",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT062/"
-    },
-    {
       "Código": "261107GT070",
       "Título": "¿PROBLEMAS? CUENTA CONMIGO",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -961,30 +901,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT070/"
-    },
-    {
-      "Código": "261107GT076",
-      "Título": "V GYMKANA MATEMÁTICA DÍA DE PI",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT076/"
-    },
-    {
-      "Código": "261107GT112",
-      "Título": "TALLER DE RADIO: LA ONDA DEL KURSAAL",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT112/"
     },
     {
       "Código": "261107GT142",
@@ -2127,42 +2043,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT018/"
     },
     {
-      "Código": "261814GT019",
-      "Título": "INCLUSIÓN : NORMALIZAR LA DIVERSIDAD.",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT019/"
-    },
-    {
-      "Código": "261814GT020",
-      "Título": "BILINGÜISMO Y ERASMUS+ EN EL IES AL-ZUJÁYR",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "15/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT020/"
-    },
-    {
-      "Código": "261814GT024",
-      "Título": "HACEMOS REALIDAD EL AULA DEL FUTURO",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "30/04/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT024/"
-    },
-    {
       "Código": "261814GT025",
       "Título": "RAZONAMIENTO MATEMÁTICO: ESTRATEGIAS Y HERRAMIENTAS",
       "CEP": "18200041 - CEP Baza",
@@ -2739,54 +2619,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
     },
     {
-      "Código": "264127ACS021",
-      "Título": "IV CONGRESO  DE INNOVACIÓN EDUCATIVA: CÓDIGO ESCUELA 4.0",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Congreso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "15/05/2026",
-      "Fin": "16/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACS021/"
-    },
-    {
-      "Código": "264127ACT001",
-      "Título": "ASESORAMIENTO SOBRE CONDUCTAS DE RIESGO EN ADOLESCENTES EN EL IES CHAVES NOGALES",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/09/2025",
-      "Fin": "10/09/2025",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT001/"
-    },
-    {
-      "Código": "264127ACT002",
-      "Título": "PROTOCOLO NEE: IES MARGARITA SALAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "09/09/2025",
-      "Fin": "09/09/2025",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT002/"
-    },
-    {
-      "Código": "264127ACT005",
-      "Título": "CURSO PARA FORMADORES Y FORMADORAS  LOMLOE. SECUNDARIA Y BACHILLERATO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "02/10/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT005/"
-    },
-    {
       "Código": "264127ACT012",
       "Título": "ASESORAMIENTO AL SERVICIO DE INSPECCIÓN SOBRE CUADERNO DE CLASE DE SÉNECA",
       "CEP": "41200017 - CEP Sevilla",
@@ -2799,42 +2631,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT012/"
     },
     {
-      "Código": "264127ACT013",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. UN DÍA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT013/"
-    },
-    {
-      "Código": "264127ACT014",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. DOS DÍAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/05/2026",
-      "Fin": "07/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT014/"
-    },
-    {
-      "Código": "264127ACT015",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. TRES DÍAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/05/2026",
-      "Fin": "08/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT015/"
-    },
-    {
       "Código": "264127ACT020",
       "Título": "ANILLO VERDE Y AZUL DE SEVILLA: UN RECURSO ANTE EL CAMBIO CLIMÁTICO",
       "CEP": "41200017 - CEP Sevilla",
@@ -2845,18 +2641,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT020/"
-    },
-    {
-      "Código": "264127ACT025",
-      "Título": "ASESORAMIENTO MANEJO DEL DESFIBRILADOR PARA IES CHAVES NOGALES",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "25/11/2025",
-      "Fin": "25/11/2025",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT025/"
     },
     {
       "Código": "264127ACT035",
@@ -3277,18 +3061,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127GT243/"
-    },
-    {
-      "Código": "264127INF003",
-      "Título": "IX JORNADAS EDUCATIVAS POLÍGONO NORTE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "20/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF003/"
     },
     {
       "Código": "264127INF009",
