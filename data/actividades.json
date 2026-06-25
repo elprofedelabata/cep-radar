@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-25T12:11:15.488517+00:00",
-  "total": 276,
+  "generado": "2026-06-25T16:14:18.614911+00:00",
+  "total": 271,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -303,18 +303,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE087/"
     },
     {
-      "Código": "264127ACT067",
-      "Título": "TRANSFORMANDO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "05/01/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT067/"
-    },
-    {
       "Código": "264127GT119",
       "Título": "LA IGUALDAD ES POSIBLE EN EL IES LEONARDO",
       "CEP": "41200017 - CEP Sevilla",
@@ -399,6 +387,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
     },
     {
+      "Código": "269927OE600",
+      "Título": "TRANSFORMANDO PARA LA INCLUSIÓN",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "27/01/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Otros",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927OE600/"
+    },
+    {
       "Código": "271107GE005",
       "Título": "CONSTRUIR, COOPERAR Y PENSAR: CLAVES PARA UN AULA ACTIVA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -469,6 +469,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP004/"
+    },
+    {
+      "Código": "271104FEDAP005",
+      "Título": "JORNADAS DE PATRIMONIO, CULTURA E HISTORIA DE CÁDIZ. RUTAS DIDÁCTICAS PARA DISFRUTAR DE NUESTRO PASADO: EL EMPORIO DEL ORBE.",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/09/2026",
+      "Fin": "17/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP005/"
     },
     {
       "Código": "271104FEDAP027",
@@ -891,18 +903,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC002/"
     },
     {
-      "Código": "261811FC017",
-      "Título": "PCT EN EL IES CERRO DE LOS INFANTES  (PCT CL/CM)",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC017/"
-    },
-    {
       "Código": "261811FC023",
       "Título": "INCLUSIÓN: LA ILUSIÓN DE UNA ESCUELA PARA TODOS",
       "CEP": "18200016 - CEP Granada",
@@ -925,18 +925,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC024/"
-    },
-    {
-      "Código": "261811FC026",
-      "Título": "PCT EN EL CEIP SAN PASCUAL BAILÓN (PCT CL/CM)",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC026/"
     },
     {
       "Código": "261811FC029",
@@ -1033,18 +1021,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC054/"
-    },
-    {
-      "Código": "261811FC056",
-      "Título": "INTERVENCIÓN EN TRASTORNOS GRAVES DE CONDUCTA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "29/09/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC056/"
     },
     {
       "Código": "261811FC057",
@@ -1383,18 +1359,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT082/"
     },
     {
-      "Código": "261811GT087",
-      "Título": "COMUNICACIÓN NO-VIOLENTA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT087/"
-    },
-    {
       "Código": "261811GT092",
       "Título": "+ DE 30 MINUTOS DE MATEMÁTICAS",
       "CEP": "18200016 - CEP Granada",
@@ -1621,30 +1585,6 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT115/"
-    },
-    {
-      "Código": "261814FC002",
-      "Título": "INTERNACIONALIZACIÓN DEL CEPER LA VEREA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC002/"
-    },
-    {
-      "Código": "261814FC010",
-      "Título": "ESCUELA 4.0 EN EL IES GREGORIO SALVADOR",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/11/2025",
-      "Fin": "25/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC010/"
     },
     {
       "Código": "261814FC024",
@@ -2979,7 +2919,7 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
     },
     {
-      "Código": "269927OE600",
+      "Código": "269927OE6008",
       "Título": "TRANSFORMANDO PARA LA INCLUSIÓN",
       "CEP": "41200017 - CEP Sevilla",
       "Modalidad": "Curso Semipresencial",
@@ -2988,7 +2928,7 @@
       "Fin": "29/05/2026",
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927OE600/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927OE6008/"
     },
     {
       "Código": "269928KPF609",
