@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-25T08:48:00.751591+00:00",
-  "total": 319,
+  "generado": "2026-06-25T12:11:15.488517+00:00",
+  "total": 276,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -97,18 +97,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/"
-    },
-    {
-      "Código": "261814GT030",
-      "Título": "JUEGOS Y DEPORTES ALTERNATIVOS EN LA MATERIA DE EDUCACIÓN FÍSICA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "30/01/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/"
     },
     {
       "Código": "262116FC026",
@@ -699,18 +687,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
     },
     {
-      "Código": "261104MDFP013",
-      "Título": "ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "21/05/2026",
-      "Fin": "05/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/"
-    },
-    {
       "Código": "261104MDFP014",
       "Título": "ESTRATEGIAS AVANZADAS DE IA GENERATIVA DE GOOGLE APLICADAS A LA FORMACIÓN PROFESIONAL",
       "CEP": "11200011 - CEP Cádiz",
@@ -747,66 +723,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC010/"
     },
     {
-      "Código": "261107FC023",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL CDP ESCUELAS PROFESIONALES DE LA SAGRADA FAMILIA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC023/"
-    },
-    {
-      "Código": "261107FC024",
-      "Título": "MEJORA DE LA COMPETENCIA MATEMÁTICA Y LINGÜÍSTICA DESDE LA INCLUSIÓN EN EL CEIP AL-KALAT",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC024/"
-    },
-    {
-      "Código": "261107FC036",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL IES ALMADRABA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC036/"
-    },
-    {
-      "Código": "261107FC045",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA   EN EL IES KURSAAL",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC045/"
-    },
-    {
-      "Código": "261107FC053",
-      "Título": "DISCIPLINA POSITIVA Y ATENCIÓN A LA DIVERSIDAD EN EL IES BAELO CLAUDIA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC053/"
-    },
-    {
       "Código": "261107FC064",
       "Título": "NEUROCIENCIAS APLICADAS A LA ATENCIÓN EMOCIONAL Y EDUCATIVA DEL ALUMNADO DE RESIDENCIAS ESCOLARES.",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -817,66 +733,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC064/"
-    },
-    {
-      "Código": "261107FC065",
-      "Título": "COMP MATIMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL IES PEDRO SÁINZ DE ANDINO",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC065/"
-    },
-    {
-      "Código": "261107FC067",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA Y COMPRENSIÓN LECTORA EN EL CEIP DIVINA PASTORA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC067/"
-    },
-    {
-      "Código": "261107FC072",
-      "Título": "COMPETENCIA MATEMÁTICA Y ATENCIÓN A LA DIVERSIDAD EN EL CEIP VIRGEN DEL SOL",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC072/"
-    },
-    {
-      "Código": "261107FC109",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA LECTORA EN EL CEIP ANDALUCÍA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC109/"
-    },
-    {
-      "Código": "261107FC113",
-      "Título": "IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL CDP JESÚS, MARÍA Y JOSÉ",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC113/"
     },
     {
       "Código": "261107GE022",
@@ -891,18 +747,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
     },
     {
-      "Código": "261107GT070",
-      "Título": "¿PROBLEMAS? CUENTA CONMIGO",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT070/"
-    },
-    {
       "Código": "261107GT142",
       "Título": "ACTUALIZACIÓN DE LA FUNCIÓN ASESORA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -913,18 +757,6 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT142/"
-    },
-    {
-      "Código": "261408GE117",
-      "Título": "EL CEP COMO RECURSO EDUCATIVO. DÍAS DE ESCUELA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Otros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "11/06/2026",
-      "Fin": "17/06/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE117/"
     },
     {
       "Código": "261408PR005",
@@ -1131,18 +963,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC030/"
     },
     {
-      "Código": "261811FC038",
-      "Título": "EVALUAR Y TRABAJAR CON EL CUADERNO DE SÉNECA (PROFUNDIZACIÓN)",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC038/"
-    },
-    {
       "Código": "261811FC042",
       "Título": "PCT REFUERZO COMPETENCIA LECTORA Y MATEMÁTICA PARA SECUNDARIA Y PRIMARIA",
       "CEP": "18200016 - CEP Granada",
@@ -1239,18 +1059,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC057/"
     },
     {
-      "Código": "261811FC058",
-      "Título": "NUEVAS METODOLOGÍAS PARA LA MEJORA DE LA CONVIVENCIA Y LA IGUALDAD",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "24/11/2025",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC058/"
-    },
-    {
       "Código": "261811FC060",
       "Título": "PCT MATEMATICAS EN EL CEIP NUESTRA SEÑORA DEL ROSARIO DE CHIMENEAS",
       "CEP": "18200016 - CEP Granada",
@@ -1297,18 +1105,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC067/"
-    },
-    {
-      "Código": "261811FC068",
-      "Título": "PROGRAMA ESCUELAS VISUALES: CREACIÓN DE HERRAMIENTAS PARA LA INCLUSIÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC068/"
     },
     {
       "Código": "261811FC069",
@@ -1479,18 +1275,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE246/"
     },
     {
-      "Código": "261811GT001",
-      "Título": "EDUCANDO PARA LA PAZ A TRAVÉS DEL TEATRO GRECOLATINO: EL MILES GLORIOSUS DE PLAUTO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT001/"
-    },
-    {
       "Código": "261811GT004",
       "Título": "DESARROLLO DE LA COMPETENCIA LINGÜÍSTICA A TRAVÉS DE LA OBRA DE ARTE",
       "CEP": "18200016 - CEP Granada",
@@ -1539,18 +1323,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT020/"
     },
     {
-      "Código": "261811GT047",
-      "Título": "EDUCACIÓN INCLUSIVA EN EL AULA EN LAS PRIMERAS ETAPAS DEL DESARROLLO: INCLUAULA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Orientación educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT047/"
-    },
-    {
       "Código": "261811GT050",
       "Título": "MATEMÁTICAS MANIPULATIVAS EN EL SIERRA",
       "CEP": "18200016 - CEP Granada",
@@ -1575,18 +1347,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT063/"
     },
     {
-      "Código": "261811GT071",
-      "Título": "INCLUSIÓN A TRAVÉS DE LOS JUEGOS DE MESA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT071/"
-    },
-    {
       "Código": "261811GT073",
       "Título": "MATEMÁTICAS EN ACCIÓN: ALGORITMOS Y RESOLUCIÓN DE PROBLEMAS PARA LA VIDA EN CENTROS DE COMPENSACIÓN EDUCATIVA.",
       "CEP": "18200016 - CEP Granada",
@@ -1609,18 +1369,6 @@
       "Dirigido a": "Orientación educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT075/"
-    },
-    {
-      "Código": "261811GT080",
-      "Título": "LA MEDITACIÓN COMO VÍA DE AUTOCONOCIMIENTO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT080/"
     },
     {
       "Código": "261811GT082",
@@ -1705,30 +1453,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT118/"
-    },
-    {
-      "Código": "261811GT127",
-      "Título": "MEDIACIÓN ESCOLAR",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT127/"
-    },
-    {
-      "Código": "261811GT151",
-      "Título": "ENFOQUE INTERSECCIONAL EN LA INTERVENCIÓN SOCIAL",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "31/10/2025",
-      "Fin": "23/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT151/"
     },
     {
       "Código": "261811GT160",
@@ -1983,18 +1707,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE007/"
     },
     {
-      "Código": "261814GE022",
-      "Título": "HERRAMIENTAS DIGITALES EN EL ENTORNO DEL CPM JOSÉ SALINAS",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "21/10/2025",
-      "Fin": "31/10/2025",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE022/"
-    },
-    {
       "Código": "261814GE047",
       "Título": "CONOCE EL AULA DEL FUTURO DEL CEP BAZA",
       "CEP": "18200041 - CEP Baza",
@@ -2005,18 +1717,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE047/"
-    },
-    {
-      "Código": "261814GT015",
-      "Título": "JUEGOS MATEMÁTICOS EN LA SEMANA DE LA CIENCIA DEL IES JOSÉ DE MORA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "15/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT015/"
     },
     {
       "Código": "261814GT017",
@@ -2031,52 +1731,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT017/"
     },
     {
-      "Código": "261814GT018",
-      "Título": "EDUCACIÓN FINANCIERA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT018/"
-    },
-    {
-      "Código": "261814GT025",
-      "Título": "RAZONAMIENTO MATEMÁTICO: ESTRATEGIAS Y HERRAMIENTAS",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT025/"
-    },
-    {
-      "Código": "261814GT026",
-      "Título": "CONVIVENCIA Y MEDIACIÓN",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "20/10/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT026/"
-    },
-    {
-      "Código": "261814GT028",
-      "Título": "SITUACIONES DE APRENDIZAJE INTERDISCIPLINARES PARA LA MEJORA DEL BILINGÜISMO.",
+      "Código": "261814GT030",
+      "Título": "JUEGOS Y DEPORTES ALTERNATIVOS EN LA MATERIA DE EDUCACIÓN FÍSICA",
       "CEP": "18200041 - CEP Baza",
       "Modalidad": "Grupos de trabajo",
       "Estado": "Actividad en desarrollo",
       "Inicio": "01/10/2025",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Internivelar",
+      "Fin": "30/01/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT028/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/"
     },
     {
       "Código": "261814GT031",
@@ -2113,18 +1777,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC010/"
-    },
-    {
-      "Código": "262117FC011",
-      "Título": "TRABAJANDO LA COMPETENCIA COMUNICATIVA: LA MAGIA DE APRENDER",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "17/11/2025",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC011/"
     },
     {
       "Código": "262117FC013",
@@ -2185,18 +1837,6 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE021/"
-    },
-    {
-      "Código": "262117GT019",
-      "Título": "PATRIMONIO DE NUESTRA SIERRA",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/"
     },
     {
       "Código": "262318GE017",
@@ -2284,7 +1924,7 @@
     },
     {
       "Código": "262319FC015",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP NAVAS DE TOLOSA",
+      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA",
       "CEP": "23200028 - CEP Linares - Andújar",
       "Modalidad": "Formación en centros",
       "Estado": "Actividad en desarrollo",
@@ -2296,7 +1936,7 @@
     },
     {
       "Código": "262319FC016",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA LECTORA EN EL CEIP CARLOS III",
+      "Título": "PCT DE REFUERZO DE LA COMPETENCIA LECTORA",
       "CEP": "23200028 - CEP Linares - Andújar",
       "Modalidad": "Formación en centros",
       "Estado": "Actividad en desarrollo",
@@ -2523,42 +2163,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC008/"
     },
     {
-      "Código": "262925FC305",
-      "Título": "PCT COMPETENCIA MATEMÁTICA",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "18/09/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC305/"
-    },
-    {
-      "Código": "262925FC306",
-      "Título": "COMUNIDAD DE APRENDIZAJE. AÑO 1 \"PRÁCTICAS DE EXITO\".",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC306/"
-    },
-    {
-      "Código": "262925FC403",
-      "Título": "PCT REFUERZO DE LA COMPETENCIA LECTORA",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "13/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC403/"
-    },
-    {
       "Código": "262925FP016",
       "Título": "LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS",
       "CEP": "29200041 - CEP Antequera",
@@ -2583,30 +2187,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT307/"
     },
     {
-      "Código": "262925GT308",
-      "Título": "ESTIMULACIÓN DE LAS FUNCIONES EJECUTIVAS EN EL ALUMNADO CON DISLEXIA",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "17/09/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Orientación educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT308/"
-    },
-    {
-      "Código": "262925GT309",
-      "Título": "APLICACIÓN DE UN SISTEMA AUMENTATIVO DE COMUNICACIÓN BIMODAL PARA ALUMNADO CON GRAVES DIFICULTADES",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "08/01/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT309/"
-    },
-    {
       "Código": "26403GE048",
       "Título": "INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -2617,54 +2197,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/"
-    },
-    {
-      "Código": "264127ACT012",
-      "Título": "ASESORAMIENTO AL SERVICIO DE INSPECCIÓN SOBRE CUADERNO DE CLASE DE SÉNECA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "23/10/2025",
-      "Fin": "23/10/2025",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT012/"
-    },
-    {
-      "Código": "264127ACT020",
-      "Título": "ANILLO VERDE Y AZUL DE SEVILLA: UN RECURSO ANTE EL CAMBIO CLIMÁTICO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Conferencia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "28/01/2026",
-      "Fin": "28/01/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT020/"
-    },
-    {
-      "Código": "264127ACT035",
-      "Título": "ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "04/05/2026",
-      "Fin": "04/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/"
-    },
-    {
-      "Código": "264127FC032",
-      "Título": "PCT COMPETENCIA MATEMÁTICA EN EL IES PABLO PICASSO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC032/"
     },
     {
       "Código": "264127FC061",
@@ -2679,18 +2211,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC061/"
     },
     {
-      "Código": "264127FC065",
-      "Título": "PCT  COMPETENCIA MATEMÁTICA EN EL CDP SAGRADA FAMILIA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC065/"
-    },
-    {
       "Código": "264127FC078",
       "Título": "PCT COMPETENCIA LECTORA/PCT COMPETENCIA MATEMÁTICA EN EL CEIP MENÉNDEZ PIDAL",
       "CEP": "41200017 - CEP Sevilla",
@@ -2701,18 +2221,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC078/"
-    },
-    {
-      "Código": "264127FC089",
-      "Título": "PCT COMPETENCIA MATEMÁTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC089/"
     },
     {
       "Código": "264127GT030",
@@ -3411,18 +2919,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269918KPF610/"
     },
     {
-      "Código": "269919KPF429",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL B2",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "29/04/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF429/"
-    },
-    {
       "Código": "269920KPF616",
       "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
       "CEP": "23200031 - CEP Úbeda",
@@ -3481,18 +2977,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
-    },
-    {
-      "Código": "269927KPF386",
-      "Título": "AUTOEVALUACIÓN DE PLANES DE MEJORA Y MEMORIA DE AUTOEVALUACIÓN",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927KPF386/"
     },
     {
       "Código": "269927OE600",

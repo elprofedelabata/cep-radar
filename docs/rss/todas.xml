@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:11:15 +0000</lastBuildDate>
     <item>
       <title>261104GT161 — TRANSFORMACIÓN DIGITAL EDUCATIVA ¡LO APRENDÍ, LO ENSEÑÉ!</title>
       <description>11200011 - CEP Cádiz | Grupos de trabajo | 01/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -60,13 +60,6 @@
       <description>18200041 - CEP Baza | Formación en centros | 20/10/2025 → 01/06/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/</link>
       <guid isPermaLink="false">261814FC017</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT030 — JUEGOS Y DEPORTES ALTERNATIVOS EN LA MATERIA DE EDUCACIÓN FÍSICA</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 30/01/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/</link>
-      <guid isPermaLink="false">261814GT030</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -413,13 +406,6 @@
       <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
     </item>
     <item>
-      <title>261104MDFP013 — ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD</title>
-      <description>11200011 - CEP Cádiz | Otros | 21/05/2026 → 05/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/</link>
-      <guid isPermaLink="false">261104MDFP013</guid>
-      <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
-    </item>
-    <item>
       <title>261104MDFP014 — ESTRATEGIAS AVANZADAS DE IA GENERATIVA DE GOOGLE APLICADAS A LA FORMACIÓN PROFESIONAL</title>
       <description>11200011 - CEP Cádiz | Curso Semipresencial | 11/06/2026 → 21/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP014/</link>
@@ -441,80 +427,10 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261107FC023 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL CDP ESCUELAS PROFESIONALES DE LA SAGRADA FAMILIA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC023/</link>
-      <guid isPermaLink="false">261107FC023</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC024 — MEJORA DE LA COMPETENCIA MATEMÁTICA Y LINGÜÍSTICA DESDE LA INCLUSIÓN EN EL CEIP AL-KALAT</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC024/</link>
-      <guid isPermaLink="false">261107FC024</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC036 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL IES ALMADRABA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC036/</link>
-      <guid isPermaLink="false">261107FC036</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC045 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA   EN EL IES KURSAAL</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC045/</link>
-      <guid isPermaLink="false">261107FC045</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC053 — DISCIPLINA POSITIVA Y ATENCIÓN A LA DIVERSIDAD EN EL IES BAELO CLAUDIA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC053/</link>
-      <guid isPermaLink="false">261107FC053</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261107FC064 — NEUROCIENCIAS APLICADAS A LA ATENCIÓN EMOCIONAL Y EDUCATIVA DEL ALUMNADO DE RESIDENCIAS ESCOLARES.</title>
       <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Otros | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC064/</link>
       <guid isPermaLink="false">261107FC064</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC065 — COMP MATIMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL IES PEDRO SÁINZ DE ANDINO</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC065/</link>
-      <guid isPermaLink="false">261107FC065</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC067 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA Y COMPRENSIÓN LECTORA EN EL CEIP DIVINA PASTORA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC067/</link>
-      <guid isPermaLink="false">261107FC067</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC072 — COMPETENCIA MATEMÁTICA Y ATENCIÓN A LA DIVERSIDAD EN EL CEIP VIRGEN DEL SOL</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Comunidad educativa | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC072/</link>
-      <guid isPermaLink="false">261107FC072</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC109 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA LECTORA EN EL CEIP ANDALUCÍA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC109/</link>
-      <guid isPermaLink="false">261107FC109</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FC113 — IMPLEMENTACIÓN DEL PCT DE COMPETENCIA MATEMÁTICA EN EL CDP JESÚS, MARÍA Y JOSÉ</title>
-      <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC113/</link>
-      <guid isPermaLink="false">261107FC113</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
@@ -525,25 +441,11 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261107GT070 — ¿PROBLEMAS? CUENTA CONMIGO</title>
-      <description>11200047 - CEP Algeciras - La Línea | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT070/</link>
-      <guid isPermaLink="false">261107GT070</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261107GT142 — ACTUALIZACIÓN DE LA FUNCIÓN ASESORA</title>
       <description>11200047 - CEP Algeciras - La Línea | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Asesorías de formación | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT142/</link>
       <guid isPermaLink="false">261107GT142</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261408GE117 — EL CEP COMO RECURSO EDUCATIVO. DÍAS DE ESCUELA</title>
-      <description>14200010 - CEP Córdoba | Otros | 11/06/2026 → 17/06/2026 | Dirigido a: Otros | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE117/</link>
-      <guid isPermaLink="false">261408GE117</guid>
-      <pubDate>Thu, 11 Jun 2026 13:49:53 +0000</pubDate>
     </item>
     <item>
       <title>261408PR005 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
@@ -665,13 +567,6 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261811FC038 — EVALUAR Y TRABAJAR CON EL CUADERNO DE SÉNECA (PROFUNDIZACIÓN)</title>
-      <description>18200016 - CEP Granada | Formación en centros | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC038/</link>
-      <guid isPermaLink="false">261811FC038</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261811FC042 — PCT REFUERZO COMPETENCIA LECTORA Y MATEMÁTICA PARA SECUNDARIA Y PRIMARIA</title>
       <description>18200016 - CEP Granada | Formación en centros | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC042/</link>
@@ -728,13 +623,6 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261811FC058 — NUEVAS METODOLOGÍAS PARA LA MEJORA DE LA CONVIVENCIA Y LA IGUALDAD</title>
-      <description>18200016 - CEP Granada | Formación en centros | 24/11/2025 → 26/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC058/</link>
-      <guid isPermaLink="false">261811FC058</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261811FC060 — PCT MATEMATICAS EN EL CEIP NUESTRA SEÑORA DEL ROSARIO DE CHIMENEAS</title>
       <description>18200016 - CEP Granada | Formación en centros | 04/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC060/</link>
@@ -760,13 +648,6 @@
       <description>18200016 - CEP Granada | Formación en centros | 04/11/2025 → 29/05/2026 | Dirigido a: Comunidad educativa | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC067/</link>
       <guid isPermaLink="false">261811FC067</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811FC068 — PROGRAMA ESCUELAS VISUALES: CREACIÓN DE HERRAMIENTAS PARA LA INCLUSIÓN</title>
-      <description>18200016 - CEP Granada | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC068/</link>
-      <guid isPermaLink="false">261811FC068</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
@@ -868,13 +749,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261811GT001 — EDUCANDO PARA LA PAZ A TRAVÉS DEL TEATRO GRECOLATINO: EL MILES GLORIOSUS DE PLAUTO</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 01/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT001/</link>
-      <guid isPermaLink="false">261811GT001</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261811GT004 — DESARROLLO DE LA COMPETENCIA LINGÜÍSTICA A TRAVÉS DE LA OBRA DE ARTE</title>
       <description>18200016 - CEP Granada | Grupos de trabajo | 01/11/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT004/</link>
@@ -903,13 +777,6 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261811GT047 — EDUCACIÓN INCLUSIVA EN EL AULA EN LAS PRIMERAS ETAPAS DEL DESARROLLO: INCLUAULA</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 01/10/2025 → 30/06/2026 | Dirigido a: Orientación educativa | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT047/</link>
-      <guid isPermaLink="false">261811GT047</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261811GT050 — MATEMÁTICAS MANIPULATIVAS EN EL SIERRA</title>
       <description>18200016 - CEP Granada | Grupos de trabajo | 20/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT050/</link>
@@ -924,13 +791,6 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261811GT071 — INCLUSIÓN A TRAVÉS DE LOS JUEGOS DE MESA</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT071/</link>
-      <guid isPermaLink="false">261811GT071</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261811GT073 — MATEMÁTICAS EN ACCIÓN: ALGORITMOS Y RESOLUCIÓN DE PROBLEMAS PARA LA VIDA EN CENTROS DE COMPENSACIÓN EDUCATIVA.</title>
       <description>18200016 - CEP Granada | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT073/</link>
@@ -942,13 +802,6 @@
       <description>18200016 - CEP Granada | Grupos de trabajo | 01/09/2025 → 30/06/2026 | Dirigido a: Orientación educativa | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT075/</link>
       <guid isPermaLink="false">261811GT075</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GT080 — LA MEDITACIÓN COMO VÍA DE AUTOCONOCIMIENTO</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 03/11/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT080/</link>
-      <guid isPermaLink="false">261811GT080</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
@@ -998,20 +851,6 @@
       <description>18200016 - CEP Granada | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT118/</link>
       <guid isPermaLink="false">261811GT118</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GT127 — MEDIACIÓN ESCOLAR</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 06/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT127/</link>
-      <guid isPermaLink="false">261811GT127</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GT151 — ENFOQUE INTERSECCIONAL EN LA INTERVENCIÓN SOCIAL</title>
-      <description>18200016 - CEP Granada | Grupos de trabajo | 31/10/2025 → 23/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GT151/</link>
-      <guid isPermaLink="false">261811GT151</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
@@ -1162,25 +1001,11 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261814GE022 — HERRAMIENTAS DIGITALES EN EL ENTORNO DEL CPM JOSÉ SALINAS</title>
-      <description>18200041 - CEP Baza | Curso Semipresencial | 21/10/2025 → 31/10/2025 | Dirigido a: Enseñanzas de regimen especial | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE022/</link>
-      <guid isPermaLink="false">261814GE022</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>261814GE047 — CONOCE EL AULA DEL FUTURO DEL CEP BAZA</title>
       <description>18200041 - CEP Baza | Jornadas | 10/06/2026 → 10/06/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE047/</link>
       <guid isPermaLink="false">261814GE047</guid>
       <pubDate>Thu, 18 Jun 2026 12:44:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT015 — JUEGOS MATEMÁTICOS EN LA SEMANA DE LA CIENCIA DEL IES JOSÉ DE MORA</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 15/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT015/</link>
-      <guid isPermaLink="false">261814GT015</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
       <title>261814GT017 — MEJORA DE LAS DESTREZAS COMUNICATIVAS  EN LENGUA INGLESA</title>
@@ -1190,32 +1015,11 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>261814GT018 — EDUCACIÓN FINANCIERA</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 06/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT018/</link>
-      <guid isPermaLink="false">261814GT018</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT025 — RAZONAMIENTO MATEMÁTICO: ESTRATEGIAS Y HERRAMIENTAS</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 06/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT025/</link>
-      <guid isPermaLink="false">261814GT025</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT026 — CONVIVENCIA Y MEDIACIÓN</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 20/10/2025 → 31/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT026/</link>
-      <guid isPermaLink="false">261814GT026</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>261814GT028 — SITUACIONES DE APRENDIZAJE INTERDISCIPLINARES PARA LA MEJORA DEL BILINGÜISMO.</title>
-      <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 30/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT028/</link>
-      <guid isPermaLink="false">261814GT028</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
+      <title>261814GT030 — JUEGOS Y DEPORTES ALTERNATIVOS EN LA MATERIA DE EDUCACIÓN FÍSICA</title>
+      <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 30/01/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/</link>
+      <guid isPermaLink="false">261814GT030</guid>
+      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
       <title>261814GT031 — EL JUEGO DE MESA COMO METODOLOGÍA DE TRABAJO COLABORATIVO</title>
@@ -1237,13 +1041,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC010/</link>
       <guid isPermaLink="false">262117FC010</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117FC011 — TRABAJANDO LA COMPETENCIA COMUNICATIVA: LA MAGIA DE APRENDER</title>
-      <description>21200037 - CEP Aracena | Formación en centros | 17/11/2025 → 22/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC011/</link>
-      <guid isPermaLink="false">262117FC011</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
       <title>262117FC013 — PENSAMIENTO COMPUTACIONAL A TRAVÉS DE LENGUA Y MATEMÁTICAS</title>
@@ -1279,13 +1076,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE021/</link>
       <guid isPermaLink="false">262117GE021</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117GT019 — PATRIMONIO DE NUESTRA SIERRA</title>
-      <description>21200037 - CEP Aracena | Grupos de trabajo | 03/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/</link>
-      <guid isPermaLink="false">262117GT019</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
       <title>262318GE017 — ASESORAMIENTO COLABORATIVO A CENTROS PÚBLICOS ENE-JUN 2026</title>
@@ -1337,14 +1127,14 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>262319FC015 — PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP NAVAS DE TOLOSA</title>
+      <title>262319FC015 — PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA</title>
       <description>23200028 - CEP Linares - Andújar | Formación en centros | 10/10/2025 → 30/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC015/</link>
       <guid isPermaLink="false">262319FC015</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>262319FC016 — PCT DE REFUERZO DE LA COMPETENCIA LECTORA EN EL CEIP CARLOS III</title>
+      <title>262319FC016 — PCT DE REFUERZO DE LA COMPETENCIA LECTORA</title>
       <description>23200028 - CEP Linares - Andújar | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC016/</link>
       <guid isPermaLink="false">262319FC016</guid>
@@ -1477,27 +1267,6 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>262925FC305 — PCT COMPETENCIA MATEMÁTICA</title>
-      <description>29200041 - CEP Antequera | Formación en centros | 18/09/2025 → 30/06/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC305/</link>
-      <guid isPermaLink="false">262925FC305</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>262925FC306 — COMUNIDAD DE APRENDIZAJE. AÑO 1 &quot;PRÁCTICAS DE EXITO&quot;.</title>
-      <description>29200041 - CEP Antequera | Formación en centros | 01/10/2025 → 30/06/2026 | Dirigido a: Comunidad educativa | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC306/</link>
-      <guid isPermaLink="false">262925FC306</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>262925FC403 — PCT REFUERZO DE LA COMPETENCIA LECTORA</title>
-      <description>29200041 - CEP Antequera | Formación en centros | 13/10/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FC403/</link>
-      <guid isPermaLink="false">262925FC403</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
       <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
@@ -1512,53 +1281,11 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>262925GT308 — ESTIMULACIÓN DE LAS FUNCIONES EJECUTIVAS EN EL ALUMNADO CON DISLEXIA</title>
-      <description>29200041 - CEP Antequera | Grupos de trabajo | 17/09/2025 → 30/06/2026 | Dirigido a: Orientación educativa | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT308/</link>
-      <guid isPermaLink="false">262925GT308</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>262925GT309 — APLICACIÓN DE UN SISTEMA AUMENTATIVO DE COMUNICACIÓN BIMODAL PARA ALUMNADO CON GRAVES DIFICULTADES</title>
-      <description>29200041 - CEP Antequera | Grupos de trabajo | 08/01/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT309/</link>
-      <guid isPermaLink="false">262925GT309</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>26403GE048 — INTRODUCCIÓN AL DESARROLLO DE PROYECTOS IoT</title>
       <description>04200032 - CEP Cuevas - Olula | Curso Semipresencial | 01/06/2026 → 25/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE048/</link>
       <guid isPermaLink="false">26403GE048</guid>
       <pubDate>Fri, 15 May 2026 11:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>264127ACT012 — ASESORAMIENTO AL SERVICIO DE INSPECCIÓN SOBRE CUADERNO DE CLASE DE SÉNECA</title>
-      <description>41200017 - CEP Sevilla | Curso | 23/10/2025 → 23/10/2025 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT012/</link>
-      <guid isPermaLink="false">264127ACT012</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>264127ACT020 — ANILLO VERDE Y AZUL DE SEVILLA: UN RECURSO ANTE EL CAMBIO CLIMÁTICO</title>
-      <description>41200017 - CEP Sevilla | Conferencia | 28/01/2026 → 28/01/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT020/</link>
-      <guid isPermaLink="false">264127ACT020</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>264127ACT035 — ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO</title>
-      <description>41200017 - CEP Sevilla | Curso | 04/05/2026 → 04/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/</link>
-      <guid isPermaLink="false">264127ACT035</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>264127FC032 — PCT COMPETENCIA MATEMÁTICA EN EL IES PABLO PICASSO</title>
-      <description>41200017 - CEP Sevilla | Formación en centros | 14/11/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC032/</link>
-      <guid isPermaLink="false">264127FC032</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
       <title>264127FC061 — PCT COMPETENCIA MATEMÁTICA EN EL CEIP LOS AZAHARES</title>
@@ -1568,24 +1295,10 @@
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>264127FC065 — PCT  COMPETENCIA MATEMÁTICA EN EL CDP SAGRADA FAMILIA</title>
-      <description>41200017 - CEP Sevilla | Formación en centros | 14/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC065/</link>
-      <guid isPermaLink="false">264127FC065</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>264127FC078 — PCT COMPETENCIA LECTORA/PCT COMPETENCIA MATEMÁTICA EN EL CEIP MENÉNDEZ PIDAL</title>
       <description>41200017 - CEP Sevilla | Formación en centros | 14/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC078/</link>
       <guid isPermaLink="false">264127FC078</guid>
-      <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>264127FC089 — PCT COMPETENCIA MATEMÁTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO</title>
-      <description>41200017 - CEP Sevilla | Formación en centros | 14/11/2025 → 29/05/2026 | Dirigido a: Educación primaria | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC089/</link>
-      <guid isPermaLink="false">264127FC089</guid>
       <pubDate>Tue, 23 Jun 2026 19:47:43 +0000</pubDate>
     </item>
     <item>
@@ -1995,13 +1708,6 @@
       <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>269919KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
-      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 29/04/2026 → 22/06/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF429/</link>
-      <guid isPermaLink="false">269919KPF429</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
       <title>269920KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
       <description>23200031 - CEP Úbeda | Curso a Distancia | 25/05/2026 → 26/06/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269920KPF616/</link>
@@ -2035,13 +1741,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/</link>
       <guid isPermaLink="false">269923KPF616</guid>
       <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>269927KPF386 — AUTOEVALUACIÓN DE PLANES DE MEJORA Y MEMORIA DE AUTOEVALUACIÓN</title>
-      <description>41200017 - CEP Sevilla | Curso Semipresencial | 06/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927KPF386/</link>
-      <guid isPermaLink="false">269927KPF386</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
       <title>269927OE600 — TRANSFORMANDO PARA LA INCLUSIÓN</title>
