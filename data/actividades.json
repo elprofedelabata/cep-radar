@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-26T12:05:12.028997+00:00",
-  "total": 248,
+  "generado": "2026-06-26T16:05:24.803841+00:00",
+  "total": 245,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -436,7 +436,7 @@
     },
     {
       "Código": "271104FEDAP005",
-      "Título": "JORNADAS DE PATRIMONIO, CULTURA E HISTORIA DE CÁDIZ. RUTAS DIDÁCTICAS PARA CONOCER NUESTRO PASADO: EL EMPORIO DEL ORBE.",
+      "Título": "JORNADAS DE PATRIMONIO, CULTURA E HISTORIA DE CÁDIZ. RUTAS DIDÁCTICAS PARA CONOCER NUESTRO PASADO: EMPORIO DEL ORBE.",
       "CEP": "11200011 - CEP Cádiz",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
@@ -1563,18 +1563,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC010/"
     },
     {
-      "Código": "262117FC013",
-      "Título": "PENSAMIENTO COMPUTACIONAL A TRAVÉS DE LENGUA Y MATEMÁTICAS",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/09/2025",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117FC013/"
-    },
-    {
       "Código": "262117FC016",
       "Título": "INNOVACIÓN E INCLUSIÓN EN EL CEIP LA RÁBIDA:CdA, MULTINIVEL Y TDE.",
       "CEP": "21200037 - CEP Aracena",
@@ -1597,30 +1585,6 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE021/"
-    },
-    {
-      "Código": "262117GT019",
-      "Título": "PATRIMONIO DE NUESTRA SIERRA",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT019/"
-    },
-    {
-      "Código": "262117GT023",
-      "Título": "DINAMIZACIÓN DE LA COMPETENCIA LECTORA: LEER JUGANDO Y JUGAR LEYENDO.",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "30/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT023/"
     },
     {
       "Código": "262318GE017",
