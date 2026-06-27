@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-27T11:18:25.451657+00:00",
-  "total": 223,
+  "generado": "2026-06-27T15:06:57.528179+00:00",
+  "total": 221,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -1561,30 +1561,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT064/"
-    },
-    {
-      "Código": "262320CTD106",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320CTD106/"
-    },
-    {
-      "Código": "262320CTD107",
-      "Título": "CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "13/01/2026",
-      "Fin": "20/02/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320CTD107/"
     },
     {
       "Código": "262320GE010",
