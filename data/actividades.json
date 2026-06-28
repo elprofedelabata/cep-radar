@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-28T15:09:46.438690+00:00",
-  "total": 208,
+  "generado": "2026-06-28T18:59:51.614327+00:00",
+  "total": 201,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -687,18 +687,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105FED019/"
     },
     {
-      "Código": "261107FC064",
-      "Título": "NEUROCIENCIAS APLICADAS A LA ATENCIÓN EMOCIONAL Y EDUCATIVA DEL ALUMNADO DE RESIDENCIAS ESCOLARES.",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "10/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC064/"
-    },
-    {
       "Código": "261107GE022",
       "Título": "EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -843,18 +831,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT064/"
     },
     {
-      "Código": "261811FC023",
-      "Título": "INCLUSIÓN: LA ILUSIÓN DE UNA ESCUELA PARA TODOS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC023/"
-    },
-    {
       "Código": "261811FC029",
       "Título": "APLICACIÓN DE RECURSOS DIGITALES PARA EL ALUMNADO EN CONTEXTO EDUCATIVO DE COMPENSATORIA",
       "CEP": "18200016 - CEP Granada",
@@ -865,30 +841,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC029/"
-    },
-    {
-      "Código": "261811FC050",
-      "Título": "RESOLUCIÓN DE PROBLEMAS Y PENSAMIENTO COMPUTACIONAL-ROBÓTICA EN EL AULA DE INFANTIL Y PRIMARIA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC050/"
-    },
-    {
-      "Código": "261811FC053",
-      "Título": "EL CUADERNO SÉNECA EN LA PRÁCTICA EDUCATIVA.  LAS MATEMÁTICAS  DIVERTIDAS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC053/"
     },
     {
       "Código": "261811FC062",
@@ -925,42 +877,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC067/"
-    },
-    {
-      "Código": "261811FC074",
-      "Título": "PCT REFUERZO COMPETENCIA LECTORA Y MATEMÁTICA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "15/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC074/"
-    },
-    {
-      "Código": "261811FC076",
-      "Título": "PCT REFUERZO DE LA COMPETENCIA MATEMÁTICA EN CDP PADRE MANJÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC076/"
-    },
-    {
-      "Código": "261811FC078",
-      "Título": "PCT EN REFUERZO DE LA COMPETENCIA LECTORA Y DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN ANDALUCÍA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC078/"
     },
     {
       "Código": "261811GE018",
