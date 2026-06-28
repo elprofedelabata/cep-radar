@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-28T11:39:54.305117+00:00",
-  "total": 209,
+  "generado": "2026-06-28T15:09:46.438690+00:00",
+  "total": 208,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -961,18 +961,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC078/"
-    },
-    {
-      "Código": "261811FC081",
-      "Título": "IMPLEMENTACIÓN DE PCT EN COMPETENCIA MATEMÁTICA EN EL CDP COLEGIO AMOR DE DIOS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "31/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC081/"
     },
     {
       "Código": "261811GE018",
