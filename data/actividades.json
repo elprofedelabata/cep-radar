@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-28T22:52:42.794781+00:00",
-  "total": 201,
+  "generado": "2026-06-29T06:26:36.497216+00:00",
+  "total": 198,
   "actividades": [
     {
       "Código": "261104GT161",
@@ -1179,18 +1179,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE017/"
     },
     {
-      "Código": "262319FC005",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP SAN EUFRASIO",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "06/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC005/"
-    },
-    {
       "Código": "262319FC006",
       "Título": "PCT DE REFUERZO DE LA COMPETENCIA LECTORA Y MATEMÁTICA",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -1225,30 +1213,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC013/"
-    },
-    {
-      "Código": "262319FC017",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CDP VIRGEN DEL CARMEN",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "07/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC017/"
-    },
-    {
-      "Código": "262319FC020",
-      "Título": "PCT DE REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CDP VIRGEN DE LA CABEZA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "04/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC020/"
     },
     {
       "Código": "262319GE032",
