@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-30T16:14:42.070785+00:00",
-  "total": 107,
+  "generado": "2026-06-30T19:29:27.448929+00:00",
+  "total": 102,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -409,66 +409,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR048/"
-    },
-    {
-      "Código": "261410FC019",
-      "Título": "LA PEDAGOGÍA SISTÉMICA: ¿CÓMO LLEVARLA AL AULA?",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC019/"
-    },
-    {
-      "Código": "261410FC034",
-      "Título": "LA EVALUACIÓN EN LA ESO Y EN LA FP TENIENDO EN CUENTA LA DIVERSIDAD DEL ALUMNADO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC034/"
-    },
-    {
-      "Código": "261410FC052",
-      "Título": "FORMACIÓN AULA ATECA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC052/"
-    },
-    {
-      "Código": "261410GT014",
-      "Título": "MANEJO DEL CUADERNO SÉNECA Y OTROS USOS DE LA PLATAFORMA DOCENTE",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT014/"
-    },
-    {
-      "Código": "261410GT033",
-      "Título": "XXII YINCANA MATEMÁTICA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT033/"
     },
     {
       "Código": "261410GT050",
