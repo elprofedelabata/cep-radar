@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-01T06:15:35.338875+00:00",
+  "generado": "2026-07-01T12:26:23.016989+00:00",
   "total": 102,
   "actividades": [
     {
@@ -231,28 +231,28 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
     },
     {
-      "Código": "269927OE6009",
-      "Título": "TRANSFORMANDO PARA LA INCLUSIÓN",
-      "CEP": "41200017 - CEP Sevilla",
+      "Código": "271811GE004",
+      "Título": "CUADERNO SÉNECA Y PLATARFORMA IPASEN PARA EDUCACIÓN PRIMARIA",
+      "CEP": "18200016 - CEP Granada",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
-      "Inicio": "27/01/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Otros",
+      "Inicio": "23/09/2026",
+      "Fin": "14/10/2026",
+      "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269927OE6009/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE004/"
     },
     {
-      "Código": "261410GE053",
-      "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "17/04/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Código": "271811GE011",
+      "Título": "EVALUACIÓN COMPETENCIAL PARA LA ESCUELAS DE ARTE. TÉCNICAS, INSTRUMENTOS Y CRITERIOS DE EVALUACIÓN Y CALIFICACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "07/10/2026",
+      "Fin": "28/10/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
     },
     {
       "Código": "262925GE311",
@@ -409,6 +409,18 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR048/"
+    },
+    {
+      "Código": "261410GE053",
+      "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/04/2026",
+      "Fin": "22/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
     },
     {
       "Código": "261410GT050",
@@ -697,18 +709,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127FC078/"
-    },
-    {
-      "Código": "264127INF009",
-      "Título": "PEQUEÑOS CIUDADANOS DEL MUNDO: LA DIMENSIÓN INTERNACIONAL EN EDUCACIÓN INFANTIL",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "15/06/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF009/"
     },
     {
       "Código": "264127INF017",
