@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-02T19:06:43.467828+00:00",
-  "total": 110,
+  "generado": "2026-07-02T22:55:19.487373+00:00",
+  "total": 111,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -241,6 +241,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE004/"
+    },
+    {
+      "Código": "271811GE010",
+      "Título": "RED DE APRENDIZAJE COOPERATIVO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "29/10/2026",
+      "Fin": "26/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE010/"
     },
     {
       "Código": "271811GE011",
