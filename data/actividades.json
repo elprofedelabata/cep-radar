@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-02T08:39:32.705431+00:00",
-  "total": 102,
+  "generado": "2026-07-02T12:00:40.850892+00:00",
+  "total": 107,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -411,18 +411,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR048/"
     },
     {
-      "Código": "261410GE053",
-      "Título": "METODOLOGÍAS INNOVADORAS MEDIANTE EXELEARNING",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "17/04/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE053/"
-    },
-    {
       "Código": "261410GT050",
       "Título": "RECREOS CON ARTE",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -685,6 +673,78 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GT307/"
+    },
+    {
+      "Código": "26403GE042",
+      "Título": "GASES RENOVABLES: TECNOLOGÍAS, USOS Y BENEFICIOS",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/06/2026",
+      "Fin": "17/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE042/"
+    },
+    {
+      "Código": "26403GE043",
+      "Título": "DISEÑO, INSTALACIÓN Y MANTENIMIENTO DE SISTEMAS SOLARES FOTOVOLTAICOS DE AUTOCONSUMO",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/06/2026",
+      "Fin": "17/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE043/"
+    },
+    {
+      "Código": "26403GE044",
+      "Título": "EDIFICACIÓN Y REHABILITACIÓN SOSTENIBLE DE VIVIENDAS",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "29/06/2026",
+      "Fin": "03/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE044/"
+    },
+    {
+      "Código": "26403GE045",
+      "Título": "DIGITALIZACIÓN DE REDES ELÉCTRICAS",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "22/06/2026",
+      "Fin": "10/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE045/"
+    },
+    {
+      "Código": "26403GE046",
+      "Título": "SOSTENIBILIDAD APLICADA AL SISTEMA PRODUCTIVO",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "22/06/2026",
+      "Fin": "09/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE046/"
+    },
+    {
+      "Código": "26403GE047",
+      "Título": "OPERACIÓN Y MANTENIMIENTO DE PARQUES EÓLICOS",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "29/06/2026",
+      "Fin": "04/07/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE047/"
     },
     {
       "Código": "264127FC061",
