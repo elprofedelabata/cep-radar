@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-02T12:00:40.850892+00:00",
-  "total": 107,
+  "generado": "2026-07-02T15:58:54.412472+00:00",
+  "total": 111,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -253,6 +253,54 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
+    },
+    {
+      "Código": "272923FP151",
+      "Título": "DINAMIZACIÓN Y GUIAJE EN ITINERARIOS MARINOS EN F.P. A TRAVÉS DEL PADDLE SURF Y EL SNORKEL",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "21/09/2026",
+      "Fin": "25/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP151/"
+    },
+    {
+      "Código": "272923FP152",
+      "Título": "COSMETOLOGÍA AVANZADA Y PROTOCOLOS DE ACTUACIÓN EN ESTÉTICA ONCOLÓGICA",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "14/09/2026",
+      "Fin": "22/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
+    },
+    {
+      "Código": "272923GE001",
+      "Título": "CUADERNO SÉNECA Y MOODLE PARA F.P",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "13/10/2026",
+      "Fin": "11/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE001/"
+    },
+    {
+      "Código": "272923GE002",
+      "Título": "CUADERNO SÉNECA Y MOODLE PARA F.P.",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "En proyecto",
+      "Inicio": "13/10/2026",
+      "Fin": "14/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE002/"
     },
     {
       "Código": "262925GE311",
