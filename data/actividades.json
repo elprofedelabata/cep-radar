@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-06T06:17:01.865191+00:00",
-  "total": 113,
+  "generado": "2026-07-06T13:36:30.660741+00:00",
+  "total": 112,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -256,12 +256,12 @@
     },
     {
       "Código": "271811GE004",
-      "Título": "CUADERNO SÉNECA Y PLATARFORMA IPASEN PARA EDUCACIÓN PRIMARIA",
+      "Título": "CUADERNO SÉNECA Y PLATAFORMA IPASEN PARA EDUCACIÓN PRIMARIA",
       "CEP": "18200016 - CEP Granada",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
-      "Inicio": "23/09/2026",
-      "Fin": "14/10/2026",
+      "Inicio": "07/10/2026",
+      "Fin": "28/10/2026",
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE004/"
@@ -291,6 +291,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE006/"
     },
     {
+      "Código": "271811GE008",
+      "Título": "ACTIVA TU AULA: METODOLOGÍAS PARA APRENDER HACIENDO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "29/09/2026",
+      "Fin": "10/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE008/"
+    },
+    {
       "Código": "271811GE010",
       "Título": "RED DE APRENDIZAJE COOPERATIVO",
       "CEP": "18200016 - CEP Granada",
@@ -308,8 +320,8 @@
       "CEP": "18200016 - CEP Granada",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
-      "Inicio": "07/10/2026",
-      "Fin": "28/10/2026",
+      "Inicio": "08/09/2026",
+      "Fin": "21/09/2026",
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
@@ -361,6 +373,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/"
+    },
+    {
+      "Código": "271811GE049",
+      "Título": "DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "08/10/2026",
+      "Fin": "22/10/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/"
     },
     {
       "Código": "271813GE001",
@@ -541,18 +565,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
-    },
-    {
-      "Código": "261104MDFP012",
-      "Título": "CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "29/05/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/"
     },
     {
       "Código": "261408PR005",
@@ -877,18 +889,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE047/"
-    },
-    {
-      "Código": "264127INF022",
-      "Título": "SITUACIONES DE APRENDIZAJE EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "11/03/2026",
-      "Fin": "15/04/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF022/"
     },
     {
       "Código": "264127PRI010",
@@ -1333,18 +1333,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE092/"
-    },
-    {
-      "Código": "264127PRI028",
-      "Título": "INTERVENCIÓN COORDINADA ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO: ACTUACIÓN DE LA INSPECCIÓN EDUCATIVA, LA FISCALÍA Y LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/04/2026",
-      "Fin": "20/04/2026",
-      "Dirigido a": "Inspección educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI028/"
     },
     {
       "Código": "269907OE001",
