@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-07T05:57:27.785146+00:00",
-  "total": 112,
+  "generado": "2026-07-07T09:31:59.142537+00:00",
+  "total": 111,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -577,18 +577,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR005/"
-    },
-    {
-      "Código": "261408PR048",
-      "Título": "CURSO DE ACTUALIZACIÓN PARA LA INSPECCIÓN EDUCATIVA. MÁS ALLÁ DEL AULA: COORDINACIÓN CON FISCALÍA, SALUD Y PROTECCIÓN DE MENORES",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "17/04/2026",
-      "Fin": "03/07/2026",
-      "Dirigido a": "Inspección educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR048/"
     },
     {
       "Código": "261410GT050",
