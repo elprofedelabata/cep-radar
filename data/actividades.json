@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-08T11:41:01.222608+00:00",
+  "generado": "2026-07-08T15:56:24.917349+00:00",
   "total": 108,
   "actividades": [
     {
@@ -363,6 +363,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/"
     },
     {
+      "Código": "271811GE037",
+      "Título": "APRENDIZAJE BASADO EN RETOS PARA LA FORMACIÓN PROFESIONAL: FAMILIAS PROFESIONALES DE LA RAMA INDUSTRIAL Y TECNOLÓGICA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "09/09/2026",
+      "Fin": "15/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE037/"
+    },
+    {
       "Código": "271811GE049",
       "Título": "DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA",
       "CEP": "18200016 - CEP Granada",
@@ -661,18 +673,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT019/"
-    },
-    {
-      "Código": "261812GT085",
-      "Título": "BILINGUAL TALKS",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "04/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT085/"
     },
     {
       "Código": "261814GE003",
