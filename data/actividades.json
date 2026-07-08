@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-08T15:56:24.917349+00:00",
-  "total": 108,
+  "generado": "2026-07-08T19:03:36.411270+00:00",
+  "total": 109,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -373,6 +373,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE037/"
+    },
+    {
+      "Código": "271811GE038",
+      "Título": "APRENDIZAJE BASADO EN RETOS EN LA FORMACIÓN PROFESIONAL",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "10/09/2026",
+      "Fin": "16/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE038/"
     },
     {
       "Código": "271811GE049",
