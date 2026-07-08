@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-08T04:56:59.718459+00:00",
-  "total": 109,
+  "generado": "2026-07-08T08:05:26.792236+00:00",
+  "total": 108,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -315,18 +315,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE010/"
     },
     {
-      "Código": "271811GE011",
-      "Título": "EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES.",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "08/09/2026",
-      "Fin": "21/09/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
-    },
-    {
       "Código": "271811GE012",
       "Título": "SEMINARIO MATEMÁTICAS (INFANTIL-PRIMARIA)",
       "CEP": "18200016 - CEP Granada",
@@ -519,6 +507,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE001/"
     },
     {
+      "Código": "271811GE011",
+      "Título": "EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES.",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/09/2026",
+      "Fin": "21/09/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
+    },
+    {
       "Código": "274130INT001",
       "Título": "JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -555,18 +555,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE047/"
     },
     {
-      "Código": "261104FEDAP011",
-      "Título": "RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "14/10/2025",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Inspección educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
-    },
-    {
       "Código": "261408PR005",
       "Título": "RED DE EQUIPOS DIRECTIVOS DE EEOOII",
       "CEP": "14200010 - CEP Córdoba",
@@ -601,18 +589,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT064/"
-    },
-    {
-      "Código": "261811FC029",
-      "Título": "APLICACIÓN DE RECURSOS DIGITALES PARA EL ALUMNADO EN CONTEXTO EDUCATIVO DE COMPENSATORIA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Formación en centros",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811FC029/"
     },
     {
       "Código": "261812CTD052",
@@ -1081,6 +1057,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269928KPF610/"
+    },
+    {
+      "Código": "271104GE011",
+      "Título": "RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "22/09/2026",
+      "Fin": "29/09/2026",
+      "Dirigido a": "Inspección educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104GE011/"
     },
     {
       "Código": "261812CTD051",
