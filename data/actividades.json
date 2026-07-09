@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-09T05:53:32.990524+00:00",
-  "total": 109,
+  "generado": "2026-07-09T09:34:28.823264+00:00",
+  "total": 108,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -205,18 +205,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE087/"
-    },
-    {
-      "Código": "264127INF010",
-      "Título": "HERRAMIENTAS DIGITALES EN EDUCACIÓN INFANTIL",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "06/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF010/"
     },
     {
       "Código": "264129GE002",
