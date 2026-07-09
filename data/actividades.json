@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-09T09:34:28.823264+00:00",
-  "total": 108,
+  "generado": "2026-07-09T12:24:32.207895+00:00",
+  "total": 110,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -229,6 +229,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
+    },
+    {
+      "Código": "271107GE013",
+      "Título": "GESTIÓN ECONÓMICA DE CENTROS EDUCATIVOS",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "24/09/2026",
+      "Fin": "22/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE013/"
     },
     {
       "Código": "271811GE003",
@@ -529,6 +541,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
+    },
+    {
+      "Código": "271811GE019",
+      "Título": "DANZA CONTEMPORÁNEA Y FOLCLORE. MOVIMIENTO DESDE LA RAÍZ",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/09/2026",
+      "Fin": "25/09/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
     },
     {
       "Código": "274130INT001",
