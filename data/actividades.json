@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-13T05:23:25.375066+00:00",
-  "total": 110,
+  "generado": "2026-07-13T08:43:52.716081+00:00",
+  "total": 112,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -387,6 +387,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE038/"
     },
     {
+      "Código": "271811GE041",
+      "Título": "ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "30/09/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/"
+    },
+    {
       "Código": "271811GE049",
       "Título": "DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA",
       "CEP": "18200016 - CEP Granada",
@@ -397,6 +409,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/"
+    },
+    {
+      "Código": "271811GE050",
+      "Título": "SEMINARIO DUA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "07/10/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
     },
     {
       "Código": "271813GE001",
