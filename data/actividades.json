@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-17T11:13:03.621308+00:00",
-  "total": 110,
+  "generado": "2026-07-17T15:04:03.369641+00:00",
+  "total": 108,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -637,30 +637,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408PR005/"
-    },
-    {
-      "Código": "261410GT050",
-      "Título": "RECREOS CON ARTE",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT050/"
-    },
-    {
-      "Código": "261410GT064",
-      "Título": "GENERANDO HÁBITOS DE VIDA SALUDABLE II",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Otros",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT064/"
     },
     {
       "Código": "261812CTD052",
