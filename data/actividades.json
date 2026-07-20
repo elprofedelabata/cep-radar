@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-20T08:35:50.544214+00:00",
-  "total": 108,
+  "generado": "2026-07-20T12:07:34.098082+00:00",
+  "total": 109,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -613,6 +613,18 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130PER001/"
+    },
+    {
+      "Código": "279933FP002",
+      "Título": "PROGRAMACIÓN FUNDAMENTAL DE POLYSCOPE 5 DE UNIVERSAL ROBOTS",
+      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "07/09/2026",
+      "Fin": "10/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP002/"
     },
     {
       "Código": "262319GE047",
