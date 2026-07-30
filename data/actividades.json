@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-30T11:44:09.924646+00:00",
-  "total": 109,
+  "generado": "2026-07-30T15:44:34.871454+00:00",
+  "total": 110,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -637,6 +637,18 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE047/"
+    },
+    {
+      "Código": "279933FP003",
+      "Título": "FORMACIÓN DE LOS INTEGRANTES DE LA RED ANDALUZA DE DINAMIZACIÓN DE LA FP DUAL",
+      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "09/09/2026",
+      "Fin": "10/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP003/"
     },
     {
       "Código": "261408PR005",
