@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-02T08:02:09.418189+00:00",
-  "total": 110,
+  "generado": "2026-08-02T11:09:55.646159+00:00",
+  "total": 111,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -625,6 +625,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP002/"
+    },
+    {
+      "Código": "279933FP004",
+      "Título": "JORNADAS DE FORMACIÓN PROFESIONAL: LA MODALIDAD VIRTUAL EN LOS NUEVOS CICLOS",
+      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/09/2026",
+      "Fin": "18/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP004/"
     },
     {
       "Código": "262319GE047",
