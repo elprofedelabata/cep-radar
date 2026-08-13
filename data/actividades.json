@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-13T07:08:27.988854+00:00",
-  "total": 111,
+  "generado": "2026-08-13T10:50:44.867082+00:00",
+  "total": 112,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -229,6 +229,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
+    },
+    {
+      "Código": "271107GE007",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "09/09/2026",
+      "Fin": "09/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/"
     },
     {
       "Código": "271107GE013",
