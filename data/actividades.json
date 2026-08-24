@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-24T14:30:20.265976+00:00",
-  "total": 112,
+  "generado": "2026-08-24T18:22:07.506399+00:00",
+  "total": 113,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -601,6 +601,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE001/"
+    },
+    {
+      "Código": "274130GE003",
+      "Título": "FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "01/09/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Asesorías de formación",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/"
     },
     {
       "Código": "274130INT001",
