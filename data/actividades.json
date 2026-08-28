@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-28T01:51:36.185424+00:00",
-  "total": 113,
+  "generado": "2026-08-28T13:28:50.172407+00:00",
+  "total": 114,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -493,6 +493,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE002/"
+    },
+    {
+      "Código": "274132GE001",
+      "Título": "BIENESTAR EMOCIONAL Y CONVIVENCIA EN LA RESIDENCIA ESCOLAR",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "03/09/2026",
+      "Fin": "17/09/2026",
+      "Dirigido a": "Otros",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE001/"
     },
     {
       "Código": "262925GE311",
