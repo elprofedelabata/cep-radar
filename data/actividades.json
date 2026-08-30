@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-29T23:40:30.006220+00:00",
-  "total": 117,
+  "generado": "2026-08-30T07:36:59.361803+00:00",
+  "total": 118,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -433,6 +433,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
+    },
+    {
+      "Código": "271812GE001",
+      "Título": "COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "03/09/2026",
+      "Fin": "08/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
     },
     {
       "Código": "271813GE001",
