@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-31T07:49:15.871405+00:00",
-  "total": 119,
+  "generado": "2026-08-31T17:16:55.028432+00:00",
+  "total": 117,
   "actividades": [
     {
       "Código": "261107FC103",
@@ -639,6 +639,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
     },
     {
+      "Código": "271811GE053",
+      "Título": "INICIACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "16/09/2026",
+      "Fin": "25/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE053/"
+    },
+    {
       "Código": "271811GE054",
       "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE",
       "CEP": "18200016 - CEP Granada",
@@ -1047,30 +1059,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269905KPF610/"
     },
     {
-      "Código": "269908KPF609",
-      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "28/05/2026",
-      "Fin": "30/08/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF609/"
-    },
-    {
-      "Código": "269908KPF610",
-      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. SECUNDARIA)",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "28/05/2026",
-      "Fin": "30/08/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269908KPF610/"
-    },
-    {
       "Código": "269914KPF609",
       "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
       "CEP": "18200041 - CEP Baza",
@@ -1129,18 +1117,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269916KPF196/"
-    },
-    {
-      "Código": "269918KPF609",
-      "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "28/05/2026",
-      "Fin": "30/08/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269918KPF609/"
     },
     {
       "Código": "269918KPF610",
