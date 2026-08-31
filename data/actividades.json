@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T00:00:12.639671+00:00",
+  "generado": "2026-08-31T07:49:15.871405+00:00",
   "total": 119,
   "actividades": [
     {
@@ -435,18 +435,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
     },
     {
-      "Código": "271811GE054",
-      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "07/09/2026",
-      "Fin": "18/09/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/"
-    },
-    {
       "Código": "271812GE001",
       "Título": "COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS",
       "CEP": "18200028 - CEP Motril",
@@ -649,6 +637,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
+    },
+    {
+      "Código": "271811GE054",
+      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "07/09/2026",
+      "Fin": "18/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/"
     },
     {
       "Código": "272116GE001",
