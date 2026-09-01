@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-01T20:15:15.741812+00:00",
-  "total": 62,
+  "generado": "2026-09-01T23:38:26.804089+00:00",
+  "total": 63,
   "actividades": [
     {
       "Código": "271107GE013",
@@ -169,6 +169,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
+    },
+    {
+      "Código": "272321GE001",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO CON TRASTORNOS GRAVES DE CONDUCTA EN EL CEIP FRANCISCO VÍLCHEZ",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "03/09/2026",
+      "Fin": "15/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE001/"
     },
     {
       "Código": "272923FP151",
