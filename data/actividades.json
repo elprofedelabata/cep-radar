@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-02T17:29:52.752704+00:00",
+  "generado": "2026-09-02T20:13:19.566663+00:00",
   "total": 78,
   "actividades": [
     {
@@ -604,7 +604,7 @@
     },
     {
       "Código": "272116GE002",
-      "Título": "ATENCIÓN AL ALUMNADO NEE (CON FOCO EN TEA): UN CURSO EN CLAVE INCLUSIVA EN EL CEIP LOPE DE VEGA",
+      "Título": "ATENCIÓN AL ALUMNADO NEE (CON FOCO EN TEA): UN CURSO EN CLAVE INCLUSIVA EN EL CEPR LOPE DE VEGA",
       "CEP": "21200025 - CEP Bollullos - Valverde",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
@@ -783,18 +783,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/"
     },
     {
-      "Código": "274130GE003",
-      "Título": "FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "01/09/2026",
-      "Fin": "31/05/2027",
-      "Dirigido a": "Asesorías de formación",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/"
-    },
-    {
       "Código": "274130GE005",
       "Título": "ll Jornadas Técnicas para la Familia Profesional de Transporte y Mantenimiento de Vehículos IES Torre de los Herberos.",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -889,6 +877,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE005/"
+    },
+    {
+      "Código": "274130GE003",
+      "Título": "FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "01/09/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Asesorías de formación",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/"
     },
     {
       "Código": "27402GE001",

@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Mairena del Alcor</description>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:13:19 +0000</lastBuildDate>
     <item>
       <title>274130ARD001 — VI ENCUENTRO DE DOCENTES DE MÚSICA (PRIMARIA Y SECUNDARIA)</title>
       <description>41200042 - CEP Mairena del Alcor | Encuentro | 23/09/2026 → 24/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -26,13 +26,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/</link>
       <guid isPermaLink="false">274130EPER002</guid>
       <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>274130GE003 — FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR</title>
-      <description>41200042 - CEP Mairena del Alcor | Curso | 01/09/2026 → 31/05/2027 | Dirigido a: Asesorías de formación | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/</link>
-      <guid isPermaLink="false">274130GE003</guid>
-      <pubDate>Mon, 24 Aug 2026 18:22:07 +0000</pubDate>
     </item>
     <item>
       <title>274130GE005 — ll Jornadas Técnicas para la Familia Profesional de Transporte y Mantenimiento de Vehículos IES Torre de los Herberos.</title>
@@ -61,6 +54,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130PER001/</link>
       <guid isPermaLink="false">274130PER001</guid>
       <pubDate>Wed, 24 Jun 2026 08:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130GE003 — FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso | 01/09/2026 → 31/05/2027 | Dirigido a: Asesorías de formación | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/</link>
+      <guid isPermaLink="false">274130GE003</guid>
+      <pubDate>Mon, 24 Aug 2026 18:22:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
