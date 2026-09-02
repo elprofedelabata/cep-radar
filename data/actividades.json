@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-02T20:13:19.566663+00:00",
-  "total": 78,
+  "generado": "2026-09-02T23:39:57.269992+00:00",
+  "total": 80,
   "actividades": [
     {
       "Código": "271105FED009",
@@ -256,12 +256,12 @@
     },
     {
       "Código": "274127ACS004",
-      "Título": "VIVIR LA EXPERIENCIA AULA DEL FUTURO. CEIP",
+      "Título": "VIVIR LA EXPERIENCIA AULA DEL FUTURO. CEIP IBARBURU DE DOS HERMANAS",
       "CEP": "41200017 - CEP Sevilla",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
       "Inicio": "21/10/2026",
-      "Fin": "30/10/2026",
+      "Fin": "02/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS004/"
@@ -529,6 +529,30 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE055/"
+    },
+    {
+      "Código": "271812GE001",
+      "Título": "COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/09/2026",
+      "Fin": "10/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
+    },
+    {
+      "Código": "271812GE005",
+      "Título": "RECURSOS PARA EL FOMENTO DEL APRENDIZAJE AUTÓNOMO CON ENFOQUE DUA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/09/2026",
+      "Fin": "14/09/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE005/"
     },
     {
       "Código": "271812GE007",
