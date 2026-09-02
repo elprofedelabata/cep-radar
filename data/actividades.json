@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-01T23:38:26.804089+00:00",
-  "total": 63,
+  "generado": "2026-09-02T06:33:28.995666+00:00",
+  "total": 64,
   "actividades": [
     {
       "Código": "271107GE013",
@@ -757,6 +757,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE005/"
+    },
+    {
+      "Código": "279933FP001",
+      "Título": "FORMACIÓN EN DISTRIBUCIÓN ELÉCTRICA (ENDESA) 26/27",
+      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "07/09/2026",
+      "Fin": "30/10/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP001/"
     }
   ]
 }
