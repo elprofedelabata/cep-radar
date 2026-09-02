@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-02T13:55:45.871566+00:00",
-  "total": 77,
+  "generado": "2026-09-02T17:29:52.752704+00:00",
+  "total": 78,
   "actividades": [
     {
       "Código": "271105FED009",
@@ -15,19 +15,7 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED009/"
     },
     {
-      "Código": "271107GE013",
-      "Título": "GESTIÓN ECONÓMICA DE CENTROS EDUCATIVOS",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "24/09/2026",
-      "Fin": "22/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE013/"
-    },
-    {
-      "Código": "271408GE082",
+      "Código": "271408GE056",
       "Título": "MANOS A LA TIERRA: PEQUEÑAS ACCIONES, GRANDES CAMBIOS. TALLERES DE EDUCACIÓN AMBIENTAL",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso",
@@ -36,7 +24,19 @@
       "Fin": "27/10/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE082/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE056/"
+    },
+    {
+      "Código": "271408GE057",
+      "Título": "FILOLOGÍA CLÁSICA Y MUNDO ANTIGUO (IV EDICIÓN)",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "05/10/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE057/"
     },
     {
       "Código": "271811GE003",
@@ -373,6 +373,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
+    },
+    {
+      "Código": "271107GE013",
+      "Título": "CLAVES Y RESPUESTAS PARA LAS SECRETARÍAS DE CENTROS EDUCATIVOS",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "24/09/2026",
+      "Fin": "22/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE013/"
     },
     {
       "Código": "271107PF011",
