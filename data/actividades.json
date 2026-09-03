@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-03T13:58:25.818965+00:00",
-  "total": 95,
+  "generado": "2026-09-03T17:30:13.117411+00:00",
+  "total": 100,
   "actividades": [
     {
       "Código": "271107GE002",
@@ -15,8 +15,32 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE002/"
     },
     {
+      "Código": "271107GE005",
+      "Título": "CONSTRUIR, COOPERAR Y PENSAR: CLAVES PARA UN AULA ACTIVA",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE005/"
+    },
+    {
+      "Código": "271107GE008",
+      "Título": "NEUROCIENCIA EMOCIONAL PARA DOCENTES: POTENCIANDO EL APRENDIZAJE NIVEL IV",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "30/09/2026",
+      "Fin": "21/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE008/"
+    },
+    {
       "Código": "271408GE056",
-      "Título": "MANOS A LA TIERRA: PEQUEÑAS ACCIONES, GRANDES CAMBIOS. TALLERES DE EDUCACIÓN AMBIENTAL",
+      "Título": "MANOS A LA TIERRA. HERRAMIENTAS DE EDUCACIÓN ECOSOCIAL",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso",
       "Estado": "En proyecto",
@@ -145,6 +169,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
+    },
+    {
+      "Código": "271812GE013",
+      "Título": "MATEMÁTICAS OAOA (NIVEL INICIAL)",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "28/09/2026",
+      "Fin": "09/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE013/"
     },
     {
       "Código": "271814GE001",
@@ -565,6 +601,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
+    },
+    {
+      "Código": "271812GE002",
+      "Título": "METODOLOGÍAS PARA EL TRÁNSITO DE PRIMARIA A SECUNDARIA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "10/09/2026",
+      "Fin": "20/10/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/"
     },
     {
       "Código": "271812GE005",
@@ -1023,6 +1071,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/"
     },
     {
+      "Código": "271812GE014",
+      "Título": "IMPRESIÓN 3D EN EL AULA. DE PRIMARIA A SECUNDARIA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "04/09/2026",
+      "Fin": "06/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE014/"
+    },
+    {
       "Código": "271813GE005",
       "Título": "CUADERNO DE SÉNECA, EVALUACIÓN Y PROGRAMACIÓN EN EL CPR ZALABÍ",
       "CEP": "18200031 - CEP Guadix",
@@ -1045,6 +1105,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE004/"
+    },
+    {
+      "Código": "272321GE001",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO CON TRASTORNOS GRAVES DE CONDUCTA EN EL CEIP FRANCISCO VÍLCHEZ",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "03/09/2026",
+      "Fin": "15/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE001/"
     },
     {
       "Código": "274132GE001",
@@ -1081,18 +1153,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR001/"
-    },
-    {
-      "Código": "272321GE001",
-      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO CON TRASTORNOS GRAVES DE CONDUCTA EN EL CEIP FRANCISCO VÍLCHEZ",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "03/09/2026",
-      "Fin": "15/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE001/"
     },
     {
       "Código": "27402GE001",
