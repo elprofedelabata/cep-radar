@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Mairena del Alcor</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:50:43 +0000</lastBuildDate>
     <item>
       <title>274130INT003 — ERASMUS DAYS 2026 EXPERIENCIAS QUE TRANSFORMAN CENTROS</title>
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 14/10/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -42,13 +42,6 @@
       <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
     </item>
     <item>
-      <title>274130GE005 — ll Jornadas Técnicas para la Familia Profesional de Transporte y Mantenimiento de Vehículos IES Torre de los Herberos.</title>
-      <description>41200042 - CEP Mairena del Alcor | Jornadas | 07/09/2026 → 11/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE005/</link>
-      <guid isPermaLink="false">274130GE005</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
-    </item>
-    <item>
       <title>274130INT001 — JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026</title>
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 16/09/2026 → 16/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT001/</link>
@@ -75,6 +68,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/</link>
       <guid isPermaLink="false">274130GE003</guid>
       <pubDate>Mon, 24 Aug 2026 18:22:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130GE005 — ll Jornadas Técnicas para la Familia Profesional de Transporte y Mantenimiento de Vehículos IES Torre de los Herberos.</title>
+      <description>41200042 - CEP Mairena del Alcor | Jornadas | 07/09/2026 → 11/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE005/</link>
+      <guid isPermaLink="false">274130GE005</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

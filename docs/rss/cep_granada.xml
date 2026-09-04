@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:50:43 +0000</lastBuildDate>
     <item>
       <title>271811GE004 — CUADERNO SÉNECA Y PLATAFORMA IPASEN PARA EDUCACIÓN PRIMARIA</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 07/10/2026 → 28/10/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -140,13 +140,6 @@
       <pubDate>Mon, 31 Aug 2026 17:16:55 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE054 — ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 07/09/2026 → 18/09/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/</link>
-      <guid isPermaLink="false">271811GE054</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:12 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE055 — PROFUNDIZACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 23/09/2026 → 09/10/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE055/</link>
@@ -159,6 +152,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE001/</link>
       <guid isPermaLink="false">271811GE001</guid>
       <pubDate>Mon, 29 Jun 2026 13:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE054 — ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 07/09/2026 → 18/09/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/</link>
+      <guid isPermaLink="false">271811GE054</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
