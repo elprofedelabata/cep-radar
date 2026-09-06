@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-06T13:15:32.094993+00:00",
-  "total": 118,
+  "generado": "2026-09-06T16:32:19.186054+00:00",
+  "total": 119,
   "actividades": [
     {
       "Código": "271107GE002",
@@ -615,18 +615,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
     },
     {
-      "Código": "271811GE025",
-      "Título": "FROM AUTHENTIC INPUT TO RICH (CLIL) LEARNING: DESIGNING EFFECTIVE CLIL-MATERIALS WITH AI SUPPORT",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/09/2026",
-      "Fin": "09/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE025/"
-    },
-    {
       "Código": "271811GE027",
       "Título": "MATEMÁTICAS CON SENTIDO: OAOA (NIVEL INICIAL)",
       "CEP": "18200016 - CEP Granada",
@@ -975,6 +963,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP004/"
     },
     {
+      "Código": "274127AFP005",
+      "Título": "ASESORAMIENTO; ATENCIÓN A LA DIVERSIDAD EN FP_ IES POLITÉCNICO",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/09/2026",
+      "Fin": "08/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP005/"
+    },
+    {
       "Código": "274127ALI001",
       "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
       "CEP": "41200017 - CEP Sevilla",
@@ -1165,6 +1165,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP004/"
+    },
+    {
+      "Código": "271811GE025",
+      "Título": "FROM AUTHENTIC INPUT TO RICH (CLIL) LEARNING: DESIGNING EFFECTIVE CLIL-MATERIALS WITH AI SUPPORT",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "07/09/2026",
+      "Fin": "09/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE025/"
     },
     {
       "Código": "272923FP152",
