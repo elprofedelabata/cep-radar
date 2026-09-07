@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T15:22:14.218840+00:00",
-  "total": 139,
+  "generado": "2026-09-07T20:52:59.185242+00:00",
+  "total": 141,
   "actividades": [
     {
       "Código": "271107GE002",
@@ -159,16 +159,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/"
     },
     {
-      "Código": "271811GE049",
-      "Título": "DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA",
+      "Código": "271811GE045",
+      "Título": "HORNOS CERÁMICOS: TÉCNICAS Y PROCESOS PARA SU APLICACIÓN EN EL AULA",
       "CEP": "18200016 - CEP Granada",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
-      "Inicio": "08/10/2026",
-      "Fin": "22/10/2026",
-      "Dirigido a": "Educación primaria",
+      "Inicio": "06/10/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/"
     },
     {
       "Código": "271811GE050",
@@ -272,8 +272,8 @@
       "CEP": "29200014 - CEP Málaga",
       "Modalidad": "Curso",
       "Estado": "En proyecto",
-      "Inicio": "15/10/2026",
-      "Fin": "30/11/2026",
+      "Inicio": "20/10/2026",
+      "Fin": "10/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE059/"
@@ -687,6 +687,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE027/"
     },
     {
+      "Código": "271811GE049",
+      "Título": "DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/10/2026",
+      "Fin": "22/10/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/"
+    },
+    {
       "Código": "271811GE053",
       "Título": "INICIACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES",
       "CEP": "18200016 - CEP Granada",
@@ -865,6 +877,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE002/"
+    },
+    {
+      "Código": "272318GE011",
+      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "24/09/2026",
+      "Fin": "02/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE011/"
     },
     {
       "Código": "272922GE020",
@@ -1515,18 +1539,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP027/"
     },
     {
-      "Código": "271107GE009",
-      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "09/09/2026",
-      "Fin": "09/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
-    },
-    {
       "Código": "271811GE019",
       "Título": "FOLCLORE COMO PROPUESTA INTERDISCIPLINAR",
       "CEP": "18200016 - CEP Granada",
@@ -1563,16 +1575,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE038/"
     },
     {
-      "Código": "272923FP152",
-      "Título": "COSMETOLOGÍA AVANZADA Y PROTOCOLOS DE ACTUACIÓN EN ESTÉTICA ONCOLÓGICA",
-      "CEP": "29200026 - CEP Marbella - Coín",
+      "Código": "271107GE009",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
       "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
+      "Estado": "Publicadas Listas Definitivas",
       "Inicio": "09/09/2026",
-      "Fin": "22/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Fin": "09/09/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
     },
     {
       "Código": "271811GE011",
@@ -1621,6 +1633,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE003/"
+    },
+    {
+      "Código": "272923FP152",
+      "Título": "COSMETOLOGÍA AVANZADA Y PROTOCOLOS DE ACTUACIÓN EN ESTÉTICA ONCOLÓGICA",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "09/09/2026",
+      "Fin": "22/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
     },
     {
       "Código": "27402GE001",
