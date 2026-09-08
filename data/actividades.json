@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T13:57:38.694651+00:00",
-  "total": 156,
+  "generado": "2026-09-08T17:42:03.583547+00:00",
+  "total": 158,
   "actividades": [
     {
       "Código": "271105FED007",
@@ -891,16 +891,28 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/"
     },
     {
-      "Código": "271812GE012",
-      "Título": "ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES",
+      "Código": "271812GE015",
+      "Título": "DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "01/10/2026",
+      "Fin": "26/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE015/"
+    },
+    {
+      "Código": "271812GE016",
+      "Título": "KIT  DE HERRAMIENTAS DIGITALES PARA PROFESORADO I",
       "CEP": "18200028 - CEP Motril",
       "Modalidad": "Curso a Distancia",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/09/2026",
-      "Fin": "12/10/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Inicio": "05/10/2026",
+      "Fin": "08/12/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE016/"
     },
     {
       "Código": "271813GE001",
@@ -1789,6 +1801,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/"
+    },
+    {
+      "Código": "271812GE012",
+      "Título": "ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "02/09/2026",
+      "Fin": "12/10/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/"
     },
     {
       "Código": "272116GE003",

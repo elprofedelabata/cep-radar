@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Motril</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:42:03 +0000</lastBuildDate>
     <item>
       <title>271812GE013 — MATEMÁTICAS OAOA (NIVEL INICIAL)</title>
       <description>18200028 - CEP Motril | Curso | 28/09/2026 → 09/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -49,11 +49,18 @@
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
     </item>
     <item>
-      <title>271812GE012 — ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES</title>
-      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 12/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/</link>
-      <guid isPermaLink="false">271812GE012</guid>
-      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+      <title>271812GE015 — DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS</title>
+      <description>18200028 - CEP Motril | Curso Semipresencial | 01/10/2026 → 26/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE015/</link>
+      <guid isPermaLink="false">271812GE015</guid>
+      <pubDate>Tue, 08 Sep 2026 17:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE016 — KIT  DE HERRAMIENTAS DIGITALES PARA PROFESORADO I</title>
+      <description>18200028 - CEP Motril | Curso a Distancia | 05/10/2026 → 08/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE016/</link>
+      <guid isPermaLink="false">271812GE016</guid>
+      <pubDate>Tue, 08 Sep 2026 17:42:03 +0000</pubDate>
     </item>
     <item>
       <title>271812GE006 — INTERVENCIÓN CON ALUMNADO TEA EN EL AULA ORDINARIA</title>
@@ -81,6 +88,13 @@
       <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 07/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/</link>
       <guid isPermaLink="false">271812GE011</guid>
+      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE012 — ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES</title>
+      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 12/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/</link>
+      <guid isPermaLink="false">271812GE012</guid>
       <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
     </item>
   </channel>
