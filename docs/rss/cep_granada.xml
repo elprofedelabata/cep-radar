@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:40:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:57:38 +0000</lastBuildDate>
     <item>
       <title>271811GE010 — RED DE APRENDIZAJE COOPERATIVO</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 29/10/2026 → 26/05/2027 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -28,18 +28,18 @@
       <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE029 — NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 25/11/2026 → 21/12/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE029/</link>
+      <guid isPermaLink="false">271811GE029</guid>
+      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE030 — IA PARA DOCENTES: APLICACIONES PRÁCTICAS</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 04/11/2026 → 25/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/</link>
       <guid isPermaLink="false">271811GE030</guid>
       <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE041 — ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 30/09/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/</link>
-      <guid isPermaLink="false">271811GE041</guid>
-      <pubDate>Mon, 13 Jul 2026 08:43:52 +0000</pubDate>
     </item>
     <item>
       <title>271811GE043 — RED PROFESIONAL 0 - 3: EL ORIGEN DE LA EDUCACIÓN</title>
@@ -54,13 +54,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/</link>
       <guid isPermaLink="false">271811GE044</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE045 — HORNOS CERÁMICOS: TÉCNICAS Y PROCESOS PARA SU APLICACIÓN EN EL AULA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 06/10/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/</link>
-      <guid isPermaLink="false">271811GE045</guid>
-      <pubDate>Mon, 07 Sep 2026 20:52:59 +0000</pubDate>
     </item>
     <item>
       <title>271811GE050 — SEMINARIO DUA</title>
@@ -105,11 +98,32 @@
       <pubDate>Mon, 06 Jul 2026 13:36:30 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE021 — BIBLIOWEB SÉNECA</title>
+      <description>18200016 - CEP Granada | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE021/</link>
+      <guid isPermaLink="false">271811GE021</guid>
+      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE027 — MATEMÁTICAS CON SENTIDO: OAOA (NIVEL INICIAL)</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 29/09/2026 → 30/10/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE027/</link>
       <guid isPermaLink="false">271811GE027</guid>
       <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE041 — ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 30/09/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/</link>
+      <guid isPermaLink="false">271811GE041</guid>
+      <pubDate>Mon, 13 Jul 2026 08:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE045 — HORNOS CERÁMICOS: TÉCNICAS Y PROCESOS PARA SU APLICACIÓN EN EL AULA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 06/10/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/</link>
+      <guid isPermaLink="false">271811GE045</guid>
+      <pubDate>Mon, 07 Sep 2026 20:52:59 +0000</pubDate>
     </item>
     <item>
       <title>271811GE049 — DISEÑO Y REALIZACIÓN DE PROGRAMACIONES DIDÁCTICAS EN EDUCACIÓN PRIMARIA</title>
@@ -140,6 +154,13 @@
       <pubDate>Mon, 29 Jun 2026 13:57:01 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE011 — EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES.</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 08/09/2026 → 21/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/</link>
+      <guid isPermaLink="false">271811GE011</guid>
+      <pubDate>Wed, 01 Jul 2026 12:26:23 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE025 — FROM AUTHENTIC INPUT TO RICH (CLIL) LEARNING: DESIGNING EFFECTIVE CLIL-MATERIALS WITH AI SUPPORT</title>
       <description>18200016 - CEP Granada | Curso | 07/09/2026 → 09/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE025/</link>
@@ -155,31 +176,24 @@
     </item>
     <item>
       <title>271811GE019 — FOLCLORE COMO PROPUESTA INTERDISCIPLINAR</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 09/09/2026 → 25/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 09/09/2026 → 25/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/</link>
       <guid isPermaLink="false">271811GE019</guid>
       <pubDate>Thu, 09 Jul 2026 12:24:32 +0000</pubDate>
     </item>
     <item>
       <title>271811GE037 — APRENDIZAJE BASADO EN RETOS PARA LA FORMACIÓN PROFESIONAL: FAMILIAS PROFESIONALES DE LA RAMA INDUSTRIAL Y TECNOLÓGICA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 09/09/2026 → 15/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 09/09/2026 → 15/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE037/</link>
       <guid isPermaLink="false">271811GE037</guid>
       <pubDate>Wed, 08 Jul 2026 15:56:24 +0000</pubDate>
     </item>
     <item>
       <title>271811GE038 — APRENDIZAJE BASADO EN RETOS EN LA FORMACIÓN PROFESIONAL</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 10/09/2026 → 16/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 10/09/2026 → 16/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE038/</link>
       <guid isPermaLink="false">271811GE038</guid>
       <pubDate>Wed, 08 Jul 2026 19:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE011 — EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES.</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 08/09/2026 → 21/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/</link>
-      <guid isPermaLink="false">271811GE011</guid>
-      <pubDate>Wed, 01 Jul 2026 12:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
