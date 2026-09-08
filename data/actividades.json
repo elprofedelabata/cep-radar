@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T20:25:17.968009+00:00",
+  "generado": "2026-09-08T23:44:18.694398+00:00",
   "total": 161,
   "actividades": [
     {
@@ -1659,6 +1659,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE001/"
     },
     {
+      "Código": "272923FP152",
+      "Título": "COSMETOLOGÍA AVANZADA Y PROTOCOLOS DE ACTUACIÓN EN ESTÉTICA ONCOLÓGICA",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "22/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
+    },
+    {
       "Código": "274130GE003",
       "Título": "FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -1861,18 +1873,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE003/"
-    },
-    {
-      "Código": "272923FP152",
-      "Título": "COSMETOLOGÍA AVANZADA Y PROTOCOLOS DE ACTUACIÓN EN ESTÉTICA ONCOLÓGICA",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "09/09/2026",
-      "Fin": "22/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
     },
     {
       "Código": "272926GE501",
