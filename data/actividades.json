@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T23:44:18.694398+00:00",
+  "generado": "2026-09-09T06:50:47.027932+00:00",
   "total": 161,
   "actividades": [
     {
@@ -133,18 +133,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/"
-    },
-    {
-      "Código": "271811GE032",
-      "Título": "DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "29/09/2026",
-      "Fin": "23/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/"
     },
     {
       "Código": "271811GE043",
@@ -349,18 +337,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT003/"
-    },
-    {
-      "Código": "279903KPF555",
-      "Título": "CUADERNO DE CLASE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "En proyecto",
-      "Inicio": "05/10/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF555/"
     },
     {
       "Código": "279923KPF555",
@@ -795,6 +771,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE027/"
     },
     {
+      "Código": "271811GE032",
+      "Título": "DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "23/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/"
+    },
+    {
       "Código": "271811GE041",
       "Título": "ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN",
       "CEP": "18200016 - CEP Granada",
@@ -865,18 +853,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE055/"
-    },
-    {
-      "Código": "271812GE001",
-      "Título": "COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "09/09/2026",
-      "Fin": "10/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
     },
     {
       "Código": "271812GE002",
@@ -1455,6 +1431,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901KPF555/"
     },
     {
+      "Código": "279903KPF555",
+      "Título": "CUADERNO DE CLASE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "05/10/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF555/"
+    },
+    {
       "Código": "279915PF011",
       "Título": "SECRETARÍAS NOVELES - FORMACIÓN INICIAL",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -1563,6 +1551,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/"
     },
     {
+      "Código": "271811GE019",
+      "Título": "FOLCLORE COMO PROPUESTA INTERDISCIPLINAR",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "25/09/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
+    },
+    {
       "Código": "271811GE025",
       "Título": "FROM AUTHENTIC INPUT TO RICH (CLIL) LEARNING: DESIGNING EFFECTIVE CLIL-MATERIALS WITH AI SUPPORT",
       "CEP": "18200016 - CEP Granada",
@@ -1585,6 +1585,18 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/"
+    },
+    {
+      "Código": "271812GE001",
+      "Título": "COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "10/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
     },
     {
       "Código": "271812GE006",
@@ -1789,18 +1801,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
-    },
-    {
-      "Código": "271811GE019",
-      "Título": "FOLCLORE COMO PROPUESTA INTERDISCIPLINAR",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "09/09/2026",
-      "Fin": "25/09/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE019/"
     },
     {
       "Código": "271811GE037",
