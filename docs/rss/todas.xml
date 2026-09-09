@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:39:23 +0000</lastBuildDate>
     <item>
       <title>271408GE016 — DANZATERAPIA, MÚSICA Y PSICOMOTRICIDAD : ELABORACIÓN PROGRAMAS ESPECÍFICOS ALUMNADO NEAE</title>
       <description>14200010 - CEP Córdoba | Curso | 13/10/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -168,13 +168,6 @@
       <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
     </item>
     <item>
-      <title>271814GE001 — NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL</title>
-      <description>18200041 - CEP Baza | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/</link>
-      <guid isPermaLink="false">271814GE001</guid>
-      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
-    </item>
-    <item>
       <title>271814GE003 — JUEGOS Y DEPORTES ALTERNATIVOS EN EDUCACIÓN FÍSICA: INNOVACIÓN, INCLUSIÓN Y COEDUCACIÓN</title>
       <description>18200041 - CEP Baza | Curso | 26/10/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE003/</link>
@@ -208,6 +201,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE002/</link>
       <guid isPermaLink="false">272321GE002</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>272922GE042 — DEL ESTRÉS AL BIENESTAR EMOCIONAL</title>
+      <description>29200014 - CEP Málaga | Curso Semipresencial | 07/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE042/</link>
+      <guid isPermaLink="false">272922GE042</guid>
+      <pubDate>Wed, 09 Sep 2026 17:39:23 +0000</pubDate>
     </item>
     <item>
       <title>272922GE059 — TALLER PRÁCTICO PARA COORDINACIONES DEL PLAN DE AUTOPROTECCIÓN</title>
@@ -574,31 +574,10 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>271812GE002 — METODOLOGÍAS PARA EL TRÁNSITO DE PRIMARIA A SECUNDARIA</title>
-      <description>18200028 - CEP Motril | Curso | 10/09/2026 → 20/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/</link>
-      <guid isPermaLink="false">271812GE002</guid>
-      <pubDate>Thu, 03 Sep 2026 17:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE003 — TALLER DE EQUIPAMIENTO TECNOLÓGICO EOI</title>
-      <description>18200028 - CEP Motril | Curso | 10/09/2026 → 14/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE003/</link>
-      <guid isPermaLink="false">271812GE003</guid>
-      <pubDate>Thu, 03 Sep 2026 20:14:19 +0000</pubDate>
-    </item>
-    <item>
       <title>271812GE007 — PRIMEROS AUXILIOS IES LA CONTRAVIESA</title>
       <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE007/</link>
       <guid isPermaLink="false">271812GE007</guid>
-      <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE008 — PRIMEROS AUXILIOS IES ALONSO CANO</title>
-      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/</link>
-      <guid isPermaLink="false">271812GE008</guid>
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
     </item>
     <item>
@@ -628,6 +607,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE001/</link>
       <guid isPermaLink="false">271813GE001</guid>
       <pubDate>Thu, 02 Jul 2026 19:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>271814GE001 — NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL</title>
+      <description>18200041 - CEP Baza | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/</link>
+      <guid isPermaLink="false">271814GE001</guid>
+      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
       <title>271814GE002 — Herramientas Digitales en el entorno del IES Pedro Jiménez Montoya</title>
@@ -1015,6 +1001,13 @@
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
     </item>
     <item>
+      <title>271107GE007 — ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES - LOS BARRIOS</title>
+      <description>11200047 - CEP Algeciras - La Línea | Curso | 09/09/2026 → 09/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/</link>
+      <guid isPermaLink="false">271107GE007</guid>
+      <pubDate>Thu, 13 Aug 2026 10:50:44 +0000</pubDate>
+    </item>
+    <item>
       <title>271408GEC02 — GESTIÓN EMOCIONAL DEL ALUMNADO DEL IES PROFESOR TIERNO GALVÁN (LA RAMBLA)</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 08/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC02/</link>
@@ -1076,6 +1069,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE006/</link>
       <guid isPermaLink="false">271812GE006</guid>
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE011 — ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL</title>
+      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 07/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/</link>
+      <guid isPermaLink="false">271812GE011</guid>
+      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE012 — ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES</title>
+      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 12/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/</link>
+      <guid isPermaLink="false">271812GE012</guid>
+      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
     </item>
     <item>
       <title>271812GE014 — IMPRESIÓN 3D EN EL AULA. DE PRIMARIA A SECUNDARIA</title>
@@ -1197,13 +1204,6 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>271107GE007 — ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES - LOS BARRIOS</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso | 09/09/2026 → 09/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/</link>
-      <guid isPermaLink="false">271107GE007</guid>
-      <pubDate>Thu, 13 Aug 2026 10:50:44 +0000</pubDate>
-    </item>
-    <item>
       <title>271107GE009 — ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 09/09/2026 → 09/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/</link>
@@ -1246,6 +1246,20 @@
       <pubDate>Wed, 08 Jul 2026 19:03:36 +0000</pubDate>
     </item>
     <item>
+      <title>271812GE002 — METODOLOGÍAS PARA EL TRÁNSITO DE PRIMARIA A SECUNDARIA</title>
+      <description>18200028 - CEP Motril | Curso | 10/09/2026 → 20/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/</link>
+      <guid isPermaLink="false">271812GE002</guid>
+      <pubDate>Thu, 03 Sep 2026 17:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE003 — TALLER DE EQUIPAMIENTO TECNOLÓGICO EOI</title>
+      <description>18200028 - CEP Motril | Curso | 10/09/2026 → 14/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE003/</link>
+      <guid isPermaLink="false">271812GE003</guid>
+      <pubDate>Thu, 03 Sep 2026 20:14:19 +0000</pubDate>
+    </item>
+    <item>
       <title>271812GE005 — RECURSOS PARA EL FOMENTO DEL APRENDIZAJE AUTÓNOMO CON ENFOQUE DUA</title>
       <description>18200028 - CEP Motril | Curso | 08/09/2026 → 14/09/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE005/</link>
@@ -1253,18 +1267,11 @@
       <pubDate>Wed, 02 Sep 2026 23:39:57 +0000</pubDate>
     </item>
     <item>
-      <title>271812GE011 — ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL</title>
-      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 07/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/</link>
-      <guid isPermaLink="false">271812GE011</guid>
-      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE012 — ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES</title>
-      <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 12/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/</link>
-      <guid isPermaLink="false">271812GE012</guid>
-      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+      <title>271812GE008 — PRIMEROS AUXILIOS IES ALONSO CANO</title>
+      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/</link>
+      <guid isPermaLink="false">271812GE008</guid>
+      <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
     </item>
     <item>
       <title>272318GE007 — PRIMEROS AUXILIOS (DESA), ERGONOMÍA E HIGIENE POSTURAL EN EL IES SAN JUAN BOSCO</title>

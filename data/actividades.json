@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T14:00:08.895217+00:00",
-  "total": 187,
+  "generado": "2026-09-09T17:39:23.426379+00:00",
+  "total": 188,
   "actividades": [
     {
       "Código": "271408GE016",
@@ -279,18 +279,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813KPF555/"
     },
     {
-      "Código": "271814GE001",
-      "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "29/09/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/"
-    },
-    {
       "Código": "271814GE003",
       "Título": "JUEGOS Y DEPORTES ALTERNATIVOS EN EDUCACIÓN FÍSICA: INNOVACIÓN, INCLUSIÓN Y COEDUCACIÓN",
       "CEP": "18200041 - CEP Baza",
@@ -349,6 +337,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE002/"
+    },
+    {
+      "Código": "272922GE042",
+      "Título": "DEL ESTRÉS AL BIENESTAR EMOCIONAL",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "07/10/2026",
+      "Fin": "04/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE042/"
     },
     {
       "Código": "272922GE059",
@@ -975,30 +975,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE056/"
     },
     {
-      "Código": "271812GE002",
-      "Título": "METODOLOGÍAS PARA EL TRÁNSITO DE PRIMARIA A SECUNDARIA",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/09/2026",
-      "Fin": "20/10/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/"
-    },
-    {
-      "Código": "271812GE003",
-      "Título": "TALLER DE EQUIPAMIENTO TECNOLÓGICO EOI",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/09/2026",
-      "Fin": "14/09/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE003/"
-    },
-    {
       "Código": "271812GE007",
       "Título": "PRIMEROS AUXILIOS IES LA CONTRAVIESA",
       "CEP": "18200028 - CEP Motril",
@@ -1009,18 +985,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE007/"
-    },
-    {
-      "Código": "271812GE008",
-      "Título": "PRIMEROS AUXILIOS IES ALONSO CANO",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "09/09/2026",
-      "Fin": "14/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/"
     },
     {
       "Código": "271812GE013",
@@ -1069,6 +1033,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE001/"
+    },
+    {
+      "Código": "271814GE001",
+      "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/"
     },
     {
       "Código": "271814GE002",
@@ -1731,6 +1707,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/"
     },
     {
+      "Código": "271107GE007",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES - LOS BARRIOS",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "09/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/"
+    },
+    {
       "Código": "271408GEC02",
       "Título": "GESTIÓN EMOCIONAL DEL ALUMNADO DEL IES PROFESOR TIERNO GALVÁN (LA RAMBLA)",
       "CEP": "14200010 - CEP Córdoba",
@@ -1837,6 +1825,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE006/"
+    },
+    {
+      "Código": "271812GE011",
+      "Título": "ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "02/09/2026",
+      "Fin": "07/10/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/"
+    },
+    {
+      "Código": "271812GE012",
+      "Título": "ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "02/09/2026",
+      "Fin": "12/10/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/"
     },
     {
       "Código": "271812GE014",
@@ -2043,18 +2055,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902PF011/"
     },
     {
-      "Código": "271107GE007",
-      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES - LOS BARRIOS",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "09/09/2026",
-      "Fin": "09/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/"
-    },
-    {
       "Código": "271107GE009",
       "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -2127,6 +2127,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE038/"
     },
     {
+      "Código": "271812GE002",
+      "Título": "METODOLOGÍAS PARA EL TRÁNSITO DE PRIMARIA A SECUNDARIA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "10/09/2026",
+      "Fin": "20/10/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/"
+    },
+    {
+      "Código": "271812GE003",
+      "Título": "TALLER DE EQUIPAMIENTO TECNOLÓGICO EOI",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "10/09/2026",
+      "Fin": "14/09/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE003/"
+    },
+    {
       "Código": "271812GE005",
       "Título": "RECURSOS PARA EL FOMENTO DEL APRENDIZAJE AUTÓNOMO CON ENFOQUE DUA",
       "CEP": "18200028 - CEP Motril",
@@ -2139,28 +2163,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE005/"
     },
     {
-      "Código": "271812GE011",
-      "Título": "ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL",
+      "Código": "271812GE008",
+      "Título": "PRIMEROS AUXILIOS IES ALONSO CANO",
       "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
+      "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/09/2026",
-      "Fin": "07/10/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Inicio": "09/09/2026",
+      "Fin": "14/09/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/"
-    },
-    {
-      "Código": "271812GE012",
-      "Título": "ACOGIDA AL PROFESORADO DE FP EN LAS ENSEÑANZAS VIRTUALES  Y SEMIPRESENCIALES",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/09/2026",
-      "Fin": "12/10/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE012/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/"
     },
     {
       "Código": "272318GE007",
