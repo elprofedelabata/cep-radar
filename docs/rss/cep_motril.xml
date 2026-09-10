@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Motril</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:46:54 +0000</lastBuildDate>
     <item>
       <title>271812GE007 — PRIMEROS AUXILIOS IES LA CONTRAVIESA</title>
       <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -49,6 +49,13 @@
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
     </item>
     <item>
+      <title>271812GE008 — PRIMEROS AUXILIOS IES ALONSO CANO</title>
+      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/</link>
+      <guid isPermaLink="false">271812GE008</guid>
+      <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
+    </item>
+    <item>
       <title>271812GE011 — ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL</title>
       <description>18200028 - CEP Motril | Curso a Distancia | 02/09/2026 → 07/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE011/</link>
@@ -89,13 +96,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE005/</link>
       <guid isPermaLink="false">271812GE005</guid>
       <pubDate>Wed, 02 Sep 2026 23:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE008 — PRIMEROS AUXILIOS IES ALONSO CANO</title>
-      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/</link>
-      <guid isPermaLink="false">271812GE008</guid>
-      <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
