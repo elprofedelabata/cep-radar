@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T20:10:44.721034+00:00",
-  "total": 197,
+  "generado": "2026-09-10T23:31:10.759980+00:00",
+  "total": 199,
   "actividades": [
     {
       "Código": "271408GE016",
@@ -1935,6 +1935,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/"
     },
     {
+      "Código": "271812GE010",
+      "Título": "PRIMEROS AUXILIOS CEIP LAS GAVIOTAS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "08/09/2026",
+      "Fin": "08/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE010/"
+    },
+    {
       "Código": "271812GE011",
       "Título": "ACOGIDA A LA COORDINACIÓN EN LAS ENSEÑANZAS DE FP VIRTUAL Y SEMIPRESENCIAL",
       "CEP": "18200028 - CEP Motril",
@@ -2281,6 +2293,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE005/"
+    },
+    {
+      "Código": "271812GE018",
+      "Título": "PRIMEROS AUXILIOS CEIP LA NORIA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/09/2026",
+      "Fin": "16/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE018/"
     },
     {
       "Código": "272318GE007",
