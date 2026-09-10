@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T13:55:19.197083+00:00",
-  "total": 197,
+  "generado": "2026-09-10T17:22:16.296870+00:00",
+  "total": 196,
   "actividades": [
     {
       "Código": "271408GE016",
@@ -1779,6 +1779,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC02/"
     },
     {
+      "Código": "271408GE081",
+      "Título": "PREVENCIÓN E INTERVENCIÓN DEL CYBERBULLYING EN EL CPD ''LUIS DEL RÍO''",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "10/09/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE081/"
+    },
+    {
       "Código": "271408PR001",
       "Título": "SÉNECA PARA CENTROS DE EDUCACIÓN PERMANENTE I. INTRODUCCIÓN Y JEFATURA DE ESTUDIOS",
       "CEP": "14200010 - CEP Córdoba",
@@ -1897,18 +1909,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/"
-    },
-    {
-      "Código": "271812GE006",
-      "Título": "INTERVENCIÓN CON ALUMNADO TEA EN EL AULA ORDINARIA",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "02/09/2026",
-      "Fin": "11/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE006/"
     },
     {
       "Código": "271812GE008",
@@ -2209,18 +2209,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
-    },
-    {
-      "Código": "271408GE081",
-      "Título": "PREVENCIÓN E INTERVENCIÓN DEL CYBERBULLYING EN EL CPD ''LUIS DEL RÍO''",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "09/09/2026",
-      "Fin": "10/09/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE081/"
     },
     {
       "Código": "271408RE002",
