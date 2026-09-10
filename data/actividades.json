@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T17:22:16.296870+00:00",
-  "total": 196,
+  "generado": "2026-09-10T20:10:44.721034+00:00",
+  "total": 197,
   "actividades": [
     {
       "Código": "271408GE016",
@@ -1753,6 +1753,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/"
+    },
+    {
+      "Código": "274130GE006",
+      "Título": "JORNADAS INFORMATIVAS DEL EQUIPO DE INSPECCIÓN N.º IV",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "14/09/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/"
     },
     {
       "Código": "271107GE007",
