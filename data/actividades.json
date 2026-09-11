@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T20:10:02.696928+00:00",
+  "generado": "2026-09-11T23:38:51.728992+00:00",
   "total": 215,
   "actividades": [
     {
@@ -1491,18 +1491,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER003/"
     },
     {
-      "Código": "274127PRI001",
-      "Título": "II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/09/2026",
-      "Fin": "26/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/"
-    },
-    {
       "Código": "274130AD001",
       "Título": "GUIA BÁSICA PARA LA ATENCIÓN AL ALUMNADO EN EL AULA ESPECÍFICA (I)",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -2353,6 +2341,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE001/"
+    },
+    {
+      "Código": "274127PRI001",
+      "Título": "II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "21/09/2026",
+      "Fin": "26/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/"
     },
     {
       "Código": "274130EPER002",
