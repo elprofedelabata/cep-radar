@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T23:31:10.759980+00:00",
+  "generado": "2026-09-11T06:46:12.902339+00:00",
   "total": 199,
   "actividades": [
     {
@@ -1827,6 +1827,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE001/"
     },
     {
+      "Código": "271408RE003",
+      "Título": "CURSO DE FORMACIÓN INICIAL PARA PROFESORADO QUE IMPARTE POR PRIMERA VEZ MODALIDAD SEMIPRESENCIAL EN EDUCACIÓN PERMANENTE DE IES/IPEP O EOI",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "11/09/2026",
+      "Fin": "14/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE003/"
+    },
+    {
       "Código": "271811GE001",
       "Título": "JORNADAS DE BUENAS PRÁCTICAS EDUCATIVAS 26/27",
       "CEP": "18200016 - CEP Granada",
@@ -2245,18 +2257,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE002/"
-    },
-    {
-      "Código": "271408RE003",
-      "Título": "CURSO DE FORMACIÓN INICIAL PARA PROFESORADO QUE IMPARTE POR PRIMERA VEZ MODALIDAD SEMIPRESENCIAL EN EDUCACIÓN PERMANENTE DE IES/IPEP O EOI",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "11/09/2026",
-      "Fin": "14/09/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE003/"
     },
     {
       "Código": "271812GE002",
