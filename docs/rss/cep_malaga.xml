@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Málaga</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:55:31 +0000</lastBuildDate>
     <item>
       <title>272922GE042 — DEL ESTRÉS AL BIENESTAR EMOCIONAL</title>
       <description>29200014 - CEP Málaga | Curso Semipresencial | 07/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -21,18 +21,11 @@
       <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
     </item>
     <item>
-      <title>272922GE067 — HERRAMIENTAS DIGITALES PARA EL AULA DE EDUCACIÓN PERMANENTE</title>
-      <description>29200014 - CEP Málaga | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE067/</link>
-      <guid isPermaLink="false">272922GE067</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>272922GE068 — ESTIMULACIÓN COGNITIVA Y ATENCIÓN AL ALUMNADO DE EPER. NEUROEDUCACIÓN PRÁCTICA</title>
-      <description>29200014 - CEP Málaga | Curso | 01/10/2026 → 31/10/2026 | Dirigido a: Educación Permanente | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE068/</link>
-      <guid isPermaLink="false">272922GE068</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+      <title>272922GE070 — TRATAMIENTO DEL ESPAÑOL COMO LENGUA EXTRANJERA EN EL AULA DE EPER</title>
+      <description>29200014 - CEP Málaga | Curso | 03/11/2026 → 30/11/2026 | Dirigido a: Educación Permanente | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE070/</link>
+      <guid isPermaLink="false">272922GE070</guid>
+      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
       <title>272922GE020 — MATEMÁTICAS MANIPULATIVAS PARA EL DESARROLLO DEL RAZONAMIENTO MATEMÁTICO EN PRIMARIA (NIVEL I)</title>
@@ -63,11 +56,18 @@
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
-      <title>272922GE054 — ENTRENAMIENTO INTEGRAL DEL BAILARÍN: CUERPO, SISTEMA NERVIOSO Y PEDAGOGÍA DEL MOVIMIENTO</title>
-      <description>29200014 - CEP Málaga | Curso | 16/09/2026 → 18/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE054/</link>
-      <guid isPermaLink="false">272922GE054</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
+      <title>272922GE067 — HERRAMIENTAS DIGITALES PARA EL AULA DE EDUCACIÓN PERMANENTE</title>
+      <description>29200014 - CEP Málaga | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE067/</link>
+      <guid isPermaLink="false">272922GE067</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>272922GE068 — ESTIMULACIÓN COGNITIVA Y ATENCIÓN AL ALUMNADO DE EPER. NEUROEDUCACIÓN PRÁCTICA</title>
+      <description>29200014 - CEP Málaga | Curso | 01/10/2026 → 31/10/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE068/</link>
+      <guid isPermaLink="false">272922GE068</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>272922GE076 — SPANISH-GERMAN MATCHING EVENT: JORNADA DE ENCUENTRO ENTRE CENTROS DE FP DE LA REGIÓN DE COLONIA (ALEMANIA) Y DE MÁLAGA</title>
@@ -82,6 +82,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922IC002/</link>
       <guid isPermaLink="false">272922IC002</guid>
       <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>272922GE054 — ENTRENAMIENTO INTEGRAL DEL BAILARÍN: CUERPO, SISTEMA NERVIOSO Y PEDAGOGÍA DEL MOVIMIENTO</title>
+      <description>29200014 - CEP Málaga | Curso | 16/09/2026 → 18/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE054/</link>
+      <guid isPermaLink="false">272922GE054</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
