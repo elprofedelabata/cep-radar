@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-11T17:24:16.910920+00:00",
-  "total": 213,
+  "generado": "2026-09-11T20:10:02.696928+00:00",
+  "total": 215,
   "actividades": [
     {
       "Código": "271408GE058",
@@ -363,6 +363,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE001/"
     },
     {
+      "Código": "272922GE040",
+      "Título": "STEAMULANDO LA FÍSICA: PROGRAMACIÓN DE EXPERIMENTOS INTERACTIVOS",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "06/10/2026",
+      "Fin": "10/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE040/"
+    },
+    {
       "Código": "272922GE042",
       "Título": "DEL ESTRÉS AL BIENESTAR EMOCIONAL",
       "CEP": "29200014 - CEP Málaga",
@@ -493,6 +505,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PA455/"
+    },
+    {
+      "Código": "274131GE002",
+      "Título": "JORNADAS COORDINACIONES DE GT Y FC PARA LA ELABORACIÓN DEL PROYECTO 26-27",
+      "CEP": "41200054 - CEP Lebrija",
+      "Modalidad": "Jornadas",
+      "Estado": "En proyecto",
+      "Inicio": "05/10/2026",
+      "Fin": "05/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE002/"
     },
     {
       "Código": "279931PA455",
@@ -1117,18 +1141,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE006/"
-    },
-    {
-      "Código": "272115GE001",
-      "Título": "JORNADAS DE ACOGIDA PARA PROFESORADO NOVEL EN EDUCACIÓN PERMANENTE",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Otros",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "14/09/2026",
-      "Fin": "06/10/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE001/"
     },
     {
       "Código": "272116GE001",
@@ -2473,6 +2485,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE001/"
+    },
+    {
+      "Código": "272115GE001",
+      "Título": "JORNADAS DE ACOGIDA PARA PROFESORADO NOVEL EN EDUCACIÓN PERMANENTE",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Otros",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "14/09/2026",
+      "Fin": "06/10/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE001/"
     },
     {
       "Código": "272318GE007",

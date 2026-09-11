@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 17:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:10:02 +0000</lastBuildDate>
     <item>
       <title>271408GE058 — NATURALEZA ESCRITA. EL BOSQUE QUE FUIMOS</title>
       <description>14200010 - CEP Córdoba | Curso | 15/10/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -217,6 +217,13 @@
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
+      <title>272922GE040 — STEAMULANDO LA FÍSICA: PROGRAMACIÓN DE EXPERIMENTOS INTERACTIVOS</title>
+      <description>29200014 - CEP Málaga | Curso Semipresencial | 06/10/2026 → 10/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE040/</link>
+      <guid isPermaLink="false">272922GE040</guid>
+      <pubDate>Fri, 11 Sep 2026 20:10:02 +0000</pubDate>
+    </item>
+    <item>
       <title>272922GE042 — DEL ESTRÉS AL BIENESTAR EMOCIONAL</title>
       <description>29200014 - CEP Málaga | Curso Semipresencial | 07/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE042/</link>
@@ -292,6 +299,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PA455/</link>
       <guid isPermaLink="false">274127PA455</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>274131GE002 — JORNADAS COORDINACIONES DE GT Y FC PARA LA ELABORACIÓN DEL PROYECTO 26-27</title>
+      <description>41200054 - CEP Lebrija | Jornadas | 05/10/2026 → 05/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE002/</link>
+      <guid isPermaLink="false">274131GE002</guid>
+      <pubDate>Fri, 11 Sep 2026 20:10:02 +0000</pubDate>
     </item>
     <item>
       <title>279931PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN</title>
@@ -656,13 +670,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE006/</link>
       <guid isPermaLink="false">271814GE006</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>272115GE001 — JORNADAS DE ACOGIDA PARA PROFESORADO NOVEL EN EDUCACIÓN PERMANENTE</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Otros | 14/09/2026 → 06/10/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE001/</link>
-      <guid isPermaLink="false">272115GE001</guid>
-      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
       <title>272116GE001 — GESTIÓN ECONÓMICA Y ADMINISTRATIVA PARA SECRETARI@S NOVELES</title>
@@ -1447,6 +1454,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE001/</link>
       <guid isPermaLink="false">271813GE001</guid>
       <pubDate>Thu, 02 Jul 2026 19:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>272115GE001 — JORNADAS DE ACOGIDA PARA PROFESORADO NOVEL EN EDUCACIÓN PERMANENTE</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Otros | 14/09/2026 → 06/10/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE001/</link>
+      <guid isPermaLink="false">272115GE001</guid>
+      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
       <title>272318GE007 — PRIMEROS AUXILIOS (DESA), ERGONOMÍA E HIGIENE POSTURAL EN EL IES SAN JUAN BOSCO</title>
