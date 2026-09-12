@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-12T06:38:48.655509+00:00",
-  "total": 215,
+  "generado": "2026-09-12T13:12:35.750845+00:00",
+  "total": 216,
   "actividades": [
     {
       "Código": "271408GE058",
@@ -505,6 +505,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PA455/"
+    },
+    {
+      "Código": "274130GE007",
+      "Título": "USO DE SIMULADOR DE PINTURA EN CARROCERIA EN EL IES LA CAMPIÑA",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "17/09/2026",
+      "Fin": "24/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE007/"
     },
     {
       "Código": "274131GE002",
@@ -1827,18 +1839,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932PF011/"
     },
     {
-      "Código": "272923FP151",
-      "Título": "DINAMIZACIÓN Y GUIAJE EN ITINERARIOS MARINOS EN F.P. A TRAVÉS DEL PADDLE SURF Y EL SNORKEL",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/09/2026",
-      "Fin": "25/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP151/"
-    },
-    {
       "Código": "27401GE006",
       "Título": "CEPx: BUENAS PRÁCTICAS EDUCATIVAS IV",
       "CEP": "04200019 - CEP Almería",
@@ -2329,6 +2329,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE054/"
+    },
+    {
+      "Código": "272923FP151",
+      "Título": "DINAMIZACIÓN Y GUIAJE EN ITINERARIOS MARINOS EN F.P. A TRAVÉS DEL PADDLE SURF Y EL SNORKEL",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "21/09/2026",
+      "Fin": "25/09/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP151/"
     },
     {
       "Código": "27401GE001",
