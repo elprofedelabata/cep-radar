@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-13T06:55:18.997848+00:00",
+  "generado": "2026-09-13T13:57:24.441373+00:00",
   "total": 216,
   "actividades": [
     {
@@ -685,18 +685,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106CU001/"
-    },
-    {
-      "Código": "271106FEDAP003",
-      "Título": "GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "29/09/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106FEDAP003/"
     },
     {
       "Código": "271107GE002",
@@ -1633,6 +1621,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF555/"
+    },
+    {
+      "Código": "279906PF011",
+      "Título": "GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF011/"
     },
     {
       "Código": "279908OE006",
