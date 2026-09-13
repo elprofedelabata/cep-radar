@@ -1,19 +1,7 @@
 {
-  "generado": "2026-09-13T13:57:24.441373+00:00",
+  "generado": "2026-09-13T17:11:11.518078+00:00",
   "total": 216,
   "actividades": [
-    {
-      "Código": "271408GE058",
-      "Título": "NATURALEZA ESCRITA. EL BOSQUE QUE FUIMOS",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "15/10/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE058/"
-    },
     {
       "Código": "271408PR005",
       "Título": "RED PROVINCIAL CÓRDOBA  PROFESIONALES TEA",
@@ -793,6 +781,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE056/"
+    },
+    {
+      "Código": "271408GE058",
+      "Título": "NATURALEZA ESCRITA. EL BOSQUE QUE FUIMOS",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/10/2026",
+      "Fin": "05/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE058/"
     },
     {
       "Código": "271408PR018",
