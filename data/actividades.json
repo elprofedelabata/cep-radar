@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T00:03:24.454886+00:00",
+  "generado": "2026-09-15T06:54:10.375970+00:00",
   "total": 243,
   "actividades": [
     {
@@ -565,6 +565,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106FEDAP002/"
+    },
+    {
+      "Código": "271106FEDAP007",
+      "Título": "JORNADAS PARA EQUIPOS DIRECTIVOS: LA ATENCIÓN A LA DIVERSIDAD. EDUCAR PARA LA PERTENENCIA",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "06/10/2026",
+      "Fin": "06/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106FEDAP007/"
     },
     {
       "Código": "271107GE002",
@@ -2595,18 +2607,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP001/"
     },
     {
-      "Código": "279933FP002",
-      "Título": "PROGRAMACIÓN FUNDAMENTAL DE POLYSCOPE 5 DE UNIVERSAL ROBOTS",
-      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "07/09/2026",
-      "Fin": "10/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP002/"
-    },
-    {
       "Código": "279933FP003",
       "Título": "FORMACIÓN DE LOS INTEGRANTES DE LA RED ANDALUZA DE DINAMIZACIÓN DE LA FP DUAL",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -2643,18 +2643,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP027/"
     },
     {
-      "Código": "272923GEJ251",
-      "Título": "EL ARTE DE ESCUCHAR Y EL ARTE DE PREGUNTAR EN LA INTERVENCIÓN EDUCATIVA: MÉTODOS Y METODOLOGÍAS",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "17/09/2026",
-      "Fin": "19/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GEJ251/"
-    },
-    {
       "Código": "274127PRI001",
       "Título": "II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO",
       "CEP": "41200017 - CEP Sevilla",
@@ -2665,18 +2653,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/"
-    },
-    {
-      "Código": "274130INT001",
-      "Título": "JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "16/09/2026",
-      "Fin": "16/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT001/"
     },
     {
       "Código": "271104FEDAP005",
@@ -2799,6 +2775,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP151/"
     },
     {
+      "Código": "272923GEJ251",
+      "Título": "EL ARTE DE ESCUCHAR Y EL ARTE DE PREGUNTAR EN LA INTERVENCIÓN EDUCATIVA: MÉTODOS Y METODOLOGÍAS",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "17/09/2026",
+      "Fin": "19/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GEJ251/"
+    },
+    {
       "Código": "272926GE501",
       "Título": "INTERVENCIÓN CON ADOLESCENTES EN ESPACIOS RESTAURATIVOS",
       "CEP": "29200051 - CEP Vélez-Málaga",
@@ -2869,6 +2857,18 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/"
+    },
+    {
+      "Código": "274130INT001",
+      "Título": "JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "16/09/2026",
+      "Fin": "16/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT001/"
     },
     {
       "Código": "274130PER001",
