@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:34:27 +0000</lastBuildDate>
     <item>
       <title>271105FED001 — RECURSOS Y ESTRATEGIAS MUSICALES PARA EDUCACIÓN INFANTIL</title>
       <description>11200023 - CEP Jerez de la Frontera | Curso | 14/10/2026 → 11/11/2026 | Dirigido a: Educación infantil | Estado: En proyecto</description>
@@ -40,6 +40,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE013/</link>
       <guid isPermaLink="false">271811GE013</guid>
       <pubDate>Tue, 15 Sep 2026 14:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE022 — LE PODCAST EN COURS DE FLE : CRÉEZ ET DIFFUSEZ VOS CONTENUS PÉDAGOGIQUES</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 06/10/2026 → 08/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE022/</link>
+      <guid isPermaLink="false">271811GE022</guid>
+      <pubDate>Tue, 15 Sep 2026 20:34:26 +0000</pubDate>
     </item>
     <item>
       <title>271811GE024 — CONOCE EL AULA DEL FUTURO</title>
@@ -138,13 +145,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922IC003/</link>
       <guid isPermaLink="false">272922IC003</guid>
       <pubDate>Tue, 15 Sep 2026 14:31:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>272923GE851 — MATEMÁTICAS - ED. INFANTIL</title>
-      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE851/</link>
-      <guid isPermaLink="false">272923GE851</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>272924GE151 — METODOLOGÍAS ACTIVAS PARA LA GESTIÓN DEL AULA Y LA ATENCIÓN A LA DIVERSIDAD</title>
@@ -631,7 +631,7 @@
     </item>
     <item>
       <title>271812GE007 — PRIMEROS AUXILIOS IES LA CONTRAVIESA</title>
-      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE007/</link>
       <guid isPermaLink="false">271812GE007</guid>
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
@@ -777,7 +777,7 @@
       <pubDate>Tue, 15 Sep 2026 14:31:39 +0000</pubDate>
     </item>
     <item>
-      <title>272117GE004 — PILDORAS EDUCATIVAS</title>
+      <title>272117GE004 — PÍLDORAS EDUCATIVAS</title>
       <description>21200037 - CEP Aracena | Curso | 01/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE004/</link>
       <guid isPermaLink="false">272117GE004</guid>
@@ -950,6 +950,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE403/</link>
       <guid isPermaLink="false">272923GE403</guid>
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>272923GE851 — DESCUBRIENDO LAS MATEMÁTICAS EN EDUCACIÓN INFANTIL</title>
+      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE851/</link>
+      <guid isPermaLink="false">272923GE851</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>272926GE002 — JORNADAS MATEMÁTICAS : EL TEOREMA DEL ÉXITO, RESUELVE TU PROPIO DESAFÍO</title>
@@ -1351,20 +1358,6 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>279927OE005 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
-      <description>41200017 - CEP Sevilla | Curso Semipresencial | 22/09/2026 → 22/09/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927OE005/</link>
-      <guid isPermaLink="false">279927OE005</guid>
-      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>279927PF001 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
-      <description>41200017 - CEP Sevilla | Curso | 21/09/2026 → 26/10/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927PF001/</link>
-      <guid isPermaLink="false">279927PF001</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
       <title>271104PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
       <description>11200011 - CEP Cádiz | Curso | 15/09/2026 → 20/10/2026 | Dirigido a: Equipos directivos | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104PF011/</link>
@@ -1464,7 +1457,7 @@
     </item>
     <item>
       <title>271812GE008 — PRIMEROS AUXILIOS IES ALONSO CANO</title>
-      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 14/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 23/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE008/</link>
       <guid isPermaLink="false">271812GE008</guid>
       <pubDate>Tue, 01 Sep 2026 20:15:15 +0000</pubDate>
@@ -1650,6 +1643,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/</link>
       <guid isPermaLink="false">274127PRI001</guid>
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>279927OE005 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
+      <description>41200017 - CEP Sevilla | Curso Semipresencial | 22/09/2026 → 22/09/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927OE005/</link>
+      <guid isPermaLink="false">279927OE005</guid>
+      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>279927PF001 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
+      <description>41200017 - CEP Sevilla | Curso | 21/09/2026 → 26/10/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927PF001/</link>
+      <guid isPermaLink="false">279927PF001</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP005 — JORNADAS DE PATRIMONIO, CULTURA E HISTORIA DE CÁDIZ. RUTAS DIDÁCTICAS PARA CONOCER NUESTRO PASADO: EMPORIO DEL ORBE.</title>
