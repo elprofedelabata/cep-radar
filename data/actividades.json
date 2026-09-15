@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-14T21:08:06.510837+00:00",
-  "total": 242,
+  "generado": "2026-09-15T00:03:24.454886+00:00",
+  "total": 243,
   "actividades": [
     {
       "Código": "271409GE002",
@@ -188,8 +188,8 @@
       "CEP": "18200041 - CEP Baza",
       "Modalidad": "Curso Semipresencial",
       "Estado": "En proyecto",
-      "Inicio": "05/10/2026",
-      "Fin": "30/10/2026",
+      "Inicio": "03/11/2026",
+      "Fin": "10/11/2026",
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE004/"
@@ -328,15 +328,27 @@
     },
     {
       "Código": "274127ACS003",
-      "Título": "ERASMUS DAY: SESIÓN DE EXPOSICIÓN DE RESULTADOS DEL CONSORCIO 2025-26 DEL CEP DE SEVILLA",
+      "Título": "ERASMUS DAY: SESIÓN DE EXPOSICIÓN DE RESULTADOS DEL CONSORCIO ESCOLAR 2025-26 DEL CEP DE SEVILLA",
       "CEP": "41200017 - CEP Sevilla",
       "Modalidad": "Jornadas",
       "Estado": "En proyecto",
-      "Inicio": "13/10/2026",
+      "Inicio": "14/10/2026",
       "Fin": "15/10/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS003/"
+    },
+    {
+      "Código": "274127ACS006",
+      "Título": "ERASMUS DAY: SESIÓN DE EXPOSICIÓN DE RESULTADOS DEL CONSORCIO DE ADULTOS 2025-26 DEL CEP DE SEVILLA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Jornadas",
+      "Estado": "En proyecto",
+      "Inicio": "14/10/2026",
+      "Fin": "14/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS006/"
     },
     {
       "Código": "274127ARE200",
