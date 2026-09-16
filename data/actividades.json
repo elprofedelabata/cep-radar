@@ -1,19 +1,7 @@
 {
-  "generado": "2026-09-15T23:47:57.079304+00:00",
+  "generado": "2026-09-16T06:56:56.555677+00:00",
   "total": 256,
   "actividades": [
-    {
-      "Código": "271105FED001",
-      "Título": "RECURSOS Y ESTRATEGIAS MUSICALES PARA EDUCACIÓN INFANTIL",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "14/10/2026",
-      "Fin": "11/11/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED001/"
-    },
     {
       "Código": "271811GE002",
       "Título": "JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS",
@@ -61,18 +49,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE013/"
-    },
-    {
-      "Código": "271811GE022",
-      "Título": "LE PODCAST EN COURS DE FLE : CRÉEZ ET DIFFUSEZ VOS CONTENUS PÉDAGOGIQUES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "06/10/2026",
-      "Fin": "08/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE022/"
     },
     {
       "Código": "271811GE024",
@@ -181,18 +157,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE005/"
-    },
-    {
-      "Código": "272115GE005",
-      "Título": "PATRIMONIO ARQUEOLÓGICO EN LA PROVINCIA DE HUELVA II",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "14/10/2026",
-      "Fin": "22/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE005/"
     },
     {
       "Código": "272320GE001",
@@ -445,6 +409,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP030/"
+    },
+    {
+      "Código": "271105FED001",
+      "Título": "RECURSOS Y ESTRATEGIAS MUSICALES PARA EDUCACIÓN INFANTIL",
+      "CEP": "11200023 - CEP Jerez de la Frontera",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "14/10/2026",
+      "Fin": "11/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED001/"
     },
     {
       "Código": "271105FED005",
@@ -903,6 +879,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE021/"
     },
     {
+      "Código": "271811GE022",
+      "Título": "LE PODCAST EN COURS DE FLE : CRÉEZ ET DIFFUSEZ VOS CONTENUS PÉDAGOGIQUES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "06/10/2026",
+      "Fin": "08/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE022/"
+    },
+    {
       "Código": "271811GE027",
       "Título": "MATEMÁTICAS CON SENTIDO: OAOA (NIVEL INICIAL)",
       "CEP": "18200016 - CEP Granada",
@@ -1249,6 +1237,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE006/"
+    },
+    {
+      "Código": "272115GE005",
+      "Título": "PATRIMONIO ARQUEOLÓGICO EN LA PROVINCIA DE HUELVA II",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "14/10/2026",
+      "Fin": "22/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE005/"
     },
     {
       "Código": "272115kPF510",
@@ -2343,6 +2343,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE007/"
     },
     {
+      "Código": "271107GE009",
+      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "09/09/2026",
+      "Fin": "09/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
+    },
+    {
       "Código": "271408GEC02",
       "Título": "GESTIÓN EMOCIONAL DEL ALUMNADO DEL IES PROFESOR TIERNO GALVÁN (LA RAMBLA)",
       "CEP": "14200010 - CEP Córdoba",
@@ -2679,6 +2691,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP152/"
     },
     {
+      "Código": "272923GEJ251",
+      "Título": "EL ARTE DE ESCUCHAR Y EL ARTE DE PREGUNTAR EN LA INTERVENCIÓN EDUCATIVA: MÉTODOS Y METODOLOGÍAS",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Jornadas",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/09/2026",
+      "Fin": "19/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GEJ251/"
+    },
+    {
       "Código": "272926GE502",
       "Título": "EVALUACIÓN FORMATIVA CON EL CUADERNO SÉNECA",
       "CEP": "29200051 - CEP Vélez-Málaga",
@@ -2847,18 +2871,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP005/"
     },
     {
-      "Código": "271107GE009",
-      "Título": "ATENCIÓN EDUCATIVA AL ALUMNADO DE RESIDENCIAS ESCOLARES-TARIFA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "09/09/2026",
-      "Fin": "09/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE009/"
-    },
-    {
       "Código": "271811GE053",
       "Título": "INICIACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES",
       "CEP": "18200016 - CEP Granada",
@@ -2929,18 +2941,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923FP151/"
-    },
-    {
-      "Código": "272923GEJ251",
-      "Título": "EL ARTE DE ESCUCHAR Y EL ARTE DE PREGUNTAR EN LA INTERVENCIÓN EDUCATIVA: MÉTODOS Y METODOLOGÍAS",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "17/09/2026",
-      "Fin": "19/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GEJ251/"
     },
     {
       "Código": "272926GE501",
