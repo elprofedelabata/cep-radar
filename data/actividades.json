@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T20:34:00.149817+00:00",
-  "total": 277,
+  "generado": "2026-09-16T23:56:55.910578+00:00",
+  "total": 279,
   "actividades": [
     {
       "Código": "271811GE002",
@@ -13,6 +13,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE002/"
+    },
+    {
+      "Código": "271811GE007",
+      "Título": "APRENDIZAJE COOPERATIVO COMO METODOLOGÍA ACTIVA Y MODELO DE GESTIÓN DE AULA.",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "04/11/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE007/"
     },
     {
       "Código": "271811GE010",
@@ -61,18 +73,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE024/"
-    },
-    {
-      "Código": "271811GE026",
-      "Título": "LEVEL UP YOUR ENGLISH I: ADVANCED LEVEL",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "08/10/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE026/"
     },
     {
       "Código": "271811GE029",
@@ -939,6 +939,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE022/"
     },
     {
+      "Código": "271811GE026",
+      "Título": "LEVEL UP YOUR ENGLISH I: ADVANCED LEVEL",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/10/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE026/"
+    },
+    {
       "Código": "271811GE027",
       "Título": "MATEMÁTICAS CON SENTIDO: OAOA (NIVEL INICIAL)",
       "CEP": "18200016 - CEP Granada",
@@ -1261,6 +1273,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE027/"
+    },
+    {
+      "Código": "271812GE028",
+      "Título": "III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Otros",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "03/10/2026",
+      "Fin": "13/10/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/"
     },
     {
       "Código": "271813GE015",
