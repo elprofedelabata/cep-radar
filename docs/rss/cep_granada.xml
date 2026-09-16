@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:26:10 +0000</lastBuildDate>
     <item>
       <title>271811GE002 — JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS</title>
       <description>18200016 - CEP Granada | Jornadas | 15/10/2026 → 16/10/2026 | Dirigido a: Equipos directivos | Estado: En proyecto</description>
@@ -54,6 +54,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/</link>
       <guid isPermaLink="false">271811GE030</guid>
       <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE040 — ACTIVIDAD FÍSICA, CONDICIÓN FÍSICA Y RENDIMIENTO ACADÉMICO: PERSPECTIVAS EDUCATIVAS Y CLÍNICAS</title>
+      <description>18200016 - CEP Granada | Curso | 13/10/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE040/</link>
+      <guid isPermaLink="false">271811GE040</guid>
+      <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
       <title>271811GE043 — RED PROFESIONAL 0 - 3: EL ORIGEN DE LA EDUCACIÓN</title>
@@ -119,7 +126,7 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE022 — LE PODCAST EN COURS DE FLE : CRÉEZ ET DIFFUSEZ VOS CONTENUS PÉDAGOGIQUES</title>
+      <title>271811GE022 — LE PODCAST EN COURS DE FLE: CRÉEZ ET DIFFUSEZ VOS CONTENUS PÉDAGOGIQUES</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 06/10/2026 → 08/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE022/</link>
       <guid isPermaLink="false">271811GE022</guid>
@@ -217,6 +224,13 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE058 — DINÁMICAS CREATIVAS PARA E. INFANTIL: LA MAGIA DE ''EL CASCANUECES''</title>
+      <description>18200016 - CEP Granada | Curso | 06/10/2026 → 23/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE058/</link>
+      <guid isPermaLink="false">271811GE058</guid>
+      <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE001 — JORNADAS DE BUENAS PRÁCTICAS EDUCATIVAS 26/27</title>
       <description>18200016 - CEP Granada | Jornadas | 04/09/2026 → 04/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE001/</link>
@@ -259,18 +273,18 @@
       <pubDate>Wed, 08 Jul 2026 19:03:36 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE053 — INICIACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 16/09/2026 → 25/09/2026 | Dirigido a: Educación Permanente | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE053/</link>
+      <guid isPermaLink="false">271811GE053</guid>
+      <pubDate>Mon, 31 Aug 2026 17:16:55 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE054 — ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 07/09/2026 → 18/09/2026 | Dirigido a: Educación Permanente | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/</link>
       <guid isPermaLink="false">271811GE054</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE053 — INICIACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 16/09/2026 → 25/09/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE053/</link>
-      <guid isPermaLink="false">271811GE053</guid>
-      <pubDate>Mon, 31 Aug 2026 17:16:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
