@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-16T23:56:55.910578+00:00",
+  "generado": "2026-09-17T06:52:16.909013+00:00",
   "total": 279,
   "actividades": [
     {
@@ -1539,6 +1539,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE003/"
     },
     {
+      "Código": "272922GE011",
+      "Título": "EDUCACIÓN INCLUSIVA: HERRAMIENTAS PARA LA PRÁCTICA DOCENTE",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "19/10/2026",
+      "Fin": "23/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE011/"
+    },
+    {
       "Código": "272922GE018",
       "Título": "LA COMPETENCIA CIENTÍFICA EN INFANTIL Y PRIMARIA: CSIC EN LA ESCUELA",
       "CEP": "29200014 - CEP Málaga",
@@ -1681,6 +1693,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE076/"
+    },
+    {
+      "Código": "272922GE080",
+      "Título": "PROGRAMACIÓN Y EVALUACIÓN EN FORMACIÓN PROFESIONAL (CEP de Málaga)",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "05/10/2026",
+      "Fin": "28/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE080/"
     },
     {
       "Código": "272922IC002",
@@ -2331,18 +2355,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PA455/"
     },
     {
-      "Código": "279928PF011",
-      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/09/2026",
-      "Fin": "21/10/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PF011/"
-    },
-    {
       "Código": "279929PA455",
       "Título": "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN",
       "CEP": "41200030 - CEP Osuna - Écija",
@@ -2497,6 +2509,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901KPF555/"
+    },
+    {
+      "Código": "279928PF011",
+      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
+      "CEP": "41200029 - CEP Castilleja de la Cuesta",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "23/09/2026",
+      "Fin": "21/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PF011/"
     },
     {
       "Código": "271104PF011",
@@ -2979,18 +3003,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/"
     },
     {
-      "Código": "274130GE005",
-      "Título": "ll Jornadas Técnicas para la Familia Profesional de Transporte y Mantenimiento de Vehículos IES Torre de los Herberos.",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Jornadas",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "07/09/2026",
-      "Fin": "11/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE005/"
-    },
-    {
       "Código": "274132GE001",
       "Título": "BIENESTAR EMOCIONAL Y CONVIVENCIA EN LA RESIDENCIA ESCOLAR",
       "CEP": "41200066 - CEP Lora del Río",
@@ -3075,18 +3087,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED006/"
     },
     {
-      "Código": "271107GE002",
-      "Título": "PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "30/09/2026",
-      "Fin": "14/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE002/"
-    },
-    {
       "Código": "274127PRI001",
       "Título": "II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO",
       "CEP": "41200017 - CEP Sevilla",
@@ -3157,6 +3157,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP005/"
+    },
+    {
+      "Código": "271107GE002",
+      "Título": "PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "30/09/2026",
+      "Fin": "14/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE002/"
     },
     {
       "Código": "271812GE002",
@@ -3289,18 +3301,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/"
-    },
-    {
-      "Código": "274130INT001",
-      "Título": "JORNADA DE RESOLUCIÓN DE DUDAS PARA LA ACREDITACIÓN ERASMUS 2026",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "16/09/2026",
-      "Fin": "16/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT001/"
     },
     {
       "Código": "274130PER001",
