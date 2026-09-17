@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:46:47 +0000</lastBuildDate>
     <item>
       <title>271409GE006 — DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso | 29/09/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -158,13 +158,6 @@
       <description>21200025 - CEP Bollullos - Valverde | Jornadas | 29/09/2026 → 06/10/2026 | Dirigido a: Educación Permanente | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE006/</link>
       <guid isPermaLink="false">272116GE006</guid>
-      <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>272318GE009 — ALFABETIZACIÓN MEDIÁTICA Y PENSAMIENTO CRÍTICO EN LA BIBLIOTECA ESCOLAR</title>
-      <description>23200016 - CEP Jaén | Curso | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE009/</link>
-      <guid isPermaLink="false">272318GE009</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
     </item>
     <item>
@@ -959,6 +952,13 @@
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
+      <title>272318GE009 — ALFABETIZACIÓN MEDIÁTICA Y PENSAMIENTO CRÍTICO EN LA BIBLIOTECA ESCOLAR</title>
+      <description>23200016 - CEP Jaén | Curso | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE009/</link>
+      <guid isPermaLink="false">272318GE009</guid>
+      <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
+    </item>
+    <item>
       <title>272319GE001 — XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA</title>
       <description>23200028 - CEP Linares - Andújar | Otros | 20/10/2026 → 20/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE001/</link>
@@ -1260,13 +1260,6 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>274127ARE001 — LA RADIO ESCOLAR: CONTROL TÉCNICO Y GRABACIÓN DE UN PODCAST (ARE, EPER Y EOI)</title>
-      <description>41200017 - CEP Sevilla | Curso | 29/09/2026 → 06/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ARE001/</link>
-      <guid isPermaLink="false">274127ARE001</guid>
-      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
-    </item>
-    <item>
       <title>274127INF001 — ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN</title>
       <description>41200017 - CEP Sevilla | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/</link>
@@ -1293,13 +1286,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PA455/</link>
       <guid isPermaLink="false">274127PA455</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>274127PER002 — PRIMEROS PASOS EN ERASMUS PLUS: EPER, EEOOII Y ARE. HORARIO DE MAÑANA</title>
-      <description>41200017 - CEP Sevilla | Curso | 24/09/2026 → 01/10/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER002/</link>
-      <guid isPermaLink="false">274127PER002</guid>
-      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
       <title>274127PER003 — PATRIMONIO MUSICAL Y DANZA ESPAÑOLA: INTRODUCCIÓN AL MOVIMIENTO CORPORAL</title>
@@ -1573,6 +1559,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/</link>
       <guid isPermaLink="false">27401GE006</guid>
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127ARE001 — LA RADIO ESCOLAR: CONTROL TÉCNICO Y GRABACIÓN DE UN PODCAST (ARE, EPER Y EOI)</title>
+      <description>41200017 - CEP Sevilla | Curso | 29/09/2026 → 06/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ARE001/</link>
+      <guid isPermaLink="false">274127ARE001</guid>
+      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127PER002 — PRIMEROS PASOS EN ERASMUS PLUS: EPER, EEOOII Y ARE. HORARIO DE MAÑANA</title>
+      <description>41200017 - CEP Sevilla | Curso | 24/09/2026 → 01/10/2026 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER002/</link>
+      <guid isPermaLink="false">274127PER002</guid>
+      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
       <title>274130GE006 — JORNADAS INFORMATIVAS DEL EQUIPO DE INSPECCIÓN N.º IV</title>
