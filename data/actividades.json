@@ -1,7 +1,19 @@
 {
-  "generado": "2026-09-17T14:30:50.662951+00:00",
-  "total": 297,
+  "generado": "2026-09-17T20:41:13.452669+00:00",
+  "total": 300,
   "actividades": [
+    {
+      "Código": "271409GE006",
+      "Título": "DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS",
+      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "29/09/2026",
+      "Fin": "20/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE006/"
+    },
     {
       "Código": "271811GE002",
       "Título": "JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS",
@@ -99,18 +111,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE030/"
     },
     {
-      "Código": "271811GE040",
-      "Título": "ACTIVIDAD FÍSICA, CONDICIÓN FÍSICA Y RENDIMIENTO ACADÉMICO: PERSPECTIVAS EDUCATIVAS Y CLÍNICAS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "13/10/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE040/"
-    },
-    {
       "Código": "271811GE051",
       "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO: TEA NIVEL 1",
       "CEP": "18200016 - CEP Granada",
@@ -121,6 +121,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE051/"
+    },
+    {
+      "Código": "271812QPF555",
+      "Título": "CUADERNO DE CLASE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL. SECUNDARIA Y BACHILLERATO",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "En proyecto",
+      "Inicio": "01/10/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812QPF555/"
     },
     {
       "Código": "271813GE014",
@@ -1071,6 +1083,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/"
     },
     {
+      "Código": "271811GE033",
+      "Título": "PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR. IES ARICEL",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "10/11/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE033/"
+    },
+    {
       "Código": "271811GE034",
       "Título": "PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR EN EL IES PEDRO SOTO DE ROJAS",
       "CEP": "18200016 - CEP Granada",
@@ -1093,6 +1117,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE035/"
+    },
+    {
+      "Código": "271811GE040",
+      "Título": "ACTIVIDAD FÍSICA, CONDICIÓN FÍSICA Y RENDIMIENTO ACADÉMICO: PERSPECTIVAS EDUCATIVAS Y CLÍNICAS",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "13/10/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE040/"
     },
     {
       "Código": "271811GE041",
@@ -2643,18 +2679,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932PF011/"
     },
     {
-      "Código": "271813GE015",
-      "Título": "NEUROEDUCACIÓN, GESTIÓN EMOCIONAL Y RESOLUCIÓN DE CONFLICTOS EN CEIP VIRGEN DE LORETO E IES ISABEL LA CATÓLICA",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/09/2026",
-      "Fin": "28/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE015/"
-    },
-    {
       "Código": "27401GE006",
       "Título": "CEPx: BUENAS PRÁCTICAS EDUCATIVAS IV",
       "CEP": "04200019 - CEP Almería",
@@ -3135,6 +3159,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER001/"
     },
     {
+      "Código": "274130EPER002",
+      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE  (IES/IPEP/EOI).",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/09/2026",
+      "Fin": "23/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/"
+    },
+    {
       "Código": "274130GE003",
       "Título": "FORMACIÓN DEL EQUIPO TÉCNICO DE FORMACIÓN DEL CEP DE MAIRENA DEL ALCOR",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -3145,6 +3181,18 @@
       "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/"
+    },
+    {
+      "Código": "274130PER001",
+      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE (CEPER/SEP)",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "17/09/2026",
+      "Fin": "23/09/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130PER001/"
     },
     {
       "Código": "274132GE001",
@@ -3411,6 +3459,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE019/"
     },
     {
+      "Código": "271813GE015",
+      "Título": "NEUROEDUCACIÓN, GESTIÓN EMOCIONAL Y RESOLUCIÓN DE CONFLICTOS EN CEIP VIRGEN DE LORETO E IES ISABEL LA CATÓLICA",
+      "CEP": "18200031 - CEP Guadix",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/09/2026",
+      "Fin": "28/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE015/"
+    },
+    {
       "Código": "272318GE002",
       "Título": "MÁS ALLÁ DEL ALGORITMO. HERRAMIENTAS DIGITALES PARA UNA EDUCACIÓN MÁS HUMANA.",
       "CEP": "23200016 - CEP Jaén",
@@ -3505,30 +3565,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/"
-    },
-    {
-      "Código": "274130EPER002",
-      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE  (IES/IPEP/EOI).",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "17/09/2026",
-      "Fin": "23/09/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130EPER002/"
-    },
-    {
-      "Código": "274130PER001",
-      "Título": "ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE (CEPER/SEP)",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "17/09/2026",
-      "Fin": "23/09/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130PER001/"
     },
     {
       "Código": "279902KPF011",

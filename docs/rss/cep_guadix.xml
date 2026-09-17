@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Guadix</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:41:13 +0000</lastBuildDate>
     <item>
       <title>271813GE014 — CUADERNO DE SÉNECA, EVALUACIÓN Y PROGRAMACIÓN</title>
       <description>18200031 - CEP Guadix | Curso Semipresencial | 05/10/2026 → 30/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
@@ -35,13 +35,6 @@
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>271813GE015 — NEUROEDUCACIÓN, GESTIÓN EMOCIONAL Y RESOLUCIÓN DE CONFLICTOS EN CEIP VIRGEN DE LORETO E IES ISABEL LA CATÓLICA</title>
-      <description>18200031 - CEP Guadix | Curso Semipresencial | 21/09/2026 → 28/09/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE015/</link>
-      <guid isPermaLink="false">271813GE015</guid>
-      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
-    </item>
-    <item>
       <title>271813GE001 — CONVIVENCIA RESTAURATIVA, MEDIACIÓN ESCOLAR Y GESTIÓN PRÁCTICA DEL CONFLICTO</title>
       <description>18200031 - CEP Guadix | Curso Semipresencial | 04/09/2026 → 28/09/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE001/</link>
@@ -54,6 +47,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE005/</link>
       <guid isPermaLink="false">271813GE005</guid>
       <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>271813GE015 — NEUROEDUCACIÓN, GESTIÓN EMOCIONAL Y RESOLUCIÓN DE CONFLICTOS EN CEIP VIRGEN DE LORETO E IES ISABEL LA CATÓLICA</title>
+      <description>18200031 - CEP Guadix | Curso Semipresencial | 21/09/2026 → 28/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE015/</link>
+      <guid isPermaLink="false">271813GE015</guid>
+      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
