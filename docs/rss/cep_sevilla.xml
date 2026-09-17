@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Sevilla</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 06:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:30:50 +0000</lastBuildDate>
     <item>
       <title>274127ARE002 — PEDAGOGÍA DEL INSTRUMENTO. ATENCIÓN PLENA, REGULACIÓN EMOCIONAL Y CONCIENCIA CORPORAL.</title>
       <description>41200017 - CEP Sevilla | Curso con Seguimiento | 19/01/2027 → 30/03/2027 | Dirigido a: Enseñanzas de regimen especial | Estado: En proyecto</description>
@@ -140,13 +140,6 @@
       <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
     </item>
     <item>
-      <title>274127PRI001 — II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO</title>
-      <description>41200017 - CEP Sevilla | Jornadas | 21/09/2026 → 26/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/</link>
-      <guid isPermaLink="false">274127PRI001</guid>
-      <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
-    </item>
-    <item>
       <title>279927OE005 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
       <description>41200017 - CEP Sevilla | Curso Semipresencial | 22/09/2026 → 22/09/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927OE005/</link>
@@ -166,6 +159,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP004/</link>
       <guid isPermaLink="false">274127AFP004</guid>
       <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127PRI001 — II JORNADAS SEMBRANDO INCLUSIÓN: UN ITINERARIO PARA TRANSFORMAR LA ESCUELA DESDE DENTRO</title>
+      <description>41200017 - CEP Sevilla | Jornadas | 21/09/2026 → 26/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/</link>
+      <guid isPermaLink="false">274127PRI001</guid>
+      <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
