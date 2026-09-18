@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T23:46:46.345107+00:00",
-  "total": 300,
+  "generado": "2026-09-18T06:49:31.963575+00:00",
+  "total": 301,
   "actividades": [
     {
       "Código": "271409GE006",
@@ -255,18 +255,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE007/"
     },
     {
-      "Código": "272116GE006",
-      "Título": "INICIACIÓN A LA GESTIÓN ADMINISTRATIVA Y ECONÓMICA PARA PROFESORADO NOVEL DE CEPER",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Jornadas",
-      "Estado": "En proyecto",
-      "Inicio": "29/09/2026",
-      "Fin": "06/10/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE006/"
-    },
-    {
       "Código": "272318GE013",
       "Título": "RAZONAMIENTO MATEMÁTICO CEIP SANTA CLARA (LAHIGUERA)",
       "CEP": "23200016 - CEP Jaén",
@@ -445,6 +433,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909AV285/"
+    },
+    {
+      "Código": "279922KPF232",
+      "Título": "CURSO DE ACTUALIZACIÓN DE COMPETENCIAS DIRECTIVAS",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "En proyecto",
+      "Inicio": "22/09/2026",
+      "Fin": "20/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922KPF232/"
     },
     {
       "Código": "279931KPF007",
@@ -1551,6 +1551,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE001/"
     },
     {
+      "Código": "272116GE006",
+      "Título": "INICIACIÓN A LA GESTIÓN ADMINISTRATIVA Y ECONÓMICA PARA PROFESORADO NOVEL DE CEPER",
+      "CEP": "21200025 - CEP Bollullos - Valverde",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "06/10/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE006/"
+    },
+    {
       "Código": "272117GE001",
       "Título": "VIII JORNADA EDUCAR CON ILUSIÓN.",
       "CEP": "21200037 - CEP Aracena",
@@ -2451,18 +2463,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279913PF011/"
     },
     {
-      "Código": "279915PF011",
-      "Título": "SECRETARÍAS NOVELES - FORMACIÓN INICIAL",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/09/2026",
-      "Fin": "21/10/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915PF011/"
-    },
-    {
       "Código": "279918PF011",
       "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
       "CEP": "23200016 - CEP Jaén",
@@ -2701,6 +2701,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/"
+    },
+    {
+      "Código": "279915PF011",
+      "Título": "SECRETARÍAS NOVELES - FORMACIÓN INICIAL",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "23/09/2026",
+      "Fin": "21/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915PF011/"
     },
     {
       "Código": "279928PF011",

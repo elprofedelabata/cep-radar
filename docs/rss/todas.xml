@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:49:32 +0000</lastBuildDate>
     <item>
       <title>271409GE006 — DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso | 29/09/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -154,13 +154,6 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>272116GE006 — INICIACIÓN A LA GESTIÓN ADMINISTRATIVA Y ECONÓMICA PARA PROFESORADO NOVEL DE CEPER</title>
-      <description>21200025 - CEP Bollullos - Valverde | Jornadas | 29/09/2026 → 06/10/2026 | Dirigido a: Educación Permanente | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE006/</link>
-      <guid isPermaLink="false">272116GE006</guid>
-      <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
-    </item>
-    <item>
       <title>272318GE013 — RAZONAMIENTO MATEMÁTICO CEIP SANTA CLARA (LAHIGUERA)</title>
       <description>23200016 - CEP Jaén | Curso | 05/10/2026 → 16/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE013/</link>
@@ -264,6 +257,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909AV285/</link>
       <guid isPermaLink="false">279909AV285</guid>
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>279922KPF232 — CURSO DE ACTUALIZACIÓN DE COMPETENCIAS DIRECTIVAS</title>
+      <description>29200014 - CEP Málaga | Curso a Distancia | 22/09/2026 → 20/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922KPF232/</link>
+      <guid isPermaLink="false">279922KPF232</guid>
+      <pubDate>Fri, 18 Sep 2026 06:49:31 +0000</pubDate>
     </item>
     <item>
       <title>279931KPF007 — CREA TU AULA DEL FUTURO. ¡ÚNETE AL RETO! 26-27</title>
@@ -910,6 +910,13 @@
       <pubDate>Mon, 13 Jul 2026 22:42:52 +0000</pubDate>
     </item>
     <item>
+      <title>272116GE006 — INICIACIÓN A LA GESTIÓN ADMINISTRATIVA Y ECONÓMICA PARA PROFESORADO NOVEL DE CEPER</title>
+      <description>21200025 - CEP Bollullos - Valverde | Jornadas | 29/09/2026 → 06/10/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE006/</link>
+      <guid isPermaLink="false">272116GE006</guid>
+      <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
+    </item>
+    <item>
       <title>272117GE001 — VIII JORNADA EDUCAR CON ILUSIÓN.</title>
       <description>21200037 - CEP Aracena | Jornadas | 26/09/2026 → 26/09/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE001/</link>
@@ -1435,13 +1442,6 @@
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>279915PF011 — SECRETARÍAS NOVELES - FORMACIÓN INICIAL</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 23/09/2026 → 21/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915PF011/</link>
-      <guid isPermaLink="false">279915PF011</guid>
-      <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
-    </item>
-    <item>
       <title>279918PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
       <description>23200016 - CEP Jaén | Curso | 24/09/2026 → 02/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918PF011/</link>
@@ -1580,6 +1580,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
       <guid isPermaLink="false">274130GE006</guid>
       <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>279915PF011 — SECRETARÍAS NOVELES - FORMACIÓN INICIAL</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 23/09/2026 → 21/10/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915PF011/</link>
+      <guid isPermaLink="false">279915PF011</guid>
+      <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
     </item>
     <item>
       <title>279928PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
