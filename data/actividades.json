@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T20:06:00.984404+00:00",
+  "generado": "2026-09-18T23:43:31.842883+00:00",
   "total": 319,
   "actividades": [
     {
@@ -1467,18 +1467,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE020/"
     },
     {
-      "Código": "271812GE021",
-      "Título": "APRENDIZAJE COOPERATIVO: DE LA TEORÍA A LA PRÁCTICA EN EL AULA",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/09/2026",
-      "Fin": "23/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE021/"
-    },
-    {
       "Código": "271812GE023",
       "Título": "KIT DE HERRAMIENTAS DIGITALES PARA EL PROFESORADO III",
       "CEP": "18200028 - CEP Motril",
@@ -2149,18 +2137,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE400/"
-    },
-    {
-      "Código": "272926GE002",
-      "Título": "JORNADAS MATEMÁTICAS: EL TEOREMA DEL ÉXITO, RESUELVE TU PROPIO DESAFÍO",
-      "CEP": "29200051 - CEP Vélez-Málaga",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/09/2026",
-      "Fin": "24/09/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272926GE002/"
     },
     {
       "Código": "27401GE007",
@@ -3651,6 +3627,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE019/"
     },
     {
+      "Código": "271812GE021",
+      "Título": "APRENDIZAJE COOPERATIVO: DE LA TEORÍA A LA PRÁCTICA EN EL AULA",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/09/2026",
+      "Fin": "23/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE021/"
+    },
+    {
       "Código": "271813GE015",
       "Título": "NEUROEDUCACIÓN, GESTIÓN EMOCIONAL Y RESOLUCIÓN DE CONFLICTOS EN CEIP VIRGEN DE LORETO E IES ISABEL LA CATÓLICA",
       "CEP": "18200031 - CEP Guadix",
@@ -3685,6 +3673,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE002/"
+    },
+    {
+      "Código": "272926GE002",
+      "Título": "JORNADAS MATEMÁTICAS: EL TEOREMA DEL ÉXITO, RESUELVE TU PROPIO DESAFÍO",
+      "CEP": "29200051 - CEP Vélez-Málaga",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "23/09/2026",
+      "Fin": "24/09/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272926GE002/"
     },
     {
       "Código": "272926GE501",
