@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:24:44 +0000</lastBuildDate>
     <item>
       <title>271409GE007 — RED DE ALUMNADO AYUDANTE MEDIADOR CEP PEÑARROYA-PUEBLONUEVO</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso con Seguimiento | 20/10/2026 → 01/06/2027 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -1421,13 +1421,6 @@
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
-      <title>274130ARD002 — COMPETENCIAS DIGITALES PARA DOCENTES DE CONSERVATORIO</title>
-      <description>41200017 - CEP Sevilla | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD002/</link>
-      <guid isPermaLink="false">274130ARD002</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
-    </item>
-    <item>
       <title>274130ARD007 — USO DE LA BICICLETA COMO RECURSO DIDÁCTICO EN LAS CLASES DE EDUCACIÓN FÍSICA.</title>
       <description>41200042 - CEP Mairena del Alcor | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD007/</link>
@@ -1610,13 +1603,6 @@
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>279929PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
-      <description>41200030 - CEP Osuna - Écija | Curso | 23/09/2026 → 21/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929PF011/</link>
-      <guid isPermaLink="false">279929PF011</guid>
-      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
-    </item>
-    <item>
       <title>279930EP425 — INTRODUCCIÓN AL USO DE LA PLATAFORMA MOODLE PARA LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE EN MODALIDAD NO PRESENCIAL</title>
       <description>41200042 - CEP Mairena del Alcor | Curso a Distancia | 02/10/2026 → 20/11/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930EP425/</link>
@@ -1680,13 +1666,6 @@
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
     </item>
     <item>
-      <title>274130ARD001 — VI ENCUENTRO DE DOCENTES DE MÚSICA (PRIMARIA Y SECUNDARIA)</title>
-      <description>41200042 - CEP Mairena del Alcor | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD001/</link>
-      <guid isPermaLink="false">274130ARD001</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
-    </item>
-    <item>
       <title>274130GE006 — JORNADAS INFORMATIVAS DEL EQUIPO DE INSPECCIÓN N.º IV</title>
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 14/09/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
@@ -1699,6 +1678,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PF011/</link>
       <guid isPermaLink="false">279928PF011</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>279929PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
+      <description>41200030 - CEP Osuna - Écija | Curso | 23/09/2026 → 21/10/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929PF011/</link>
+      <guid isPermaLink="false">279929PF011</guid>
+      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP005 — JORNADAS DE PATRIMONIO, CULTURA E HISTORIA DE CÁDIZ. RUTAS DIDÁCTICAS PARA CONOCER NUESTRO PASADO: EMPORIO DEL ORBE.</title>
@@ -2030,13 +2016,6 @@
       <pubDate>Tue, 23 Jun 2026 12:27:32 +0000</pubDate>
     </item>
     <item>
-      <title>271104FEDAP029 — CLAVES Y RESPUESTAS PARA LAS SECRETARÍAS DE CENTROS EDUCATIVOS</title>
-      <description>11200011 - CEP Cádiz | Curso | 22/09/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP029/</link>
-      <guid isPermaLink="false">271104FEDAP029</guid>
-      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
-    </item>
-    <item>
       <title>271105FED006 — CLAVES Y RESPUESTAS PARA LAS SECRETARÍAS DE CENTROS EDUCATIVOS</title>
       <description>11200023 - CEP Jerez de la Frontera | Curso | 21/09/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED006/</link>
@@ -2063,6 +2042,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER002/</link>
       <guid isPermaLink="false">274127PER002</guid>
       <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130ARD001 — VI ENCUENTRO DE DOCENTES DE MÚSICA (PRIMARIA Y SECUNDARIA)</title>
+      <description>41200042 - CEP Mairena del Alcor | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD001/</link>
+      <guid isPermaLink="false">274130ARD001</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130ARD002 — COMPETENCIAS DIGITALES PARA DOCENTES DE CONSERVATORIO</title>
+      <description>41200017 - CEP Sevilla | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD002/</link>
+      <guid isPermaLink="false">274130ARD002</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
     </item>
     <item>
       <title>279901KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL</title>
@@ -2098,6 +2091,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP004/</link>
       <guid isPermaLink="false">271104FEDAP004</guid>
       <pubDate>Tue, 23 Jun 2026 12:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>271104FEDAP029 — CLAVES Y RESPUESTAS PARA LAS SECRETARÍAS DE CENTROS EDUCATIVOS</title>
+      <description>11200011 - CEP Cádiz | Curso | 22/09/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP029/</link>
+      <guid isPermaLink="false">271104FEDAP029</guid>
+      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
       <title>271107GE002 — PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL</title>
