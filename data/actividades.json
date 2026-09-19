@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-19T06:48:51.337185+00:00",
-  "total": 319,
+  "generado": "2026-09-19T13:32:03.068284+00:00",
+  "total": 320,
   "actividades": [
     {
       "Código": "271409GE007",
@@ -1789,6 +1789,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE002/"
+    },
+    {
+      "Código": "272321GE004",
+      "Título": "PRIMEROS PASOS EN SÉNECA",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "06/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE004/"
     },
     {
       "Código": "272922GE001",
