@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-20T13:46:59.479405+00:00",
+  "generado": "2026-09-20T17:04:46.184610+00:00",
   "total": 319,
   "actividades": [
     {
@@ -1321,30 +1321,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
-    },
-    {
-      "Código": "271811GE055",
-      "Título": "PROFUNDIZACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/09/2026",
-      "Fin": "09/10/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE055/"
-    },
-    {
-      "Código": "271811GE056",
-      "Título": "GESTIÓN ECONÓMICA Y ADMINISTRATIVA DE LOS CENTROS DE EDUCACIÓN PERMANENTE",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/09/2026",
-      "Fin": "23/10/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE056/"
     },
     {
       "Código": "271811GE057",
@@ -3601,6 +3577,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE013/"
+    },
+    {
+      "Código": "271811GE055",
+      "Título": "PROFUNDIZACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "23/09/2026",
+      "Fin": "09/10/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE055/"
+    },
+    {
+      "Código": "271811GE056",
+      "Título": "GESTIÓN ECONÓMICA Y ADMINISTRATIVA DE LOS CENTROS DE EDUCACIÓN PERMANENTE",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "23/09/2026",
+      "Fin": "23/10/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE056/"
     },
     {
       "Código": "271812GE002",
