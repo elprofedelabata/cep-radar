@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-20T07:12:45.154562+00:00",
-  "total": 320,
+  "generado": "2026-09-20T13:46:59.479405+00:00",
+  "total": 319,
   "actividades": [
     {
       "Código": "271409GE007",
@@ -2451,18 +2451,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CV004/"
     },
     {
-      "Código": "274130INT002",
-      "Título": "PRIMEROS PASOS EN ERASMUS PLUS",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "24/09/2026",
-      "Fin": "01/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT002/"
-    },
-    {
       "Código": "274130INT003",
       "Título": "ERASMUS DAYS 2026 EXPERIENCIAS QUE TRANSFORMAN CENTROS",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -2847,6 +2835,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/"
     },
     {
+      "Código": "274130INT002",
+      "Título": "PRIMEROS PASOS EN ERASMUS PLUS",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "24/09/2026",
+      "Fin": "01/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT002/"
+    },
+    {
       "Código": "279928PF011",
       "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -2956,7 +2956,7 @@
     },
     {
       "Código": "271811GE011",
-      "Título": "EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES.",
+      "Título": "EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES",
       "CEP": "18200016 - CEP Granada",
       "Modalidad": "Curso Semipresencial",
       "Estado": "Actividad en desarrollo",
@@ -3409,18 +3409,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP001/"
-    },
-    {
-      "Código": "279933FP004",
-      "Título": "JORNADAS DE FORMACIÓN PROFESIONAL: LA MODALIDAD VIRTUAL EN LOS NUEVOS CICLOS",
-      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Actividad en desarrollo",
-      "Inicio": "09/09/2026",
-      "Fin": "18/09/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP004/"
     },
     {
       "Código": "271104FEDAP019",
