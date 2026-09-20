@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-20T19:54:48.851129+00:00",
-  "total": 319,
+  "generado": "2026-09-20T23:40:11.272276+00:00",
+  "total": 321,
   "actividades": [
     {
       "Código": "271409GE007",
@@ -49,6 +49,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE007/"
+    },
+    {
+      "Código": "271811GE009",
+      "Título": "SEMINARIO DE FORMADORES Y FORMADORAS PARA LA IMPLEMENTACIÓN DE LAS COMPETENCIAS CLAVE",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "29/10/2026",
+      "Fin": "21/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE009/"
     },
     {
       "Código": "271811GE010",
@@ -313,6 +325,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE032/"
+    },
+    {
+      "Código": "272922GE037",
+      "Título": "DINÁMICAS LÚDICAS PARA FOMENTAR LA LECTURA Y LA EXPRESIÓN ORAL Y ESCRITA",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "27/10/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE037/"
     },
     {
       "Código": "272922GE070",
