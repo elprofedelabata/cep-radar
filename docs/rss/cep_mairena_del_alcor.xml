@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Mairena del Alcor</description>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:04:07 +0000</lastBuildDate>
     <item>
       <title>274130GE007 — USO DE SIMULADOR DE PINTURA EN CARROCERIA EN EL IES LA CAMPIÑA</title>
       <description>41200042 - CEP Mairena del Alcor | Curso | 17/09/2026 → 24/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
@@ -35,6 +35,13 @@
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
     </item>
     <item>
+      <title>274130CV001 — PROGRAMA DE IMPLANTACIÓN DE INTELIGENCIA EMOCIONAL PIIE PARA EP (ALBERTO ORTEGA)</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso | 14/10/2026 → 28/10/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CV001/</link>
+      <guid isPermaLink="false">274130CV001</guid>
+      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
+    </item>
+    <item>
       <title>274130CV004 — SESIÓN DE SENSIBILIZACIÓN PROGRAMA PIIE CON ALBERTO ORTEGA</title>
       <description>41200042 - CEP Mairena del Alcor | Conferencia | 30/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CV004/</link>
@@ -56,20 +63,6 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>279930EP425 — INTRODUCCIÓN AL USO DE LA PLATAFORMA MOODLE PARA LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE EN MODALIDAD NO PRESENCIAL</title>
-      <description>41200042 - CEP Mairena del Alcor | Curso a Distancia | 02/10/2026 → 20/11/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930EP425/</link>
-      <guid isPermaLink="false">279930EP425</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>279930PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN.</title>
-      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 28/09/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930PA455/</link>
-      <guid isPermaLink="false">279930PA455</guid>
-      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
-    </item>
-    <item>
       <title>279930PF011 — FORMACIÓN EN GESTIÓN ECONÓMICA Y DE LOS RECURSOS DEL CENTRO (SECRETARÍAS NOVELES)</title>
       <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 29/09/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930PF011/</link>
@@ -82,6 +75,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
       <guid isPermaLink="false">274130GE006</guid>
       <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>279930EP425 — INTRODUCCIÓN AL USO DE LA PLATAFORMA MOODLE PARA LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE EN MODALIDAD NO PRESENCIAL</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso a Distancia | 02/10/2026 → 20/11/2026 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930EP425/</link>
+      <guid isPermaLink="false">279930EP425</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>274130EPER002 — ACOGIDA AL PROFESORADO NOVEL EN LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE  (IES/IPEP/EOI).</title>
@@ -105,18 +105,25 @@
       <pubDate>Wed, 24 Jun 2026 08:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>274130ARD001 — VI ENCUENTRO DE DOCENTES DE MÚSICA (PRIMARIA Y SECUNDARIA)</title>
-      <description>41200042 - CEP Mairena del Alcor | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD001/</link>
-      <guid isPermaLink="false">274130ARD001</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
-    </item>
-    <item>
       <title>274130INT002 — PRIMEROS PASOS EN ERASMUS PLUS</title>
       <description>41200042 - CEP Mairena del Alcor | Curso | 24/09/2026 → 01/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT002/</link>
       <guid isPermaLink="false">274130INT002</guid>
       <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130ARD001 — VI ENCUENTRO DE DOCENTES DE MÚSICA (PRIMARIA Y SECUNDARIA)</title>
+      <description>41200042 - CEP Mairena del Alcor | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD001/</link>
+      <guid isPermaLink="false">274130ARD001</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>279930PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN.</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 28/09/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930PA455/</link>
+      <guid isPermaLink="false">279930PA455</guid>
+      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

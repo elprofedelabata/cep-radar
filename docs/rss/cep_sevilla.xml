@@ -5,13 +5,13 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Sevilla</description>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:04:07 +0000</lastBuildDate>
     <item>
-      <title>274127ARE002 — PEDAGOGÍA DEL INSTRUMENTO. ATENCIÓN PLENA, REGULACIÓN EMOCIONAL Y CONCIENCIA CORPORAL.</title>
-      <description>41200017 - CEP Sevilla | Curso con Seguimiento | 19/01/2027 → 30/03/2027 | Dirigido a: Enseñanzas de regimen especial | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ARE002/</link>
-      <guid isPermaLink="false">274127ARE002</guid>
-      <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
+      <title>274127ACT004 — EDUCAR PARA TRANSFORMAR: EL ANILLO VERDE Y AZUL DE SEVILLA</title>
+      <description>41200017 - CEP Sevilla | Curso | 28/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT004/</link>
+      <guid isPermaLink="false">274127ACT004</guid>
+      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
       <title>274127ACS003 — ERASMUS DAY: SESIÓN DE EXPOSICIÓN DE RESULTADOS DEL CONSORCIO ESCOLAR 2025-26 DEL CEP DE SEVILLA</title>
@@ -49,25 +49,11 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>274127INF001 — ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN</title>
-      <description>41200017 - CEP Sevilla | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/</link>
-      <guid isPermaLink="false">274127INF001</guid>
-      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
-    </item>
-    <item>
       <title>274127INF002 — LAS MATEMÁTICAS EN EL TRABAJO DE AULA EN EDUCACIÓN INFANTIL</title>
       <description>41200017 - CEP Sevilla | Curso | 15/10/2026 → 12/11/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF002/</link>
       <guid isPermaLink="false">274127INF002</guid>
       <pubDate>Mon, 14 Sep 2026 21:08:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>274127NEE001 — COMUNICADORES DINÁMICOS BAJO EL PRISMA DEL LENGUAJE NATURAL ASISTIDO</title>
-      <description>41200017 - CEP Sevilla | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127NEE001/</link>
-      <guid isPermaLink="false">274127NEE001</guid>
-      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
     </item>
     <item>
       <title>274127PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN</title>
@@ -112,6 +98,20 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
+      <title>274127INF001 — ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN</title>
+      <description>41200017 - CEP Sevilla | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/</link>
+      <guid isPermaLink="false">274127INF001</guid>
+      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127NEE001 — COMUNICADORES DINÁMICOS BAJO EL PRISMA DEL LENGUAJE NATURAL ASISTIDO</title>
+      <description>41200017 - CEP Sevilla | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127NEE001/</link>
+      <guid isPermaLink="false">274127NEE001</guid>
+      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
+    </item>
+    <item>
       <title>274127PER001 — GESTIÓN ADMINISTRATIVA EN EL INICIO DE CURSO PARA EQUIPOS DIRECTIVOS DE CENTROS DE EDUCACIÓN PERMANENTE Y SECCIONES</title>
       <description>41200017 - CEP Sevilla | Otros | 09/09/2026 → 09/09/2026 | Dirigido a: Educación Permanente | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER001/</link>
@@ -133,13 +133,6 @@
       <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
-      <title>274130ARD002 — COMPETENCIAS DIGITALES PARA DOCENTES DE CONSERVATORIO</title>
-      <description>41200017 - CEP Sevilla | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD002/</link>
-      <guid isPermaLink="false">274130ARD002</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
-    </item>
-    <item>
       <title>274127AFP004 — FORMACIÓN PARA LA ACCESIBILIDAD UNIVERSAL EN UN SISTEMA INTEGRADO DE FORMACIÓN PROFESIONAL</title>
       <description>41200017 - CEP Sevilla | Curso | 09/09/2026 → 27/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP004/</link>
@@ -152,6 +145,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI001/</link>
       <guid isPermaLink="false">274127PRI001</guid>
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130ARD002 — COMPETENCIAS DIGITALES PARA DOCENTES DE CONSERVATORIO</title>
+      <description>41200017 - CEP Sevilla | Encuentro | 23/09/2026 → 15/10/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD002/</link>
+      <guid isPermaLink="false">274130ARD002</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
     </item>
     <item>
       <title>279927OE005 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
