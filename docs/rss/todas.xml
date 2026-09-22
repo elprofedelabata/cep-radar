@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:54:08 +0000</lastBuildDate>
     <item>
       <title>271107GE014 — USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -362,13 +362,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403IC001/</link>
       <guid isPermaLink="false">27403IC001</guid>
       <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>274127ACT004 — EDUCAR PARA TRANSFORMAR: EL ANILLO VERDE Y AZUL DE SEVILLA</title>
-      <description>41200017 - CEP Sevilla | Curso | 29/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT004/</link>
-      <guid isPermaLink="false">274127ACT004</guid>
-      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
       <title>274130GE007 — USO DE SIMULADOR DE PINTURA EN CARROCERIA EN EL IES LA CAMPIÑA</title>
@@ -1554,6 +1547,13 @@
       <pubDate>Tue, 15 Sep 2026 00:03:24 +0000</pubDate>
     </item>
     <item>
+      <title>274127ACT004 — EDUCAR PARA TRANSFORMAR: EL ANILLO VERDE Y AZUL DE SEVILLA</title>
+      <description>41200017 - CEP Sevilla | Curso | 29/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT004/</link>
+      <guid isPermaLink="false">274127ACT004</guid>
+      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
+    </item>
+    <item>
       <title>274127AFP005 — ASESORAMIENTO; ATENCIÓN A LA DIVERSIDAD EN FP_ IES POLITÉCNICO</title>
       <description>41200017 - CEP Sevilla | Curso | 08/09/2026 → 08/09/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP005/</link>
@@ -1785,13 +1785,6 @@
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
-      <title>279923QPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL. SECUNDARIA Y BACHILLERATO</title>
-      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923QPF555/</link>
-      <guid isPermaLink="false">279923QPF555</guid>
-      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
       <title>279925KPF493 — JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (INFANTIL Y PRIMARIA)</title>
       <description>29200041 - CEP Antequera | Curso a Distancia | 12/10/2026 → 11/12/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925KPF493/</link>
@@ -1894,6 +1887,13 @@
       <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF555/</link>
       <guid isPermaLink="false">279923KPF555</guid>
+      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>279923QPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL. SECUNDARIA Y BACHILLERATO</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923QPF555/</link>
+      <guid isPermaLink="false">279923QPF555</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
