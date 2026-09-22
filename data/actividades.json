@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-22T00:20:42.034707+00:00",
-  "total": 350,
+  "generado": "2026-09-22T06:59:08.048841+00:00",
+  "total": 351,
   "actividades": [
     {
       "Código": "271107GE014",
@@ -61,18 +61,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE008/"
-    },
-    {
-      "Código": "271811GE002",
-      "Título": "JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Jornadas",
-      "Estado": "En proyecto",
-      "Inicio": "15/10/2026",
-      "Fin": "16/10/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE002/"
     },
     {
       "Código": "271811GE007",
@@ -1069,6 +1057,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410PR002/"
+    },
+    {
+      "Código": "271811GE002",
+      "Título": "JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/10/2026",
+      "Fin": "16/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE002/"
     },
     {
       "Código": "271811GE003",
@@ -2703,18 +2703,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279904OE008/"
     },
     {
-      "Código": "279906PF011",
-      "Título": "GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "29/09/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF011/"
-    },
-    {
       "Código": "279908OE006",
       "Título": "NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA",
       "CEP": "14200010 - CEP Córdoba",
@@ -2955,18 +2943,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/"
     },
     {
-      "Código": "274127INF001",
-      "Título": "ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "07/10/2026",
-      "Fin": "21/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/"
-    },
-    {
       "Código": "274127NEE001",
       "Título": "COMUNICADORES DINÁMICOS BAJO EL PRISMA DEL LENGUAJE NATURAL ASISTIDO",
       "CEP": "41200017 - CEP Sevilla",
@@ -2989,6 +2965,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/"
+    },
+    {
+      "Código": "279906PF011",
+      "Título": "GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF011/"
     },
     {
       "Código": "279930EP425",
@@ -3387,6 +3375,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE004/"
     },
     {
+      "Código": "272318GE005",
+      "Título": "DISEÑO DE SITUACIONES DE APRENDIZAJE Y EVALUACIÓN COMPETENCIAL EN ESO",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Otros",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "07/09/2026",
+      "Fin": "30/09/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE005/"
+    },
+    {
       "Código": "272318GE019",
       "Título": "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA DENTRO DE INSTITUCIONES PENITENCIARIAS",
       "CEP": "23200016 - CEP Jaén",
@@ -3637,6 +3637,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ARE001/"
+    },
+    {
+      "Código": "274127INF001",
+      "Título": "ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "07/10/2026",
+      "Fin": "21/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/"
     },
     {
       "Código": "274127PER002",

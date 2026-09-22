@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:59:08 +0000</lastBuildDate>
     <item>
       <title>271107GE014 — USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -40,13 +40,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE008/</link>
       <guid isPermaLink="false">271409GE008</guid>
       <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE002 — JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS</title>
-      <description>18200016 - CEP Granada | Jornadas | 15/10/2026 → 16/10/2026 | Dirigido a: Equipos directivos | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE002/</link>
-      <guid isPermaLink="false">271811GE002</guid>
-      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
       <title>271811GE007 — APRENDIZAJE COOPERATIVO COMO METODOLOGÍA ACTIVA Y MODELO DE GESTIÓN DE AULA.</title>
@@ -628,6 +621,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410PR002/</link>
       <guid isPermaLink="false">271410PR002</guid>
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE002 — JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS</title>
+      <description>18200016 - CEP Granada | Jornadas | 15/10/2026 → 16/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE002/</link>
+      <guid isPermaLink="false">271811GE002</guid>
+      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
       <title>271811GE003 — CUADERNO DE SÉNECA Y PLATAFORMA I-PASEN PARA EL SEGUNDO CICLO DE  EDUCACIÓN INFANTIL EN EL AULA DEL FUTURO</title>
@@ -1582,13 +1582,6 @@
       <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
-      <title>279906PF011 — GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES</title>
-      <description>11200035 - CEP Villamartín | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF011/</link>
-      <guid isPermaLink="false">279906PF011</guid>
-      <pubDate>Sun, 13 Sep 2026 13:57:24 +0000</pubDate>
-    </item>
-    <item>
       <title>279908OE006 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
       <description>14200010 - CEP Córdoba | Jornadas | 29/09/2026 → 29/09/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908OE006/</link>
@@ -1729,13 +1722,6 @@
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
     </item>
     <item>
-      <title>274127INF001 — ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN</title>
-      <description>41200017 - CEP Sevilla | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/</link>
-      <guid isPermaLink="false">274127INF001</guid>
-      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
-    </item>
-    <item>
       <title>274127NEE001 — COMUNICADORES DINÁMICOS BAJO EL PRISMA DEL LENGUAJE NATURAL ASISTIDO</title>
       <description>41200017 - CEP Sevilla | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127NEE001/</link>
@@ -1748,6 +1734,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
       <guid isPermaLink="false">274130GE006</guid>
       <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>279906PF011 — GESTIÓN ECONÓMICA ESPECÍFICA PARA SECRETARÍAS NOVELES</title>
+      <description>11200035 - CEP Villamartín | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF011/</link>
+      <guid isPermaLink="false">279906PF011</guid>
+      <pubDate>Sun, 13 Sep 2026 13:57:24 +0000</pubDate>
     </item>
     <item>
       <title>279930EP425 — INTRODUCCIÓN AL USO DE LA PLATAFORMA MOODLE PARA LAS ENSEÑANZAS DE EDUCACIÓN PERMANENTE EN MODALIDAD NO PRESENCIAL</title>
@@ -1981,6 +1974,13 @@
       <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
+      <title>272318GE005 — DISEÑO DE SITUACIONES DE APRENDIZAJE Y EVALUACIÓN COMPETENCIAL EN ESO</title>
+      <description>23200016 - CEP Jaén | Otros | 07/09/2026 → 30/09/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE005/</link>
+      <guid isPermaLink="false">272318GE005</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>272318GE019 — INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA DENTRO DE INSTITUCIONES PENITENCIARIAS</title>
       <description>23200016 - CEP Jaén | Otros | 16/09/2026 → 24/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE019/</link>
@@ -2126,6 +2126,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ARE001/</link>
       <guid isPermaLink="false">274127ARE001</guid>
       <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127INF001 — ELABORACIÓN DEL PLAN DE MEJORA Y PLAN DE FORMACIÓN</title>
+      <description>41200017 - CEP Sevilla | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127INF001/</link>
+      <guid isPermaLink="false">274127INF001</guid>
+      <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
     </item>
     <item>
       <title>274127PER002 — PRIMEROS PASOS EN ERASMUS PLUS: EPER, EEOOII Y ARE. HORARIO DE MAÑANA</title>
