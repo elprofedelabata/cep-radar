@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:53:08 +0000</lastBuildDate>
     <item>
       <title>271107GE014 — USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -161,13 +161,6 @@
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
-      <title>271813GE006 — DETECCIÓN TEMPRANA DE SIGNOS DE ALERTA EN  EL AULA DE INFANTIL 0-6</title>
-      <description>18200031 - CEP Guadix | Curso Semipresencial | 15/10/2026 → 22/10/2026 | Dirigido a: Educación infantil | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE006/</link>
-      <guid isPermaLink="false">271813GE006</guid>
-      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
-    </item>
-    <item>
       <title>271813GE012 — DISEÑO DE TAREAS MULTINIVEL EN ESO: INCLUSIÓN REAL Y RESPUESTA A LA DIVERSIDAD EN EL AULA</title>
       <description>18200031 - CEP Guadix | Curso Semipresencial | 21/10/2026 → 04/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE012/</link>
@@ -187,13 +180,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE016/</link>
       <guid isPermaLink="false">271813GE016</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>271813KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
-      <description>18200031 - CEP Guadix | Curso a Distancia | 09/10/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813KPF429/</link>
-      <guid isPermaLink="false">271813KPF429</guid>
-      <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
     </item>
     <item>
       <title>271814GE003 — JUEGOS Y DEPORTES ALTERNATIVOS EN EDUCACIÓN FÍSICA: INNOVACIÓN, INCLUSIÓN Y COEDUCACIÓN</title>
@@ -798,13 +784,6 @@
       <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
-      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
-      <guid isPermaLink="false">271811GE032</guid>
-      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE033 — PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR. IES ARICEL</title>
       <description>18200016 - CEP Granada | Curso | 10/11/2026 → 24/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE033/</link>
@@ -1027,6 +1006,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812QPF555/</link>
       <guid isPermaLink="false">271812QPF555</guid>
       <pubDate>Thu, 17 Sep 2026 20:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271813GE006 — DETECCIÓN TEMPRANA DE SIGNOS DE ALERTA EN  EL AULA DE INFANTIL 0-6</title>
+      <description>18200031 - CEP Guadix | Curso Semipresencial | 15/10/2026 → 22/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE006/</link>
+      <guid isPermaLink="false">271813GE006</guid>
+      <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>271813KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
+      <description>18200031 - CEP Guadix | Curso a Distancia | 09/10/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813KPF429/</link>
+      <guid isPermaLink="false">271813KPF429</guid>
+      <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
     </item>
     <item>
       <title>271813KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL</title>
@@ -1834,6 +1827,13 @@
       <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
+      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
+      <guid isPermaLink="false">271811GE032</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
       <title>272117GE002 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
       <description>21200037 - CEP Aracena | Curso | 24/09/2026 → 20/10/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE002/</link>
@@ -2000,13 +2000,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/</link>
       <guid isPermaLink="false">271811GE054</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE001 — COMPETENCIA DIGITAL DOCENTE ENFOCADA A LA OPTIMIZACIÓN DE TAREAS</title>
-      <description>18200028 - CEP Motril | Curso | 09/09/2026 → 10/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE001/</link>
-      <guid isPermaLink="false">271812GE001</guid>
-      <pubDate>Sun, 30 Aug 2026 07:36:59 +0000</pubDate>
     </item>
     <item>
       <title>271812GE003 — TALLER DE EQUIPAMIENTO TECNOLÓGICO EOI</title>
