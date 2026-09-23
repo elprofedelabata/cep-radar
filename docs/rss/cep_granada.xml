@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:29:53 +0000</lastBuildDate>
     <item>
       <title>271811GE010 — RED DE APRENDIZAJE COOPERATIVO</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 29/10/2026 → 26/05/2027 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -74,13 +74,6 @@
       <description>18200016 - CEP Granada | Curso Semipresencial | 14/10/2026 → 11/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE005/</link>
       <guid isPermaLink="false">271811GE005</guid>
-      <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE006 — DISEÑO Y REALIZACIÓN DE LA PROGRAMACIÓN DIDÁCTICA PARA EDUCACIÓN SECUNDARIA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 29/09/2026 → 30/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE006/</link>
-      <guid isPermaLink="false">271811GE006</guid>
       <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
     </item>
     <item>
@@ -238,20 +231,6 @@
       <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE003 — CUADERNO DE SÉNECA Y PLATAFORMA I-PASEN PARA EL SEGUNDO CICLO DE  EDUCACIÓN INFANTIL EN EL AULA DEL FUTURO</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 01/10/2026 → 30/10/2026 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE003/</link>
-      <guid isPermaLink="false">271811GE003</guid>
-      <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
-      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
-      <guid isPermaLink="false">271811GE032</guid>
-      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE011 — EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTES</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 08/09/2026 → 21/09/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE011/</link>
@@ -292,6 +271,27 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE054/</link>
       <guid isPermaLink="false">271811GE054</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE003 — CUADERNO DE SÉNECA Y PLATAFORMA I-PASEN PARA EL SEGUNDO CICLO DE  EDUCACIÓN INFANTIL EN EL AULA DEL FUTURO</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 01/10/2026 → 30/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE003/</link>
+      <guid isPermaLink="false">271811GE003</guid>
+      <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE006 — DISEÑO Y REALIZACIÓN DE LA PROGRAMACIÓN DIDÁCTICA PARA EDUCACIÓN SECUNDARIA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 29/09/2026 → 30/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE006/</link>
+      <guid isPermaLink="false">271811GE006</guid>
+      <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
+      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
+      <guid isPermaLink="false">271811GE032</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
       <title>271811GE055 — PROFUNDIZACIÓN EN EL USO DE LA PLATAFORMA MOODLE COMO HERRAMIENTA DE TRABAJO EN LAS ENSEÑANZAS SEMIPRESENCIALES</title>
