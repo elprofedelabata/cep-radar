@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T14:29:42.325054+00:00",
-  "total": 418,
+  "generado": "2026-09-24T20:52:49.771721+00:00",
+  "total": 425,
   "actividades": [
     {
       "Código": "271104FC057",
@@ -915,6 +915,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE006/"
     },
     {
+      "Código": "27403GE007",
+      "Título": "RASGAR COLORES II: ARTE, PALABRA Y CREATIVIDAD DESDE LAS EFEMÉRIDES Y EL CURRÍCULO TRANSVERSAL",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "11/11/2026",
+      "Fin": "23/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE007/"
+    },
+    {
       "Código": "27403IC001",
       "Título": "DISEÑO DEL CUADERNO DE SÉNECA Y MOODLE CENTROS PARA FORMACIÓN PROFESIONAL",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -925,6 +937,42 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403IC001/"
+    },
+    {
+      "Código": "274127FC038",
+      "Título": "PCT EN COMPETENCIA MATEMÁTICA EN EL CEIP MANUEL CANELA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127FC038/"
+    },
+    {
+      "Código": "274127FC201",
+      "Título": "PCT EN COMPETENCIA LINGÜÍSTICA EN EL CEIP \"PAZ Y AMISTAD\"",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127FC201/"
+    },
+    {
+      "Código": "274127FC204",
+      "Título": "PCT EN COMPETENCIA LINGÜÍSTICA EN EL CEIP MANUEL GIMÉNEZ FERNÁNDEZ",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127FC204/"
     },
     {
       "Código": "274127GT005",
@@ -997,6 +1045,42 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT096/"
+    },
+    {
+      "Código": "274127GT097",
+      "Título": "SEMBRANDO INCLUSION. EVALUACION FORMATIVA. CEIP FERNAN CABALLERO 2",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Asesorías de formación",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT097/"
+    },
+    {
+      "Código": "274127GT102",
+      "Título": "SEMBRANDO INCLUSIÓN. MULTINIVELACIÓN. CEIP NTRA. SRA. DE LA PAZ",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Orientación educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT102/"
+    },
+    {
+      "Código": "274127GT171",
+      "Título": "SEMBRANDO INCLUSIÓN. ORGANIZACIÓN ESCOLAR CEIP MANUEL ALTOLAGUIRRE",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT171/"
     },
     {
       "Código": "274130GE007",
@@ -2811,18 +2895,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE101/"
     },
     {
-      "Código": "272923GE253",
-      "Título": "CURSO DE FORMADOR/A DEL PERSONAL RESPONSABLE DE LA PROMOCIÓN DE CONVIVENCIA EN ACCIÓN (PCA)",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "01/10/2026",
-      "Fin": "13/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE253/"
-    },
-    {
       "Código": "272923GE301",
       "Título": "MATÉMÁTICAS EN ACCIÓN: MANIPULACIÓN, RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS EN EDUCACIÓN PRIMARIA.",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -3591,6 +3663,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE027/"
     },
     {
+      "Código": "272923GE253",
+      "Título": "CURSO DE FORMADOR/A DEL PERSONAL RESPONSABLE DE LA PROMOCIÓN DE CONVIVENCIA EN ACCIÓN (PCA)",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "01/10/2026",
+      "Fin": "13/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE253/"
+    },
+    {
       "Código": "27401GE006",
       "Título": "CEPx: BUENAS PRÁCTICAS EDUCATIVAS IV",
       "CEP": "04200019 - CEP Almería",
@@ -4105,6 +4189,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE001/"
+    },
+    {
+      "Código": "27403GE002",
+      "Título": "DINÁMICAS DE CONVIVENCIA RESTAURATIVA Y GESTIÓN PACÍFICA DEL CONFLICTO: LA MAGIA DE CONVIVIR. IES MEDITERRÁNEO.",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "22/09/2026",
+      "Fin": "30/09/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE002/"
     },
     {
       "Código": "274127AFP004",
@@ -4779,18 +4875,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE076/"
     },
     {
-      "Código": "27403GE002",
-      "Título": "DINÁMICAS DE CONVIVENCIA RESTAURATIVA Y GESTIÓN PACÍFICA DEL CONFLICTO: LA MAGIA DE CONVIVIR. IES MEDITERRÁNEO.",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "22/09/2026",
-      "Fin": "30/09/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE002/"
-    },
-    {
       "Código": "274127PA455",
       "Título": "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN",
       "CEP": "41200017 - CEP Sevilla",
@@ -4962,7 +5046,7 @@
       "Código": "279928PA455",
       "Título": "COMUNIDADES DE APRENDIZAJE · FASE DE SENSIBILIZACIÓN",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Jornadas",
+      "Modalidad": "Curso Semipresencial",
       "Estado": "Publicadas Listas Definitivas",
       "Inicio": "28/09/2026",
       "Fin": "30/11/2026",
