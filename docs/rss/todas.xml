@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:53:04 +0000</lastBuildDate>
     <item>
       <title>271107GE014 — USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -126,7 +126,7 @@
       <pubDate>Wed, 23 Sep 2026 14:29:53 +0000</pubDate>
     </item>
     <item>
-      <title>271409GT028 — II Jornadas de Historia intercentros</title>
+      <title>271409GT028 — II JORNADAS DE HISTORIA INTERCENTROS</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Grupos de trabajo | 10/10/2026 → 31/05/2027 | Dirigido a: Bachillerato | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GT028/</link>
       <guid isPermaLink="false">271409GT028</guid>
@@ -1757,13 +1757,6 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>279911OE010 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
-      <description>18200016 - CEP Granada | Jornadas | 28/09/2026 → 28/09/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911OE010/</link>
-      <guid isPermaLink="false">279911OE010</guid>
-      <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
-    </item>
-    <item>
       <title>279912PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
       <description>18200028 - CEP Motril | Curso | 30/09/2026 → 15/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912PF011/</link>
@@ -1887,6 +1880,13 @@
       <description>04200019 - CEP Almería | Jornadas | 28/09/2026 → 28/09/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901OE011/</link>
       <guid isPermaLink="false">279901OE011</guid>
+      <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>279911OE010 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
+      <description>18200016 - CEP Granada | Jornadas | 28/09/2026 → 28/09/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911OE010/</link>
+      <guid isPermaLink="false">279911OE010</guid>
       <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
@@ -2345,13 +2345,6 @@
       <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>271812GE013 — MATEMÁTICAS OAOA (NIVEL INICIAL)</title>
-      <description>18200028 - CEP Motril | Curso | 28/09/2026 → 09/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE013/</link>
-      <guid isPermaLink="false">271812GE013</guid>
-      <pubDate>Thu, 03 Sep 2026 17:30:13 +0000</pubDate>
-    </item>
-    <item>
       <title>272117GE001 — VIII JORNADA EDUCAR CON ILUSIÓN.</title>
       <description>21200037 - CEP Aracena | Jornadas | 26/09/2026 → 26/09/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE001/</link>
@@ -2496,6 +2489,13 @@
       <description>18200028 - CEP Motril | Curso | 10/09/2026 → 20/10/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/</link>
       <guid isPermaLink="false">271812GE002</guid>
+      <pubDate>Thu, 03 Sep 2026 17:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE013 — MATEMÁTICAS OAOA (NIVEL INICIAL)</title>
+      <description>18200028 - CEP Motril | Curso | 28/09/2026 → 09/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE013/</link>
+      <guid isPermaLink="false">271812GE013</guid>
       <pubDate>Thu, 03 Sep 2026 17:30:13 +0000</pubDate>
     </item>
     <item>

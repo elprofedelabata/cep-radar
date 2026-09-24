@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T00:05:37.207285+00:00",
+  "generado": "2026-09-24T06:53:04.434706+00:00",
   "total": 385,
   "actividades": [
     {
@@ -208,7 +208,7 @@
     },
     {
       "Código": "271409GT028",
-      "Título": "II Jornadas de Historia intercentros",
+      "Título": "II JORNADAS DE HISTORIA INTERCENTROS",
       "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
       "Modalidad": "Grupos de trabajo",
       "Estado": "En proyecto",
@@ -3003,18 +3003,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909AV285/"
     },
     {
-      "Código": "279911OE010",
-      "Título": "NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "28/09/2026",
-      "Fin": "28/09/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911OE010/"
-    },
-    {
       "Código": "279912PF011",
       "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES",
       "CEP": "18200028 - CEP Motril",
@@ -3229,6 +3217,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901OE011/"
+    },
+    {
+      "Código": "279911OE010",
+      "Título": "NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES  DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y DE LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "28/09/2026",
+      "Fin": "28/09/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911OE010/"
     },
     {
       "Código": "279930EP425",
@@ -4011,18 +4011,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/"
     },
     {
-      "Código": "271812GE013",
-      "Título": "MATEMÁTICAS OAOA (NIVEL INICIAL)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "28/09/2026",
-      "Fin": "09/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE013/"
-    },
-    {
       "Código": "272117GE001",
       "Título": "VIII JORNADA EDUCAR CON ILUSIÓN.",
       "CEP": "21200037 - CEP Aracena",
@@ -4273,6 +4261,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE002/"
+    },
+    {
+      "Código": "271812GE013",
+      "Título": "MATEMÁTICAS OAOA (NIVEL INICIAL)",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "28/09/2026",
+      "Fin": "09/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE013/"
     },
     {
       "Código": "271812GE018",
