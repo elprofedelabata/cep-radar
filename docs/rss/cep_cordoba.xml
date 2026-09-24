@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:29:42 +0000</lastBuildDate>
     <item>
       <title>271408GEC04 — IMPLEMENTACIÓN DEL LNA Y SOFTWARE GRID 3 CON ACCESO DE MIRADA</title>
       <description>14200010 - CEP Córdoba | Curso | 29/09/2026 → 15/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -126,11 +126,11 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>279908OE006 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
-      <description>14200010 - CEP Córdoba | Jornadas | 29/09/2026 → 29/09/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908OE006/</link>
-      <guid isPermaLink="false">279908OE006</guid>
-      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
+      <title>271408GEC01 — ATENCIÓN A LA DIVERSIDAD CON MOODLE EN EL IES FUENSANTA</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/10/2026 → 26/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC01/</link>
+      <guid isPermaLink="false">271408GEC01</guid>
+      <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
     </item>
     <item>
       <title>271408GEC02 — GESTIÓN EMOCIONAL DEL ALUMNADO DEL IES PROFESOR TIERNO GALVÁN (LA RAMBLA)</title>
@@ -159,6 +159,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908PF011/</link>
       <guid isPermaLink="false">279908PF011</guid>
       <pubDate>Thu, 10 Sep 2026 13:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>279908OE006 — NUEVA MEMORIA DE AUTOEVALUACIÓN. NOVEDADES DEL DECRETO DE MEJORA DEL FUNCIONAMIENTO DEL SISTEMA EDUCATIVO Y LA GESTIÓN DE LA ACTIVIDAD DOCENTE EN LA ENSEÑANZA NO UNIVERSITARIA EN ANDALUCÍA</title>
+      <description>14200010 - CEP Córdoba | Jornadas | 29/09/2026 → 29/09/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908OE006/</link>
+      <guid isPermaLink="false">279908OE006</guid>
+      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
