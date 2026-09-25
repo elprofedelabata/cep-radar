@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T20:52:49.771721+00:00",
+  "generado": "2026-09-25T00:07:09.881275+00:00",
   "total": 425,
   "actividades": [
     {
@@ -4515,18 +4515,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/"
     },
     {
-      "Código": "271814GE001",
-      "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "29/09/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/"
-    },
-    {
       "Código": "272117GE001",
       "Título": "VIII JORNADA EDUCAR CON ILUSIÓN.",
       "CEP": "21200037 - CEP Aracena",
@@ -4825,6 +4813,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE019/"
+    },
+    {
+      "Código": "271814GE001",
+      "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "29/09/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/"
     },
     {
       "Código": "272116GE001",
