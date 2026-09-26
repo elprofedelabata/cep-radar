@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:30:03 +0000</lastBuildDate>
     <item>
       <title>271104FC057 — COORDINACIÓN TUTORIAL EN EL CIFP MARÍTIMO ZAPORITO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 16/11/2026 → 31/05/2027 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
@@ -1393,6 +1393,20 @@
       <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
     </item>
     <item>
+      <title>279923KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF580/</link>
+      <guid isPermaLink="false">279923KPF580</guid>
+      <pubDate>Sat, 26 Sep 2026 17:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>279923KPF590 — PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF590/</link>
+      <guid isPermaLink="false">279923KPF590</guid>
+      <pubDate>Sat, 26 Sep 2026 17:30:03 +0000</pubDate>
+    </item>
+    <item>
       <title>271104FEDAP006 — COEDUCACIÓN TRANSVERSAL: PROMOVER LA IGUALDAD EN EL AULA</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 01/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP006/</link>
@@ -1930,13 +1944,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE026/</link>
       <guid isPermaLink="false">271812GE026</guid>
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>271812GE028 — III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''</title>
-      <description>18200028 - CEP Motril | Otros | 03/10/2026 → 13/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/</link>
-      <guid isPermaLink="false">271812GE028</guid>
-      <pubDate>Wed, 16 Sep 2026 23:56:55 +0000</pubDate>
     </item>
     <item>
       <title>271812GE029 — USO DE LA PLATAFORMA MOODLE CENTROS. NIVEL INICIAL</title>
@@ -2854,6 +2861,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE008/</link>
       <guid isPermaLink="false">271811GE008</guid>
       <pubDate>Mon, 06 Jul 2026 13:36:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>271812GE028 — III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''</title>
+      <description>18200028 - CEP Motril | Otros | 03/10/2026 → 13/10/2026 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/</link>
+      <guid isPermaLink="false">271812GE028</guid>
+      <pubDate>Wed, 16 Sep 2026 23:56:55 +0000</pubDate>
     </item>
     <item>
       <title>271813KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL</title>
