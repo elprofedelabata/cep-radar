@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-26T17:30:03.396004+00:00",
-  "total": 542,
+  "generado": "2026-09-26T20:18:12.768558+00:00",
+  "total": 550,
   "actividades": [
     {
       "Código": "271104FC057",
@@ -543,6 +543,54 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC001/"
     },
     {
+      "Código": "271410FC007",
+      "Título": "ORGANIZACIÓN DE NUESTRA COMUNIDAD DE APRENDIZAJE",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC007/"
+    },
+    {
+      "Código": "271410FC009",
+      "Título": "COMUNIDADES DE APRENDIZAJE SEGUNDO AÑO",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC009/"
+    },
+    {
+      "Código": "271410FC012",
+      "Título": "CREACIÓN ONLINE DE RECURSOS PARA COMUNIDAD DE APRENDIZAJE",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC012/"
+    },
+    {
+      "Código": "271410FC013",
+      "Título": "RECURSOS DIGITALES PARA LA COMUNIDAD DE APRENDIZAJE",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC013/"
+    },
+    {
       "Código": "271410FC015",
       "Título": "FORMACIÓN DOCENTE DEL CEIP NUESTRA SEÑORA DE GRACIA",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -553,6 +601,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC015/"
+    },
+    {
+      "Código": "271410FC017",
+      "Título": "FORMACIÓN COMPETENCIAL EN LÍNEAS ESTRATÉGICAS (L1, L2 y L3) DEL CEIP CARMEN DE BURGOS.",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC017/"
     },
     {
       "Código": "271410FC032",
@@ -567,6 +627,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC032/"
     },
     {
+      "Código": "271410FC034",
+      "Título": "COMO MEJORAR LA CONVIVENCIA A TRAVÉS DE METODOLOGÍAS ACTIVAS",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC034/"
+    },
+    {
       "Código": "271410FC040",
       "Título": "MEJORA COMPETENCIAL DEL CEIP JUAN VALERA",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -577,6 +649,30 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC040/"
+    },
+    {
+      "Código": "271410FC041",
+      "Título": "Resolución de conflictos y mediación: la mediación entre iguales. Proyecto ECO.",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC041/"
+    },
+    {
+      "Código": "271410FC046",
+      "Título": "MEJORA DE LA COMPETENCIA LINGÜÍSTICA A TRAVÉS DE LA LECTURA",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC046/"
     },
     {
       "Código": "271410GT005",
