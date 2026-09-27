@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-27T14:53:44.032403+00:00",
-  "total": 550,
+  "generado": "2026-09-27T20:32:59.821485+00:00",
+  "total": 555,
   "actividades": [
     {
       "Código": "271104FC057",
@@ -567,6 +567,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC009/"
     },
     {
+      "Código": "271410FC011",
+      "Título": "FORMACIÓN PCT COMPETENCIA LECTORA JUAN DE ARÉJULA: CONSOLIDACIÓN, INNOVACIÓN E INCLUSIÓN.",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC011/"
+    },
+    {
       "Código": "271410FC012",
       "Título": "CREACIÓN ONLINE DE RECURSOS PARA COMUNIDAD DE APRENDIZAJE",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -613,6 +625,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC017/"
+    },
+    {
+      "Código": "271410FC029",
+      "Título": "FORMACION PCT COMPETENCIA LECTORA CEIP JUAN ALFONSO DE BAENA",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Formación en centros",
+      "Estado": "En proyecto",
+      "Inicio": "01/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FC029/"
     },
     {
       "Código": "271410FC032",
@@ -805,18 +829,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410KPF429/"
-    },
-    {
-      "Código": "271410KPF484",
-      "Título": "LA CIBERSEGURIDAD EN EL ÁMBITO EDUCATIVO",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "En proyecto",
-      "Inicio": "15/10/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410KPF484/"
     },
     {
       "Código": "271811GE012",
@@ -1141,6 +1153,18 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GT082/"
+    },
+    {
+      "Código": "271812GT095",
+      "Título": "ABRIMOS EUROPA: PRIMEROS PASOS HACIA EL ERASMUS + EN NUESTRO CPR",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GT095/"
     },
     {
       "Código": "271813GE008",
@@ -2499,6 +2523,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF590/"
     },
     {
+      "Código": "279932KPF580",
+      "Título": "FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "En proyecto",
+      "Inicio": "21/10/2026",
+      "Fin": "11/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932KPF580/"
+    },
+    {
+      "Código": "279932KPF590",
+      "Título": "PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "En proyecto",
+      "Inicio": "14/10/2026",
+      "Fin": "04/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932KPF590/"
+    },
+    {
       "Código": "271104FEDAP006",
       "Título": "COEDUCACIÓN TRANSVERSAL: PROMOVER LA IGUALDAD EN EL AULA",
       "CEP": "11200011 - CEP Cádiz",
@@ -2977,6 +3025,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE007/"
+    },
+    {
+      "Código": "271410KPF484",
+      "Título": "LA CIBERSEGURIDAD EN EL ÁMBITO EDUCATIVO",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "15/10/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410KPF484/"
     },
     {
       "Código": "271410PR001",
