@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-27T20:32:59.821485+00:00",
-  "total": 555,
+  "generado": "2026-09-28T00:06:38.313875+00:00",
+  "total": 558,
   "actividades": [
     {
       "Código": "271104FC057",
@@ -2223,6 +2223,42 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT173/"
     },
     {
+      "Código": "274127GT179",
+      "Título": "ACTUALIZACIÓN DEL PLAN DE CONVIVENCIA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT179/"
+    },
+    {
+      "Código": "274127GT196",
+      "Título": "OBJETIVO ERASMUS+ EN EL IES MATILDE CASANOVA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT196/"
+    },
+    {
+      "Código": "274127GT212",
+      "Título": "INTELIGENCIA ARTIFICIAL COMO ALIADA DOCENTE",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "En proyecto",
+      "Inicio": "30/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127GT212/"
+    },
+    {
       "Código": "274127GT223",
       "Título": "AULAS QUE EMOCIONAN",
       "CEP": "41200017 - CEP Sevilla",
@@ -3207,18 +3243,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE040/"
     },
     {
-      "Código": "271811GE041",
-      "Título": "ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "30/09/2026",
-      "Fin": "30/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/"
-    },
-    {
       "Código": "271811GE042",
       "Título": "RED DE PT y AL",
       "CEP": "18200016 - CEP Granada",
@@ -3253,18 +3277,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/"
-    },
-    {
-      "Código": "271811GE045",
-      "Título": "HORNOS CERÁMICOS: TÉCNICAS Y PROCESOS PARA SU APLICACIÓN EN EL AULA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "06/10/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/"
     },
     {
       "Código": "271811GE046",
@@ -5055,16 +5067,28 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE008/"
     },
     {
-      "Código": "271812GE028",
-      "Título": "III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Otros",
+      "Código": "271811GE041",
+      "Título": "ENREDANDO ORIENTADORES: IX RED FORMATIVA DE LOS PROFESIONALES DE LA ORIENTACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
       "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "03/10/2026",
-      "Fin": "13/10/2026",
-      "Dirigido a": "Educación infantil",
+      "Inicio": "30/09/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/"
+    },
+    {
+      "Código": "271811GE045",
+      "Título": "HORNOS CERÁMICOS: TÉCNICAS Y PROCESOS PARA SU APLICACIÓN EN EL AULA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "06/10/2026",
+      "Fin": "27/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/"
     },
     {
       "Código": "271813KPF555",
@@ -6265,6 +6289,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE027/"
+    },
+    {
+      "Código": "271812GE028",
+      "Título": "III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Otros",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/10/2026",
+      "Fin": "13/10/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/"
     },
     {
       "Código": "271814GE001",
