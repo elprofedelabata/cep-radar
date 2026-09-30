@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Marbella - Coín</description>
     <language>es</language>
-    <lastBuildDate>Wed, 30 Sep 2026 07:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:08:53 +0000</lastBuildDate>
     <item>
       <title>272923CI252 — CONSTITUCIÓN DE UN SERVICIO DE PROMOTORAS Y PROMOTORES DE CONVIVENCIA EN ACCIÓN  (PCA)</title>
       <description>29200026 - CEP Marbella - Coín | Curso Semipresencial | 15/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -21,32 +21,11 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>272923GE101 — CURSO PRÁCTICO: FAVORECIENDO LA ACCESIBILIDAD DEL ALUMNADO AUTISTA EN INFANTIL Y PRIMARIA.</title>
-      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE101/</link>
-      <guid isPermaLink="false">272923GE101</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
       <title>272923GE301 — MATÉMÁTICAS EN ACCIÓN: MANIPULACIÓN, RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS EN EDUCACIÓN PRIMARIA.</title>
       <description>29200026 - CEP Marbella - Coín | Curso | 20/10/2026 → 17/11/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE301/</link>
       <guid isPermaLink="false">272923GE301</guid>
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>272923GE403 — TALLER DE RADIO ESCOLAR PARA CENTROS EDUCATIVOS: GUIONIZACIÓN, PRODUCCIÓN Y POSTPRODUCCIÓN</title>
-      <description>29200026 - CEP Marbella - Coín | Curso | 07/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE403/</link>
-      <guid isPermaLink="false">272923GE403</guid>
-      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>272923GE851 — DESCUBRIENDO LAS MATEMÁTICAS EN EDUCACIÓN INFANTIL</title>
-      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE851/</link>
-      <guid isPermaLink="false">272923GE851</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>279923KPF590 — PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
@@ -75,6 +54,27 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923QPF555/</link>
       <guid isPermaLink="false">279923QPF555</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>272923GE101 — CURSO PRÁCTICO: FAVORECIENDO LA ACCESIBILIDAD DEL ALUMNADO AUTISTA EN INFANTIL Y PRIMARIA.</title>
+      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE101/</link>
+      <guid isPermaLink="false">272923GE101</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>272923GE403 — TALLER DE RADIO ESCOLAR PARA CENTROS EDUCATIVOS: GUIONIZACIÓN, PRODUCCIÓN Y POSTPRODUCCIÓN</title>
+      <description>29200026 - CEP Marbella - Coín | Curso | 07/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE403/</link>
+      <guid isPermaLink="false">272923GE403</guid>
+      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>272923GE851 — DESCUBRIENDO LAS MATEMÁTICAS EN EDUCACIÓN INFANTIL</title>
+      <description>29200026 - CEP Marbella - Coín | Curso | 06/10/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE851/</link>
+      <guid isPermaLink="false">272923GE851</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

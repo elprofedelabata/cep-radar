@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Baza</description>
     <language>es</language>
-    <lastBuildDate>Wed, 30 Sep 2026 07:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:08:53 +0000</lastBuildDate>
     <item>
       <title>271814GE007 — AULAS QUE CONECTAN: LIDERAZGO DOCENTE Y GESTIÓN DE GRUPOS</title>
       <description>18200041 - CEP Baza | Curso Semipresencial | 07/10/2026 → 21/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -21,6 +21,20 @@
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
+      <title>279914KPF590 — PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
+      <description>18200041 - CEP Baza | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279914KPF590/</link>
+      <guid isPermaLink="false">279914KPF590</guid>
+      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>271814GE001 — NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL</title>
+      <description>18200041 - CEP Baza | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/</link>
+      <guid isPermaLink="false">271814GE001</guid>
+      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
+    </item>
+    <item>
       <title>271814GE006 — PLATAFORMAS Y HERRAMIENTAS INTEGRADAS EN EL CEIP JABALCÓN</title>
       <description>18200041 - CEP Baza | Curso | 21/09/2026 → 28/09/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE006/</link>
@@ -33,13 +47,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE008/</link>
       <guid isPermaLink="false">271814GE008</guid>
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>271814GE001 — NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL</title>
-      <description>18200041 - CEP Baza | Curso | 29/09/2026 → 27/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE001/</link>
-      <guid isPermaLink="false">271814GE001</guid>
-      <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
