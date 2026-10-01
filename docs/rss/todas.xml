@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:05:23 +0000</lastBuildDate>
     <item>
       <title>179916KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
       <description>21200025 - CEP Bollullos - Valverde | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -238,6 +238,13 @@
       <pubDate>Mon, 28 Sep 2026 07:52:06 +0000</pubDate>
     </item>
     <item>
+      <title>271408IC001 — RED DE DIRECTORES Y DIRECTORAS DE INFANTIL Y PRIMARIA DE LOS ÁMBITOS DEL CEP CÓRDOBA Y CEP PEÑARROYA-PUEBLONUEVO</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 21/10/2026 → 09/06/2027 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IC001/</link>
+      <guid isPermaLink="false">271408IC001</guid>
+      <pubDate>Thu, 01 Oct 2026 22:05:22 +0000</pubDate>
+    </item>
+    <item>
       <title>271408PR015 — APRENDIZAJE LENGUA DE SIGNOS (LSE ) NIVEL  INICIACIÓN</title>
       <description>14200010 - CEP Córdoba | Curso | 14/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR015/</link>
@@ -406,13 +413,6 @@
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE046 — RECREOS INCLUSIVOS ¡FUERA EL ABURRIMIENTO... AQUÍ HAY ENTRETENIMIENTO!</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 15/10/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE046/</link>
-      <guid isPermaLink="false">271811GE046</guid>
-      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE047 — CREACIÓN Y DISEÑO DE RECURSOS DIDÁCTICOS CON CANVA PARA LA CLASE DE RELIGIÓN</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 15/10/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE047/</link>
@@ -432,13 +432,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/</link>
       <guid isPermaLink="false">271811GE049</guid>
       <pubDate>Mon, 06 Jul 2026 13:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE050 — SEMINARIO DUA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 07/10/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/</link>
-      <guid isPermaLink="false">271811GE050</guid>
-      <pubDate>Mon, 13 Jul 2026 08:43:52 +0000</pubDate>
     </item>
     <item>
       <title>271811GE051 — ATENCIÓN AL ALUMNADO CON AUTISMO EN AULA ORDINARIA: TEA NIVEL 1</title>
@@ -1750,6 +1743,13 @@
       <pubDate>Mon, 13 Jul 2026 08:43:52 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE046 — RECREOS INCLUSIVOS ¡FUERA EL ABURRIMIENTO... AQUÍ HAY ENTRETENIMIENTO!</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 15/10/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE046/</link>
+      <guid isPermaLink="false">271811GE046</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE058 — DINÁMICAS CREATIVAS PARA E. INFANTIL Y 1º CICLO DE PRIMARIA: LA MAGIA DE ''EL CASCANUECES''</title>
       <description>18200016 - CEP Granada | Curso | 06/10/2026 → 23/10/2026 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE058/</link>
@@ -2567,6 +2567,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/</link>
       <guid isPermaLink="false">271811GE045</guid>
       <pubDate>Mon, 07 Sep 2026 20:52:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE050 — SEMINARIO DUA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 07/10/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/</link>
+      <guid isPermaLink="false">271811GE050</guid>
+      <pubDate>Mon, 13 Jul 2026 08:43:52 +0000</pubDate>
     </item>
     <item>
       <title>272115GE002 — EL AULA DEL FUTURO COMO ESCENARIO PARA IMPULSAR LAS METODOLOGÍAS ACTIVAS</title>

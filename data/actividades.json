@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T16:45:59.725900+00:00",
-  "total": 437,
+  "generado": "2026-10-01T22:05:22.810745+00:00",
+  "total": 438,
   "actividades": [
     {
       "Código": "179916KPF580",
@@ -399,6 +399,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/"
     },
     {
+      "Código": "271408IC001",
+      "Título": "RED DE DIRECTORES Y DIRECTORAS DE INFANTIL Y PRIMARIA DE LOS ÁMBITOS DEL CEP CÓRDOBA Y CEP PEÑARROYA-PUEBLONUEVO",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "21/10/2026",
+      "Fin": "09/06/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IC001/"
+    },
+    {
       "Código": "271408PR015",
       "Título": "APRENDIZAJE LENGUA DE SIGNOS (LSE ) NIVEL  INICIACIÓN",
       "CEP": "14200010 - CEP Córdoba",
@@ -687,18 +699,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/"
     },
     {
-      "Código": "271811GE046",
-      "Título": "RECREOS INCLUSIVOS ¡FUERA EL ABURRIMIENTO... AQUÍ HAY ENTRETENIMIENTO!",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/10/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE046/"
-    },
-    {
       "Código": "271811GE047",
       "Título": "CREACIÓN Y DISEÑO DE RECURSOS DIDÁCTICOS CON CANVA PARA LA CLASE DE RELIGIÓN",
       "CEP": "18200016 - CEP Granada",
@@ -733,18 +733,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE049/"
-    },
-    {
-      "Código": "271811GE050",
-      "Título": "SEMINARIO DUA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/10/2026",
-      "Fin": "30/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
     },
     {
       "Código": "271811GE051",
@@ -2991,6 +2979,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE041/"
     },
     {
+      "Código": "271811GE046",
+      "Título": "RECREOS INCLUSIVOS ¡FUERA EL ABURRIMIENTO... AQUÍ HAY ENTRETENIMIENTO!",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "15/10/2026",
+      "Fin": "05/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE046/"
+    },
+    {
       "Código": "271811GE058",
       "Título": "DINÁMICAS CREATIVAS PARA E. INFANTIL Y 1º CICLO DE PRIMARIA: LA MAGIA DE ''EL CASCANUECES''",
       "CEP": "18200016 - CEP Granada",
@@ -4393,6 +4393,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/"
+    },
+    {
+      "Código": "271811GE050",
+      "Título": "SEMINARIO DUA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "07/10/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
     },
     {
       "Código": "272115GE002",
