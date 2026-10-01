@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:55:59 +0000</lastBuildDate>
     <item>
       <title>179916KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
       <description>21200025 - CEP Bollullos - Valverde | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -1008,13 +1008,6 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>272925FP001 — PROGRAMACIÓN Y EVALUACIÓN EN FP (Profesorado zona CEP Antequera, CEP Ronda y CEP Axarquía)</title>
-      <description>29200041 - CEP Antequera | Curso con Seguimiento | 05/10/2026 → 28/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925FP001/</link>
-      <guid isPermaLink="false">272925FP001</guid>
-      <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
-    </item>
-    <item>
       <title>27401GE007 — EMPRENDER HOY: NUEVOS MODELOS DE NEGOCIO DINÁMICOS PARA EL AULA DE ECONOMÍA</title>
       <description>04200019 - CEP Almería | Curso Semipresencial | 07/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE007/</link>
@@ -1027,13 +1020,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE008/</link>
       <guid isPermaLink="false">27401GE008</guid>
       <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>27401GE009 — JORNADA DE INNOVACIÓN DE ALMERÍA: ALMERÍA AULAS DE CINE -EL DUELO-</title>
-      <description>04200019 - CEP Almería | Jornadas | 16/10/2026 → 17/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE009/</link>
-      <guid isPermaLink="false">27401GE009</guid>
-      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
       <title>27401GE014 — SITUACIONES DE APRENDIZAJE EN EDUCACIÓN INFANTIL (0-6): ESTRATEGIAS Y HERRAMIENTAS DIGITALES PARA OPTIMIZAR LA RESPUESTA EDUCATIVA EN EL AULA</title>
@@ -1862,11 +1848,25 @@
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
+      <title>272925FP001 — PROGRAMACIÓN Y EVALUACIÓN EN FP (Profesorado zona CEP Antequera, CEP Ronda y CEP Axarquía)</title>
+      <description>29200041 - CEP Antequera | Curso con Seguimiento | 05/10/2026 → 28/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925FP001/</link>
+      <guid isPermaLink="false">272925FP001</guid>
+      <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
+    </item>
+    <item>
       <title>27401GE006 — CEPx: BUENAS PRÁCTICAS EDUCATIVAS IV</title>
       <description>04200019 - CEP Almería | Encuentro | 24/09/2026 → 24/09/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE006/</link>
       <guid isPermaLink="false">27401GE006</guid>
       <pubDate>Fri, 28 Aug 2026 23:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>27401GE009 — JORNADA DE INNOVACIÓN DE ALMERÍA: ALMERÍA AULAS DE CINE -EL DUELO-</title>
+      <description>04200019 - CEP Almería | Jornadas | 16/10/2026 → 17/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE009/</link>
+      <guid isPermaLink="false">27401GE009</guid>
+      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
       <title>27403GE001 — JORNADA DE INNOVACIÓN DE ALMERÍA: ALMERÍA AULAS DE CINE -EL DUELO-</title>
@@ -2457,6 +2457,13 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
+      <title>279928PA455 — COMUNIDADES DE APRENDIZAJE · FASE DE SENSIBILIZACIÓN</title>
+      <description>41200029 - CEP Castilleja de la Cuesta | Curso Semipresencial | 28/09/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PA455/</link>
+      <guid isPermaLink="false">279928PA455</guid>
+      <pubDate>Mon, 14 Sep 2026 07:18:21 +0000</pubDate>
+    </item>
+    <item>
       <title>279928PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
       <description>41200029 - CEP Castilleja de la Cuesta | Curso | 23/09/2026 → 21/10/2026 | Dirigido a: Equipos directivos | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PF011/</link>
@@ -2945,13 +2952,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927PF011/</link>
       <guid isPermaLink="false">279927PF011</guid>
       <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>279928PA455 — COMUNIDADES DE APRENDIZAJE · FASE DE SENSIBILIZACIÓN</title>
-      <description>41200029 - CEP Castilleja de la Cuesta | Curso Semipresencial | 28/09/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PA455/</link>
-      <guid isPermaLink="false">279928PA455</guid>
-      <pubDate>Mon, 14 Sep 2026 07:18:21 +0000</pubDate>
     </item>
     <item>
       <title>279929PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN</title>
