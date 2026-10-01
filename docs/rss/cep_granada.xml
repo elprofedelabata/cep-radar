@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:46:00 +0000</lastBuildDate>
     <item>
       <title>271811GE002 — JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS</title>
       <description>18200016 - CEP Granada | Jornadas | 15/10/2026 → 16/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
@@ -161,7 +161,7 @@
       <pubDate>Fri, 25 Sep 2026 14:49:58 +0000</pubDate>
     </item>
     <item>
-      <title>279911KPF590 — PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
+      <title>279911KPF590 — 590. PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
       <description>18200016 - CEP Granada | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF590/</link>
       <guid isPermaLink="false">279911KPF590</guid>
@@ -201,6 +201,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE027/</link>
       <guid isPermaLink="false">271811GE027</guid>
       <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
+      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
+      <guid isPermaLink="false">271811GE032</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
       <title>271811GE034 — PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR</title>
@@ -271,13 +278,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE006/</link>
       <guid isPermaLink="false">271811GE006</guid>
       <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE032 — DINÁMICAS CREATIVAS PARA EL AULA DE MÚSICA: EL CASCANUECES, SUEÑO DE UNA NOCHE DE VERANO Y MÚSICA DEL SIGLO XX (PRIMARIA Y SECUNDARIA)</title>
-      <description>18200016 - CEP Granada | Curso | 29/09/2026 → 16/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE032/</link>
-      <guid isPermaLink="false">271811GE032</guid>
-      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
