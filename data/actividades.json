@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-04T07:32:07.375302+00:00",
-  "total": 472,
+  "generado": "2026-10-04T15:01:52.548224+00:00",
+  "total": 477,
   "actividades": [
     {
       "Código": "271104FEDAP003",
@@ -3339,6 +3339,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE027/"
     },
     {
+      "Código": "271812GE028",
+      "Título": "III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Otros",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "03/10/2026",
+      "Fin": "13/10/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/"
+    },
+    {
       "Código": "271813KPF555",
       "Título": "CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL",
       "CEP": "18200031 - CEP Guadix",
@@ -3495,6 +3507,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE019/"
     },
     {
+      "Código": "272319GT004",
+      "Título": "APRENDER JUGANDO: ABJ EN INFANTIL Y PRIMARIA",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT004/"
+    },
+    {
       "Código": "272319GT006",
       "Título": "SITUACIONES DE APRENDIZAJE EN EEOOII",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -3505,6 +3529,54 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT006/"
+    },
+    {
+      "Código": "272319GT030",
+      "Título": "EVALUACIÓN COMPETENCIAL Y FORMATIVA: INSTRUMENTOS PARA SU IMPLEMENTACIÓN",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT030/"
+    },
+    {
+      "Código": "272319GT033",
+      "Título": "INTELIGENCIA ARTIFICIAL Y DUA EN EL ÁMBITO SOCIO-LINGÜÍSTICO: HERRAMIENTAS PARA UNA ENSEÑANZA INCLUSIVA Y PERSONALIZADA",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT033/"
+    },
+    {
+      "Código": "272319GT038",
+      "Título": "INTELIGENCIA ARTIFICIAL Y DUA EN EL ÁMBITO CIENTÍFICO TECNOLÓGICO: HERRAMIENTAS PARA UNA ENSEÑANZA INCLUSIVA Y PERSONALIZADA",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT038/"
+    },
+    {
+      "Código": "272319GT043",
+      "Título": "RADIO ESCOLAR",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GT043/"
     },
     {
       "Código": "272321GE001",
@@ -5065,18 +5137,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE026/"
-    },
-    {
-      "Código": "271812GE028",
-      "Título": "III ENCUENTRO ESCUELAS INFANTILES 0-3 AÑOS: ''CONSOLIDANDO VÍNCULOS''",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Otros",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "03/10/2026",
-      "Fin": "13/10/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE028/"
     },
     {
       "Código": "271812GE029",
