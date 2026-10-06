@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:30:02 +0000</lastBuildDate>
     <item>
       <title>271811GE002 — JORNADAS PEDAGÓGICAS Y FORMATIVAS DE DIRECCIONES DE CENTROS EDUCATIVOS</title>
       <description>18200016 - CEP Granada | Jornadas | 15/10/2026 → 16/10/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
@@ -168,13 +168,6 @@
       <pubDate>Wed, 16 Sep 2026 14:26:09 +0000</pubDate>
     </item>
     <item>
-      <title>279911CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
-      <description>18200016 - CEP Granada | Jornadas | 08/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911CI001/</link>
-      <guid isPermaLink="false">279911CI001</guid>
-      <pubDate>Fri, 25 Sep 2026 14:49:58 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE008 — ACTIVA TU AULA: METODOLOGÍAS PARA APRENDER HACIENDO</title>
       <description>18200016 - CEP Granada | Curso | 29/09/2026 → 10/11/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE008/</link>
@@ -313,6 +306,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE045/</link>
       <guid isPermaLink="false">271811GE045</guid>
       <pubDate>Mon, 07 Sep 2026 20:52:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>279911CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
+      <description>18200016 - CEP Granada | Jornadas | 08/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911CI001/</link>
+      <guid isPermaLink="false">279911CI001</guid>
+      <pubDate>Fri, 25 Sep 2026 14:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
