@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Almería</description>
     <language>es</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:04:25 +0000</lastBuildDate>
     <item>
       <title>27401GE013 — SOPORTE VITAL BÁSICO Y DESFIBRILADOR SEMIAUTOMÁTICO</title>
       <description>04200019 - CEP Almería | Curso Semipresencial | 16/10/2026 → 23/10/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
@@ -33,13 +33,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE022/</link>
       <guid isPermaLink="false">27401GE022</guid>
       <pubDate>Wed, 30 Sep 2026 07:39:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>27401GE023 — ATENCION A LA DIVERSIDAD DESDE EL MARCO DUA</title>
-      <description>04200019 - CEP Almería | Curso Semipresencial | 14/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE023/</link>
-      <guid isPermaLink="false">27401GE023</guid>
-      <pubDate>Tue, 29 Sep 2026 21:36:22 +0000</pubDate>
     </item>
     <item>
       <title>27401GE024 — CURSO DE INICIACIÓN A LOS DRONES</title>
@@ -77,6 +70,13 @@
       <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
     <item>
+      <title>279901CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
+      <description>04200019 - CEP Almería | Jornadas | 07/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901CI001/</link>
+      <guid isPermaLink="false">279901CI001</guid>
+      <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
+    </item>
+    <item>
       <title>279901KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL</title>
       <description>04200019 - CEP Almería | Curso a Distancia | 23/09/2026 → 23/11/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901KPF555/</link>
@@ -96,6 +96,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901QPF555/</link>
       <guid isPermaLink="false">279901QPF555</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>27401GE023 — ATENCION A LA DIVERSIDAD DESDE EL MARCO DUA</title>
+      <description>04200019 - CEP Almería | Curso Semipresencial | 14/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE023/</link>
+      <guid isPermaLink="false">27401GE023</guid>
+      <pubDate>Tue, 29 Sep 2026 21:36:22 +0000</pubDate>
     </item>
     <item>
       <title>27401GE007 — EMPRENDER HOY: NUEVOS MODELOS DE NEGOCIO DINÁMICOS PARA EL AULA DE ECONOMÍA</title>
@@ -123,13 +130,6 @@
       <description>04200019 - CEP Almería | Curso a Distancia | 13/10/2026 → 30/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE017/</link>
       <guid isPermaLink="false">27401GE017</guid>
-      <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>279901CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
-      <description>04200019 - CEP Almería | Jornadas | 07/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901CI001/</link>
-      <guid isPermaLink="false">279901CI001</guid>
       <pubDate>Fri, 18 Sep 2026 13:57:23 +0000</pubDate>
     </item>
   </channel>

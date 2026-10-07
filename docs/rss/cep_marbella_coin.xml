@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Marbella - Coín</description>
     <language>es</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:04:26 +0000</lastBuildDate>
     <item>
       <title>272923CI252 — CONSTITUCIÓN DE UN SERVICIO DE PROMOTORAS Y PROMOTORES DE CONVIVENCIA EN ACCIÓN  (PCA)</title>
       <description>29200026 - CEP Marbella - Coín | Curso Semipresencial | 15/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -84,6 +84,13 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>272923PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACION</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 08/10/2026 → 03/12/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923PA455/</link>
+      <guid isPermaLink="false">272923PA455</guid>
+      <pubDate>Fri, 02 Oct 2026 21:31:49 +0000</pubDate>
+    </item>
+    <item>
       <title>279923KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL. INFANTIL Y PRIMARIA</title>
       <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 01/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF555/</link>
@@ -96,13 +103,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923QPF555/</link>
       <guid isPermaLink="false">279923QPF555</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>272923PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACION</title>
-      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 08/10/2026 → 03/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923PA455/</link>
-      <guid isPermaLink="false">272923PA455</guid>
-      <pubDate>Fri, 02 Oct 2026 21:31:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
