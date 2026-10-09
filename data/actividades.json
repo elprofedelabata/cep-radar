@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-09T16:41:18.101484+00:00",
-  "total": 643,
+  "generado": "2026-10-09T21:57:54.347580+00:00",
+  "total": 644,
   "actividades": [
     {
       "Código": "271104FEDAP003",
@@ -231,18 +231,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE036/"
     },
     {
-      "Código": "271408GE046",
-      "Título": "LA EVALUACIÓN CRITERIAL Y USO PRÁCTICO DE CUADERNO SÉNECA EN EDUCACIÓN INFANTIL",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/10/2026",
-      "Fin": "29/10/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE046/"
-    },
-    {
       "Código": "271408GE051",
       "Título": "RED DE RADIOS ESCOLARES DE LA PROVINCIA DE CÓRDOBA",
       "CEP": "14200010 - CEP Córdoba",
@@ -373,18 +361,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR026/"
-    },
-    {
-      "Código": "271409GE005",
-      "Título": "DIVERSAS FORMAS DEL DEBATE EN EL AULA",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "13/10/2026",
-      "Fin": "22/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE005/"
     },
     {
       "Código": "271409GE011",
@@ -5079,6 +5055,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272926GE503/"
     },
     {
+      "Código": "27401GT038",
+      "Título": "SÉNECA E INTELIGENCIA ARTIFICIAL APLICADAS A LA ENSEÑANZA DE IDIOMAS EN LA EOI",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Grupos de trabajo",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "11/11/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GT038/"
+    },
+    {
       "Código": "27403GE002",
       "Título": "DINÁMICAS DE CONVIVENCIA RESTAURATIVA Y GESTIÓN PACÍFICA DEL CONFLICTO: LA MAGIA DE CONVIVIR. IES MEDITERRÁNEO.",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -6243,30 +6231,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED001/"
     },
     {
-      "Código": "271105FED012",
-      "Título": "ERASMUS DAYS: JORNADAS EXPERIENCIAS DE ÉXITO EN PROYECTOS ERASMUS +",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "14/10/2026",
-      "Fin": "15/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED012/"
-    },
-    {
-      "Código": "271408GE016",
-      "Título": "DANZATERAPIA, MÚSICA Y PSICOMOTRICIDAD : ELABORACIÓN PROGRAMAS ESPECÍFICOS ALUMNADO NEAE",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "13/10/2026",
-      "Fin": "20/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE016/"
-    },
-    {
       "Código": "271408GE056",
       "Título": "MANOS A LA TIERRA. HERRAMIENTAS DE EDUCACIÓN ECOSOCIAL",
       "CEP": "14200010 - CEP Córdoba",
@@ -6435,6 +6399,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130INT003/"
     },
     {
+      "Código": "279915FP002",
+      "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2025-2026. FASE PRESENCIAL (RESOLUCIONES 2026, 2025 Y 2021).  SESIONES DE MAÑANA",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "19/10/2026",
+      "Fin": "18/01/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915FP002/"
+    },
+    {
       "Código": "279915PF001",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -6543,6 +6519,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104IC001/"
     },
     {
+      "Código": "271105FED012",
+      "Título": "ERASMUS DAYS: JORNADAS EXPERIENCIAS DE ÉXITO EN PROYECTOS ERASMUS +",
+      "CEP": "11200023 - CEP Jerez de la Frontera",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "14/10/2026",
+      "Fin": "15/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED012/"
+    },
+    {
       "Código": "271106FEDAP004",
       "Título": "GESTIÓN DE AULA Y RESOLUCIÓN DE CONFLICTOS",
       "CEP": "11200035 - CEP Villamartín",
@@ -6625,6 +6613,18 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE012/"
+    },
+    {
+      "Código": "271408GE016",
+      "Título": "DANZATERAPIA, M¿SICA Y PSICOMOTRICIDAD : ELABORACI¿N PROGRAMAS ESPEC¿FICOS ALUMNADO NEAE",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/10/2026",
+      "Fin": "20/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE016/"
     },
     {
       "Código": "271408GE082",
@@ -7549,6 +7549,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909AV285/"
+    },
+    {
+      "Código": "279910KPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/10/2026",
+      "Fin": "26/05/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910KPF248/"
     },
     {
       "Código": "279912PF011",
