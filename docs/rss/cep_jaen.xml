@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Jaén</description>
     <language>es</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:41:18 +0000</lastBuildDate>
     <item>
       <title>272318GE016 — ABRE TUS MANOS: INICIACIÓN A LA LSE EN EL AULA</title>
       <description>23200016 - CEP Jaén | Curso con Seguimiento | 21/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -19,13 +19,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE020/</link>
       <guid isPermaLink="false">272318GE020</guid>
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>272318GE022 — ERASMUS DAY: DIFUSIÓN EXPERIENCIAS</title>
-      <description>23200016 - CEP Jaén | Curso | 14/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE022/</link>
-      <guid isPermaLink="false">272318GE022</guid>
-      <pubDate>Wed, 23 Sep 2026 20:46:50 +0000</pubDate>
     </item>
     <item>
       <title>279918KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
@@ -61,13 +54,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KRE001/</link>
       <guid isPermaLink="false">279918KRE001</guid>
       <pubDate>Thu, 01 Oct 2026 07:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>279918CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
-      <description>23200016 - CEP Jaén | Jornadas | 14/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918CI001/</link>
-      <guid isPermaLink="false">279918CI001</guid>
-      <pubDate>Wed, 23 Sep 2026 14:29:53 +0000</pubDate>
     </item>
     <item>
       <title>272318GE005 — DISEÑO DE SITUACIONES DE APRENDIZAJE Y EVALUACIÓN COMPETENCIAL EN ESO</title>
@@ -112,11 +98,25 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
+      <title>272318GE022 — ERASMUS DAY: DIFUSIÓN EXPERIENCIAS</title>
+      <description>23200016 - CEP Jaén | Curso | 14/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE022/</link>
+      <guid isPermaLink="false">272318GE022</guid>
+      <pubDate>Wed, 23 Sep 2026 20:46:50 +0000</pubDate>
+    </item>
+    <item>
       <title>272318GE013 — RAZONAMIENTO MATEMÁTICO CEIP SANTA CLARA (LAHIGUERA)</title>
       <description>23200016 - CEP Jaén | Curso | 05/10/2026 → 16/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE013/</link>
       <guid isPermaLink="false">272318GE013</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>279918CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
+      <description>23200016 - CEP Jaén | Jornadas | 14/10/2026 → 30/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918CI001/</link>
+      <guid isPermaLink="false">279918CI001</guid>
+      <pubDate>Wed, 23 Sep 2026 14:29:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
