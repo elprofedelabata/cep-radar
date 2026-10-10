@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Lebrija</description>
     <language>es</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:37:24 +0000</lastBuildDate>
     <item>
       <title>274131GE003 — DESARROLLO DE HABILIDADES EN RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS EN EDUCACIÓN SECUNDARIA</title>
       <description>41200054 - CEP Lebrija | Curso con Seguimiento | 20/10/2026 → 17/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
@@ -70,18 +70,25 @@
       <pubDate>Fri, 09 Oct 2026 16:41:18 +0000</pubDate>
     </item>
     <item>
+      <title>274131GE001 — CUADERNO SÉNECA INFANTIL Y PRIMARIA</title>
+      <description>41200054 - CEP Lebrija | Curso con Seguimiento | 14/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE001/</link>
+      <guid isPermaLink="false">274131GE001</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>279931KPF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
+      <description>41200054 - CEP Lebrija | Curso | 08/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279931KPF011/</link>
+      <guid isPermaLink="false">279931KPF011</guid>
+      <pubDate>Mon, 21 Sep 2026 21:19:27 +0000</pubDate>
+    </item>
+    <item>
       <title>279931PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN</title>
       <description>41200054 - CEP Lebrija | Curso Semipresencial | 30/09/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279931PA455/</link>
       <guid isPermaLink="false">279931PA455</guid>
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>274131GE001 — CUADERNO SÉNECA INFANTIL Y PRIMARIA</title>
-      <description>41200054 - CEP Lebrija | Curso con Seguimiento | 14/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE001/</link>
-      <guid isPermaLink="false">274131GE001</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:31 +0000</pubDate>
     </item>
     <item>
       <title>274131GE008 — LA MEDIACIÓN EN EL CENTRO EDUCATIVO</title>
@@ -96,13 +103,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279931KPF007/</link>
       <guid isPermaLink="false">279931KPF007</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>279931KPF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
-      <description>41200054 - CEP Lebrija | Curso | 08/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279931KPF011/</link>
-      <guid isPermaLink="false">279931KPF011</guid>
-      <pubDate>Mon, 21 Sep 2026 21:19:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
