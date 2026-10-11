@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-11T07:58:24.027059+00:00",
+  "generado": "2026-10-11T16:01:07.066107+00:00",
   "total": 644,
   "actividades": [
     {
@@ -3231,18 +3231,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE018/"
     },
     {
-      "Código": "271408GE083",
-      "Título": "DISEÑO DE PROYECTOS DE CALIDAD PARA UNA FORMACIÓN EN CENTRO",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "14/10/2026",
-      "Fin": "09/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/"
-    },
-    {
       "Código": "271410GE001",
       "Título": "USO EDUCATIVO DE LA INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -3649,6 +3637,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC07/"
+    },
+    {
+      "Código": "271408GE082",
+      "Título": "DISEÑO DE PROYECTOS DE CALIDAD PARA UN GRUPO DE TRABAJO",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Actividad en desarrollo",
+      "Inicio": "08/10/2026",
+      "Fin": "29/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE082/"
     },
     {
       "Código": "271408PR005",
@@ -6639,16 +6639,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE016/"
     },
     {
-      "Código": "271408GE082",
-      "Título": "DISEÑO DE PROYECTOS DE CALIDAD PARA UN GRUPO DE TRABAJO",
+      "Código": "271408GE083",
+      "Título": "DISEÑO DE PROYECTOS DE CALIDAD PARA UNA FORMACIÓN EN CENTRO",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/10/2026",
-      "Fin": "29/10/2026",
+      "Inicio": "14/10/2026",
+      "Fin": "09/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE082/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/"
     },
     {
       "Código": "271408PR007",

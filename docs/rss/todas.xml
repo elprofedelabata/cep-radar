@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sun, 11 Oct 2026 07:58:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:01:07 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP003 — PRIMEROS PASOS PARA EL PROFESORADO NOVEL DE RELIGIÓN. PERFIL Y HERRAMIENTAS DIGITALES PARA COMENZAR</title>
       <description>11200011 - CEP Cádiz | Curso | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -1890,13 +1890,6 @@
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE083 — DISEÑO DE PROYECTOS DE CALIDAD PARA UNA FORMACIÓN EN CENTRO</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 14/10/2026 → 09/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/</link>
-      <guid isPermaLink="false">271408GE083</guid>
-      <pubDate>Mon, 28 Sep 2026 07:52:06 +0000</pubDate>
-    </item>
-    <item>
       <title>271410GE001 — USO EDUCATIVO DE LA INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE</title>
       <description>14200034 - CEP Priego - Montilla | Curso Semipresencial | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/</link>
@@ -2133,6 +2126,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC07/</link>
       <guid isPermaLink="false">271408GEC07</guid>
       <pubDate>Mon, 28 Sep 2026 17:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408GE082 — DISEÑO DE PROYECTOS DE CALIDAD PARA UN GRUPO DE TRABAJO</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 08/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE082/</link>
+      <guid isPermaLink="false">271408GE082</guid>
+      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
     </item>
     <item>
       <title>271408PR005 — RED PROVINCIAL CÓRDOBA  PROFESIONALES TEA</title>
@@ -3878,11 +3878,11 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE082 — DISEÑO DE PROYECTOS DE CALIDAD PARA UN GRUPO DE TRABAJO</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 08/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE082/</link>
-      <guid isPermaLink="false">271408GE082</guid>
-      <pubDate>Wed, 02 Sep 2026 13:55:45 +0000</pubDate>
+      <title>271408GE083 — DISEÑO DE PROYECTOS DE CALIDAD PARA UNA FORMACIÓN EN CENTRO</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 14/10/2026 → 09/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/</link>
+      <guid isPermaLink="false">271408GE083</guid>
+      <pubDate>Mon, 28 Sep 2026 07:52:06 +0000</pubDate>
     </item>
     <item>
       <title>271408PR007 — RED PROVINCIAL DE ESPECIALISTAS DE PEDAGOGÍA TERAPÉUTICA PARA LA ATENCIÓN AL ALUMNADO CON TRASTORNO GRAVE DE CONDUCTA</title>
