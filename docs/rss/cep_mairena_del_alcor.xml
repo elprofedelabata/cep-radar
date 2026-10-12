@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Mairena del Alcor</description>
     <language>es</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:28:52 +0000</lastBuildDate>
     <item>
       <title>274130CC001 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL (INFANTIL Y PRIMARIA)</title>
       <description>41200042 - CEP Mairena del Alcor | Curso a Distancia | 21/10/2026 → 15/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -70,13 +70,6 @@
       <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
     <item>
-      <title>274130GE006 — JORNADAS INFORMATIVAS DEL EQUIPO DE INSPECCIÓN N.º IV</title>
-      <description>41200042 - CEP Mairena del Alcor | Jornadas | 14/09/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
-      <guid isPermaLink="false">274130GE006</guid>
-      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>274130ARD007 — USO DE LA BICICLETA COMO RECURSO DIDÁCTICO EN LAS CLASES DE EDUCACIÓN FÍSICA.</title>
       <description>41200042 - CEP Mairena del Alcor | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130ARD007/</link>
@@ -89,6 +82,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE003/</link>
       <guid isPermaLink="false">274130GE003</guid>
       <pubDate>Mon, 24 Aug 2026 18:22:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>274130GE006 — JORNADAS INFORMATIVAS DEL EQUIPO DE INSPECCIÓN N.º IV</title>
+      <description>41200042 - CEP Mairena del Alcor | Jornadas | 14/09/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Actividad en desarrollo</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/</link>
+      <guid isPermaLink="false">274130GE006</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
       <title>279930PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN.</title>
@@ -124,6 +124,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930EP425/</link>
       <guid isPermaLink="false">279930EP425</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>279930OE012 — JORNADA DE FORMACIÓN ESPECÍFICA PARA LA RED DE EXPERTOS EN ASESORAMIENTO EN COMPETENCIA LECTORA Y COMPETENCIA MATEMÁTICA DE ANDALUCÍA OCCIDENTAL DENTRO DEL MARCO DE ACTUACIONES DEL PCT DE 2026-2027</title>
+      <description>41200042 - CEP Mairena del Alcor | Jornadas | 22/10/2026 → 22/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930OE012/</link>
+      <guid isPermaLink="false">279930OE012</guid>
+      <pubDate>Mon, 12 Oct 2026 19:28:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
