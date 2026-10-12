@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T00:48:16.359672+00:00",
+  "generado": "2026-10-12T08:13:19.567640+00:00",
   "total": 645,
   "actividades": [
     {
@@ -2031,18 +2031,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF580/"
     },
     {
-      "Código": "279905KPF590",
-      "Título": "PROTECCIÓN DE DATOS PERSONALES EN CENTROS EDUCATIVOS",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "14/10/2026",
-      "Fin": "04/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF590/"
-    },
-    {
       "Código": "279905KPI461",
       "Título": "GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -2641,18 +2629,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF580/"
-    },
-    {
-      "Código": "279920KPF590",
-      "Título": "PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "14/10/2026",
-      "Fin": "04/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF590/"
     },
     {
       "Código": "279920KPI461",
@@ -3349,6 +3325,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE006/"
+    },
+    {
+      "Código": "279905KPF590",
+      "Título": "PROTECCIÓN DE DATOS PERSONALES EN CENTROS EDUCATIVOS",
+      "CEP": "11200023 - CEP Jerez de la Frontera",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "14/10/2026",
+      "Fin": "04/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF590/"
     },
     {
       "Código": "279922PF001",
@@ -7681,6 +7669,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918CI001/"
+    },
+    {
+      "Código": "279920KPF590",
+      "Título": "PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "14/10/2026",
+      "Fin": "04/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF590/"
     },
     {
       "Código": "279920OE012",
