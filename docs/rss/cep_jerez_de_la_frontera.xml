@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Jerez de la Frontera</description>
     <language>es</language>
-    <lastBuildDate>Tue, 13 Oct 2026 02:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:05:22 +0000</lastBuildDate>
     <item>
       <title>271105FED002 — ATENCIÓN A LA DIVERSIDAD EN EDUCACIÓN PARA PERSONAS ADULTAS.</title>
       <description>11200023 - CEP Jerez de la Frontera | Curso | 05/11/2026 → 19/11/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
@@ -33,6 +33,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF580/</link>
       <guid isPermaLink="false">279905KPF580</guid>
       <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>279905KPF641 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP</title>
+      <description>11200023 - CEP Jerez de la Frontera | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF641/</link>
+      <guid isPermaLink="false">279905KPF641</guid>
+      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
       <title>279905KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
@@ -71,17 +78,10 @@
     </item>
     <item>
       <title>271105FED001 — RECURSOS Y ESTRATEGIAS MUSICALES PARA EDUCACIÓN INFANTIL</title>
-      <description>11200023 - CEP Jerez de la Frontera | Curso | 14/10/2026 → 11/11/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <description>11200023 - CEP Jerez de la Frontera | Curso | 14/10/2026 → 11/11/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED001/</link>
       <guid isPermaLink="false">271105FED001</guid>
       <pubDate>Tue, 15 Sep 2026 14:31:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>279905KPF590 — PROTECCIÓN DE DATOS PERSONALES EN CENTROS EDUCATIVOS</title>
-      <description>11200023 - CEP Jerez de la Frontera | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF590/</link>
-      <guid isPermaLink="false">279905KPF590</guid>
-      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
     <item>
       <title>271105FED012 — ERASMUS DAYS: JORNADAS EXPERIENCIAS DE ÉXITO EN PROYECTOS ERASMUS +</title>
@@ -89,6 +89,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FED012/</link>
       <guid isPermaLink="false">271105FED012</guid>
       <pubDate>Tue, 15 Sep 2026 14:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>279905KPF590 — PROTECCIÓN DE DATOS PERSONALES EN CENTROS EDUCATIVOS</title>
+      <description>11200023 - CEP Jerez de la Frontera | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF590/</link>
+      <guid isPermaLink="false">279905KPF590</guid>
+      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
