@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:45:21 +0000</lastBuildDate>
     <item>
       <title>271408GE006 — FORMACIÓN IKEA: MONTA EL CURSO QUE TU AULA NECESITA. CURSO MODULAR PERSONALIZADO ''HAZLO TÚ MISMO/A''</title>
       <description>14200010 - CEP Córdoba | Curso | 28/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -26,6 +26,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/</link>
       <guid isPermaLink="false">271408GE017</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408GE018 — ENSEÑANZA MULTINIVEL  ETAPAS PRIMARIA Y SECUNDARIA ATENCIÓN A LA DIVERSIDAD ( ON LINE )</title>
+      <description>14200010 - CEP Córdoba | Curso | 04/11/2026 → 18/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE018/</link>
+      <guid isPermaLink="false">271408GE018</guid>
+      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
     </item>
     <item>
       <title>271408GE036 — XXX GYMKHANA MATEMÁTICA POR CÓRDOBA</title>
@@ -68,13 +75,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IC001/</link>
       <guid isPermaLink="false">271408IC001</guid>
       <pubDate>Thu, 01 Oct 2026 22:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>271408PR019 — TALLER. PARA ENSEÑAR RELIGIÓN 2027</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 19/10/2026 → 22/03/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR019/</link>
-      <guid isPermaLink="false">271408PR019</guid>
-      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
       <title>271408PR023 — ENCUENTROS FORMATIVOS PROVINCIALES  ORIENTADORAS Y ORIENTADORES</title>
@@ -161,13 +161,6 @@
       <pubDate>Tue, 29 Sep 2026 16:11:17 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE083 — DISEÑO DE PROYECTOS DE CALIDAD PARA UNA FORMACIÓN EN CENTRO</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 14/10/2026 → 09/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE083/</link>
-      <guid isPermaLink="false">271408GE083</guid>
-      <pubDate>Mon, 28 Sep 2026 07:52:06 +0000</pubDate>
-    </item>
-    <item>
       <title>271408PR007 — RED PROVINCIAL DE ESPECIALISTAS DE PEDAGOGÍA TERAPÉUTICA PARA LA ATENCIÓN AL ALUMNADO CON TRASTORNO GRAVE DE CONDUCTA</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/10/2026 → 30/04/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR007/</link>
@@ -217,11 +210,11 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>271408PR015 — APRENDIZAJE LENGUA DE SIGNOS (LSE ) NIVEL  INICIACIÓN</title>
-      <description>14200010 - CEP Córdoba | Curso | 14/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR015/</link>
-      <guid isPermaLink="false">271408PR015</guid>
-      <pubDate>Thu, 01 Oct 2026 07:56:20 +0000</pubDate>
+      <title>271408PR019 — TALLER. PARA ENSEÑAR RELIGIÓN 2027</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 19/10/2026 → 22/03/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR019/</link>
+      <guid isPermaLink="false">271408PR019</guid>
+      <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
       <title>279908CI001 — JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO</title>
