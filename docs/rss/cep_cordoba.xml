@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:38:27 +0000</lastBuildDate>
     <item>
       <title>271408GE006 — FORMACIÓN IKEA: MONTA EL CURSO QUE TU AULA NECESITA. CURSO MODULAR PERSONALIZADO ''HAZLO TÚ MISMO/A''</title>
       <description>14200010 - CEP Córdoba | Curso | 28/10/2026 → 03/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -91,13 +91,6 @@
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
-      <title>271408PR024 — CUADERNO SÉNECA PARA FORMACIÓN PROFESIONAL</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 27/10/2026 → 27/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR024/</link>
-      <guid isPermaLink="false">271408PR024</guid>
-      <pubDate>Tue, 06 Oct 2026 08:30:01 +0000</pubDate>
-    </item>
-    <item>
       <title>271408PR026 — FORMACIÓN PARA COORDINADORES Y COORDINADORAS DEL PLAN DE SALUD LABORAL Y PRL</title>
       <description>14200010 - CEP Córdoba | Curso a Distancia | 27/10/2026 → 17/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR026/</link>
@@ -138,6 +131,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF641/</link>
       <guid isPermaLink="false">279908KPF641</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408PR024 — CUADERNO SÉNECA PARA FORMACIÓN PROFESIONAL</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 27/10/2026 → 27/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR024/</link>
+      <guid isPermaLink="false">271408PR024</guid>
+      <pubDate>Tue, 06 Oct 2026 08:30:01 +0000</pubDate>
     </item>
     <item>
       <title>271408GEC08 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA</title>
@@ -215,13 +215,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR019/</link>
       <guid isPermaLink="false">271408PR019</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>279908KPF590 — PROTECCIÓN DE DATOS PERSONALES EN LOS CENTROS EDUCATIVOS</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 14/10/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF590/</link>
-      <guid isPermaLink="false">279908KPF590</guid>
-      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
