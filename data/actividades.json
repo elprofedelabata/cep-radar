@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-15T20:38:26.860619+00:00",
-  "total": 426,
+  "generado": "2026-10-15T23:57:20.617861+00:00",
+  "total": 425,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -531,18 +531,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE033/"
     },
     {
-      "Código": "271811GE048",
-      "Título": "MÚSICAS POPULARES URBANAS EN GRANADA: AÑOS 80",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "22/10/2026",
-      "Fin": "19/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE048/"
-    },
-    {
       "Código": "271811GE051",
       "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO EN AULA ORDINARIA: TEA NIVEL 1",
       "CEP": "18200016 - CEP Granada",
@@ -649,18 +637,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE024/"
-    },
-    {
-      "Código": "271812GE025",
-      "Título": "APRENDIZAJE COOPERATIVO: HERRAMIENTAS PARA DISEÑAR, IMPLANTAR Y GESTIONAR",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/10/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE025/"
     },
     {
       "Código": "271812GE030",
@@ -3015,6 +2991,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE047/"
     },
     {
+      "Código": "271811GE048",
+      "Título": "MÚSICAS POPULARES URBANAS EN GRANADA: AÑOS 80",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "22/10/2026",
+      "Fin": "19/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE048/"
+    },
+    {
       "Código": "271811GE058",
       "Título": "DINÁMICAS CREATIVAS PARA E. INFANTIL Y 1º CICLO DE PRIMARIA: LA MAGIA DE ''EL CASCANUECES''",
       "CEP": "18200016 - CEP Granada",
@@ -3409,30 +3397,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE301/"
-    },
-    {
-      "Código": "27401GE024",
-      "Título": "CURSO DE INICIACIÓN A LOS DRONES",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "19/10/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE024/"
-    },
-    {
-      "Código": "27401GE025",
-      "Título": "GESTIÓN COMERCIAL COMPLETA CON FACTUSOL Y NORMATIVA VERIFACTU",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "20/10/2026",
-      "Fin": "03/11/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE025/"
     },
     {
       "Código": "27403IC001",
@@ -4023,6 +3987,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE020/"
     },
     {
+      "Código": "271812GE025",
+      "Título": "APRENDIZAJE COOPERATIVO: HERRAMIENTAS PARA DISEÑAR, IMPLANTAR Y GESTIONAR",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/10/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE025/"
+    },
+    {
       "Código": "271812GE029",
       "Título": "USO DE LA PLATAFORMA MOODLE CENTROS. NIVEL INICIAL",
       "CEP": "18200028 - CEP Motril",
@@ -4371,18 +4347,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE013/"
     },
     {
-      "Código": "27401GE022",
-      "Título": "TÉCNICAS PROFESIONALES DE ARTE FLORAL",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "15/10/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE022/"
-    },
-    {
       "Código": "27401GE023",
       "Título": "ATENCION A LA DIVERSIDAD DESDE EL MARCO DUA",
       "CEP": "04200019 - CEP Almería",
@@ -4393,6 +4357,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE023/"
+    },
+    {
+      "Código": "27401GE024",
+      "Título": "CURSO DE INICIACIÓN A LOS DRONES",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "19/10/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE024/"
+    },
+    {
+      "Código": "27401GE025",
+      "Título": "GESTIÓN COMERCIAL COMPLETA CON FACTUSOL Y NORMATIVA VERIFACTU",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "20/10/2026",
+      "Fin": "03/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE025/"
     },
     {
       "Código": "27402GE005",
