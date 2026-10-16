@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Cuevas - Olula</description>
     <language>es</language>
-    <lastBuildDate>Fri, 16 Oct 2026 06:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:23:02 +0000</lastBuildDate>
     <item>
       <title>27403GE005 — COMPRENDER, ADAPTAR E INCLUIR AL ALUMNADO CON TEA. MÁS ALLÁ DEL PICTOGRAMA.</title>
       <description>04200032 - CEP Cuevas - Olula | Curso | 28/10/2026 → 10/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -42,13 +42,6 @@
       <pubDate>Thu, 08 Oct 2026 08:07:33 +0000</pubDate>
     </item>
     <item>
-      <title>279903KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF580/</link>
-      <guid isPermaLink="false">279903KPF580</guid>
-      <pubDate>Fri, 25 Sep 2026 20:49:51 +0000</pubDate>
-    </item>
-    <item>
       <title>279903KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
       <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF616/</link>
@@ -70,13 +63,6 @@
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
-      <title>27403IC001 — DISEÑO DEL CUADERNO DE SÉNECA Y MOODLE CENTROS PARA FORMACIÓN PROFESIONAL</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 19/10/2026 → 02/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403IC001/</link>
-      <guid isPermaLink="false">27403IC001</guid>
-      <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
-    </item>
-    <item>
       <title>27403GE001 — JORNADA DE INNOVACIÓN DE ALMERÍA: ALMERÍA AULAS DE CINE -EL DUELO-</title>
       <description>04200032 - CEP Cuevas - Olula | Jornadas | 16/10/2026 → 17/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE001/</link>
@@ -84,11 +70,18 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>27403GE009 — ATENCIÓN A LA DIVERSIDAD DESDE EL MARCO DUA</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso Semipresencial | 15/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE009/</link>
-      <guid isPermaLink="false">27403GE009</guid>
-      <pubDate>Tue, 29 Sep 2026 21:36:22 +0000</pubDate>
+      <title>27403IC001 — DISEÑO DEL CUADERNO DE SÉNECA Y MOODLE CENTROS PARA FORMACIÓN PROFESIONAL</title>
+      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 19/10/2026 → 02/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403IC001/</link>
+      <guid isPermaLink="false">27403IC001</guid>
+      <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>279903KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF580/</link>
+      <guid isPermaLink="false">279903KPF580</guid>
+      <pubDate>Fri, 25 Sep 2026 20:49:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
