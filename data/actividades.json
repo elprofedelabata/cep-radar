@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-16T14:23:02.069373+00:00",
+  "generado": "2026-10-16T20:11:15.170249+00:00",
   "total": 431,
   "actividades": [
     {
@@ -2799,18 +2799,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE008/"
     },
     {
-      "Código": "272318GE016",
-      "Título": "ABRE TUS MANOS: INICIACIÓN A LA LSE EN EL AULA",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/10/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE016/"
-    },
-    {
       "Código": "272319GE003",
       "Título": "ACTUALIZACIÓN PARA EL PROFESORADO TÉCNICO DE MANTENIMIENTO DE VEHÍCULOS",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -3073,6 +3061,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE006/"
+    },
+    {
+      "Código": "272318GE016",
+      "Título": "ABRE TUS MANOS: INICIACIÓN A LA LSE EN EL AULA",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "21/10/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE016/"
     },
     {
       "Código": "272319GE001",
@@ -3681,7 +3681,7 @@
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
       "Inicio": "15/10/2026",
-      "Fin": "25/11/2026",
+      "Fin": "02/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410QPF484/"
