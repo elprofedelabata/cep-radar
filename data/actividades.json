@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-17T16:43:47.556700+00:00",
+  "generado": "2026-10-17T19:47:08.201549+00:00",
   "total": 431,
   "actividades": [
     {
@@ -1899,6 +1899,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910KPF642/"
     },
     {
+      "Código": "279910PF003",
+      "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Otros",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/"
+    },
+    {
       "Código": "279911KPF640",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
       "CEP": "18200016 - CEP Granada",
@@ -2605,18 +2617,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE043/"
-    },
-    {
-      "Código": "271811GE044",
-      "Título": "RED PROFESIONAL 3 - 6: ESPACIO DE ENCUENTRO INFANTIL",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "21/10/2026",
-      "Fin": "12/05/2027",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/"
     },
     {
       "Código": "271811GE047",
@@ -3675,18 +3675,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE021/"
     },
     {
-      "Código": "271811GE026",
-      "Título": "LEVEL UP YOUR ENGLISH I: ADVANCED LEVEL",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/10/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE026/"
-    },
-    {
       "Código": "271811GE031",
       "Título": "ROBÓTICA NIVEL I",
       "CEP": "18200016 - CEP Granada",
@@ -3709,6 +3697,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE035/"
+    },
+    {
+      "Código": "271811GE044",
+      "Título": "RED PROFESIONAL 3 - 6: ESPACIO DE ENCUENTRO INFANTIL",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/10/2026",
+      "Fin": "12/05/2027",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/"
     },
     {
       "Código": "271811GE050",

@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:47:08 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -1113,6 +1113,13 @@
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
+      <title>279910PF003 — NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES</title>
+      <description>14200034 - CEP Priego - Montilla | Otros | 03/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/</link>
+      <guid isPermaLink="false">279910PF003</guid>
+      <pubDate>Sat, 17 Oct 2026 19:47:08 +0000</pubDate>
+    </item>
+    <item>
       <title>279911KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
       <description>18200016 - CEP Granada | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/</link>
@@ -1523,13 +1530,6 @@
       <description>18200016 - CEP Granada | Curso Semipresencial | 22/10/2026 → 12/05/2027 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE043/</link>
       <guid isPermaLink="false">271811GE043</guid>
-      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE044 — RED PROFESIONAL 3 - 6: ESPACIO DE ENCUENTRO INFANTIL</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 21/10/2026 → 12/05/2027 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/</link>
-      <guid isPermaLink="false">271811GE044</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
@@ -2149,13 +2149,6 @@
       <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE026 — LEVEL UP YOUR ENGLISH I: ADVANCED LEVEL</title>
-      <description>18200016 - CEP Granada | Curso | 08/10/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE026/</link>
-      <guid isPermaLink="false">271811GE026</guid>
-      <pubDate>Wed, 16 Sep 2026 20:34:00 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE031 — ROBÓTICA NIVEL I</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 13/10/2026 → 01/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE031/</link>
@@ -2168,6 +2161,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE035/</link>
       <guid isPermaLink="false">271811GE035</guid>
       <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE044 — RED PROFESIONAL 3 - 6: ESPACIO DE ENCUENTRO INFANTIL</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 21/10/2026 → 12/05/2027 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/</link>
+      <guid isPermaLink="false">271811GE044</guid>
+      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
       <title>271811GE050 — SEMINARIO DUA</title>
