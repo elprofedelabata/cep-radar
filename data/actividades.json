@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-17T00:01:09.237750+00:00",
+  "generado": "2026-10-17T06:21:18.168577+00:00",
   "total": 431,
   "actividades": [
     {
@@ -2295,30 +2295,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922KPF642/"
     },
     {
-      "Código": "279922PI002",
-      "Título": "FORMACIÓN EN DEBATE ACADÉMICO: JURADOS. CURSO 26-27",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "04/11/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI002/"
-    },
-    {
-      "Código": "279922PI003",
-      "Título": "FORMACIÓN EN DEBATE ACADÉMICO: DOCENTES. CURSO 26-27",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI003/"
-    },
-    {
       "Código": "279923KPF580",
       "Título": "FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -2881,6 +2857,30 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF248/"
+    },
+    {
+      "Código": "279922PI002",
+      "Título": "FORMACIÓN EN DEBATE ACADÉMICO: JURADOS. CURSO 26-27",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "04/11/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI002/"
+    },
+    {
+      "Código": "279922PI003",
+      "Título": "FORMACIÓN EN DEBATE ACADÉMICO: DOCENTES. CURSO 26-27",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI003/"
     },
     {
       "Código": "279924PF001",
