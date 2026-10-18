@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-18T16:59:35.028499+00:00",
+  "generado": "2026-10-18T19:48:14.693328+00:00",
   "total": 429,
   "actividades": [
     {
@@ -1868,8 +1868,8 @@
       "CEP": "14200034 - CEP Priego - Montilla",
       "Modalidad": "Otros",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
+      "Inicio": "04/11/2026",
+      "Fin": "04/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/"
@@ -1885,18 +1885,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/"
-    },
-    {
-      "Código": "279912KPF580",
-      "Título": "FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/10/2026",
-      "Fin": "11/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF580/"
     },
     {
       "Código": "279912KPF641",
@@ -2869,30 +2857,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PF001/"
-    },
-    {
-      "Código": "279930KPF248",
-      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL (SECUNDARIA)",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "22/10/2026",
-      "Fin": "12/05/2027",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF248/"
-    },
-    {
-      "Código": "279930QPF248",
-      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL PRIMARIA)",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "22/10/2026",
-      "Fin": "30/06/2027",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930QPF248/"
     },
     {
       "Código": "279931KPF580",
@@ -4671,6 +4635,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912CI443/"
     },
     {
+      "Código": "279912KPF580",
+      "Título": "FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/10/2026",
+      "Fin": "11/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF580/"
+    },
+    {
       "Código": "279913KPF369",
       "Título": "FORMACIÓN ASESORÍAS FASE DE PRÁCTICAS 2026-2027",
       "CEP": "18200031 - CEP Guadix",
@@ -5079,6 +5055,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930EP425/"
     },
     {
+      "Código": "279930KPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL (SECUNDARIA)",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "22/10/2026",
+      "Fin": "12/05/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF248/"
+    },
+    {
       "Código": "279930OE012",
       "Título": "JORNADA DE FORMACIÓN ESPECÍFICA PARA LA RED DE EXPERTOS EN ASESORAMIENTO EN COMPETENCIA LECTORA Y COMPETENCIA MATEMÁTICA DE ANDALUCÍA OCCIDENTAL DENTRO DEL MARCO DE ACTUACIONES DEL PCT DE 2026-2027",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -5089,6 +5077,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930OE012/"
+    },
+    {
+      "Código": "279930QPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL PRIMARIA)",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "22/10/2026",
+      "Fin": "30/06/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930QPF248/"
     },
     {
       "Código": "279931KPF429",

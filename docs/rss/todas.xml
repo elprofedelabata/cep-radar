@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:48:14 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -1093,7 +1093,7 @@
     </item>
     <item>
       <title>279910PF003 — NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES</title>
-      <description>14200034 - CEP Priego - Montilla | Otros | 03/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>14200034 - CEP Priego - Montilla | Otros | 04/11/2026 → 04/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/</link>
       <guid isPermaLink="false">279910PF003</guid>
       <pubDate>Sat, 17 Oct 2026 19:47:08 +0000</pubDate>
@@ -1104,13 +1104,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/</link>
       <guid isPermaLink="false">279911KPF640</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279912KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>18200028 - CEP Motril | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF580/</link>
-      <guid isPermaLink="false">279912KPF580</guid>
-      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
     </item>
     <item>
       <title>279912KPF641 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP</title>
@@ -1678,20 +1671,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PF001/</link>
       <guid isPermaLink="false">279925PF001</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>279930KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL (SECUNDARIA)</title>
-      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 22/10/2026 → 12/05/2027 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF248/</link>
-      <guid isPermaLink="false">279930KPF248</guid>
-      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>279930QPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL PRIMARIA)</title>
-      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 22/10/2026 → 30/06/2027 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930QPF248/</link>
-      <guid isPermaLink="false">279930QPF248</guid>
-      <pubDate>Thu, 15 Oct 2026 14:30:45 +0000</pubDate>
     </item>
     <item>
       <title>279931KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
@@ -2730,6 +2709,13 @@
       <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
     </item>
     <item>
+      <title>279912KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>18200028 - CEP Motril | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF580/</link>
+      <guid isPermaLink="false">279912KPF580</guid>
+      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
+    </item>
+    <item>
       <title>279913KPF369 — FORMACIÓN ASESORÍAS FASE DE PRÁCTICAS 2026-2027</title>
       <description>18200031 - CEP Guadix | Curso Semipresencial | 02/11/2026 → 30/06/2027 | Dirigido a: Asesorías de formación | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279913KPF369/</link>
@@ -2968,11 +2954,25 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>279930KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL (SECUNDARIA)</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 22/10/2026 → 12/05/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF248/</link>
+      <guid isPermaLink="false">279930KPF248</guid>
+      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
+    </item>
+    <item>
       <title>279930OE012 — JORNADA DE FORMACIÓN ESPECÍFICA PARA LA RED DE EXPERTOS EN ASESORAMIENTO EN COMPETENCIA LECTORA Y COMPETENCIA MATEMÁTICA DE ANDALUCÍA OCCIDENTAL DENTRO DEL MARCO DE ACTUACIONES DEL PCT DE 2026-2027</title>
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 22/10/2026 → 22/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930OE012/</link>
       <guid isPermaLink="false">279930OE012</guid>
       <pubDate>Mon, 12 Oct 2026 19:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>279930QPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL PRIMARIA)</title>
+      <description>41200042 - CEP Mairena del Alcor | Curso Semipresencial | 22/10/2026 → 30/06/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930QPF248/</link>
+      <guid isPermaLink="false">279930QPF248</guid>
+      <pubDate>Thu, 15 Oct 2026 14:30:45 +0000</pubDate>
     </item>
     <item>
       <title>279931KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
