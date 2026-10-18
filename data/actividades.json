@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-18T06:45:43.635489+00:00",
-  "total": 430,
+  "generado": "2026-10-18T13:38:59.570628+00:00",
+  "total": 429,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -171,18 +171,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE013/"
     },
     {
-      "Código": "271408GE017",
-      "Título": "SDA ELABORACIÓN. DISEÑO EN SÉNECA Y CALIFICACIÓN CON SÉNECA. ESPECIALISTAS PT , AL Y COTUTORAS LSE ETAPAS INFANTIL Y PRIMARIA. MODALIDAD B",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/10/2026",
-      "Fin": "29/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/"
-    },
-    {
       "Código": "271408GE018",
       "Título": "ENSEÑANZA MULTINIVEL  ETAPAS PRIMARIA Y SECUNDARIA ATENCIÓN A LA DIVERSIDAD ( ON LINE )",
       "CEP": "14200010 - CEP Córdoba",
@@ -205,18 +193,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE036/"
-    },
-    {
-      "Código": "271408GE051",
-      "Título": "RED DE RADIOS ESCOLARES DE LA PROVINCIA DE CÓRDOBA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "22/10/2026",
-      "Fin": "22/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE051/"
     },
     {
       "Código": "271408GE052",
@@ -553,6 +529,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE052/"
+    },
+    {
+      "Código": "271811GE056",
+      "Título": "PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR EN LA ESCUELA INFANTIL LA VIÑA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "16/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE056/"
     },
     {
       "Código": "271811GE065",
@@ -2571,6 +2559,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE018/"
     },
     {
+      "Código": "271408GE017",
+      "Título": "SDA ELABORACIÓN. DISEÑO EN SÉNECA Y CALIFICACIÓN CON SÉNECA. ESPECIALISTAS PT , AL Y COTUTORAS LSE ETAPAS INFANTIL Y PRIMARIA. MODALIDAD B",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "21/10/2026",
+      "Fin": "29/10/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/"
+    },
+    {
       "Código": "271408PR024",
       "Título": "CUADERNO SÉNECA PARA FORMACIÓN PROFESIONAL",
       "CEP": "14200010 - CEP Córdoba",
@@ -2967,6 +2967,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC08/"
     },
     {
+      "Código": "271408GE051",
+      "Título": "RED DE RADIOS ESCOLARES DE LA PROVINCIA DE CÓRDOBA",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "22/10/2026",
+      "Fin": "22/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE051/"
+    },
+    {
       "Código": "271408PR018",
       "Título": "FILOLOGÍA CLÁSICA Y MUNDO ANTIGUO (IV EDICIÓN)",
       "CEP": "14200010 - CEP Córdoba",
@@ -3337,18 +3349,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF580/"
-    },
-    {
-      "Código": "271104FEDAP021",
-      "Título": "ERASMUS DAY - SESIÓN DE TRABAJO DEL CONSORCIO ERASMUS+ DE EDUCACIÓN PERMANENTE DEL CEP DE CÁDIZ",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Encuentro",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "15/10/2026",
-      "Fin": "15/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP021/"
     },
     {
       "Código": "271104FEDAP029",
@@ -4285,18 +4285,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS004/"
-    },
-    {
-      "Código": "274127ACS006",
-      "Título": "ERASMUS DAY: SESIÓN DE EXPOSICIÓN DE RESULTADOS DEL CONSORCIO DE ADULTOS 2025-26 DEL CEP DE SEVILLA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "14/10/2026",
-      "Fin": "14/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS006/"
     },
     {
       "Código": "274127AFP009",
