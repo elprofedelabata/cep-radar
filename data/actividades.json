@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-17T23:35:55.461829+00:00",
+  "generado": "2026-10-18T06:45:43.635489+00:00",
   "total": 430,
   "actividades": [
     {
@@ -1527,18 +1527,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE007/"
     },
     {
-      "Código": "274132GE003",
-      "Título": "MEJORA DE LA COMPETENCIA MATEMÁTICA EN EDUCACIÓN PRIMARIA",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/10/2026",
-      "Fin": "20/11/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE003/"
-    },
-    {
       "Código": "274132GE005",
       "Título": "COMPETENCIA LINGÜÍSTICA EN EDUCACIÓN PRIMARIA.",
       "CEP": "41200066 - CEP Lora del Río",
@@ -2713,6 +2701,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE203/"
+    },
+    {
+      "Código": "274132GE003",
+      "Título": "MEJORA DE LA COMPETENCIA MATEMÁTICA EN EDUCACIÓN PRIMARIA",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "23/10/2026",
+      "Fin": "20/11/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE003/"
     },
     {
       "Código": "279901KPF580",
