@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:03:48 +0000</lastBuildDate>
     <item>
       <title>271408GE002 — JORNADAS: TRANSFORMACIÓN DIGITAL Y PRESENTACIÓN DE MATERIALES STEAM EN EL AULA</title>
       <description>14200010 - CEP Córdoba | Jornadas | 27/10/2026 → 27/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 06 Oct 2026 08:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>279908KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF580/</link>
-      <guid isPermaLink="false">279908KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
-    </item>
-    <item>
       <title>271408GEC08 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 14/10/2026 → 10/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC08/</link>
@@ -243,6 +236,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR013/</link>
       <guid isPermaLink="false">271408PR013</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>279908KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF580/</link>
+      <guid isPermaLink="false">279908KPF580</guid>
+      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
