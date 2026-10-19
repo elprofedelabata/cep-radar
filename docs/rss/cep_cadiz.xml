@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Cádiz</description>
     <language>es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:40:33 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -21,11 +21,11 @@
       <pubDate>Tue, 29 Sep 2026 16:11:17 +0000</pubDate>
     </item>
     <item>
-      <title>271104FEDAP018 — AULAS QUE SUENAN: MÚSICA PARA SENTIR Y CREAR</title>
-      <description>11200011 - CEP Cádiz | Curso | 24/10/2026 → 24/10/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP018/</link>
-      <guid isPermaLink="false">271104FEDAP018</guid>
-      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
+      <title>271104FEDAP022 — ACTUACIÓN DOCENTE EN ALUMNADO CON TDAH Y TRASTORNOS DISRUPTIVOS</title>
+      <description>11200011 - CEP Cádiz | Curso | 11/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP022/</link>
+      <guid isPermaLink="false">271104FEDAP022</guid>
+      <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP023 — TRADICIÓN E INNOVACIÓN EN LA DIDÁCTICA DE LAS LENGUAS CLÁSICAS: NUEVOS HORIZONTES Y ESTRATEGIAS PARA EL AULA</title>
@@ -33,6 +33,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP023/</link>
       <guid isPermaLink="false">271104FEDAP023</guid>
       <pubDate>Tue, 06 Oct 2026 08:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>271104FEDAP024 — PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACION INFANTIL</title>
+      <description>11200011 - CEP Cádiz | Curso | 04/11/2026 → 24/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP024/</link>
+      <guid isPermaLink="false">271104FEDAP024</guid>
+      <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
     </item>
     <item>
       <title>271104FP004 — CONTROL NUMÉRICO</title>
@@ -63,13 +70,6 @@
       <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
     </item>
     <item>
-      <title>271104FEDAP003 — PRIMEROS PASOS PARA EL PROFESORADO NOVEL DE RELIGIÓN. PERFIL Y HERRAMIENTAS DIGITALES PARA COMENZAR</title>
-      <description>11200011 - CEP Cádiz | Curso | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP003/</link>
-      <guid isPermaLink="false">271104FEDAP003</guid>
-      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
-    </item>
-    <item>
       <title>271104FEDAP020 — APRENDIZAJE COOPERATIVO: CONSTRUYENDO AULAS COLABORATIVAS</title>
       <description>11200011 - CEP Cádiz | Curso | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP020/</link>
@@ -77,18 +77,11 @@
       <pubDate>Tue, 22 Sep 2026 20:36:55 +0000</pubDate>
     </item>
     <item>
-      <title>271104FEDAP032 — CURSO SOBRE LA ORIENTACIÓN EDUCATIVA EN SECUNDARIA</title>
-      <description>11200011 - CEP Cádiz | Curso | 28/10/2026 → 27/01/2027 | Dirigido a: Orientación educativa | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP032/</link>
-      <guid isPermaLink="false">271104FEDAP032</guid>
-      <pubDate>Thu, 08 Oct 2026 08:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>279904KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>11200011 - CEP Cádiz | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279904KPF580/</link>
-      <guid isPermaLink="false">279904KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
+      <title>271104FEDAP018 — AULAS QUE SUENAN: MÚSICA PARA SENTIR Y CREAR</title>
+      <description>11200011 - CEP Cádiz | Curso | 24/10/2026 → 24/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP018/</link>
+      <guid isPermaLink="false">271104FEDAP018</guid>
+      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP027 — II ENCUENTRO DE LA RED DE DOCENTES DE MÚSICA DE CÁDIZ</title>
@@ -98,6 +91,20 @@
       <pubDate>Tue, 23 Jun 2026 12:27:32 +0000</pubDate>
     </item>
     <item>
+      <title>271104FEDAP032 — CURSO SOBRE LA ORIENTACIÓN EDUCATIVA EN SECUNDARIA</title>
+      <description>11200011 - CEP Cádiz | Curso | 28/10/2026 → 27/01/2027 | Dirigido a: Orientación educativa | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP032/</link>
+      <guid isPermaLink="false">271104FEDAP032</guid>
+      <pubDate>Thu, 08 Oct 2026 08:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>271104FEDAP003 — PRIMEROS PASOS PARA EL PROFESORADO NOVEL DE RELIGIÓN. PERFIL Y HERRAMIENTAS DIGITALES PARA COMENZAR</title>
+      <description>11200011 - CEP Cádiz | Curso | 21/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP003/</link>
+      <guid isPermaLink="false">271104FEDAP003</guid>
+      <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
+    </item>
+    <item>
       <title>271104FEDAP029 — CLAVES Y RESPUESTAS PARA LAS SECRETARÍAS DE CENTROS EDUCATIVOS</title>
       <description>11200011 - CEP Cádiz | Curso | 22/09/2026 → 20/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP029/</link>
@@ -105,11 +112,11 @@
       <pubDate>Thu, 03 Sep 2026 13:58:25 +0000</pubDate>
     </item>
     <item>
-      <title>271104IC001 — INTELIGENCIA ARTIFICIAL PARA DOCENTES DE CONSERVATORIO</title>
-      <description>11200011 - CEP Cádiz | Curso | 06/10/2026 → 22/10/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104IC001/</link>
-      <guid isPermaLink="false">271104IC001</guid>
-      <pubDate>Wed, 16 Sep 2026 20:34:00 +0000</pubDate>
+      <title>279904KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>11200011 - CEP Cádiz | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279904KPF580/</link>
+      <guid isPermaLink="false">279904KPF580</guid>
+      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

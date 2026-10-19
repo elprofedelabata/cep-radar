@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Linares - Andújar</description>
     <language>es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:40:33 +0000</lastBuildDate>
     <item>
       <title>272319GE010 — MÉTODOS PARA EL DESARROLLO DE LA COMPETENCIA MATEMÁTICA (EDICIÓN ANDÚJAR)</title>
       <description>23200028 - CEP Linares - Andújar | Curso Semipresencial | 29/10/2026 → 17/11/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
@@ -21,18 +21,11 @@
       <pubDate>Thu, 15 Oct 2026 14:30:45 +0000</pubDate>
     </item>
     <item>
-      <title>279919KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
-      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF429/</link>
-      <guid isPermaLink="false">279919KPF429</guid>
-      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>279919KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF580/</link>
-      <guid isPermaLink="false">279919KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
+      <title>279919KPF420 — COMPETENCIA DIGITAL DOCENTE NIVEL A1</title>
+      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 06/11/2026 → 28/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF420/</link>
+      <guid isPermaLink="false">279919KPF420</guid>
+      <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
     </item>
     <item>
       <title>279919KPF642 — ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS</title>
@@ -49,8 +42,15 @@
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
+      <title>279919KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
+      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF429/</link>
+      <guid isPermaLink="false">279919KPF429</guid>
+      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
+    </item>
+    <item>
       <title>272319GE001 — XXIX ENCUENTRO PROVINCIAL DE EDUCACIÓN INFANTIL:  HABITAR EL LENGUAJE: PALABRAS QUE ABREN MUNDOS EN LA INFANCIA</title>
-      <description>23200028 - CEP Linares - Andújar | Otros | 20/10/2026 → 20/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <description>23200028 - CEP Linares - Andújar | Otros | 20/10/2026 → 20/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE001/</link>
       <guid isPermaLink="false">272319GE001</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
@@ -70,11 +70,11 @@
       <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
     </item>
     <item>
-      <title>279919KPF555 — CUADERNO DE CLASE DE SÉNECA PARA LA EVALUACIÓN COMPETENCIAL</title>
-      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 19/10/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF555/</link>
-      <guid isPermaLink="false">279919KPF555</guid>
-      <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
+      <title>279919KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF580/</link>
+      <guid isPermaLink="false">279919KPF580</guid>
+      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

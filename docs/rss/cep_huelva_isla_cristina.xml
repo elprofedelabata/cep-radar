@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Huelva - Isla Cristina</description>
     <language>es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:40:33 +0000</lastBuildDate>
     <item>
       <title>272115GE008 — SENSIBILIZACIÓN COMUNIDADES DE APRENDIZAJE</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso Semipresencial | 27/10/2026 → 02/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -70,20 +70,6 @@
       <pubDate>Thu, 08 Oct 2026 17:03:33 +0000</pubDate>
     </item>
     <item>
-      <title>272115GE011 — ECLESIOLOGÍA LUCANA</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 20/10/2026 → 22/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE011/</link>
-      <guid isPermaLink="false">272115GE011</guid>
-      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>279915KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915KPF580/</link>
-      <guid isPermaLink="false">279915KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
-    </item>
-    <item>
       <title>272115GE004 — CONVIVENCIA I Y BIENESTAR EDUCATIVO: BIENESTAR DOCENTE PARA EL BIENESTAR DEL ALUMNADO</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso | 13/10/2026 → 17/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE004/</link>
@@ -112,6 +98,13 @@
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
+      <title>272115GE011 — ECLESIOLOGÍA LUCANA</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 20/10/2026 → 22/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE011/</link>
+      <guid isPermaLink="false">272115GE011</guid>
+      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
+    </item>
+    <item>
       <title>279915AV285 — GESTION DE LA BIBLIOTECA A TRAVÉS DEL MÓDULO DE BIBLIOWEB SÉNECA</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 23/10/2026 → 02/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915AV285/</link>
@@ -124,6 +117,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915KPF451/</link>
       <guid isPermaLink="false">279915KPF451</guid>
       <pubDate>Mon, 28 Sep 2026 17:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>279915KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915KPF580/</link>
+      <guid isPermaLink="false">279915KPF580</guid>
+      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
