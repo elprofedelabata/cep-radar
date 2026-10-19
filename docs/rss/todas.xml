@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:48:49 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -140,13 +140,6 @@
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
     </item>
     <item>
-      <title>271408IC001 — RED DE DIRECTORES Y DIRECTORAS DE INFANTIL Y PRIMARIA DE LOS ÁMBITOS DEL CEP CÓRDOBA Y CEP PEÑARROYA-PUEBLONUEVO</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 21/10/2026 → 09/06/2027 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IC001/</link>
-      <guid isPermaLink="false">271408IC001</guid>
-      <pubDate>Thu, 01 Oct 2026 22:05:22 +0000</pubDate>
-    </item>
-    <item>
       <title>271408IP001 — DETECCIÓN, INTERPRETACIÓN Y PREVENCIÓN DEL PLAGIO EN TEXTOS ACADÉMICOS EN ENSEÑANZAS ARTÍSTICAS DE RÉGIMEN ESPECIAL</title>
       <description>14200010 - CEP Córdoba | Curso | 04/11/2026 → 20/11/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IP001/</link>
@@ -252,6 +245,13 @@
       <pubDate>Sun, 20 Sep 2026 23:40:11 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE014 — LA ENSEÑANZA DE LA RELIGIÓN DESDE LAS MANOS Y EL CORAZÓN</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 04/11/2026 → 18/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE014/</link>
+      <guid isPermaLink="false">271811GE014</guid>
+      <pubDate>Mon, 19 Oct 2026 21:48:49 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE023 — AICLE Y STEAM EN EDUCACIÓN SECUNDARIA. RECURSOS PARA LA ENSEÑANZA BILINGÜE DESDE EL PROYECTO PROMISED</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 05/11/2026 → 12/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE023/</link>
@@ -264,13 +264,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE028/</link>
       <guid isPermaLink="false">271811GE028</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>271811GE029 — NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS: DE LA TEORÍA  A LA PRÁCTICA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 24/10/2026 → 27/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE029/</link>
-      <guid isPermaLink="false">271811GE029</guid>
-      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
     </item>
     <item>
       <title>271811GE033 — PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR. IES ARICEL</title>
@@ -390,6 +383,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE016/</link>
       <guid isPermaLink="false">271813GE016</guid>
       <pubDate>Thu, 17 Sep 2026 14:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>271813GE025 — PRIMEROS AUXILIOS EN LA ZONA DE MONTES ORIENTALES</title>
+      <description>18200031 - CEP Guadix | Curso Semipresencial | 09/11/2026 → 23/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE025/</link>
+      <guid isPermaLink="false">271813GE025</guid>
+      <pubDate>Mon, 19 Oct 2026 21:48:49 +0000</pubDate>
     </item>
     <item>
       <title>271814GE004 — PLATAFORMAS EDUCATIVAS PARA LA EDUCACIÓN INFANTIL 0-3 AÑOS</title>
@@ -897,7 +897,7 @@
     </item>
     <item>
       <title>279902KPF642 — ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS</title>
-      <description>04200020 - CEP El Ejido | Curso a Distancia | 02/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>04200020 - CEP El Ejido | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF642/</link>
       <guid isPermaLink="false">279902KPF642</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
@@ -1337,8 +1337,15 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>271408IC001 — RED DE DIRECTORES Y DIRECTORAS DE INFANTIL Y PRIMARIA DE LOS ÁMBITOS DEL CEP CÓRDOBA Y CEP PEÑARROYA-PUEBLONUEVO</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 21/10/2026 → 09/06/2027 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IC001/</link>
+      <guid isPermaLink="false">271408IC001</guid>
+      <pubDate>Thu, 01 Oct 2026 22:05:22 +0000</pubDate>
+    </item>
+    <item>
       <title>271408PR024 — CUADERNO SÉNECA PARA FORMACIÓN PROFESIONAL</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 27/10/2026 → 27/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 27/10/2026 → 04/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR024/</link>
       <guid isPermaLink="false">271408PR024</guid>
       <pubDate>Tue, 06 Oct 2026 08:30:01 +0000</pubDate>
@@ -1419,13 +1426,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KEA144/</link>
       <guid isPermaLink="false">279907KEA144</guid>
       <pubDate>Fri, 18 Sep 2026 20:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>279907KPF580 — 580.FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF580/</link>
-      <guid isPermaLink="false">279907KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
     </item>
     <item>
       <title>279916PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
@@ -1526,6 +1526,13 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE029 — NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS: DE LA TEORÍA  A LA PRÁCTICA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 24/10/2026 → 27/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE029/</link>
+      <guid isPermaLink="false">271811GE029</guid>
+      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE042 — RED DE PT y AL</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 29/10/2026 → 29/04/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE042/</link>
@@ -1603,6 +1610,13 @@
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
+      <title>279907KPF580 — 580.FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
+      <description>11200047 - CEP Algeciras - La Línea | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF580/</link>
+      <guid isPermaLink="false">279907KPF580</guid>
+      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
+    </item>
+    <item>
       <title>279909KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso Semipresencial | 22/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909KPI461/</link>
@@ -1666,13 +1680,6 @@
       <pubDate>Wed, 07 Oct 2026 17:04:25 +0000</pubDate>
     </item>
     <item>
-      <title>279919KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
-      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF429/</link>
-      <guid isPermaLink="false">279919KPF429</guid>
-      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
-    </item>
-    <item>
       <title>279920KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
       <description>23200031 - CEP Úbeda | Curso Semipresencial | 22/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPI461/</link>
@@ -1685,13 +1692,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPI461/</link>
       <guid isPermaLink="false">279924KPI461</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>279927KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
-      <description>41200017 - CEP Sevilla | Curso Semipresencial | 22/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPI461/</link>
-      <guid isPermaLink="false">279927KPI461</guid>
-      <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP003 — PRIMEROS PASOS PARA EL PROFESORADO NOVEL DE RELIGIÓN. PERFIL Y HERRAMIENTAS DIGITALES PARA COMENZAR</title>
@@ -1727,13 +1727,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE004/</link>
       <guid isPermaLink="false">271107GE004</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>271107GE006 — CONÉCTATE.COM: PAUSAS PARA EL BIENESTAR EMOCIONAL EN EL ÁMBITO ESCOLAR</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso Semipresencial | 20/10/2026 → 02/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE006/</link>
-      <guid isPermaLink="false">271107GE006</guid>
-      <pubDate>Mon, 22 Jun 2026 15:11:48 +0000</pubDate>
     </item>
     <item>
       <title>271107GE008 — NEUROCIENCIA EMOCIONAL PARA DOCENTES: POTENCIANDO EL APRENDIZAJE NIVEL IV</title>
@@ -2205,13 +2198,6 @@
       <pubDate>Tue, 29 Sep 2026 21:36:22 +0000</pubDate>
     </item>
     <item>
-      <title>27401GE024 — CURSO DE INICIACIÓN A LOS DRONES</title>
-      <description>04200019 - CEP Almería | Curso Semipresencial | 19/10/2026 → 04/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE024/</link>
-      <guid isPermaLink="false">27401GE024</guid>
-      <pubDate>Fri, 02 Oct 2026 07:41:05 +0000</pubDate>
-    </item>
-    <item>
       <title>27401GE025 — GESTIÓN COMERCIAL COMPLETA CON FACTUSOL Y NORMATIVA VERIFACTU</title>
       <description>04200019 - CEP Almería | Curso | 20/10/2026 → 03/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE025/</link>
@@ -2604,6 +2590,13 @@
       <pubDate>Thu, 01 Oct 2026 07:56:20 +0000</pubDate>
     </item>
     <item>
+      <title>279919KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
+      <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF429/</link>
+      <guid isPermaLink="false">279919KPF429</guid>
+      <pubDate>Sun, 04 Oct 2026 20:36:08 +0000</pubDate>
+    </item>
+    <item>
       <title>279919KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
       <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF580/</link>
@@ -2644,13 +2637,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920PF001/</link>
       <guid isPermaLink="false">279920PF001</guid>
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>279921KPF230 — GESTIÓN ECONÓMICA PARA SECRETARÍAS</title>
-      <description>23200041 - CEP Orcera | Curso a Distancia | 16/10/2026 → 16/12/2026 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF230/</link>
-      <guid isPermaLink="false">279921KPF230</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
     </item>
     <item>
       <title>279921KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
@@ -2791,6 +2777,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPF580/</link>
       <guid isPermaLink="false">279927KPF580</guid>
       <pubDate>Tue, 29 Sep 2026 21:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>279927KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
+      <description>41200017 - CEP Sevilla | Curso Semipresencial | 22/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPI461/</link>
+      <guid isPermaLink="false">279927KPI461</guid>
+      <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
       <title>279927PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
