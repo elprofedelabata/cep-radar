@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:48:58 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -1323,13 +1323,6 @@
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE013 — RED DE COMPETENCIA MATEMÁTICA EN EL SEGUNDO CICLO DE EDUCACIÓN INFANTIL (3-6 AÑOS)</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 28/10/2026 → 28/04/2027 | Dirigido a: Educación infantil | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE013/</link>
-      <guid isPermaLink="false">271408GE013</guid>
-      <pubDate>Fri, 02 Oct 2026 07:41:05 +0000</pubDate>
-    </item>
-    <item>
       <title>271408GE017 — SDA ELABORACIÓN. DISEÑO EN SÉNECA Y CALIFICACIÓN CON SÉNECA. ESPECIALISTAS PT , AL Y COTUTORAS LSE ETAPAS INFANTIL Y PRIMARIA. MODALIDAD B</title>
       <description>14200010 - CEP Córdoba | Curso | 21/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/</link>
@@ -1769,6 +1762,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE012/</link>
       <guid isPermaLink="false">271408GE012</guid>
       <pubDate>Tue, 29 Sep 2026 16:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408GE013 — RED DE COMPETENCIA MATEMÁTICA EN EL SEGUNDO CICLO DE EDUCACIÓN INFANTIL (3-6 AÑOS)</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 28/10/2026 → 28/04/2027 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE013/</link>
+      <guid isPermaLink="false">271408GE013</guid>
+      <pubDate>Fri, 02 Oct 2026 07:41:05 +0000</pubDate>
     </item>
     <item>
       <title>271408GE051 — RED DE RADIOS ESCOLARES DE LA PROVINCIA DE CÓRDOBA</title>
@@ -2373,13 +2373,6 @@
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
-      <title>279902PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
-      <description>04200020 - CEP El Ejido | Curso | 20/10/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902PF001/</link>
-      <guid isPermaLink="false">279902PF001</guid>
-      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
-    </item>
-    <item>
       <title>279903KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
       <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF580/</link>
@@ -2777,6 +2770,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPI461/</link>
       <guid isPermaLink="false">279927KPI461</guid>
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>279927PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
+      <description>41200017 - CEP Sevilla | Curso | 19/10/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927PF001/</link>
+      <guid isPermaLink="false">279927PF001</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>279927PF002 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE MAÑANA</title>
+      <description>41200017 - CEP Sevilla | Curso | 19/10/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927PF002/</link>
+      <guid isPermaLink="false">279927PF002</guid>
+      <pubDate>Tue, 20 Oct 2026 06:48:58 +0000</pubDate>
     </item>
     <item>
       <title>279927PF011 — GESTIÓN ECONÓMICA PARA SECRETARÍAS NOVELES</title>
