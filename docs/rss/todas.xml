@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:43:04 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -117,13 +117,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE031/</link>
       <guid isPermaLink="false">271408GE031</guid>
       <pubDate>Sun, 18 Oct 2026 23:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>271408GE036 — XXX GYMKHANA MATEMÁTICA POR CÓRDOBA</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 27/10/2026 → 15/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE036/</link>
-      <guid isPermaLink="false">271408GE036</guid>
-      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
       <title>271408GE037 — TERTULIAS CIENTÍFICAS 2026-2027</title>
@@ -568,7 +561,7 @@
     </item>
     <item>
       <title>272922GE006 — CONSTRUYENDO REDES: CONVIVENCIA Y PAZ</title>
-      <description>29200014 - CEP Málaga | Curso | 11/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>29200014 - CEP Málaga | Curso | 12/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE006/</link>
       <guid isPermaLink="false">272922GE006</guid>
       <pubDate>Tue, 29 Sep 2026 07:37:43 +0000</pubDate>
@@ -1335,6 +1328,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/</link>
       <guid isPermaLink="false">271408GE017</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408GE036 — XXX GYMKHANA MATEMÁTICA POR CÓRDOBA</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 27/10/2026 → 15/04/2027 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE036/</link>
+      <guid isPermaLink="false">271408GE036</guid>
+      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
       <title>271408IC001 — RED DE DIRECTORES Y DIRECTORAS DE INFANTIL Y PRIMARIA DE LOS ÁMBITOS DEL CEP CÓRDOBA Y CEP PEÑARROYA-PUEBLONUEVO</title>
