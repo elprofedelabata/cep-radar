@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:44:19 +0000</lastBuildDate>
     <item>
       <title>271811GE007 — APRENDIZAJE COOPERATIVO COMO METODOLOGÍA ACTIVA Y MODELO DE GESTIÓN DE AULA.</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 04/11/2026 → 03/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -77,6 +77,13 @@
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>271811GE062 — TERTULIAS FEMINISTAS</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 29/10/2026 → 29/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE062/</link>
+      <guid isPermaLink="false">271811GE062</guid>
+      <pubDate>Wed, 21 Oct 2026 14:44:19 +0000</pubDate>
+    </item>
+    <item>
       <title>271811GE065 — GESTIÓN EMOCIONAL Y NEUROEDUCACIÓN EN EL AULA. CLAVES PARA EL PROFESORADO</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 29/10/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE065/</link>
@@ -140,13 +147,6 @@
       <pubDate>Fri, 11 Sep 2026 13:55:31 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE048 — MÚSICAS POPULARES URBANAS EN GRANADA: AÑOS 80</title>
-      <description>18200016 - CEP Granada | Curso | 22/10/2026 → 19/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE048/</link>
-      <guid isPermaLink="false">271811GE048</guid>
-      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE010 — RED DE APRENDIZAJE COOPERATIVO</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 22/10/2026 → 26/05/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE010/</link>
@@ -154,11 +154,11 @@
       <pubDate>Thu, 02 Jul 2026 22:55:19 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE021 — BIBLIOWEB SÉNECA</title>
-      <description>18200016 - CEP Granada | Curso | 07/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE021/</link>
-      <guid isPermaLink="false">271811GE021</guid>
-      <pubDate>Tue, 08 Sep 2026 13:57:38 +0000</pubDate>
+      <title>271811GE012 — SEMINARIO MATEMÁTICAS (INFANTIL-PRIMARIA)</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 10/11/2026 → 14/05/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE012/</link>
+      <guid isPermaLink="false">271811GE012</guid>
+      <pubDate>Fri, 03 Jul 2026 11:59:13 +0000</pubDate>
     </item>
     <item>
       <title>271811GE029 — NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS: DE LA TEORÍA  A LA PRÁCTICA</title>
@@ -175,11 +175,11 @@
       <pubDate>Fri, 02 Oct 2026 21:31:49 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE044 — RED PROFESIONAL 3 - 6: ESPACIO DE ENCUENTRO INFANTIL</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 21/10/2026 → 12/05/2027 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE044/</link>
-      <guid isPermaLink="false">271811GE044</guid>
-      <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
+      <title>271811GE048 — MÚSICAS POPULARES URBANAS EN GRANADA: AÑOS 80</title>
+      <description>18200016 - CEP Granada | Curso | 22/10/2026 → 19/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE048/</link>
+      <guid isPermaLink="false">271811GE048</guid>
+      <pubDate>Mon, 14 Sep 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
       <title>271811GE050 — SEMINARIO DUA</title>
@@ -196,24 +196,10 @@
       <pubDate>Wed, 07 Oct 2026 17:04:25 +0000</pubDate>
     </item>
     <item>
-      <title>279911KPF580 — FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL</title>
-      <description>18200016 - CEP Granada | Curso a Distancia | 21/10/2026 → 11/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF580/</link>
-      <guid isPermaLink="false">279911KPF580</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:36 +0000</pubDate>
-    </item>
-    <item>
       <title>279911PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
       <description>18200016 - CEP Granada | Curso | 19/10/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911PF001/</link>
       <guid isPermaLink="false">279911PF001</guid>
-      <pubDate>Wed, 14 Oct 2026 21:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>279911PF002 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-2027. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE MAÑANA</title>
-      <description>18200016 - CEP Granada | Curso | 19/10/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911PF002/</link>
-      <guid isPermaLink="false">279911PF002</guid>
       <pubDate>Wed, 14 Oct 2026 21:03:57 +0000</pubDate>
     </item>
   </channel>
