@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T14:44:15.319764+00:00",
-  "total": 375,
+  "generado": "2026-10-22T20:56:38.536843+00:00",
+  "total": 374,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -265,18 +265,6 @@
       "Dirigido a": "Orientación educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR023/"
-    },
-    {
-      "Código": "271408PR026",
-      "Título": "FORMACIÓN PARA COORDINADORES Y COORDINADORAS DEL PLAN DE SALUD LABORAL Y PRL",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "27/10/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR026/"
     },
     {
       "Código": "271408RE004",
@@ -829,6 +817,18 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE018/"
+    },
+    {
+      "Código": "272116GE020",
+      "Título": "APRENDER JUGANDO: APRENDIZAJE BASADO EN JUEGOS (ABJ) EN EDUCACIÓN INFANTIL.",
+      "CEP": "21200025 - CEP Bollullos - Valverde",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "04/11/2026",
+      "Fin": "19/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE020/"
     },
     {
       "Código": "272117GE009",
@@ -2379,18 +2379,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE004/"
     },
     {
-      "Código": "271813GE024",
-      "Título": "USO Y CUIDADOS DE LA VOZ EN EL CEIP Nª SEÑORA DEL AMPARO (DARRO)",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE024/"
-    },
-    {
       "Código": "272319GE003",
       "Título": "ACTUALIZACIÓN PARA EL PROFESORADO TÉCNICO DE MANTENIMIENTO DE VEHÍCULOS",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2445,7 +2433,7 @@
       "Modalidad": "Curso",
       "Estado": "Finalizado plazo solicitudes",
       "Inicio": "28/10/2026",
-      "Fin": "11/11/2026",
+      "Fin": "12/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE026/"
@@ -2473,18 +2461,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KEA144/"
-    },
-    {
-      "Código": "279912PF248",
-      "Título": "FORMACIÓN MENTORA PARA DIRECCIONES Y JEFATURAS DE ESTUDIOS NOVELES",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "27/10/2026",
-      "Fin": "10/05/2027",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912PF248/"
     },
     {
       "Código": "279916PF001",
@@ -2967,6 +2943,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR024/"
     },
     {
+      "Código": "271408PR026",
+      "Título": "FORMACIÓN PARA COORDINADORES Y COORDINADORAS DEL PLAN DE SALUD LABORAL Y PRL",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "27/10/2026",
+      "Fin": "17/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR026/"
+    },
+    {
       "Código": "271409GE001",
       "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS",
       "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
@@ -3241,6 +3229,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE023/"
+    },
+    {
+      "Código": "271813GE024",
+      "Título": "USO Y CUIDADOS DE LA VOZ EN EL CEIP Nª SEÑORA DEL AMPARO (DARRO)",
+      "CEP": "18200031 - CEP Guadix",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE024/"
     },
     {
       "Código": "272115GE006",
@@ -3723,18 +3723,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE004/"
     },
     {
-      "Código": "274131GE005",
-      "Título": "ESCUELAS QUE INCLUYEN, DOCENTES QUE TRANSFORMAN. INFANTIL - PRIMARIA.",
-      "CEP": "41200054 - CEP Lebrija",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "22/10/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE005/"
-    },
-    {
       "Código": "274132GE003",
       "Título": "MEJORA DE LA COMPETENCIA MATEMÁTICA EN EDUCACIÓN PRIMARIA",
       "CEP": "41200066 - CEP Lora del Río",
@@ -3937,6 +3925,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911PF001/"
+    },
+    {
+      "Código": "279912PF248",
+      "Título": "FORMACIÓN MENTORA PARA DIRECCIONES Y JEFATURAS DE ESTUDIOS NOVELES",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "27/10/2026",
+      "Fin": "10/05/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912PF248/"
     },
     {
       "Código": "279913KPF095",
@@ -4249,18 +4249,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI001/"
-    },
-    {
-      "Código": "279923KPF580",
-      "Título": "FORMACIÓN SOBRE RIESGOS Y EMERGENCIAS DE PROTECCIÓN CIVIL",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/10/2026",
-      "Fin": "11/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279923KPF580/"
     },
     {
       "Código": "279923PF529_RES2025",
