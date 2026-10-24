@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-24T06:37:41.563310+00:00",
-  "total": 375,
+  "generado": "2026-10-24T13:41:58.738621+00:00",
+  "total": 376,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -987,18 +987,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE048/"
     },
     {
-      "Código": "272922GE061",
-      "Título": "LOS EVANGELIOS: UNA PERSPECTIVA HISTÓRICA, LITERARIA Y TEOLÓGICA",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/11/2026",
-      "Fin": "07/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/"
-    },
-    {
       "Código": "272922GE066",
       "Título": "EDUCACIÓN INCLUSIVA EN PRIMARIA: UN RETO COMPARTIDO. HERRAMIENTAS PARA LA PRÁCTICA DOCENTE",
       "CEP": "29200014 - CEP Málaga",
@@ -1623,18 +1611,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF641/"
     },
     {
-      "Código": "279913KPF642",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279913KPF642/"
-    },
-    {
       "Código": "279913PF003",
       "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
       "CEP": "18200031 - CEP Guadix",
@@ -1717,18 +1693,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919QPF248/"
-    },
-    {
-      "Código": "279921KPF640",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF640/"
     },
     {
       "Código": "279922KPF642",
@@ -1815,18 +1779,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279926KPF639/"
     },
     {
-      "Código": "279927KPF640",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPF640/"
-    },
-    {
       "Código": "279928KPF642",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -1839,18 +1791,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928KPF642/"
     },
     {
-      "Código": "279930KPF641",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF641/"
-    },
-    {
       "Código": "279930PF003",
       "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -1861,18 +1801,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930PF003/"
-    },
-    {
-      "Código": "279932KPF639",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932KPF639/"
     },
     {
       "Código": "271107GE018",
@@ -1959,16 +1887,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE003/"
     },
     {
-      "Código": "272922GE003",
-      "Título": "DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS",
+      "Código": "272922GE061",
+      "Título": "LOS EVANGELIOS: UNA PERSPECTIVA HISTÓRICA, LITERARIA Y TEOLÓGICA",
       "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
+      "Modalidad": "Curso a Distancia",
       "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "29/10/2026",
-      "Fin": "02/12/2026",
+      "Inicio": "02/11/2026",
+      "Fin": "07/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE003/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/"
     },
     {
       "Código": "27401GE026",
@@ -2151,6 +2079,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909KPF639/"
     },
     {
+      "Código": "279913KPF642",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
+      "CEP": "18200031 - CEP Guadix",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "02/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279913KPF642/"
+    },
+    {
       "Código": "279914KPF639",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
       "CEP": "18200041 - CEP Baza",
@@ -2283,6 +2223,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF639/"
     },
     {
+      "Código": "279921KPF640",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF640/"
+    },
+    {
       "Código": "279924KPF641",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
       "CEP": "29200038 - CEP Ronda",
@@ -2293,6 +2245,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPF641/"
+    },
+    {
+      "Código": "279927KPF640",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPF640/"
     },
     {
       "Código": "279929KPF616",
@@ -2307,6 +2271,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF616/"
     },
     {
+      "Código": "279930KPF641",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930KPF641/"
+    },
+    {
       "Código": "279932KPF582",
       "Título": "GENERADOR DE SITUACIONES DE APRENDIZAJE A TRAVÉS DE INTELIGENCIA ARTIFICIAL",
       "CEP": "41200066 - CEP Lora del Río",
@@ -2317,6 +2293,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932KPF582/"
+    },
+    {
+      "Código": "279932KPF639",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932KPF639/"
     },
     {
       "Código": "271104FEDAP027",
@@ -2485,18 +2473,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE070/"
-    },
-    {
-      "Código": "272925GE205",
-      "Título": "INICIO DE LA GESTIÓN DE LA BIBLIOTECA ESCOLAR EN EL MÓDULO DE BIBLIOWEB SÉNECA",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "26/10/2026",
-      "Fin": "11/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE205/"
     },
     {
       "Código": "27403GE005",
@@ -3423,6 +3399,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE013/"
     },
     {
+      "Código": "272922GE003",
+      "Título": "DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "29/10/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE003/"
+    },
+    {
       "Código": "272922GE024",
       "Título": "REFLEXIÓN, CURRÍCULO Y HERRAMIENTAS DE CAMBIO METODOLÓGICO EN MATEMÁTICAS PARA EQUIPOS DIRECTIVOS",
       "CEP": "29200014 - CEP Málaga",
@@ -3517,6 +3505,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE601/"
+    },
+    {
+      "Código": "272925GE205",
+      "Título": "INICIO DE LA GESTIÓN DE LA BIBLIOTECA ESCOLAR EN EL MÓDULO DE BIBLIOWEB SÉNECA",
+      "CEP": "29200041 - CEP Antequera",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "26/10/2026",
+      "Fin": "11/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE205/"
     },
     {
       "Código": "27401GE007",
@@ -3673,6 +3673,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PCT031/"
+    },
+    {
+      "Código": "274127PCT032",
+      "Título": "PCT COMPETENCIA MATEMÁTICA EN EL IES PABLO PICASSO",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "01/10/2026",
+      "Fin": "31/05/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PCT032/"
     },
     {
       "Código": "274127PCT034",
