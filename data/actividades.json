@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-25T20:06:03.434714+00:00",
+  "generado": "2026-10-25T23:39:37.846475+00:00",
   "total": 377,
   "actividades": [
     {
@@ -339,18 +339,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE007/"
     },
     {
-      "Código": "271811GE009",
-      "Título": "SEMINARIO DE FORMADORES Y FORMADORAS PARA LA IMPLEMENTACIÓN DE LAS COMPETENCIAS CLAVE",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "29/10/2026",
-      "Fin": "21/05/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE009/"
-    },
-    {
       "Código": "271811GE014",
       "Título": "LA ENSEÑANZA DE LA RELIGIÓN DESDE LAS MANOS Y EL CORAZÓN",
       "CEP": "18200016 - CEP Granada",
@@ -409,18 +397,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE036/"
-    },
-    {
-      "Código": "271811GE051",
-      "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO EN AULA ORDINARIA: TEA NIVEL 1",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "28/10/2026",
-      "Fin": "19/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE051/"
     },
     {
       "Código": "271811GE052",
@@ -1803,6 +1779,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/"
     },
     {
+      "Código": "271811GE009",
+      "Título": "SEMINARIO DE FORMADORES Y FORMADORAS PARA LA IMPLEMENTACIÓN DE LAS COMPETENCIAS CLAVE",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "29/10/2026",
+      "Fin": "21/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE009/"
+    },
+    {
       "Código": "271811GE047",
       "Título": "CREACIÓN Y DISEÑO DE RECURSOS DIDÁCTICOS CON CANVA PARA LA CLASE DE RELIGIÓN",
       "CEP": "18200016 - CEP Granada",
@@ -1813,6 +1801,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE047/"
+    },
+    {
+      "Código": "271811GE051",
+      "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO EN AULA ORDINARIA: TEA NIVEL 1",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "28/10/2026",
+      "Fin": "19/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE051/"
     },
     {
       "Código": "272318GE015",
@@ -2223,18 +2223,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922KPF642/"
     },
     {
-      "Código": "279924KPF641",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
-      "CEP": "29200038 - CEP Ronda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPF641/"
-    },
-    {
       "Código": "279926KPF639",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
       "CEP": "29200051 - CEP Vélez-Málaga",
@@ -2617,6 +2605,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279922PI003/"
+    },
+    {
+      "Código": "279924KPF641",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
+      "CEP": "29200038 - CEP Ronda",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPF641/"
     },
     {
       "Código": "279929KPF248",
