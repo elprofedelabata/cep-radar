@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T06:58:01.906866+00:00",
-  "total": 377,
+  "generado": "2026-10-27T15:35:12.388369+00:00",
+  "total": 380,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -87,18 +87,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271105FP106/"
     },
     {
-      "Código": "271106CU002",
-      "Título": "PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "17/11/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106CU002/"
-    },
-    {
       "Código": "271107GE012",
       "Título": "PROYECTO ARGONAUTA. LA TUTORÍA COMO ESPACIO PARA LA INTERVENCIÓN SOCIOEMOCIONAL: POTENCIANDO LAS COMPETENCIAS INTERPERSONALES EN LA ESO: AUTOEFICACIA, ILUSIÓN y AUTOESTIMA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -147,13 +135,25 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC09/"
     },
     {
+      "Código": "271408GE011",
+      "Título": "DE LA IDEA AL AULA: EL ARTE DE CREAR TU PROPIO MATERIAL",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "12/11/2026",
+      "Fin": "26/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE011/"
+    },
+    {
       "Código": "271408GE018",
       "Título": "ENSEÑANZA MULTINIVEL  ETAPAS PRIMARIA Y SECUNDARIA ATENCIÓN A LA DIVERSIDAD ( ON LINE )",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
       "Inicio": "04/11/2026",
-      "Fin": "18/11/2026",
+      "Fin": "09/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE018/"
@@ -207,18 +207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE077/"
     },
     {
-      "Código": "271408GE084",
-      "Título": "II CONGRESO NACIONAL DE DIRECCIÓN ESCOLAR. LIDERAR LA ESCUELA PÚBLICA: UNA DIRECCIÓN PROFESIONAL PARA TODAS LAS ETAPAS",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/11/2026",
-      "Fin": "24/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE084/"
-    },
-    {
       "Código": "271408IP001",
       "Título": "DETECCIÓN, INTERPRETACIÓN Y PREVENCIÓN DEL PLAGIO EN TEXTOS ACADÉMICOS EN ENSEÑANZAS ARTÍSTICAS DE RÉGIMEN ESPECIAL",
       "CEP": "14200010 - CEP Córdoba",
@@ -229,6 +217,30 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IP001/"
+    },
+    {
+      "Código": "271408KPF510",
+      "Título": "USO DE LA PLATAFORMA MOODLE CENTROS. NIVEL INICIAL",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "12/11/2026",
+      "Fin": "22/01/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408KPF510/"
+    },
+    {
+      "Código": "271408KPF619",
+      "Título": "ELABORACIÓN DE RECURSOS EDUCATIVOS ABIERTOS (REA) CON EXELEARNING 4.0.",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "12/11/2026",
+      "Fin": "05/02/2027",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408KPF619/"
     },
     {
       "Código": "271408PR017",
@@ -243,16 +255,28 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR017/"
     },
     {
-      "Código": "271408RE004",
-      "Título": "III CONGRESO REGIONAL DE EMPRENDIMIENTO EN LAS ARTES ESCÉNICAS. INNOVACIÓN, CREATIVIDAD Y SOSTENIBILIDAD",
+      "Código": "271408PR028",
+      "Título": "INTERNACIONALIZACIÓN EN LA EDUCACIÓN DE ADULTOS Y PROYECTOS ERASMUS+ (ONLINE)",
       "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Congreso",
+      "Modalidad": "Curso con Seguimiento",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "06/11/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
+      "Inicio": "17/11/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE004/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR028/"
+    },
+    {
+      "Código": "271408PR030",
+      "Título": "RED DE EQUIPOS DIRECTIVOS DE EEOOII",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/11/2026",
+      "Fin": "04/06/2027",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/"
     },
     {
       "Código": "271409GE012",
@@ -361,18 +385,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE023/"
-    },
-    {
-      "Código": "271811GE028",
-      "Título": "LA BIODIVERSIDAD EN EL PARQUE NACIONAL DE SIERRA NEVADA: LOS BOSQUES DE OTOÑO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "04/11/2026",
-      "Fin": "14/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE028/"
     },
     {
       "Código": "271811GE033",
@@ -507,6 +519,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE083/"
     },
     {
+      "Código": "271811GE103",
+      "Título": "EVALUACIÓN COMPETENCIAL PARA INFANTIL Y PRIMARIA. TÉCNICAS, INSTRUMENTOS Y CRITERIOS DE EVALUACIÓN Y CALIFICACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/11/2026",
+      "Fin": "09/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE103/"
+    },
+    {
       "Código": "271811GE104",
       "Título": "EVALUAR POR COMPETENCIAS SIN DEJAR A NADIE ATRÁS",
       "CEP": "18200016 - CEP Granada",
@@ -543,6 +567,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE127/"
     },
     {
+      "Código": "271811GE128",
+      "Título": "CUADERNO DE SÉNECA Y PLATAFORMA IPASEN PARA EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/11/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE128/"
+    },
+    {
       "Código": "271812GE007",
       "Título": "PRIMEROS AUXILIOS IES LA CONTRAVIESA",
       "CEP": "18200028 - CEP Motril",
@@ -553,18 +589,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE007/"
-    },
-    {
-      "Código": "271812GE024",
-      "Título": "INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/11/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE024/"
     },
     {
       "Código": "271812GE033",
@@ -771,18 +795,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE018/"
     },
     {
-      "Código": "272116GE007",
-      "Título": "UNA EDUCACIÓN MÁS INCLUSIVA A TRAVÉS DE HERRAMIENTAS DIGITALES EN EL IES SAN ANTONIO",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "29/10/2026",
-      "Fin": "14/01/2027",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE007/"
-    },
-    {
       "Código": "272116GE020",
       "Título": "APRENDER JUGANDO: APRENDIZAJE BASADO EN JUEGOS (ABJ) EN EDUCACIÓN INFANTIL.",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -841,6 +853,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE012/"
+    },
+    {
+      "Código": "272319GE015",
+      "Título": "ESCAPARATISMO Y VISUAL MERCHANDISING: ESTRATEGIAS, DISEÑO Y PRESENTACION DE PRODUCTO PARA EL COMERCIO ACTUAL",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "16/11/2026",
+      "Fin": "19/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE015/"
     },
     {
       "Código": "272319GE016",
@@ -975,18 +999,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE090/"
     },
     {
-      "Código": "272923GE001",
-      "Título": "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍAS VOCAL.ES",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "01/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE001/"
-    },
-    {
       "Código": "272923GE103",
       "Título": "RESPUESTA EDUCATIVA AL ALUMNADO CON ALTAS CAPACIDADES: PROGRAMAS DE PROFUNDIZACIÓN",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -1009,18 +1021,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE450/"
-    },
-    {
-      "Código": "272923GE853",
-      "Título": "HERRAMIENTAS INTELIGENTES PARA UNA EDUCACIÓN MÁS CREATIVA",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "24/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE853/"
     },
     {
       "Código": "272924GE153",
@@ -1203,6 +1203,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ALI007/"
     },
     {
+      "Código": "274127NEE003",
+      "Título": "EL DÍA A DÍA DEL ALUMNADO TEA EN EL AULA ORDINARIA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/11/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127NEE003/"
+    },
+    {
       "Código": "274127REL005",
       "Título": "EL PATRIMONIO RELIGIOSO SEVILLANO COMO FUSIÓN DE FE-CULTURA",
       "CEP": "41200017 - CEP Sevilla",
@@ -1239,6 +1251,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129ES01/"
     },
     {
+      "Código": "274129ES02",
+      "Título": "EDUCACIÓN EMOCIONAL PARA DOCENTES",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "11/11/2026",
+      "Fin": "25/11/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129ES02/"
+    },
+    {
       "Código": "274129INT02",
       "Título": "PRIMEROS AUXILIOS EN CENTROS EDUCATIVOS",
       "CEP": "41200030 - CEP Osuna - Écija",
@@ -1249,6 +1273,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129INT02/"
+    },
+    {
+      "Código": "274129INT03",
+      "Título": "NEUROEDUCACIÓN Y GESTIÓN EMOCIONAL EN EL AULA",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/11/2026",
+      "Fin": "21/01/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129INT03/"
     },
     {
       "Código": "274129KPF582",
@@ -1326,7 +1362,7 @@
       "Código": "274131GE007",
       "Título": "CUADERNO SÉNECA SECUNDARIA",
       "CEP": "41200054 - CEP Lebrija",
-      "Modalidad": "Jornadas",
+      "Modalidad": "Curso con Seguimiento",
       "Estado": "Abierto plazo solicitudes",
       "Inicio": "04/11/2026",
       "Fin": "03/12/2026",
@@ -1369,18 +1405,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE007/"
-    },
-    {
-      "Código": "274132GE009",
-      "Título": "TALLER DE RADIO ESCOLAR.",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "04/11/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE009/"
     },
     {
       "Código": "279901KPF619",
@@ -1467,6 +1491,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF493/"
     },
     {
+      "Código": "279908KPF494",
+      "Título": "JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (SECUNDARIA)",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "26/11/2026",
+      "Fin": "19/04/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF494/"
+    },
+    {
       "Código": "279910KPF493",
       "Título": "JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (INFANTIL Y PRIMARIA)",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -1501,6 +1537,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/"
+    },
+    {
+      "Código": "279911EA001",
+      "Título": "CREANDO ESCUELAS EN RED, SOSTENIBLES Y SALUDABLES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Encuentro",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "27/11/2026",
+      "Fin": "28/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911EA001/"
     },
     {
       "Código": "279911KPF230",
@@ -1647,6 +1695,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/"
     },
     {
+      "Código": "271408GE084",
+      "Título": "II CONGRESO NACIONAL DE DIRECCIÓN ESCOLAR. LIDERAR LA ESCUELA PÚBLICA: UNA DIRECCIÓN PROFESIONAL PARA TODAS LAS ETAPAS",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "23/11/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE084/"
+    },
+    {
+      "Código": "271408RE004",
+      "Título": "III CONGRESO REGIONAL DE EMPRENDIMIENTO EN LAS ARTES ESCÉNICAS. INNOVACIÓN, CREATIVIDAD Y SOSTENIBILIDAD",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Congreso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "05/11/2026",
+      "Fin": "06/11/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408RE004/"
+    },
+    {
       "Código": "271410GE001",
       "Título": "USO EDUCATIVO DE LA INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -1659,6 +1731,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/"
     },
     {
+      "Código": "271811GE028",
+      "Título": "LA BIODIVERSIDAD EN EL PARQUE NACIONAL DE SIERRA NEVADA: LOS BOSQUES DE OTOÑO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "04/11/2026",
+      "Fin": "14/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE028/"
+    },
+    {
       "Código": "271811GE047",
       "Título": "CREACIÓN Y DISEÑO DE RECURSOS DIDÁCTICOS CON CANVA PARA LA CLASE DE RELIGIÓN",
       "CEP": "18200016 - CEP Granada",
@@ -1669,6 +1753,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE047/"
+    },
+    {
+      "Código": "271812GE024",
+      "Título": "INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "10/11/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE024/"
     },
     {
       "Código": "272318GE015",
@@ -1719,18 +1815,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/"
     },
     {
-      "Código": "27401GE002",
-      "Título": "I JORNADAS PROVINCIALES PARA LA ATENCIÓN DEL ALUMNADO NEAE DE ALTAS CAPACIDADES INTELECTUALES",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Jornadas",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE002/"
-    },
-    {
       "Código": "27401GE026",
       "Título": "EL APRENDIZAJE BASADO EN JUEGO COMO ESTRATEGIA PARA DESARROLLAR LAS FUNCIONES EJECUTIVAS",
       "CEP": "04200019 - CEP Almería",
@@ -1743,40 +1827,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE026/"
     },
     {
-      "Código": "274127PER004",
-      "Título": "EDUCACIÓN EMOCIONAL: SENSIBILIZACIÓN PROGRAMA PIIE PARA EPER, ARE Y EEOOII",
-      "CEP": "41200017 - CEP Sevilla",
+      "Código": "274132GE009",
+      "Título": "TALLER DE RADIO ESCOLAR.",
+      "CEP": "41200066 - CEP Lora del Río",
       "Modalidad": "Curso",
       "Estado": "Finalizado plazo solicitudes",
       "Inicio": "04/11/2026",
-      "Fin": "12/11/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER004/"
-    },
-    {
-      "Código": "279908KPF640",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "01/11/2026",
-      "Fin": "30/11/2026",
+      "Fin": "04/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF640/"
-    },
-    {
-      "Código": "279908KPF641",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "01/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF641/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE009/"
     },
     {
       "Código": "279916KPF641",
@@ -1815,18 +1875,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917PF001/"
     },
     {
-      "Código": "279929KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "03/11/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF616/"
-    },
-    {
       "Código": "271104FEDAP027",
       "Título": "II ENCUENTRO DE LA RED DE DOCENTES DE MÚSICA DE CÁDIZ",
       "CEP": "11200011 - CEP Cádiz",
@@ -1851,6 +1899,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FP004/"
     },
     {
+      "Código": "271106CU002",
+      "Título": "PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "03/11/2026",
+      "Fin": "17/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271106CU002/"
+    },
+    {
       "Código": "271107FP001",
       "Título": "DISEÑO E IMPLEMENTACIÓN DEL PROYECTO INTERMODULAR EN FORMACIÓN PROFESIONAL",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -1873,18 +1933,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC08/"
-    },
-    {
-      "Código": "271408GE002",
-      "Título": "JORNADAS TRANSFORMACIÓN DIGITAL Y PRESENTACIÓN DE MATERIALES STEAM EN EL AULA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "27/10/2026",
-      "Fin": "27/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE002/"
     },
     {
       "Código": "271408GE036",
@@ -1933,18 +1981,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR018/"
-    },
-    {
-      "Código": "271811KPF429",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL B2",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "28/10/2026",
-      "Fin": "14/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811KPF429/"
     },
     {
       "Código": "271811QPF429",
@@ -2031,6 +2067,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE401/"
     },
     {
+      "Código": "272923GE853",
+      "Título": "HERRAMIENTAS INTELIGENTES PARA UNA EDUCACIÓN MÁS CREATIVA",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "03/11/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE853/"
+    },
+    {
       "Código": "272925GE505",
       "Título": "JORNADA PARA LA COORDINACIÓN DE GRUPOS DE TRABAJO Y FORMACIÓN EN CENTRO",
       "CEP": "29200041 - CEP Antequera",
@@ -2041,6 +2089,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/"
+    },
+    {
+      "Código": "27401GE002",
+      "Título": "I JORNADAS PROVINCIALES PARA LA ATENCIÓN DEL ALUMNADO NEAE DE ALTAS CAPACIDADES INTELECTUALES",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "05/11/2026",
+      "Fin": "05/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE002/"
     },
     {
       "Código": "27403GE006",
@@ -2065,6 +2125,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE008/"
+    },
+    {
+      "Código": "274127PER004",
+      "Título": "EDUCACIÓN EMOCIONAL: SENSIBILIZACIÓN PROGRAMA PIIE PARA EPER, ARE Y EEOOII",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "04/11/2026",
+      "Fin": "12/11/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER004/"
     },
     {
       "Código": "274127REL003",
@@ -2367,18 +2439,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF642/"
     },
     {
-      "Código": "279920KEA114",
-      "Título": "PROGRAMA ALDEA:RECAPACICLA, EDUCACIÓN PARA LA CIRCULARIDAD 26-27",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "02/11/2026",
-      "Fin": "16/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KEA114/"
-    },
-    {
       "Código": "279920KPF616",
       "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
       "CEP": "23200031 - CEP Úbeda",
@@ -2473,30 +2533,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPF640/"
-    },
-    {
-      "Código": "279928KPF642",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928KPF642/"
-    },
-    {
-      "Código": "279929KPF248",
-      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "04/11/2026",
-      "Fin": "07/06/2027",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF248/"
     },
     {
       "Código": "279930KPF641",
@@ -2799,18 +2835,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409PR001/"
     },
     {
-      "Código": "271409PR005",
-      "Título": "CANVA DUA EXPLORERS. UNA TRAVESÍA DIDÁCTICA PARA CONECTAR LA COMPETENCIA LINGÜÍSTICA Y MATEMÁTICAS SIN BARRERAS EN TU AULA",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "27/10/2026",
-      "Fin": "09/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409PR005/"
-    },
-    {
       "Código": "271410FP001",
       "Título": "TIA PORTAL. VARIADORES DE FRECUENCIA",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -2833,18 +2857,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE007/"
-    },
-    {
-      "Código": "271410GE012",
-      "Título": "ATENCIÓN DEL ALUMNADO CON TRASTORNOS GRAVES DE CONDUCTA Y CONDUCTAS DISRUPTIVAS EN EL AULA ORDINARIA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/10/2026",
-      "Fin": "12/05/2027",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE012/"
     },
     {
       "Código": "271410GE016",
@@ -2871,18 +2883,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE019/"
     },
     {
-      "Código": "271410PR002",
-      "Título": "HERRAMIENTAS DIGITALES PARA DOCENTES DE MÚSICA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/10/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410PR002/"
-    },
-    {
       "Código": "271811GE009",
       "Título": "SEMINARIO DE FORMADORES Y FORMADORAS PARA LA IMPLEMENTACIÓN DE LAS COMPETENCIAS CLAVE",
       "CEP": "18200016 - CEP Granada",
@@ -2905,18 +2905,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE012/"
-    },
-    {
-      "Código": "271811GE029",
-      "Título": "NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS: DE LA TEORÍA  A LA PRÁCTICA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "24/10/2026",
-      "Fin": "27/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE029/"
     },
     {
       "Código": "271811GE031",
@@ -2989,6 +2977,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE051/"
+    },
+    {
+      "Código": "271811KPF429",
+      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL B2",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "28/10/2026",
+      "Fin": "14/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811KPF429/"
     },
     {
       "Código": "271811PA455",
@@ -3099,18 +3099,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE016/"
     },
     {
-      "Código": "271813GE022",
-      "Título": "EVALUACIÓN COMPETENCIAL EN EL DISEÑO DE PROGRAMACIONES DIDÁCTICAS EN LA ESCUELA DE ARTE",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "27/10/2026",
-      "Fin": "11/12/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE022/"
-    },
-    {
       "Código": "271813GE023",
       "Título": "RADIO ESCOLAR Y ATENCIÓN A LA DIVERSIDAD EN EL CPR LOS MONTES",
       "CEP": "18200031 - CEP Guadix",
@@ -3193,6 +3181,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE001/"
+    },
+    {
+      "Código": "272116GE007",
+      "Título": "UNA EDUCACIÓN MÁS INCLUSIVA A TRAVÉS DE HERRAMIENTAS DIGITALES EN EL IES SAN ANTONIO",
+      "CEP": "21200025 - CEP Bollullos - Valverde",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "29/10/2026",
+      "Fin": "14/01/2027",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE007/"
     },
     {
       "Código": "272116GE015",
@@ -3627,18 +3627,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PCT037/"
     },
     {
-      "Código": "274127PRI002",
-      "Título": "ATENDIENDO A LA DIVERSIDAD EN EL AULA ORDINARIA CEIP SOR ÁNGELA DE LA CRUZ",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "26/10/2026",
-      "Fin": "23/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PRI002/"
-    },
-    {
       "Código": "274127PRI004",
       "Título": "ENTORNO Y CONTEXTO EDUCATIVO DEL POLÍGONO SUR: CLAVES Y HERRAMIENTAS PARA EL PROFESORADO NOVEL",
       "CEP": "41200017 - CEP Sevilla",
@@ -3771,18 +3759,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905PF001/"
     },
     {
-      "Código": "279906PF001",
-      "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/10/2026",
-      "Fin": "18/01/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF001/"
-    },
-    {
       "Código": "279907KCLT132",
       "Título": "AULADJAQUE: AJEDREZ Y PENSAMIENTO INTERDISCIPLINAR 26-27",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -3831,16 +3807,28 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907PF001/"
     },
     {
-      "Código": "279908KPF248",
-      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
+      "Código": "279908KPF640",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
       "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso Semipresencial",
+      "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "27/10/2026",
-      "Fin": "12/05/2027",
-      "Dirigido a": "Equipos directivos",
+      "Inicio": "01/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF248/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF640/"
+    },
+    {
+      "Código": "279908KPF641",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "01/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF641/"
     },
     {
       "Código": "279908PF001",
@@ -4011,18 +3999,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279914PF306_RES2023/"
     },
     {
-      "Código": "279915CI001",
-      "Título": "JORNADAS PROVINCIALES SOBRE DETECCIÓN E INTERVENCIÓN ANTE EL ACOSO ESCOLAR Y EL CIBERACOSO",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "28/10/2026",
-      "Fin": "30/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915CI001/"
-    },
-    {
       "Código": "279915KPF451",
       "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1 EDUCACIÓN INFANTIL (0-3 años)",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -4141,6 +4117,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF429/"
+    },
+    {
+      "Código": "279920KEA114",
+      "Título": "PROGRAMA ALDEA:RECAPACICLA, EDUCACIÓN PARA LA CIRCULARIDAD 26-27",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "02/11/2026",
+      "Fin": "16/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KEA114/"
     },
     {
       "Código": "279920KPF248",
@@ -4395,6 +4383,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928KPF493/"
     },
     {
+      "Código": "279928KPF642",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
+      "CEP": "41200029 - CEP Castilleja de la Cuesta",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928KPF642/"
+    },
+    {
       "Código": "279928PF001",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -4405,6 +4405,42 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279928PF001/"
+    },
+    {
+      "Código": "279929KPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/11/2026",
+      "Fin": "07/06/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF248/"
+    },
+    {
+      "Código": "279929KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF616/"
+    },
+    {
+      "Código": "279929QPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/11/2026",
+      "Fin": "07/06/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929QPF248/"
     },
     {
       "Código": "279930KPF248",
