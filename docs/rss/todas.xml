@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:58:02 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -707,13 +707,6 @@
       <pubDate>Mon, 26 Oct 2026 16:20:57 +0000</pubDate>
     </item>
     <item>
-      <title>274127PER004 — EDUCACIÓN EMOCIONAL: SENSIBILIZACIÓN PROGRAMA PIIE PARA EPER, ARE Y EEOOII</title>
-      <description>41200017 - CEP Sevilla | Curso | 04/11/2026 → 12/11/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER004/</link>
-      <guid isPermaLink="false">274127PER004</guid>
-      <pubDate>Wed, 14 Oct 2026 21:03:57 +0000</pubDate>
-    </item>
-    <item>
       <title>274127REL005 — EL PATRIMONIO RELIGIOSO SEVILLANO COMO FUSIÓN DE FE-CULTURA</title>
       <description>41200017 - CEP Sevilla | Curso | 26/11/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127REL005/</link>
@@ -1027,6 +1020,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE026/</link>
       <guid isPermaLink="false">27401GE026</guid>
       <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>274127PER004 — EDUCACIÓN EMOCIONAL: SENSIBILIZACIÓN PROGRAMA PIIE PARA EPER, ARE Y EEOOII</title>
+      <description>41200017 - CEP Sevilla | Curso | 04/11/2026 → 12/11/2026 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127PER004/</link>
+      <guid isPermaLink="false">274127PER004</guid>
+      <pubDate>Wed, 14 Oct 2026 21:03:57 +0000</pubDate>
     </item>
     <item>
       <title>279908KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
@@ -1397,13 +1397,6 @@
       <description>23200031 - CEP Úbeda | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF616/</link>
       <guid isPermaLink="false">279920KPF616</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279920KPF639 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL</title>
-      <description>23200031 - CEP Úbeda | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF639/</link>
-      <guid isPermaLink="false">279920KPF639</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
@@ -2434,6 +2427,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF248/</link>
       <guid isPermaLink="false">279920KPF248</guid>
       <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>279920KPF639 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL</title>
+      <description>23200031 - CEP Úbeda | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF639/</link>
+      <guid isPermaLink="false">279920KPF639</guid>
+      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
       <title>279920OE012 — JORNADA DE FORMACIÓN ESPECÍFICA PARA LA RED DE EXPERTOS EN ASESORAMIENTO EN COMPETENCIA LECTORA Y COMPETENCIA MATEMÁTICA DE ANDALUCÍA ORIENTAL DENTRO DEL MARCO DE ACTUACIONES DEL PCT 2026-2027</title>
