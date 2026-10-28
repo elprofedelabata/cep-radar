@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T00:47:57.441083+00:00",
-  "total": 372,
+  "generado": "2026-10-28T07:40:09.499369+00:00",
+  "total": 369,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -112,7 +112,7 @@
     },
     {
       "Código": "271408FP004",
-      "Título": "ESCAPARATISMO PRÁCTICO",
+      "Título": "CURSO ESCAPARATISMO PRÁCTICO",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
@@ -2151,42 +2151,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901KPF641/"
     },
     {
-      "Código": "279902KPF642",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF642/"
-    },
-    {
-      "Código": "279903KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "02/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF616/"
-    },
-    {
-      "Código": "279903KPF639",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "02/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF639/"
-    },
-    {
       "Código": "279904KPF640",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
       "CEP": "11200011 - CEP Cádiz",
@@ -2221,30 +2185,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF641/"
-    },
-    {
-      "Código": "279906KPF639",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906KPF639/"
-    },
-    {
-      "Código": "279907KPF642",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF642/"
     },
     {
       "Código": "279909KPF616",
@@ -2367,18 +2307,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917KPF640/"
     },
     {
-      "Código": "279918KPF641",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF641/"
-    },
-    {
       "Código": "279919KPF642",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2401,18 +2329,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279920KPF616/"
-    },
-    {
-      "Código": "279921KPF640",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF640/"
     },
     {
       "Código": "279922KPF642",
@@ -3267,30 +3183,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE043/"
     },
     {
-      "Código": "272922GE049",
-      "Título": "METODOLOGÍAS DE CREACIÓN ESCÉNICA A PARTIR DE PARTITURAS FÍSICAS PARA ESAD",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/10/2026",
-      "Fin": "28/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE049/"
-    },
-    {
-      "Código": "272922GE053",
-      "Título": "TRANSFERENCIAS PARA ESCUELAS DE ARTE: CIANOTIPIA, FOIL, FOTO TRANSFER, ENCUADERNACIÓN WIRE-O CON TAPA DURA",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/10/2026",
-      "Fin": "30/10/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE053/"
-    },
-    {
       "Código": "272922GE070",
       "Título": "TRATAMIENTO DEL ESPAÑOL COMO LENGUA EXTRANJERA EN EL AULA DE EPER",
       "CEP": "29200014 - CEP Málaga",
@@ -3603,6 +3495,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901PF527_RES2025/"
     },
     {
+      "Código": "279902KPF642",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
+      "CEP": "04200020 - CEP El Ejido",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF642/"
+    },
+    {
       "Código": "279902PF529_RES2026",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA 590- NO FP-FASE DISTANCIA (RESOLUCIÓN 2026)",
       "CEP": "04200020 - CEP El Ejido",
@@ -3613,6 +3517,30 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902PF529_RES2026/"
+    },
+    {
+      "Código": "279903KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "02/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF616/"
+    },
+    {
+      "Código": "279903KPF639",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "02/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF639/"
     },
     {
       "Código": "279903KPI461",
@@ -3663,6 +3591,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905PF001/"
     },
     {
+      "Código": "279906KPF639",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906KPF639/"
+    },
+    {
       "Código": "279907KCLT132",
       "Título": "AULADJAQUE: AJEDREZ Y PENSAMIENTO INTERDISCIPLINAR 26-27",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -3697,6 +3637,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF616/"
+    },
+    {
+      "Código": "279907KPF642",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF642/"
     },
     {
       "Código": "279907PF001",
@@ -4011,6 +3963,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF248/"
     },
     {
+      "Código": "279918KPF641",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF641/"
+    },
+    {
       "Código": "279918PF529_RES2026",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA 590- NO FP-FASE DISTANCIA (RESOLUCIÓN 2026)",
       "CEP": "23200016 - CEP Jaén",
@@ -4117,6 +4081,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF555/"
+    },
+    {
+      "Código": "279921KPF640",
+      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279921KPF640/"
     },
     {
       "Código": "279922CI001",
@@ -4453,18 +4429,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279932PF378_RES2021/"
-    },
-    {
-      "Código": "279933FP006",
-      "Título": "EXPERTO EN GOOGLE GEMINI EDUCATION",
-      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "28/10/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP006/"
     }
   ]
 }
