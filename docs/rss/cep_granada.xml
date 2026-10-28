@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:19:24 +0000</lastBuildDate>
     <item>
       <title>271811GE007 — APRENDIZAJE COOPERATIVO COMO METODOLOGÍA ACTIVA Y MODELO DE GESTIÓN DE AULA.</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 04/11/2026 → 03/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -78,7 +78,7 @@
     </item>
     <item>
       <title>271811GE083 — VISITA MATEMÁTICA DESDE LA PERSPECTIVA DUA - AULA DEL FUTURO</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 11/11/2026 → 02/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 11/11/2026 → 02/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE083/</link>
       <guid isPermaLink="false">271811GE083</guid>
       <pubDate>Wed, 21 Oct 2026 20:58:36 +0000</pubDate>
@@ -147,13 +147,6 @@
       <pubDate>Wed, 30 Sep 2026 16:08:53 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE052 — LA BOÎTE À DÉFIS: OUVREZ LA BOÎTE ET REDYNAMISEZ VOS COURS DE FLE!</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 05/11/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE052/</link>
-      <guid isPermaLink="false">271811GE052</guid>
-      <pubDate>Tue, 06 Oct 2026 01:58:06 +0000</pubDate>
-    </item>
-    <item>
       <title>271811GE033 — PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR</title>
       <description>18200016 - CEP Granada | Curso | 10/11/2026 → 01/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE033/</link>
@@ -161,18 +154,11 @@
       <pubDate>Thu, 17 Sep 2026 20:41:13 +0000</pubDate>
     </item>
     <item>
-      <title>271811QPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2 CENTROS CONCERTADOS</title>
-      <description>18200016 - CEP Granada | Curso a Distancia | 28/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811QPF429/</link>
-      <guid isPermaLink="false">271811QPF429</guid>
-      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>279911KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
-      <description>18200016 - CEP Granada | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/</link>
-      <guid isPermaLink="false">279911KPF640</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
+      <title>271811GE052 — LA BOÎTE À DÉFIS: OUVREZ LA BOÎTE ET REDYNAMISEZ VOS COURS DE FLE!</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 05/11/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE052/</link>
+      <guid isPermaLink="false">271811GE052</guid>
+      <pubDate>Tue, 06 Oct 2026 01:58:06 +0000</pubDate>
     </item>
     <item>
       <title>271811GE009 — SEMINARIO DE FORMADORES Y FORMADORAS PARA LA IMPLEMENTACIÓN DE LAS COMPETENCIAS CLAVE</title>
@@ -250,6 +236,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811PA455/</link>
       <guid isPermaLink="false">271811PA455</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811QPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2 CENTROS CONCERTADOS</title>
+      <description>18200016 - CEP Granada | Curso a Distancia | 28/10/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811QPF429/</link>
+      <guid isPermaLink="false">271811QPF429</guid>
+      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>279911KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
+      <description>18200016 - CEP Granada | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/</link>
+      <guid isPermaLink="false">279911KPF640</guid>
+      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
