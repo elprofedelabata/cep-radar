@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T01:29:59.123679+00:00",
-  "total": 350,
+  "generado": "2026-10-29T07:44:48.614027+00:00",
+  "total": 353,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -795,6 +795,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE009/"
     },
     {
+      "Código": "272318FP002",
+      "Título": "CUADERNO SÉNECA, MOODLE Y CLASSROOM PARA F.P. (CEP JAÉN)",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "12/11/2026",
+      "Fin": "19/01/2027",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318FP002/"
+    },
+    {
       "Código": "272318GE003",
       "Título": "GESTIÓN DE AULA PARA EL IES TORRE OLVIDADA",
       "CEP": "23200016 - CEP Jaén",
@@ -1069,6 +1081,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE027/"
+    },
+    {
+      "Código": "27401GE031",
+      "Título": "EDUCACIÓN Y CUIDADO DE LA VOZ",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "03/12/2026",
+      "Fin": "21/01/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE031/"
+    },
+    {
+      "Código": "27401GE032",
+      "Título": "EDUCACIÓN Y CUIDADO DE LA VOZ (TURNO DE MAÑANA)",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "01/12/2026",
+      "Fin": "19/01/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE032/"
     },
     {
       "Código": "27403GE007",
