@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:09:00 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -987,13 +987,6 @@
       <pubDate>Fri, 09 Oct 2026 16:41:18 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE017 — SDA ELABORACIÓN. DISEÑO EN SÉNECA Y CALIFICACIÓN CON SÉNECA. ESPECIALISTAS PT , AL Y COTUTORAS LSE ETAPAS INFANTIL Y PRIMARIA. MODALIDAD B</title>
-      <description>14200010 - CEP Córdoba | Curso | 21/10/2026 → 29/10/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE017/</link>
-      <guid isPermaLink="false">271408GE017</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
       <title>271408GE084 — II CONGRESO NACIONAL DE DIRECCIÓN ESCOLAR. LIDERAR LA ESCUELA PÚBLICA: UNA DIRECCIÓN PROFESIONAL PARA TODAS LAS ETAPAS</title>
       <description>14200010 - CEP Córdoba | Curso | 23/11/2026 → 24/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE084/</link>
@@ -1013,13 +1006,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/</link>
       <guid isPermaLink="false">271410GE001</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>271410GE018 — DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS</title>
-      <description>14200034 - CEP Priego - Montilla | Curso a Distancia | 04/11/2026 → 25/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE018/</link>
-      <guid isPermaLink="false">271410GE018</guid>
-      <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
       <title>271811GE014 — LA ENSEÑANZA DE LA RELIGIÓN DESDE LAS MANOS Y EL CORAZÓN</title>
@@ -1125,6 +1111,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR018/</link>
       <guid isPermaLink="false">271408PR018</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>271410GE018 — DISCIPLINA POSITIVA, NEUROEDUCACIÓN Y RESOLUCIÓN CONSTRUCTIVA DE CONFLICTOS</title>
+      <description>14200034 - CEP Priego - Montilla | Curso a Distancia | 04/11/2026 → 25/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE018/</link>
+      <guid isPermaLink="false">271410GE018</guid>
+      <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
       <title>271811GE033 — PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR</title>
@@ -1321,13 +1314,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE001/</link>
       <guid isPermaLink="false">271409GE001</guid>
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>271409GE011 — EN EDUCACIÓN INFANTIL LA ASAMBLEA TAMBIÉN PUEDE SER DIGITAL</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso con Seguimiento | 20/10/2026 → 29/10/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE011/</link>
-      <guid isPermaLink="false">271409GE011</guid>
-      <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
       <title>271409GE013 — MÓDULO DE SÉNECA CURRÍCULO POR COMPETENCIAS FP  Y USO DEL CUADERNO EN FP</title>
@@ -1688,7 +1674,7 @@
     </item>
     <item>
       <title>27401GE029 — SOPORTE VITAL BÁSICO CON DESA EN EL ÁMBITO EDUCATIVO</title>
-      <description>04200019 - CEP Almería | Curso Semipresencial | 02/11/2026 → 26/02/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <description>04200019 - CEP Almería | Curso Semipresencial | 02/11/2026 → 11/02/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE029/</link>
       <guid isPermaLink="false">27401GE029</guid>
       <pubDate>Mon, 26 Oct 2026 16:20:57 +0000</pubDate>
@@ -1933,7 +1919,7 @@
     </item>
     <item>
       <title>279908KPF641 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 03/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF641/</link>
       <guid isPermaLink="false">279908KPF641</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
@@ -2112,13 +2098,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF641/</link>
       <guid isPermaLink="false">279918KPF641</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279918PF529_RES2026 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA 590- NO FP-FASE DISTANCIA (RESOLUCIÓN 2026)</title>
-      <description>23200016 - CEP Jaén | Curso a Distancia | 28/10/2026 → 28/01/2027 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918PF529_RES2026/</link>
-      <guid isPermaLink="false">279918PF529_RES2026</guid>
-      <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
     </item>
     <item>
       <title>279919KPF642 — ACADEMIA GEMINI PARA EDUCADORES - EQUIPOS DIRECTIVOS</title>
