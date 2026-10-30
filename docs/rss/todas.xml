@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:45:22 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP011 — DISFICULTADES DE APRENDIZAJE Y TRASTORNOS DEL LENGUAJE</title>
       <description>11200011 - CEP Cádiz | Curso | 10/11/2026 → 24/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -966,13 +966,6 @@
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
     </item>
     <item>
-      <title>279925PI005 — V JORNADAS DE FORMACIÓN AULAS CONFUCIO</title>
-      <description>29200041 - CEP Antequera | Jornadas | 05/11/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/</link>
-      <guid isPermaLink="false">279925PI005</guid>
-      <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
-    </item>
-    <item>
       <title>279930PF003 — NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES</title>
       <description>41200042 - CEP Mairena del Alcor | Otros | 19/11/2026 → 19/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930PF003/</link>
@@ -1069,6 +1062,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917PF001/</link>
       <guid isPermaLink="false">279917PF001</guid>
       <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>279925PI005 — V JORNADAS DE FORMACIÓN AULAS CONFUCIO</title>
+      <description>29200041 - CEP Antequera | Jornadas | 05/11/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/</link>
+      <guid isPermaLink="false">279925PI005</guid>
+      <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
@@ -1184,7 +1184,7 @@
     </item>
     <item>
       <title>272922GE061 — LOS EVANGELIOS: UNA PERSPECTIVA HISTÓRICA, LITERARIA Y TEOLÓGICA</title>
-      <description>29200014 - CEP Málaga | Curso a Distancia | 02/11/2026 → 07/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <description>29200014 - CEP Málaga | Curso a Distancia | 06/11/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/</link>
       <guid isPermaLink="false">272922GE061</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
@@ -1832,13 +1832,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF642/</link>
       <guid isPermaLink="false">279902KPF642</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279902PF529_RES2026 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA 590- NO FP-FASE DISTANCIA (RESOLUCIÓN 2026)</title>
-      <description>04200020 - CEP El Ejido | Curso a Distancia | 28/10/2026 → 28/01/2027 | Dirigido a: Educación secundaria obligatoria | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902PF529_RES2026/</link>
-      <guid isPermaLink="false">279902PF529_RES2026</guid>
-      <pubDate>Thu, 22 Oct 2026 14:44:15 +0000</pubDate>
     </item>
     <item>
       <title>279903KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>

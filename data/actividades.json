@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T16:20:32.431932+00:00",
-  "total": 336,
+  "generado": "2026-10-30T21:45:22.405151+00:00",
+  "total": 335,
   "actividades": [
     {
       "Código": "271104FEDAP011",
@@ -1647,18 +1647,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPF230/"
     },
     {
-      "Código": "279925PI005",
-      "Título": "V JORNADAS DE FORMACIÓN AULAS CONFUCIO",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/"
-    },
-    {
       "Código": "279930PF003",
       "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -1825,6 +1813,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917PF001/"
+    },
+    {
+      "Código": "279925PI005",
+      "Título": "V JORNADAS DE FORMACIÓN AULAS CONFUCIO",
+      "CEP": "29200041 - CEP Antequera",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "05/11/2026",
+      "Fin": "05/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/"
     },
     {
       "Código": "271104FEDAP008",
@@ -2024,8 +2024,8 @@
       "CEP": "29200014 - CEP Málaga",
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "02/11/2026",
-      "Fin": "07/12/2026",
+      "Inicio": "06/11/2026",
+      "Fin": "10/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/"
@@ -3133,18 +3133,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF642/"
-    },
-    {
-      "Código": "279902PF529_RES2026",
-      "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA 590- NO FP-FASE DISTANCIA (RESOLUCIÓN 2026)",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "28/10/2026",
-      "Fin": "28/01/2027",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902PF529_RES2026/"
     },
     {
       "Código": "279903KPF616",
