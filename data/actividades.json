@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T22:09:00.093049+00:00",
-  "total": 335,
+  "generado": "2026-10-30T07:50:57.248330+00:00",
+  "total": 336,
   "actividades": [
     {
       "Código": "271104FEDAP008",
@@ -951,18 +951,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE048/"
     },
     {
-      "Código": "272922GE090",
-      "Título": "JORNADAS DE FORMACIÓN PROFESIONAL: LA FASE DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO Y LA EVALUACIÓN. NIVEL INICIAL",
-      "CEP": "29200014 - CEP Málaga",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "25/11/2026",
-      "Fin": "26/11/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE090/"
-    },
-    {
       "Código": "272923GE103",
       "Título": "RESPUESTA EDUCATIVA AL ALUMNADO CON ALTAS CAPACIDADES: PROGRAMAS DE PROFUNDIZACIÓN",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -1311,18 +1299,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129INT03/"
     },
     {
-      "Código": "274130CS001",
-      "Título": "V CONGRESO DE HISTORIA Y CULTURA DE ALCALÁ DE GUADAÍRA",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Congreso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "11/11/2026",
-      "Fin": "13/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CS001/"
-    },
-    {
       "Código": "274130CT001",
       "Título": "DESCUBRIENDO EL MAGNETISMO. UN PROYECTO STEAM EN EL AULA.",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -1465,6 +1441,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905KPF248/"
+    },
+    {
+      "Código": "279906PF003",
+      "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Otros",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "11/11/2026",
+      "Fin": "11/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906PF003/"
     },
     {
       "Código": "279907KPF248",
@@ -1815,6 +1803,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE061/"
     },
     {
+      "Código": "272922GE090",
+      "Título": "JORNADAS DE FORMACIÓN PROFESIONAL: LA FASE DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO Y LA EVALUACIÓN. NIVEL INICIAL",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "25/11/2026",
+      "Fin": "26/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE090/"
+    },
+    {
       "Código": "279916PF001",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -1947,18 +1947,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE037/"
     },
     {
-      "Código": "271814GE004",
-      "Título": "PLATAFORMAS EDUCATIVAS PARA LA EDUCACIÓN INFANTIL 0-3 AÑOS",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "03/11/2026",
-      "Fin": "10/11/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE004/"
-    },
-    {
       "Código": "272115GE004",
       "Título": "CONVIVENCIA I Y BIENESTAR EDUCATIVO: BIENESTAR DOCENTE PARA EL BIENESTAR DEL ALUMNADO",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -2053,6 +2041,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127REL003/"
+    },
+    {
+      "Código": "274130CS001",
+      "Título": "V CONGRESO DE HISTORIA Y CULTURA DE ALCALÁ DE GUADAÍRA",
+      "CEP": "41200042 - CEP Mairena del Alcor",
+      "Modalidad": "Congreso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "11/11/2026",
+      "Fin": "13/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CS001/"
     },
     {
       "Código": "274130PER004",
@@ -2497,6 +2497,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271813GE024/"
+    },
+    {
+      "Código": "271814GE004",
+      "Título": "PLATAFORMAS EDUCATIVAS PARA LA EDUCACIÓN INFANTIL 0-3 AÑOS",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "03/11/2026",
+      "Fin": "10/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE004/"
     },
     {
       "Código": "271814GE019",
