@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:44:56 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP011 — DISFICULTADES DE APRENDIZAJE Y TRASTORNOS DEL LENGUAJE</title>
       <description>11200011 - CEP Cádiz | Curso | 10/11/2026 → 24/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -266,7 +266,7 @@
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>271811GE104 — EVALUAR POR COMPETENCIAS SIN DEJAR A NADIE ATRÁS</title>
+      <title>271811GE104 — EVALUAR POR COMPETENCIAS SIN DEJAR A NADIE ATRÁS (SECUNDARIA)</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 17/11/2026 → 11/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE104/</link>
       <guid isPermaLink="false">271811GE104</guid>
@@ -1057,13 +1057,6 @@
       <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
     </item>
     <item>
-      <title>279925PI005 — V JORNADAS DE FORMACIÓN AULAS CONFUCIO</title>
-      <description>29200041 - CEP Antequera | Jornadas | 05/11/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/</link>
-      <guid isPermaLink="false">279925PI005</guid>
-      <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
-    </item>
-    <item>
       <title>271104FEDAP008 — CIENCIA EN EL AULA: EXPERIMENTOS SENCILLOS, GRANDES APRENDIZAJES</title>
       <description>11200011 - CEP Cádiz | Curso a Distancia | 06/11/2026 → 09/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP008/</link>
@@ -1223,6 +1216,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CV002/</link>
       <guid isPermaLink="false">274130CV002</guid>
       <pubDate>Tue, 29 Sep 2026 07:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>279925PI005 — V JORNADAS DE FORMACIÓN AULAS CONFUCIO</title>
+      <description>29200041 - CEP Antequera | Jornadas | 05/11/2026 → 05/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925PI005/</link>
+      <guid isPermaLink="false">279925PI005</guid>
+      <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
     </item>
     <item>
       <title>271104FP004 — CONTROL NUMÉRICO</title>
