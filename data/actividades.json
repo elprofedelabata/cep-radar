@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-01T16:59:01.077512+00:00",
-  "total": 334,
+  "generado": "2026-11-01T22:34:12.062605+00:00",
+  "total": 335,
   "actividades": [
     {
       "Código": "271104FEDAP011",
@@ -675,18 +675,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE017/"
     },
     {
-      "Código": "272115GE018",
-      "Título": "TEATRO, MÚSICA, EXPRESIÓN CORPORAL y PLÁSTICA",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "02/12/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE018/"
-    },
-    {
       "Código": "272115GE021",
       "Título": "CONVIVENCIA II: EL AULA COMO ESPACIO DE PARTICIPACIÓN Y BIENESTAR",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -1201,6 +1189,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT005/"
+    },
+    {
+      "Código": "274127AFP019",
+      "Título": "FORMACIÓN PRÁCTICA: MÉTODOS Y PRODUCTOS CARTOGRÁFICOS",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "17/11/2026",
+      "Fin": "26/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP019/"
     },
     {
       "Código": "274127ALI007",
@@ -1729,6 +1729,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814IC001/"
+    },
+    {
+      "Código": "272115GE018",
+      "Título": "TEATRO, MÚSICA, EXPRESIÓN CORPORAL y PLÁSTICA",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "05/11/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE018/"
     },
     {
       "Código": "272318GE015",
