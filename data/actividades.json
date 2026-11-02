@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T10:28:39.488210+00:00",
-  "total": 335,
+  "generado": "2026-11-02T20:37:00.710242+00:00",
+  "total": 333,
   "actividades": [
     {
       "Código": "271104FEDAP011",
@@ -325,18 +325,6 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE020/"
-    },
-    {
-      "Código": "271811GE023",
-      "Título": "AICLE Y STEAM EN EDUCACIÓN SECUNDARIA. RECURSOS PARA LA ENSEÑANZA BILINGÜE DESDE EL PROYECTO PROMISED",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "12/11/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE023/"
     },
     {
       "Código": "271811GE036",
@@ -1491,18 +1479,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910KPF493/"
     },
     {
-      "Código": "279910PF003",
-      "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Otros",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/11/2026",
-      "Fin": "05/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/"
-    },
-    {
       "Código": "279911EA001",
       "Título": "CREANDO ESCUELAS EN RED, SOSTENIBLES Y SALUDABLES",
       "CEP": "18200016 - CEP Granada",
@@ -1681,18 +1657,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE014/"
-    },
-    {
-      "Código": "271811GE028",
-      "Título": "LA BIODIVERSIDAD EN EL PARQUE NACIONAL DE SIERRA NEVADA: LOS BOSQUES DE OTOÑO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "04/11/2026",
-      "Fin": "14/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE028/"
     },
     {
       "Código": "271811GE047",
@@ -1923,6 +1887,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE007/"
     },
     {
+      "Código": "271811GE023",
+      "Título": "AICLE Y STEAM EN EDUCACIÓN SECUNDARIA. RECURSOS PARA LA ENSEÑANZA BILINGÜE DESDE EL PROYECTO PROMISED",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "05/11/2026",
+      "Fin": "12/11/2026",
+      "Dirigido a": "Educación secundaria obligatoria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE023/"
+    },
+    {
       "Código": "271811GE033",
       "Título": "PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR",
       "CEP": "18200016 - CEP Granada",
@@ -1933,18 +1909,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE033/"
-    },
-    {
-      "Código": "271811GE052",
-      "Título": "LA BOÎTE À DÉFIS: OUVREZ LA BOÎTE ET REDYNAMISEZ VOS COURS DE FLE!",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "05/11/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE052/"
     },
     {
       "Código": "271812GE037",
@@ -2331,6 +2295,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE019/"
     },
     {
+      "Código": "271410GE026",
+      "Título": "FORMACIÓN DE FACILITADORES STEAM: ELABORACIÓN DE PROYECTOS EDUCATIVOS",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/11/2026",
+      "Fin": "26/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE026/"
+    },
+    {
       "Código": "271811GE012",
       "Título": "SEMINARIO MATEMÁTICAS (INFANTIL-PRIMARIA)",
       "CEP": "18200016 - CEP Granada",
@@ -2341,6 +2317,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE012/"
+    },
+    {
+      "Código": "271811GE028",
+      "Título": "LA BIODIVERSIDAD EN EL PARQUE NACIONAL DE SIERRA NEVADA: LOS BOSQUES DE OTOÑO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/11/2026",
+      "Fin": "14/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE028/"
     },
     {
       "Código": "271811GE048",
@@ -2365,6 +2353,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
+    },
+    {
+      "Código": "271811GE052",
+      "Título": "LA BOÎTE À DÉFIS: OUVREZ LA BOÎTE ET REDYNAMISEZ VOS COURS DE FLE!",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "05/11/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE052/"
     },
     {
       "Código": "271811GE062",
@@ -3039,18 +3039,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127REL003/"
     },
     {
-      "Código": "274128LIN003",
-      "Título": "METODOLOGÍA Y EVALUACIÓN PARA LA DOCENCIA EN EL PROGRAMA BACHIBAC",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "03/11/2026",
-      "Fin": "12/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274128LIN003/"
-    },
-    {
       "Código": "274129KPF582",
       "Título": "GENERADOR DE SdA (CON PE y ACS) A TRAVÉS DE IA (INFANTIL Y PRIMARIA)",
       "CEP": "41200030 - CEP Osuna - Écija",
@@ -3375,6 +3363,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910KPF642/"
     },
     {
+      "Código": "279910PF003",
+      "Título": "NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Otros",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "05/11/2026",
+      "Fin": "05/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/"
+    },
+    {
       "Código": "279911KPF640",
       "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
       "CEP": "18200016 - CEP Granada",
@@ -3385,18 +3385,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/"
-    },
-    {
-      "Código": "279912KPF641",
-      "Título": "ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/11/2026",
-      "Fin": "30/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF641/"
     },
     {
       "Código": "279913KPF095",
@@ -3668,7 +3656,7 @@
       "CEP": "23200031 - CEP Úbeda",
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "02/11/2026",
+      "Inicio": "03/11/2026",
       "Fin": "30/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
@@ -3807,18 +3795,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279924KPF641/"
     },
     {
-      "Código": "279925KPF493",
-      "Título": "JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (INFANTIL Y PRIMARIA)",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "12/10/2026",
-      "Fin": "11/12/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279925KPF493/"
-    },
-    {
       "Código": "279925KPF640",
       "Título": "640. ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA",
       "CEP": "29200041 - CEP Antequera",
@@ -3945,7 +3921,7 @@
       "Modalidad": "Curso a Distancia",
       "Estado": "Publicadas Listas Definitivas",
       "Inicio": "03/11/2026",
-      "Fin": "03/12/2026",
+      "Fin": "30/11/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279929KPF616/"
