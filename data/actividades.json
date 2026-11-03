@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T20:37:00.710242+00:00",
-  "total": 333,
+  "generado": "2026-11-03T03:49:14.237225+00:00",
+  "total": 334,
   "actividades": [
     {
       "Código": "271104FEDAP011",
@@ -133,18 +133,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE011/"
-    },
-    {
-      "Código": "271408GE018",
-      "Título": "ENSEÑANZA MULTINIVEL  ETAPAS PRIMARIA Y SECUNDARIA ATENCIÓN A LA DIVERSIDAD ( ON LINE )",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "04/11/2026",
-      "Fin": "09/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE018/"
     },
     {
       "Código": "271408GE031",
@@ -1071,6 +1059,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE032/"
     },
     {
+      "Código": "27401GE035",
+      "Título": "ACTUALIZACIÓN EN LINFODRENAJE MANUAL",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "14/11/2026",
+      "Fin": "25/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE035/"
+    },
+    {
       "Código": "27402GE011",
       "Título": "COMUNICACIÓN AUMENTATIVA Y ALTERNATIVA, LENGUAJE NATURAL ASISTIDO Y REGULACIÓN EMOCIONAL",
       "CEP": "04200020 - CEP El Ejido",
@@ -1357,18 +1357,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279901KPF619/"
-    },
-    {
-      "Código": "279902KPF230",
-      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/11/2026",
-      "Fin": "15/12/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF230/"
     },
     {
       "Código": "279903PF003",
@@ -1755,6 +1743,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE035/"
     },
     {
+      "Código": "279902KPF230",
+      "Título": "GESTIÓN ECONÓMICA PARA SECRETARÍAS",
+      "CEP": "04200020 - CEP El Ejido",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "10/11/2026",
+      "Fin": "15/12/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF230/"
+    },
+    {
       "Código": "279916PF001",
       "Título": "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -2113,6 +2113,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271107GE016/"
+    },
+    {
+      "Código": "271408GE018",
+      "Título": "ENSEÑANZA MULTINIVEL  ETAPAS PRIMARIA Y SECUNDARIA ATENCIÓN A LA DIVERSIDAD ( ON LINE )",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "04/11/2026",
+      "Fin": "09/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE018/"
     },
     {
       "Código": "271408IP001",
