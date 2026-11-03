@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:44:48 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP002 — MÚSICA PARA LA DANZA DESDE UNA PERSPECTIVA CONTEMPORÁNEA</title>
       <description>11200011 - CEP Cádiz | Curso | 25/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -71,7 +71,7 @@
     </item>
     <item>
       <title>271408GE011 — DE LA IDEA AL AULA: EL ARTE DE CREAR TU PROPIO MATERIAL</title>
-      <description>14200010 - CEP Córdoba | Curso | 12/11/2026 → 26/11/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <description>14200010 - CEP Córdoba | Curso | 12/11/2026 → 02/12/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE011/</link>
       <guid isPermaLink="false">271408GE011</guid>
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
@@ -161,13 +161,6 @@
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>271409GE014 — RECURSOS DIGITALES INTERACTIVOS EN EL AULA</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso a Distancia | 06/11/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE014/</link>
-      <guid isPermaLink="false">271409GE014</guid>
-      <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
-    </item>
-    <item>
       <title>271409GE016 — PATIOS DINÁMICOS PARA UN RECREO INCLUSIVO</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso con Seguimiento | 04/11/2026 → 25/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE016/</link>
@@ -250,6 +243,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE098/</link>
       <guid isPermaLink="false">271811GE098</guid>
       <pubDate>Wed, 28 Oct 2026 21:58:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE102 — CUADERNO DE SÉNECA Y PLATAFORMA I-PASEN PARA FORMACIÓN PROFESIONAL</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 18/11/2026 → 11/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE102/</link>
+      <guid isPermaLink="false">271811GE102</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
     </item>
     <item>
       <title>271811GE103 — EVALUACIÓN COMPETENCIAL PARA INFANTIL Y PRIMARIA. TÉCNICAS, INSTRUMENTOS Y CRITERIOS DE EVALUACIÓN Y CALIFICACIÓN</title>
@@ -406,11 +406,11 @@
       <pubDate>Wed, 28 Oct 2026 16:19:24 +0000</pubDate>
     </item>
     <item>
-      <title>272116GE020 — APRENDER JUGANDO: APRENDIZAJE BASADO EN JUEGOS (ABJ) EN EDUCACIÓN INFANTIL.</title>
-      <description>21200025 - CEP Bollullos - Valverde | Curso Semipresencial | 04/11/2026 → 19/11/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE020/</link>
-      <guid isPermaLink="false">272116GE020</guid>
-      <pubDate>Thu, 22 Oct 2026 20:56:38 +0000</pubDate>
+      <title>272116GE021 — CLAVES Y ESTRATEGIAS PARA TRANSFORMAR LA COMPETENCIA LINGÜÍSTICA EN EL CEIP SANTA BÁRBARA</title>
+      <description>21200025 - CEP Bollullos - Valverde | Curso Semipresencial | 16/11/2026 → 23/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE021/</link>
+      <guid isPermaLink="false">272116GE021</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
     </item>
     <item>
       <title>272116GE028 — COEDUCACIÓN TRANSVERSAL: PROMOVER LA IGUALDAD EN EL AULA ( CADIGENIA)</title>
@@ -418,6 +418,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE028/</link>
       <guid isPermaLink="false">272116GE028</guid>
       <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>272116GE043 — METODOLOGÍAS ACTIVAS PARA POTENCIAR EL RAZONAMIENTO MATEMÁTICO.</title>
+      <description>21200025 - CEP Bollullos - Valverde | Curso | 17/11/2026 → 26/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE043/</link>
+      <guid isPermaLink="false">272116GE043</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
     </item>
     <item>
       <title>272117GE010 — COMUNIDADES DE APRENDIZAJE PARA PROFESORADO DE NUEVA INCORPORACIÓN</title>
@@ -553,6 +560,13 @@
       <pubDate>Fri, 30 Oct 2026 16:20:32 +0000</pubDate>
     </item>
     <item>
+      <title>272321GE009 — RUMBO A EUROPA. ERASMUS + DESDE CERO</title>
+      <description>23200041 - CEP Orcera | Curso Semipresencial | 24/11/2026 → 17/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE009/</link>
+      <guid isPermaLink="false">272321GE009</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
+    </item>
+    <item>
       <title>272922GE009 — EDUCAR EN IGUALDAD: PROPUESTAS PARA INFANTIL Y PRIMARIA. NIVEL INICIAL</title>
       <description>29200014 - CEP Málaga | Curso Semipresencial | 17/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE009/</link>
@@ -609,25 +623,11 @@
       <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
     </item>
     <item>
-      <title>272925GE203 — EL APRENDIZAJE LECTOR: DE LAS FUNCIONES EJECUTIVAS AL FOMENTO DE LA LECTOESCRITURA EN EL AULA</title>
-      <description>29200041 - CEP Antequera | Curso | 05/11/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE203/</link>
-      <guid isPermaLink="false">272925GE203</guid>
-      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
-    </item>
-    <item>
       <title>272925GE504 — ATENCIÓN AL ALUMNADO TEA EN PRIMARIA</title>
       <description>29200041 - CEP Antequera | Curso | 11/11/2026 → 26/11/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE504/</link>
       <guid isPermaLink="false">272925GE504</guid>
       <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>27401GE019 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN PROVINCIA DE ALMERÍA</title>
-      <description>04200019 - CEP Almería | Curso Semipresencial | 11/11/2026 → 24/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE019/</link>
-      <guid isPermaLink="false">27401GE019</guid>
-      <pubDate>Tue, 22 Sep 2026 20:36:55 +0000</pubDate>
     </item>
     <item>
       <title>27401GE027 — ESTRATEGIA DE APOYO CONDUCTUAL POSITIVO PARA EL ALUMNADO TEA EN EL AULA ORDINARIA</title>
@@ -945,18 +945,18 @@
       <pubDate>Wed, 21 Oct 2026 14:44:19 +0000</pubDate>
     </item>
     <item>
-      <title>279917KPF626 — 626. CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA</title>
-      <description>23200016 - CEP Jaén | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917KPF626/</link>
-      <guid isPermaLink="false">279917KPF626</guid>
-      <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
-    </item>
-    <item>
       <title>279917PF003 — NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES</title>
       <description>21200037 - CEP Aracena | Otros | 18/11/2026 → 18/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279917PF003/</link>
       <guid isPermaLink="false">279917PF003</guid>
       <pubDate>Wed, 28 Oct 2026 16:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>279918KPF626 — 626. CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA</title>
+      <description>23200016 - CEP Jaén | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF626/</link>
+      <guid isPermaLink="false">279918KPF626</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
     </item>
     <item>
       <title>279919KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL (EDICIÓN PRIMARIA)</title>
@@ -1069,6 +1069,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272319GE003/</link>
       <guid isPermaLink="false">272319GE003</guid>
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>27401GE019 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN PROVINCIA DE ALMERÍA</title>
+      <description>04200019 - CEP Almería | Curso Semipresencial | 11/11/2026 → 24/02/2027 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE019/</link>
+      <guid isPermaLink="false">27401GE019</guid>
+      <pubDate>Tue, 22 Sep 2026 20:36:55 +0000</pubDate>
     </item>
     <item>
       <title>279902KPF230 — GESTIÓN ECONÓMICA PARA SECRETARÍAS</title>
@@ -1232,6 +1239,13 @@
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
+      <title>272925GE203 — EL APRENDIZAJE LECTOR: DE LAS FUNCIONES EJECUTIVAS AL FOMENTO DE LA LECTOESCRITURA EN EL AULA</title>
+      <description>29200041 - CEP Antequera | Curso | 05/11/2026 → 12/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE203/</link>
+      <guid isPermaLink="false">272925GE203</guid>
+      <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
+    </item>
+    <item>
       <title>272925GE505 — JORNADA PARA LA COORDINACIÓN DE GRUPOS DE TRABAJO Y FORMACIÓN EN CENTRO</title>
       <description>29200041 - CEP Antequera | Jornadas | 28/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/</link>
@@ -1365,11 +1379,11 @@
       <pubDate>Mon, 07 Sep 2026 15:22:14 +0000</pubDate>
     </item>
     <item>
-      <title>271409GE013 — MÓDULO DE SÉNECA CURRÍCULO POR COMPETENCIAS FP  Y USO DEL CUADERNO EN FP</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso a Distancia | 28/10/2026 → 16/12/2026 | Dirigido a: Otros | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE013/</link>
-      <guid isPermaLink="false">271409GE013</guid>
-      <pubDate>Thu, 08 Oct 2026 17:03:33 +0000</pubDate>
+      <title>271409GE014 — RECURSOS DIGITALES INTERACTIVOS EN EL AULA</title>
+      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso a Distancia | 06/11/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE014/</link>
+      <guid isPermaLink="false">271409GE014</guid>
+      <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
     </item>
     <item>
       <title>271409PR001 — ACOMPAÑAMIENTO  EN SEMINARIOS FORMATIVOS DEL ESTUDIANTADO DE ED. INFANTIL Y PRIMARIA (PRÁCTICUM)</title>
@@ -1512,13 +1526,6 @@
       <pubDate>Wed, 21 Oct 2026 14:44:19 +0000</pubDate>
     </item>
     <item>
-      <title>271814GE004 — PLATAFORMAS EDUCATIVAS PARA LA EDUCACIÓN INFANTIL 0-3 AÑOS</title>
-      <description>18200041 - CEP Baza | Curso Semipresencial | 03/11/2026 → 10/11/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE004/</link>
-      <guid isPermaLink="false">271814GE004</guid>
-      <pubDate>Fri, 04 Sep 2026 13:50:43 +0000</pubDate>
-    </item>
-    <item>
       <title>271814GE014 — EDUCACIÓN Y CUIDADO DE LA VOZ</title>
       <description>18200041 - CEP Baza | Curso con Seguimiento | 04/11/2026 → 02/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE014/</link>
@@ -1559,6 +1566,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE016/</link>
       <guid isPermaLink="false">272116GE016</guid>
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>272116GE020 — APRENDER JUGANDO: APRENDIZAJE BASADO EN JUEGOS (ABJ) EN EDUCACIÓN INFANTIL.</title>
+      <description>21200025 - CEP Bollullos - Valverde | Curso Semipresencial | 04/11/2026 → 19/11/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE020/</link>
+      <guid isPermaLink="false">272116GE020</guid>
+      <pubDate>Thu, 22 Oct 2026 20:56:38 +0000</pubDate>
     </item>
     <item>
       <title>272116GE033 — FUNCIONES EJECUTIVAS Y PROCESOS ATENCIONALES: GESTIÓN DE AULA Y ESTRATEGIAS DE INTERVENCIÓN</title>
@@ -1883,18 +1897,18 @@
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
-      <title>279904PA455 — COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN</title>
-      <description>11200011 - CEP Cádiz | Curso Semipresencial | 04/11/2026 → 27/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279904PA455/</link>
-      <guid isPermaLink="false">279904PA455</guid>
-      <pubDate>Tue, 22 Sep 2026 14:14:11 +0000</pubDate>
-    </item>
-    <item>
       <title>279905PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
       <description>11200023 - CEP Jerez de la Frontera | Curso | 28/10/2026 → 20/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279905PF001/</link>
       <guid isPermaLink="false">279905PF001</guid>
       <pubDate>Thu, 15 Oct 2026 14:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>279906KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
+      <description>11200035 - CEP Villamartín | Curso Semipresencial | 10/11/2026 → 10/03/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906KPF248/</link>
+      <guid isPermaLink="false">279906KPF248</guid>
+      <pubDate>Tue, 03 Nov 2026 20:44:48 +0000</pubDate>
     </item>
     <item>
       <title>279906KPF639 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL</title>
@@ -1911,24 +1925,10 @@
       <pubDate>Fri, 09 Oct 2026 08:06:59 +0000</pubDate>
     </item>
     <item>
-      <title>279908KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF640/</link>
-      <guid isPermaLink="false">279908KPF640</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
       <title>279909KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
       <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso Semipresencial | 28/10/2026 → 08/06/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909KPF248/</link>
       <guid isPermaLink="false">279909KPF248</guid>
-      <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>279909KPI461 — GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS+</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso Semipresencial | 22/10/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279909KPI461/</link>
-      <guid isPermaLink="false">279909KPI461</guid>
       <pubDate>Tue, 06 Oct 2026 16:20:44 +0000</pubDate>
     </item>
     <item>
@@ -1944,13 +1944,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279910PF003/</link>
       <guid isPermaLink="false">279910PF003</guid>
       <pubDate>Sat, 17 Oct 2026 19:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>279911KPF640 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN PRIMARIA</title>
-      <description>18200016 - CEP Granada | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF640/</link>
-      <guid isPermaLink="false">279911KPF640</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
       <title>279913KPF095 — FORMACIÓN INICIAL DIRECCIONES CEP 2026-2027</title>
