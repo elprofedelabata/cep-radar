@@ -5,14 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:49:14 +0000</lastBuildDate>
-    <item>
-      <title>271408FP004 — CURSO DE ESCAPARATISMO PRÁCTICO</title>
-      <description>14200010 - CEP Córdoba | Curso | 09/11/2026 → 13/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408FP004/</link>
-      <guid isPermaLink="false">271408FP004</guid>
-      <pubDate>Fri, 23 Oct 2026 14:30:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 14:49:13 +0000</lastBuildDate>
     <item>
       <title>271408GEC09 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA EN EL IES ALJANADIC</title>
       <description>14200010 - CEP Córdoba | Curso | 25/11/2026 → 29/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -49,11 +42,25 @@
       <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
     </item>
     <item>
+      <title>271408GE041 — MICROBIT EN EL AULA PRIMEROS PASOS EN PROGRAMACIÓN Y ROBÓTICA (INICIACIÓN)</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 26/11/2026 → 11/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE041/</link>
+      <guid isPermaLink="false">271408GE041</guid>
+      <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
+    </item>
+    <item>
       <title>271408GE077 — PREVENCIÓN DEL ABSENTISMO ESCOLAR: DE LA TEORÍA A LA PRÁCTICA</title>
       <description>14200010 - CEP Córdoba | Curso | 26/11/2026 → 08/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE077/</link>
       <guid isPermaLink="false">271408GE077</guid>
       <pubDate>Thu, 22 Oct 2026 14:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408GE088 — ACOSO ESCOLAR COMO PREVENIR, DETECTAR Y ACTUACIONES A LLEVAR A CABO (CAMPIÑA CORDOBESA)</title>
+      <description>14200010 - CEP Córdoba | Curso | 18/11/2026 → 24/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE088/</link>
+      <guid isPermaLink="false">271408GE088</guid>
+      <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
     </item>
     <item>
       <title>271408KPF510 — USO DE LA PLATAFORMA MOODLE CENTROS. NIVEL INICIAL</title>
@@ -110,6 +117,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE084/</link>
       <guid isPermaLink="false">271408GE084</guid>
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408FP004 — CURSO DE ESCAPARATISMO PRÁCTICO</title>
+      <description>14200010 - CEP Córdoba | Curso | 09/11/2026 → 13/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408FP004/</link>
+      <guid isPermaLink="false">271408FP004</guid>
+      <pubDate>Fri, 23 Oct 2026 14:30:42 +0000</pubDate>
     </item>
     <item>
       <title>271408GEC08 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA</title>
@@ -214,13 +228,6 @@
       <description>14200010 - CEP Córdoba | Curso a Distancia | 01/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF640/</link>
       <guid isPermaLink="false">279908KPF640</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279908KPF641 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL ESO, BACHILLERATO Y FP</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 03/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF641/</link>
-      <guid isPermaLink="false">279908KPF641</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
   </channel>

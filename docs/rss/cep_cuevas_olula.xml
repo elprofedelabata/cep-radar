@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Cuevas - Olula</description>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:49:13 +0000</lastBuildDate>
     <item>
       <title>27403GE007 — RASGAR COLORES II: ARTE, PALABRA Y CREATIVIDAD DESDE LAS EFEMÉRIDES Y EL CURRÍCULO TRANSVERSAL</title>
       <description>04200032 - CEP Cuevas - Olula | Curso | 17/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -35,6 +35,13 @@
       <pubDate>Thu, 29 Oct 2026 16:29:15 +0000</pubDate>
     </item>
     <item>
+      <title>27403GE016 — JORNADAS DE FORMACIÓN PROFESIONAL: LA FASE DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO Y LA EVALUACIÓN. NIVEL INICIAL.</title>
+      <description>04200032 - CEP Cuevas - Olula | Jornadas | 25/11/2026 → 26/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE016/</link>
+      <guid isPermaLink="false">27403GE016</guid>
+      <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
+    </item>
+    <item>
       <title>279903PF003 — NOCIONES BÁSICAS SOBRE LA OBSERVACIÓN ENTRE PARES</title>
       <description>04200032 - CEP Cuevas - Olula | Otros | 10/11/2026 → 10/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903PF003/</link>
@@ -54,20 +61,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE008/</link>
       <guid isPermaLink="false">27403GE008</guid>
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>279903KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF616/</link>
-      <guid isPermaLink="false">279903KPF616</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279903KPF639 — ACADEMIA GEMINI PARA EDUCADORES - NIVEL EDUCACIÓN INFANTIL</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 02/11/2026 → 30/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279903KPF639/</link>
-      <guid isPermaLink="false">279903KPF639</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
