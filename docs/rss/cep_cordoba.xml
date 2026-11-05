@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:16:23 +0000</lastBuildDate>
     <item>
       <title>271408GEC09 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA EN EL IES ALJANADIC</title>
       <description>14200010 - CEP Córdoba | Curso | 25/11/2026 → 29/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -84,18 +84,32 @@
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>271408PR030 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/11/2026 → 04/06/2027 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/</link>
-      <guid isPermaLink="false">271408PR030</guid>
-      <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
-    </item>
-    <item>
       <title>279908KPF494 — JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (SECUNDARIA)</title>
       <description>14200010 - CEP Córdoba | Curso a Distancia | 26/11/2026 → 19/04/2027 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF494/</link>
       <guid isPermaLink="false">279908KPF494</guid>
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>279908KPF625 — CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN INFANTIL</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF625/</link>
+      <guid isPermaLink="false">279908KPF625</guid>
+      <pubDate>Thu, 05 Nov 2026 10:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>279908KPF626 — CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF626/</link>
+      <guid isPermaLink="false">279908KPF626</guid>
+      <pubDate>Thu, 05 Nov 2026 10:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>279908KPF627 — CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN SECUNDARIA</title>
+      <description>14200010 - CEP Córdoba | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF627/</link>
+      <guid isPermaLink="false">279908KPF627</guid>
+      <pubDate>Thu, 05 Nov 2026 10:16:23 +0000</pubDate>
     </item>
     <item>
       <title>271408GE084 — II CONGRESO NACIONAL DE DIRECCIÓN ESCOLAR. LIDERAR LA ESCUELA PÚBLICA: UNA DIRECCIÓN PROFESIONAL PARA TODAS LAS ETAPAS</title>
@@ -110,6 +124,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR017/</link>
       <guid isPermaLink="false">271408PR017</guid>
       <pubDate>Thu, 15 Oct 2026 14:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408PR030 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/11/2026 → 04/06/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/</link>
+      <guid isPermaLink="false">271408PR030</guid>
+      <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
     </item>
     <item>
       <title>271408GEC08 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA</title>
