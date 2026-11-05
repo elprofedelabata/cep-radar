@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Baza</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 10:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:28:15 +0000</lastBuildDate>
     <item>
       <title>271814GE009 — PRIMEROS AUXILIOS Y ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS</title>
       <description>18200041 - CEP Baza | Curso Semipresencial | 12/11/2026 → 18/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -35,13 +35,6 @@
       <pubDate>Fri, 30 Oct 2026 16:20:32 +0000</pubDate>
     </item>
     <item>
-      <title>271814KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
-      <description>18200041 - CEP Baza | Curso a Distancia | 10/11/2026 → 29/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814KPF429/</link>
-      <guid isPermaLink="false">271814KPF429</guid>
-      <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
-    </item>
-    <item>
       <title>279914KPF625 — CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN INFANTIL</title>
       <description>18200041 - CEP Baza | Curso a Distancia | 20/11/2026 → 17/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279914KPF625/</link>
@@ -56,11 +49,25 @@
       <pubDate>Thu, 05 Nov 2026 10:16:23 +0000</pubDate>
     </item>
     <item>
+      <title>279914KPF627 — 627. CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN SECUNDARIA</title>
+      <description>18200041 - CEP Baza | Otros | 20/11/2026 → 17/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279914KPF627/</link>
+      <guid isPermaLink="false">279914KPF627</guid>
+      <pubDate>Thu, 05 Nov 2026 18:28:15 +0000</pubDate>
+    </item>
+    <item>
       <title>271814IC001 — SÉNECA PARA EQUIPOS DIRECTIVOS Y DOCENTES  DE  CONSERVATORIOS</title>
       <description>18200041 - CEP Baza | Curso Semipresencial | 05/11/2026 → 19/11/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814IC001/</link>
       <guid isPermaLink="false">271814IC001</guid>
       <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>271814KPF429 — COMPETENCIA DIGITAL DOCENTE NIVEL B2</title>
+      <description>18200041 - CEP Baza | Curso a Distancia | 10/11/2026 → 29/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814KPF429/</link>
+      <guid isPermaLink="false">271814KPF429</guid>
+      <pubDate>Thu, 24 Sep 2026 14:29:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
