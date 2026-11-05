@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T18:28:15.509918+00:00",
-  "total": 374,
+  "generado": "2026-11-05T23:55:41.279160+00:00",
+  "total": 375,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -3423,16 +3423,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE019/"
     },
     {
-      "Código": "271410GE026",
-      "Título": "FORMACIÓN DE FACILITADORES STEAM: ELABORACIÓN DE PROYECTOS EDUCATIVOS",
+      "Código": "271410GE022",
+      "Título": "DESARROLLO DE ACTUACIONES FORMATIVAS EN EL AULA DEL FUTURO + RECURSOS ESCUELA 4.0",
       "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso",
+      "Modalidad": "Curso con Seguimiento",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/11/2026",
-      "Fin": "26/11/2026",
-      "Dirigido a": "Internivelar",
+      "Inicio": "03/11/2026",
+      "Fin": "30/11/2026",
+      "Dirigido a": "Asesorías de formación",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE026/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE022/"
     },
     {
       "Código": "271410GE034",
@@ -4141,6 +4141,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274132GE012/"
+    },
+    {
+      "Código": "279902KPF248",
+      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
+      "CEP": "04200020 - CEP El Ejido",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "18/11/2026",
+      "Fin": "26/05/2027",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279902KPF248/"
     },
     {
       "Código": "279904EP459",
