@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-06T17:47:29.846662+00:00",
-  "total": 373,
+  "generado": "2026-11-06T23:37:16.360449+00:00",
+  "total": 372,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -440,23 +440,11 @@
       "CEP": "18200028 - CEP Motril",
       "Modalidad": "Curso Semipresencial",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "09/11/2026",
-      "Fin": "16/11/2026",
+      "Inicio": "23/11/2026",
+      "Fin": "14/12/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE033/"
-    },
-    {
-      "Código": "271812GE039",
-      "Título": "PROTEGE A LOS MÁS PEQUEÑOS: PRIMEROS AUXILIOS DE 0 A 3 AÑOS",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "13/11/2026",
-      "Fin": "27/11/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE039/"
     },
     {
       "Código": "271812GE047",
@@ -2787,6 +2775,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE038/"
     },
     {
+      "Código": "271812GE039",
+      "Título": "PROTEGE A LOS MÁS PEQUEÑOS: PRIMEROS AUXILIOS DE 0 A 3 AÑOS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "13/11/2026",
+      "Fin": "27/11/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE039/"
+    },
+    {
       "Código": "271812GE044",
       "Título": "PRIMEROS AUXILIOS IES AL-ÁNDALUS",
       "CEP": "18200028 - CEP Motril",
@@ -3124,7 +3124,7 @@
     },
     {
       "Código": "271105FED002",
-      "Título": "ATENCIÓN A LA DIVERSIDAD EN EDUCACIÓN PARA PERSONAS ADULTAS.",
+      "Título": "ATENCIÓN A LA DIVERSIDAD EN EDUCACIÓN PARA PERSONAS ADULTAS",
       "CEP": "11200023 - CEP Jerez de la Frontera",
       "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
@@ -4333,18 +4333,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF248/"
-    },
-    {
-      "Código": "279919KPF420",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/11/2026",
-      "Fin": "28/01/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF420/"
     },
     {
       "Código": "279920KEA114",
