@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:43:23 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP002 — MÚSICA PARA LA DANZA DESDE UNA PERSPECTIVA CONTEMPORÁNEA</title>
       <description>11200011 - CEP Cádiz | Curso | 25/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -749,13 +749,6 @@
       <pubDate>Fri, 16 Oct 2026 14:23:02 +0000</pubDate>
     </item>
     <item>
-      <title>274129ES02 — EDUCACIÓN EMOCIONAL PARA DOCENTES</title>
-      <description>41200030 - CEP Osuna - Écija | Curso | 11/11/2026 → 25/11/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129ES02/</link>
-      <guid isPermaLink="false">274129ES02</guid>
-      <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
-    </item>
-    <item>
       <title>274129INT03 — NEUROEDUCACIÓN Y GESTIÓN EMOCIONAL EN EL AULA</title>
       <description>41200030 - CEP Osuna - Écija | Curso Semipresencial | 18/11/2026 → 21/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129INT03/</link>
@@ -922,20 +915,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906KPF627/</link>
       <guid isPermaLink="false">279906KPF627</guid>
       <pubDate>Thu, 05 Nov 2026 10:16:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>279907KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso Semipresencial | 24/11/2026 → 30/05/2027 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF248/</link>
-      <guid isPermaLink="false">279907KPF248</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>279907KPF493 — JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (INFANTIL Y PRIMARIA)</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso a Distancia | 19/11/2026 → 21/01/2027 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF493/</link>
-      <guid isPermaLink="false">279907KPF493</guid>
-      <pubDate>Mon, 19 Oct 2026 07:03:48 +0000</pubDate>
     </item>
     <item>
       <title>279907KPF625 — 625. CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN INFANTIL</title>
@@ -2373,13 +2352,6 @@
       <pubDate>Wed, 30 Sep 2026 07:39:12 +0000</pubDate>
     </item>
     <item>
-      <title>274129KPF582 — GENERADOR DE SdA (CON PE y ACS) A TRAVÉS DE IA (INFANTIL Y PRIMARIA)</title>
-      <description>41200030 - CEP Osuna - Écija | Curso a Distancia | 04/11/2026 → 14/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129KPF582/</link>
-      <guid isPermaLink="false">274129KPF582</guid>
-      <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
-    </item>
-    <item>
       <title>274130CS001 — V CONGRESO DE HISTORIA Y CULTURA DE ALCALÁ DE GUADAÍRA</title>
       <description>41200042 - CEP Mairena del Alcor | Congreso | 11/11/2026 → 13/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130CS001/</link>
@@ -2455,6 +2427,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279906KPF639/</link>
       <guid isPermaLink="false">279906KPF639</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>279907KPF248 — FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL</title>
+      <description>11200047 - CEP Algeciras - La Línea | Curso Semipresencial | 24/11/2026 → 30/05/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF248/</link>
+      <guid isPermaLink="false">279907KPF248</guid>
+      <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>279907KPF493 — JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (INFANTIL Y PRIMARIA)</title>
+      <description>11200047 - CEP Algeciras - La Línea | Curso a Distancia | 19/11/2026 → 21/01/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279907KPF493/</link>
+      <guid isPermaLink="false">279907KPF493</guid>
+      <pubDate>Mon, 19 Oct 2026 07:03:48 +0000</pubDate>
     </item>
     <item>
       <title>279907PF001 — FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2026-27. FASE PRESENCIAL (TODAS LAS RESOLUCIONES).  SESIONES DE TARDE</title>
