@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-08T16:54:10.208800+00:00",
-  "total": 369,
+  "generado": "2026-11-08T22:38:29.122937+00:00",
+  "total": 372,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -555,6 +555,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE021/"
     },
     {
+      "Código": "272115GE022",
+      "Título": "AUTISMO EN EL AULA: ESTRATEGIAS PARA APRENDER, PARTICIPAR Y SENTIRSE BIEN.",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "02/12/2026",
+      "Fin": "16/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115GE022/"
+    },
+    {
       "Código": "272116GE009",
       "Título": "NUEVAS TECNOLOGÍAS AL SERVICIO DE LA ORIENTACIÓN EDUCATIVA",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -915,6 +927,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE055/"
     },
     {
+      "Código": "272922GE094",
+      "Título": "CdA: FORMACIÓN DE FAMILIARES Y PARTICIPACIÓN EDUCATIVA DE LA COMUNIDAD EN EL CEIP RAMÓN DE VALLE INCLÁN",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/01/2027",
+      "Fin": "07/04/2027",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE094/"
+    },
+    {
+      "Código": "272922GE095",
+      "Título": "CdA: FORMACIÓN DIALÓGICA DEL PROFESORADO Y MODELO DIALÓGICO DE RESOLUCIÓN DE CONFLICTOS EN LA EI ARCO IRIS",
+      "CEP": "29200014 - CEP Málaga",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "11/01/2027",
+      "Fin": "02/03/2027",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE095/"
+    },
+    {
       "Código": "272923GE103",
       "Título": "RESPUESTA EDUCATIVA AL ALUMNADO CON ALTAS CAPACIDADES: PROGRAMAS DE PROFUNDIZACIÓN",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -1155,18 +1191,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE016/"
     },
     {
-      "Código": "274127AAD003",
-      "Título": "CREACIÓN DE MOLDES Y USO DEL HORNO. CONTINUACIÓN",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "10/11/2026",
-      "Fin": "10/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AAD003/"
-    },
-    {
       "Código": "274127ACS005",
       "Título": "HISTORIA Y SIMBOLOGÍA DE LA NAVIDAD: DEL SINCRETISMO PAGANO AL IMAGINARIO CONTEMPORÁNEO EN EL AULA DE GEOGRAFÍA E HISTORIA",
       "CEP": "41200017 - CEP Sevilla",
@@ -1177,18 +1201,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS005/"
-    },
-    {
-      "Código": "274127ACS007",
-      "Título": "ENCUENTRO PROVINCIAL GEOGRAFÍA EN ACCIÓN: CAMBIO GLOBAL, RETOS URBANOS Y COMPETENCIAS PARA EL SIGLO XXI EN EDUCACIÓN SECUNDARIA",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Encuentro",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "17/11/2026",
-      "Fin": "24/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS007/"
     },
     {
       "Código": "274127ACT005",
@@ -2065,18 +2077,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279918KPF627/"
-    },
-    {
-      "Código": "279919KPF430A",
-      "Título": "HISTORIA DE NUESTROS SÍMBOLOS: CONMEMORACIÓN DEL DÍA DE LA BANDERA DE ANDALUCÍA",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "12/11/2026",
-      "Fin": "09/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF430A/"
     },
     {
       "Código": "279919KPF430B",
@@ -3039,6 +3039,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27403GE011/"
     },
     {
+      "Código": "274127AAD003",
+      "Título": "CREACIÓN DE MOLDES Y USO DEL HORNO. CONTINUACIÓN",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "10/11/2026",
+      "Fin": "10/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AAD003/"
+    },
+    {
+      "Código": "274127ACS007",
+      "Título": "ENCUENTRO PROVINCIAL GEOGRAFÍA EN ACCIÓN: CAMBIO GLOBAL, RETOS URBANOS Y COMPETENCIAS PARA EL SIGLO XXI EN EDUCACIÓN SECUNDARIA",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Encuentro",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "17/11/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS007/"
+    },
+    {
       "Código": "274127PER008",
       "Título": "CURSO DE PRIMEROS AUXILIOS Y MANEJO DEL DESFIBRILADOR EXTERNO",
       "CEP": "41200017 - CEP Sevilla",
@@ -3073,6 +3097,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE009/"
+    },
+    {
+      "Código": "279919KPF430A",
+      "Título": "HISTORIA DE NUESTROS SÍMBOLOS: CONMEMORACIÓN DEL DÍA DE LA BANDERA DE ANDALUCÍA",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "12/11/2026",
+      "Fin": "09/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279919KPF430A/"
     },
     {
       "Código": "271105FED001",
