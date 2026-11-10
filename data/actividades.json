@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T21:16:31.278580+00:00",
+  "generado": "2026-11-10T04:28:34.441640+00:00",
   "total": 369,
   "actividades": [
     {
@@ -308,7 +308,7 @@
       "CEP": "18200016 - CEP Granada",
       "Modalidad": "Conferencia",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "26/11/2026",
+      "Inicio": "03/12/2026",
       "Fin": "29/04/2027",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
@@ -2775,18 +2775,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE450/"
     },
     {
-      "Código": "27401GE035",
-      "Título": "ACTUALIZACIÓN EN LINFODRENAJE MANUAL",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "14/11/2026",
-      "Fin": "25/11/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE035/"
-    },
-    {
       "Código": "27402GE002",
       "Título": "TECNICAS DE AUDICIÓN Y SONIDO PARA CONSERVATORIOS",
       "CEP": "04200020 - CEP El Ejido",
@@ -3003,18 +2991,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE050/"
     },
     {
-      "Código": "272925GE504",
-      "Título": "ATENCIÓN AL ALUMNADO TEA EN PRIMARIA",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "11/11/2026",
-      "Fin": "26/11/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE504/"
-    },
-    {
       "Código": "272925GE505",
       "Título": "JORNADA PARA LA COORDINACIÓN DE GRUPOS DE TRABAJO Y FORMACIÓN EN CENTRO",
       "CEP": "29200041 - CEP Antequera",
@@ -3025,6 +3001,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/"
+    },
+    {
+      "Código": "27401GE035",
+      "Título": "ACTUALIZACIÓN EN LINFODRENAJE MANUAL",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "14/11/2026",
+      "Fin": "25/11/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE035/"
     },
     {
       "Código": "274127ACS007",
@@ -3793,6 +3781,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE203/"
+    },
+    {
+      "Código": "272925GE504",
+      "Título": "ATENCIÓN AL ALUMNADO TEA EN PRIMARIA",
+      "CEP": "29200041 - CEP Antequera",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "11/11/2026",
+      "Fin": "26/11/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE504/"
     },
     {
       "Código": "272926GE701",

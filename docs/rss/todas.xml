@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:28:34 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP002 — MÚSICA PARA LA DANZA DESDE UNA PERSPECTIVA CONTEMPORÁNEA</title>
       <description>11200011 - CEP Cádiz | Curso | 25/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -183,7 +183,7 @@
     </item>
     <item>
       <title>271811GE072 — SALUD MENTAL. PREVENCIÓN DESDE LOS CENTROS EDUCATIVOS. CURSO 26-27</title>
-      <description>18200016 - CEP Granada | Conferencia | 26/11/2026 → 29/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>18200016 - CEP Granada | Conferencia | 03/12/2026 → 29/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE072/</link>
       <guid isPermaLink="false">271811GE072</guid>
       <pubDate>Fri, 06 Nov 2026 17:47:29 +0000</pubDate>
@@ -1624,13 +1624,6 @@
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
     </item>
     <item>
-      <title>27401GE035 — ACTUALIZACIÓN EN LINFODRENAJE MANUAL</title>
-      <description>04200019 - CEP Almería | Curso | 14/11/2026 → 25/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE035/</link>
-      <guid isPermaLink="false">27401GE035</guid>
-      <pubDate>Tue, 03 Nov 2026 03:49:14 +0000</pubDate>
-    </item>
-    <item>
       <title>27402GE002 — TECNICAS DE AUDICIÓN Y SONIDO PARA CONSERVATORIOS</title>
       <description>04200020 - CEP El Ejido | Curso | 10/11/2026 → 18/11/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27402GE002/</link>
@@ -1757,18 +1750,18 @@
       <pubDate>Mon, 21 Sep 2026 16:04:07 +0000</pubDate>
     </item>
     <item>
-      <title>272925GE504 — ATENCIÓN AL ALUMNADO TEA EN PRIMARIA</title>
-      <description>29200041 - CEP Antequera | Curso | 11/11/2026 → 26/11/2026 | Dirigido a: Educación primaria | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE504/</link>
-      <guid isPermaLink="false">272925GE504</guid>
-      <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
-    </item>
-    <item>
       <title>272925GE505 — JORNADA PARA LA COORDINACIÓN DE GRUPOS DE TRABAJO Y FORMACIÓN EN CENTRO</title>
       <description>29200041 - CEP Antequera | Jornadas | 28/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/</link>
       <guid isPermaLink="false">272925GE505</guid>
       <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>27401GE035 — ACTUALIZACIÓN EN LINFODRENAJE MANUAL</title>
+      <description>04200019 - CEP Almería | Curso | 14/11/2026 → 25/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE035/</link>
+      <guid isPermaLink="false">27401GE035</guid>
+      <pubDate>Tue, 03 Nov 2026 03:49:14 +0000</pubDate>
     </item>
     <item>
       <title>274127ACS007 — ENCUENTRO PROVINCIAL GEOGRAFÍA EN ACCIÓN: CAMBIO GLOBAL, RETOS URBANOS Y COMPETENCIAS PARA EL SIGLO XXI EN EDUCACIÓN SECUNDARIA</title>
@@ -2217,6 +2210,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE203/</link>
       <guid isPermaLink="false">272925GE203</guid>
       <pubDate>Wed, 14 Oct 2026 14:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>272925GE504 — ATENCIÓN AL ALUMNADO TEA EN PRIMARIA</title>
+      <description>29200041 - CEP Antequera | Curso | 11/11/2026 → 26/11/2026 | Dirigido a: Educación primaria | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE504/</link>
+      <guid isPermaLink="false">272925GE504</guid>
+      <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
     </item>
     <item>
       <title>272926GE701 — EL ÉXITO DE LA MEDIACIÓN ES NO MEDIAR</title>
