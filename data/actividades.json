@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-11T18:18:47.967513+00:00",
-  "total": 361,
+  "generado": "2026-11-12T01:15:17.397482+00:00",
+  "total": 360,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -2727,18 +2727,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272924GE056/"
     },
     {
-      "Código": "27401GE027",
-      "Título": "ESTRATEGIA DE APOYO CONDUCTUAL POSITIVO PARA EL ALUMNADO TEA EN EL AULA ORDINARIA",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "25/11/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE027/"
-    },
-    {
       "Código": "27402GE002",
       "Título": "TECNICAS DE AUDICIÓN Y SONIDO PARA CONSERVATORIOS",
       "CEP": "04200020 - CEP El Ejido",
@@ -2871,18 +2859,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR018/"
     },
     {
-      "Código": "271811GE020",
-      "Título": "TÉCNICA DE DIRECCIÓN MUSICAL PARA AGRUPACIONES INSTRUMENTALES II",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "10/11/2026",
-      "Fin": "18/12/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE020/"
-    },
-    {
       "Código": "271811GE056",
       "Título": "PRIMEROS AUXILIOS, SVB, RCP Y USO DEL DESFIBRILADOR. ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS EN EL AMBITO ESCOLAR",
       "CEP": "18200016 - CEP Granada",
@@ -2965,6 +2941,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/"
+    },
+    {
+      "Código": "27401GE027",
+      "Título": "ESTRATEGIA DE APOYO CONDUCTUAL POSITIVO PARA EL ALUMNADO TEA EN EL AULA ORDINARIA",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "25/11/2026",
+      "Fin": "17/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE027/"
     },
     {
       "Código": "27403GE007",
