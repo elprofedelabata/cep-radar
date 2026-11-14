@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T09:46:09.495598+00:00",
+  "generado": "2026-11-14T16:49:28.869863+00:00",
   "total": 344,
   "actividades": [
     {
@@ -339,18 +339,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE102/"
     },
     {
-      "Código": "271811GE103",
-      "Título": "EVALUACIÓN COMPETENCIAL PARA INFANTIL Y PRIMARIA. TÉCNICAS, INSTRUMENTOS Y CRITERIOS DE EVALUACIÓN Y CALIFICACIÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "18/11/2026",
-      "Fin": "09/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE103/"
-    },
-    {
       "Código": "271811GE117",
       "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO: TEA NIVEL 2.",
       "CEP": "18200016 - CEP Granada",
@@ -361,18 +349,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE117/"
-    },
-    {
-      "Código": "271811GE128",
-      "Título": "CUADERNO DE SÉNECA Y PLATAFORMA IPASEN PARA EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "18/11/2026",
-      "Fin": "02/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE128/"
     },
     {
       "Código": "271811GE138",
@@ -1525,6 +1501,30 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE056/"
+    },
+    {
+      "Código": "271811GE103",
+      "Título": "EVALUACIÓN COMPETENCIAL PARA INFANTIL Y PRIMARIA. TÉCNICAS, INSTRUMENTOS Y CRITERIOS DE EVALUACIÓN Y CALIFICACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "18/11/2026",
+      "Fin": "09/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE103/"
+    },
+    {
+      "Código": "271811GE128",
+      "Título": "CUADERNO DE SÉNECA Y PLATAFORMA IPASEN PARA EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "18/11/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE128/"
     },
     {
       "Código": "271811GE156",
