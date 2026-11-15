@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15T17:31:51.393551+00:00",
+  "generado": "2026-11-15T23:18:17.915806+00:00",
   "total": 344,
   "actividades": [
     {
@@ -339,18 +339,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE117/"
     },
     {
-      "Código": "271811GE138",
-      "Título": "NUEVOS ESCENARIOS DIGITALES EN EDUCACIÓN PERMANENTE: ACTUALIZACIÓN DEL PLAN TIC",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "18/11/2026",
-      "Fin": "04/12/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE138/"
-    },
-    {
       "Código": "271811GE140",
       "Título": "CONSTRUIR PUENTES ENTRE CULTURAS: INNOVACIÓN EN INTERCULTURALIDAD EN EDUCACIÓN PERMANENTE",
       "CEP": "18200016 - CEP Granada",
@@ -409,30 +397,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE045/"
-    },
-    {
-      "Código": "271812GE047",
-      "Título": "PRIMEROS AUXILIOS Y USO DEL DESFIBRILADOR (SESIONES DE MAÑANA)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "19/11/2026",
-      "Fin": "24/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE047/"
-    },
-    {
-      "Código": "271812GE048",
-      "Título": "PRIMEROS AUXILIOS Y USO DEL DESFIBRILADOR (SESIONES DE TARDE)",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "19/11/2026",
-      "Fin": "25/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE048/"
     },
     {
       "Código": "271813GE008",
@@ -1287,6 +1251,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE044/"
     },
     {
+      "Código": "271812GE047",
+      "Título": "PRIMEROS AUXILIOS Y USO DEL DESFIBRILADOR (SESIONES DE MAÑANA)",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "19/11/2026",
+      "Fin": "24/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE047/"
+    },
+    {
+      "Código": "271812GE048",
+      "Título": "PRIMEROS AUXILIOS Y USO DEL DESFIBRILADOR (SESIONES DE TARDE)",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "19/11/2026",
+      "Fin": "25/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE048/"
+    },
+    {
       "Código": "271814GE009",
       "Título": "PRIMEROS AUXILIOS Y ATENCIÓN AL ALUMNADO CON ENFERMEDADES CRÓNICAS",
       "CEP": "18200041 - CEP Baza",
@@ -2077,6 +2065,18 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE127/"
+    },
+    {
+      "Código": "271811GE138",
+      "Título": "NUEVOS ESCENARIOS DIGITALES EN EDUCACIÓN PERMANENTE: ACTUALIZACIÓN DEL PLAN TIC",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "18/11/2026",
+      "Fin": "04/12/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE138/"
     },
     {
       "Código": "271812GE024",
