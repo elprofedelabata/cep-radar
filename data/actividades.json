@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15T10:20:00.724159+00:00",
+  "generado": "2026-11-15T17:31:51.393551+00:00",
   "total": 344,
   "actividades": [
     {
@@ -265,18 +265,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE067/"
-    },
-    {
-      "Código": "271811GE068",
-      "Título": "EDUCACIÓN FRENTE A LA DESINFORMACIÓN: CLAVES PARA EL FOMENTO DEL PENSAMIENTO CRÍTICO",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "17/11/2026",
-      "Fin": "18/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE068/"
     },
     {
       "Código": "271811GE072",
@@ -1273,6 +1261,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE014/"
+    },
+    {
+      "Código": "271811GE068",
+      "Título": "EDUCACIÓN FRENTE A LA DESINFORMACIÓN: CLAVES PARA EL FOMENTO DEL PENSAMIENTO CRÍTICO",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "17/11/2026",
+      "Fin": "18/11/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE068/"
     },
     {
       "Código": "271812GE044",
