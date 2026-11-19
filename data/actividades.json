@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-18T22:27:35.609805+00:00",
-  "total": 332,
+  "generado": "2026-11-19T03:57:11.358914+00:00",
+  "total": 333,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -577,6 +577,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE036/"
+    },
+    {
+      "Código": "272318GE039",
+      "Título": "SINTONÍAS COMPARTIDAS: RED PROFESIONAL DE DOCENTES DE MÚSICA",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "09/12/2026",
+      "Fin": "18/05/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE039/"
     },
     {
       "Código": "272318GE046",
