@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-19T16:15:31.786016+00:00",
-  "total": 326,
+  "generado": "2026-11-20T00:59:53.220163+00:00",
+  "total": 324,
   "actividades": [
     {
       "Código": "271104FEDAP002",
@@ -37,18 +37,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP036/"
-    },
-    {
-      "Código": "271104FP003",
-      "Título": "DISEÑO DE ESCAPARATISMO: TÉCNICAS Y SOFTWARE (HORARIO DE TARDE)",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "23/11/2026",
-      "Fin": "27/01/2027",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FP003/"
     },
     {
       "Código": "271104KRE633",
@@ -421,18 +409,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115KPF511/"
-    },
-    {
-      "Código": "272116GE022",
-      "Título": "CREANDO EL  AULA DEL FUTURO EN EL CEIP SAN JOSÉ DE CALASANZ.",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "24/11/2026",
-      "Fin": "30/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE022/"
     },
     {
       "Código": "272116GE039",
@@ -1119,18 +1095,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP019/"
     },
     {
-      "Código": "271104FEDAP084",
-      "Título": "USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "24/11/2026",
-      "Fin": "02/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP084/"
-    },
-    {
       "Código": "271104FP002",
       "Título": "DISEÑO DE ESCAPARATISMO: TÉCNICAS Y SOFTWARE (HORARIO DE MAÑANA)",
       "CEP": "11200011 - CEP Cádiz",
@@ -1165,18 +1129,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/"
-    },
-    {
-      "Código": "271410FP002",
-      "Título": "ACTUALIZACIÓN NORMATIVA EN MATERIA LABORAL",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "24/11/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FP002/"
     },
     {
       "Código": "271410GE001",
@@ -1333,6 +1285,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP027/"
+    },
+    {
+      "Código": "271104FEDAP084",
+      "Título": "USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "24/11/2026",
+      "Fin": "02/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP084/"
+    },
+    {
+      "Código": "271104FP003",
+      "Título": "DISEÑO DE ESCAPARATISMO: TÉCNICAS Y SOFTWARE (HORARIO DE TARDE)",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "23/11/2026",
+      "Fin": "27/01/2027",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FP003/"
     },
     {
       "Código": "271408GEC08",
@@ -1743,6 +1719,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409PR001/"
     },
     {
+      "Código": "271410FP002",
+      "Título": "ACTUALIZACIÓN NORMATIVA EN MATERIA LABORAL",
+      "CEP": "14200034 - CEP Priego - Montilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "24/11/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410FP002/"
+    },
+    {
       "Código": "271410FP003",
       "Título": "JORNADAS DE FORMACIÓN PROFESIONAL: LA FASE DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO Y LA EVALUACIÓN. NIVEL INICIAL",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -1981,6 +1969,18 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE015/"
+    },
+    {
+      "Código": "272116GE022",
+      "Título": "CREANDO EL  AULA DEL FUTURO EN EL CEIP SAN JOSÉ DE CALASANZ.",
+      "CEP": "21200025 - CEP Bollullos - Valverde",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "24/11/2026",
+      "Fin": "30/04/2027",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE022/"
     },
     {
       "Código": "272116GE033",
@@ -3087,18 +3087,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279911KPF627/"
     },
     {
-      "Código": "279912KPF625",
-      "Título": "CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN INFANTIL",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/11/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279912KPF625/"
-    },
-    {
       "Código": "279912KPF626",
       "Título": "CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA",
       "CEP": "18200028 - CEP Motril",
@@ -3217,18 +3205,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915KPF625/"
-    },
-    {
-      "Código": "279915KPF626",
-      "Título": "626. CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/11/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279915KPF626/"
     },
     {
       "Código": "279915KPF627",
