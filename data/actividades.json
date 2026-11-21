@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21T00:38:06.813732+00:00",
+  "generado": "2026-11-21T10:35:50.198033+00:00",
   "total": 262,
   "actividades": [
     {
@@ -565,6 +565,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE008/"
+    },
+    {
+      "Código": "272321GE010",
+      "Título": "JORNADAS PROVINCIALES DE ASESORÍAS 2026. CONSTRUYENDO REDES: COMUNICACIÓN, LIDERAZGO E INNOVACIÓN",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "26/11/2026",
+      "Fin": "27/11/2026",
+      "Dirigido a": "Asesorías de formación",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272321GE010/"
     },
     {
       "Código": "272922GE002",
@@ -2677,18 +2689,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF625/"
-    },
-    {
-      "Código": "279908KPF626",
-      "Título": "CTRL + ALT + FUTURO PARA EL PROFESORADO DE EDUCACIÓN PRIMARIA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/11/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF626/"
     },
     {
       "Código": "279908KPF627",
