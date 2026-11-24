@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-24T13:13:31.960792+00:00",
-  "total": 220,
+  "generado": "2026-11-24T23:43:47.360542+00:00",
+  "total": 214,
   "actividades": [
     {
       "Código": "271104FEDAP012",
@@ -999,6 +999,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279927KPF543/"
     },
     {
+      "Código": "279931CI437",
+      "Título": "LA COORDINACIÓN DEL BIENESTAR Y PROTECCIÓN DEL ALUMNADO EN CENTROS DOCENTES DE ANDALUCÍA",
+      "CEP": "41200054 - CEP Lebrija",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "17/12/2026",
+      "Fin": "25/01/2027",
+      "Dirigido a": "Otros",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279931CI437/"
+    },
+    {
       "Código": "279933FP010",
       "Título": "INNOVACIÓN METODOLÓGICA - TÚ PLANTEAS EL RETO. NOSOTROS TE ACOMPAÑAMOS",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -1069,18 +1081,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/"
-    },
-    {
-      "Código": "271811GE064",
-      "Título": "AULA CONSCIENTE: COMPETENCIAS EMOCIONALES PARA EL ALUMNADO DESDE LA NEUROEDUCACIÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "26/11/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE064/"
     },
     {
       "Código": "271812GE048",
@@ -1227,18 +1227,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC08/"
     },
     {
-      "Código": "271811GE148",
-      "Título": "JORNADAS PRESENCIALES DE FORMACIÓN PROFESIONAL: LA FASE DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO Y LA EVALUACIÓN",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "25/11/2026",
-      "Fin": "26/11/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE148/"
-    },
-    {
       "Código": "272115GE021",
       "Título": "CONVIVENCIA II: EL AULA COMO ESPACIO DE PARTICIPACIÓN Y BIENESTAR",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -1323,30 +1311,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP002/"
     },
     {
-      "Código": "271104FEDAP011",
-      "Título": "DISFICULTADES DE APRENDIZAJE Y TRASTORNOS DEL LENGUAJE",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "10/11/2026",
-      "Fin": "24/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP011/"
-    },
-    {
-      "Código": "271104FEDAP022",
-      "Título": "ACTUACIÓN DOCENTE EN ALUMNADO CON TDAH Y TRASTORNOS DISRUPTIVOS",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "18/11/2026",
-      "Fin": "02/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP022/"
-    },
-    {
       "Código": "271104FEDAP023",
       "Título": "TRADICIÓN E INNOVACIÓN EN LA DIDÁCTICA DE LAS LENGUAS CLÁSICAS: NUEVOS HORIZONTES Y ESTRATEGIAS PARA EL AULA",
       "CEP": "11200011 - CEP Cádiz",
@@ -1369,18 +1333,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP025/"
-    },
-    {
-      "Código": "271104FEDAP084",
-      "Título": "USO DEL CUADERNO SÉNECA PARA EDUCACIÓN SECUNDARIA Y BACHILLERATO",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "24/11/2026",
-      "Fin": "02/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP084/"
     },
     {
       "Código": "271104FP002",
@@ -1539,18 +1491,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IP001/"
     },
     {
-      "Código": "271408PR007",
-      "Título": "RED PROVINCIAL DE ESPECIALISTAS DE PEDAGOGÍA TERAPÉUTICA PARA LA ATENCIÓN AL ALUMNADO CON TRASTORNO GRAVE DE CONDUCTA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/10/2026",
-      "Fin": "30/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR007/"
-    },
-    {
       "Código": "271408PR008",
       "Título": "RED PROVINCIAL PROFESIONALES COTUTORAS LSE",
       "CEP": "14200010 - CEP Córdoba",
@@ -1585,18 +1525,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR010/"
-    },
-    {
-      "Código": "271408PR011",
-      "Título": "RED PROVINCIAL CÓRDOBA PROFESIONALES  AULAS ESPECÍFICAS IES Y PT ESPECÍFICAS",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "01/10/2026",
-      "Fin": "30/04/2027",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR011/"
     },
     {
       "Código": "271409GE001",
@@ -1717,6 +1645,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE050/"
+    },
+    {
+      "Código": "271811GE064",
+      "Título": "AULA CONSCIENTE: COMPETENCIAS EMOCIONALES PARA EL ALUMNADO DESDE LA NEUROEDUCACIÓN",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "26/11/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE064/"
     },
     {
       "Código": "271811GE069",
@@ -1849,18 +1789,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE005/"
-    },
-    {
-      "Código": "272117GE009",
-      "Título": "AUTISMO EN EL AULA: ESTRATEGIAS PARA APRENDER, PARTICIPAR Y SENTIRSE BIEN.",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/11/2026",
-      "Fin": "25/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE009/"
     },
     {
       "Código": "272117GE010",
