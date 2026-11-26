@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:50:17 +0000</lastBuildDate>
     <item>
       <title>271408GE008 — XX ENCUENTROS DE BIBLIOTECAS ESCOLARES DE CÓRDOBA</title>
       <description>14200010 - CEP Córdoba | Encuentro | 02/12/2026 → 10/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -49,6 +49,13 @@
       <pubDate>Wed, 25 Nov 2026 12:01:42 +0000</pubDate>
     </item>
     <item>
+      <title>279908KFP496 — PROYECTOS ERASMUS+ DE CORTA DURACIÓN KA122-VET 2027  (SECTOR FORMACIÓN PROFESIONAL)</title>
+      <description>14200010 - CEP Córdoba | Curso Semipresencial | 21/12/2026 → 15/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KFP496/</link>
+      <guid isPermaLink="false">279908KFP496</guid>
+      <pubDate>Thu, 26 Nov 2026 11:50:17 +0000</pubDate>
+    </item>
+    <item>
       <title>271408PR030 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/11/2026 → 04/06/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/</link>
@@ -84,13 +91,6 @@
       <pubDate>Sun, 18 Oct 2026 23:46:23 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE037 — TERTULIAS CIENTÍFICAS 2026-2027</title>
-      <description>14200010 - CEP Córdoba | Curso | 25/11/2026 → 14/04/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE037/</link>
-      <guid isPermaLink="false">271408GE037</guid>
-      <pubDate>Tue, 20 Oct 2026 14:32:58 +0000</pubDate>
-    </item>
-    <item>
       <title>271408GE041 — MICROBIT EN EL AULA PRIMEROS PASOS EN PROGRAMACIÓN Y ROBÓTICA (INICIACIÓN)</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 26/11/2026 → 11/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE041/</link>
@@ -124,13 +124,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR010/</link>
       <guid isPermaLink="false">271408PR010</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>279908KPF494 — JEFATURA DE ESTUDIOS: ORGANIZACIÓN Y FUNCIONAMIENTO (SECUNDARIA)</title>
-      <description>14200010 - CEP Córdoba | Curso a Distancia | 26/11/2026 → 31/03/2027 | Dirigido a: Equipos directivos | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279908KPF494/</link>
-      <guid isPermaLink="false">279908KPF494</guid>
-      <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
