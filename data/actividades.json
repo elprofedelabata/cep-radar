@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T11:42:35.086262+00:00",
-  "total": 235,
+  "generado": "2026-11-27T23:10:39.828142+00:00",
+  "total": 233,
   "actividades": [
     {
       "Código": "271104FEDAP012",
@@ -123,18 +123,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE039/"
     },
     {
-      "Código": "271408GE042",
-      "Título": "MAKEY MAKEY CREATIVIDAD E INTERACCIÓN EN PRIMARIA (INICIACIÓN)",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "01/12/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE042/"
-    },
-    {
       "Código": "271408GE107",
       "Título": "ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN) II",
       "CEP": "14200010 - CEP Córdoba",
@@ -219,18 +207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE094/"
     },
     {
-      "Código": "271811GE098",
-      "Título": "TALLER DE HERRAMIENTAS PEDAGÓGICAS PARA INSTRUMENTOS DE CUERDA FROTADA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/12/2026",
-      "Fin": "03/12/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE098/"
-    },
-    {
       "Código": "271811GE140",
       "Título": "CONSTRUIR PUENTES ENTRE CULTURAS: INNOVACIÓN EN INTERCULTURALIDAD EN EDUCACIÓN PERMANENTE",
       "CEP": "18200016 - CEP Granada",
@@ -277,18 +253,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE033/"
-    },
-    {
-      "Código": "271812GE051",
-      "Título": "INCLUSIÓN EN EDUCACIÓN INFANTIL: SEÑALIZACIÓN, MODIFICACIÓN DE CONDUCTA, PATIOS INCLUSIVOS Y TIC ADAPTADAS A LA DIVERSIDAD",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/12/2026",
-      "Fin": "12/04/2027",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE051/"
     },
     {
       "Código": "271812GE052",
@@ -409,18 +373,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE039/"
-    },
-    {
-      "Código": "272320GE012",
-      "Título": "USO DEL ROBOT CARTESIANO PARA ESCUELAS DE ARTE",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/12/2026",
-      "Fin": "09/12/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE012/"
     },
     {
       "Código": "272320GE020",
@@ -1383,6 +1335,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279933FP019/"
     },
     {
+      "Código": "271408GE042",
+      "Título": "MAKEY MAKEY CREATIVIDAD E INTERACCIÓN EN PRIMARIA (INICIACIÓN)",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "01/12/2026",
+      "Fin": "17/12/2026",
+      "Dirigido a": "Educación primaria",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE042/"
+    },
+    {
       "Código": "271408GE043",
       "Título": "ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN)",
       "CEP": "14200010 - CEP Córdoba",
@@ -1429,18 +1393,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271410GE001/"
-    },
-    {
-      "Código": "271811GE117",
-      "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO: TEA NIVEL 2.",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "01/12/2026",
-      "Fin": "17/12/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE117/"
     },
     {
       "Código": "271813GE008",
@@ -1527,6 +1479,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE050/"
     },
     {
+      "Código": "272320GE012",
+      "Título": "USO DEL ROBOT CARTESIANO PARA ESCUELAS DE ARTE",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "02/12/2026",
+      "Fin": "09/12/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE012/"
+    },
+    {
       "Código": "274127AFP011",
       "Título": "FERMENTACIONES, ALIMENTOS VIVOS Y PROCESOS DE MADURACIÓN EN LA COCINA CONTEMPORÁNEA",
       "CEP": "41200017 - CEP Sevilla",
@@ -1585,6 +1549,30 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GEC08/"
+    },
+    {
+      "Código": "271811GE098",
+      "Título": "TALLER DE HERRAMIENTAS PEDAGÓGICAS PARA INSTRUMENTOS DE CUERDA FROTADA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "02/12/2026",
+      "Fin": "03/12/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE098/"
+    },
+    {
+      "Código": "271812GE051",
+      "Título": "INCLUSIÓN EN EDUCACIÓN INFANTIL: SEÑALIZACIÓN, MODIFICACIÓN DE CONDUCTA, PATIOS INCLUSIVOS Y TIC ADAPTADAS A LA DIVERSIDAD",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "02/12/2026",
+      "Fin": "12/04/2027",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271812GE051/"
     },
     {
       "Código": "272115GE022",
@@ -1657,18 +1645,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE046/"
-    },
-    {
-      "Código": "272318GE049",
-      "Título": "EVALUACIÓN COMPETENCIAL Y MEJORA CONTINUA EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "01/12/2026",
-      "Fin": "15/12/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE049/"
     },
     {
       "Código": "272925GE505",
@@ -1899,18 +1875,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE041/"
     },
     {
-      "Código": "271408IP001",
-      "Título": "DETECCIÓN, INTERPRETACIÓN Y PREVENCIÓN DEL PLAGIO EN TEXTOS ACADÉMICOS EN ENSEÑANZAS ARTÍSTICAS DE RÉGIMEN ESPECIAL",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/11/2026",
-      "Fin": "20/11/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408IP001/"
-    },
-    {
       "Código": "271408PR008",
       "Título": "RED PROVINCIAL PROFESIONALES COTUTORAS LSE",
       "CEP": "14200010 - CEP Córdoba",
@@ -2043,6 +2007,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE072/"
     },
     {
+      "Código": "271811GE117",
+      "Título": "ATENCIÓN AL ALUMNADO CON AUTISMO: TEA NIVEL 2",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "01/12/2026",
+      "Fin": "17/12/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE117/"
+    },
+    {
       "Código": "271812GE024",
       "Título": "INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE",
       "CEP": "18200028 - CEP Motril",
@@ -2151,18 +2127,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE103/"
     },
     {
-      "Código": "272117GE005",
-      "Título": "PROGRAMA COMUNICAR-NOS: DESARROLLO DE LAS HABILIDADES METALINGÜÍSTICAS EN EL LENGUAJE ORAL EN EL AULA (CIMIENTOS DEL PROCESO LECTOR)",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "22/10/2026",
-      "Fin": "26/11/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE005/"
-    },
-    {
       "Código": "272318FP003",
       "Título": "FALSOS TECHOS Y PARTICIONES PREFABRICADAS",
       "CEP": "23200016 - CEP Jaén",
@@ -2209,6 +2173,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE037/"
+    },
+    {
+      "Código": "272318GE049",
+      "Título": "EVALUACIÓN COMPETENCIAL Y MEJORA CONTINUA EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "01/12/2026",
+      "Fin": "15/12/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE049/"
     },
     {
       "Código": "272319GE012",
