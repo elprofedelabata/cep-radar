@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Córdoba</description>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:42:35 +0000</lastBuildDate>
     <item>
       <title>271408GE008 — XX ENCUENTROS DE BIBLIOTECAS ESCOLARES DE CÓRDOBA</title>
       <description>14200010 - CEP Córdoba | Encuentro | 02/12/2026 → 10/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
@@ -28,18 +28,11 @@
       <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE043 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN)</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/12/2026 → 17/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE043/</link>
-      <guid isPermaLink="false">271408GE043</guid>
-      <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>271408PR032 — AULA DIGITAL EN ACCIÓN: TALLERES PRÁCTICOS DE TECNOLOGÍA EDUCATIVA PARA EDUCACIÓN PERMANENTE (PRESENCIAL POR LA MAÑANA)</title>
-      <description>14200010 - CEP Córdoba | Curso | 14/01/2027 → 29/01/2027 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR032/</link>
-      <guid isPermaLink="false">271408PR032</guid>
-      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
+      <title>271408GE107 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN) II</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/12/2026 → 21/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE107/</link>
+      <guid isPermaLink="false">271408GE107</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
     </item>
     <item>
       <title>279908CI437 — LA COORDINACIÓN DEL BIENESTAR Y PROTECCIÓN DEL ALUMNADO EN CENTROS DOCENTES DE ANDALUCÍA</title>
@@ -56,11 +49,25 @@
       <pubDate>Thu, 26 Nov 2026 11:50:17 +0000</pubDate>
     </item>
     <item>
+      <title>271408GE043 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN)</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/12/2026 → 17/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE043/</link>
+      <guid isPermaLink="false">271408GE043</guid>
+      <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
+    </item>
+    <item>
       <title>271408PR030 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/11/2026 → 04/06/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/</link>
       <guid isPermaLink="false">271408PR030</guid>
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408PR032 — AULA DIGITAL EN ACCIÓN: TALLERES PRÁCTICOS DE TECNOLOGÍA EDUCATIVA PARA EDUCACIÓN PERMANENTE (PRESENCIAL POR LA MAÑANA)</title>
+      <description>14200010 - CEP Córdoba | Curso | 14/01/2027 → 29/01/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR032/</link>
+      <guid isPermaLink="false">271408PR032</guid>
+      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
     </item>
     <item>
       <title>271408GEC08 — CÍRCULOS RESTAURATIVOS PARA LA MEJORA DE LA CONVIVENCIA</title>

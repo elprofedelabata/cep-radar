@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:42:35 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP012 — II JORNADAS REGIONALES ANDALUZAS DEL PROFESORADO DE CENTROS PENITENCIARIOS: AULAS QUE TRANSFORMAN</title>
       <description>11200011 - CEP Cádiz | Jornadas | 21/01/2027 → 22/01/2027 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
@@ -84,18 +84,11 @@
       <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>271408GE043 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN)</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/12/2026 → 17/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE043/</link>
-      <guid isPermaLink="false">271408GE043</guid>
-      <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>271408PR032 — AULA DIGITAL EN ACCIÓN: TALLERES PRÁCTICOS DE TECNOLOGÍA EDUCATIVA PARA EDUCACIÓN PERMANENTE (PRESENCIAL POR LA MAÑANA)</title>
-      <description>14200010 - CEP Córdoba | Curso | 14/01/2027 → 29/01/2027 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR032/</link>
-      <guid isPermaLink="false">271408PR032</guid>
-      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
+      <title>271408GE107 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN) II</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/12/2026 → 21/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE107/</link>
+      <guid isPermaLink="false">271408GE107</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
     </item>
     <item>
       <title>271409GE016 — PATIOS DINÁMICOS PARA UN RECREO INCLUSIVO</title>
@@ -110,6 +103,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271409GE017/</link>
       <guid isPermaLink="false">271409GE017</guid>
       <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>271811GE024 — CONOCE EL AULA DEL FUTURO</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 13/01/2027 → 24/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE024/</link>
+      <guid isPermaLink="false">271811GE024</guid>
+      <pubDate>Fri, 03 Jul 2026 08:45:48 +0000</pubDate>
     </item>
     <item>
       <title>271811GE067 — DISEÑO UNIVERSAL PARA EL APRENDIZAJE EN EL AULA DEL FUTURO. ITINERARIO COMPLETO</title>
@@ -203,6 +203,13 @@
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
+      <title>271814GE020 — LENGUA DE SIGNOS EN EL AULA: ATENCIÓN EDUCATIVA Y ACCESIBILIDAD COMUNICATIVA</title>
+      <description>18200041 - CEP Baza | Curso Semipresencial | 21/01/2027 → 04/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271814GE020/</link>
+      <guid isPermaLink="false">271814GE020</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
+    </item>
+    <item>
       <title>272115KPF511 — USO DE LA PLATAFORMA MOODLE CENTROS. NIVEL AVANZADO</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso a Distancia | 03/12/2026 → 22/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272115KPF511/</link>
@@ -231,32 +238,11 @@
       <pubDate>Wed, 25 Nov 2026 12:01:42 +0000</pubDate>
     </item>
     <item>
-      <title>272318GE027 — RED DE NEUROEDUCACIÓN: APRENDEMOS EN RED, AVANZAMOS EN EL AULA</title>
-      <description>23200016 - CEP Jaén | Curso con Seguimiento | 01/12/2026 → 27/04/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE027/</link>
-      <guid isPermaLink="false">272318GE027</guid>
-      <pubDate>Thu, 19 Nov 2026 16:15:31 +0000</pubDate>
-    </item>
-    <item>
       <title>272318GE039 — SINTONÍAS COMPARTIDAS: RED PROFESIONAL DE DOCENTES DE MÚSICA</title>
       <description>23200016 - CEP Jaén | Curso con Seguimiento | 09/12/2026 → 18/05/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE039/</link>
       <guid isPermaLink="false">272318GE039</guid>
       <pubDate>Thu, 19 Nov 2026 03:57:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>272318GE046 — EL MATERIAL MANIPULATIVO PARA LA RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS</title>
-      <description>23200016 - CEP Jaén | Curso con Seguimiento | 03/12/2026 → 12/02/2027 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE046/</link>
-      <guid isPermaLink="false">272318GE046</guid>
-      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>272318GE049 — EVALUACIÓN COMPETENCIAL Y MEJORA CONTINUA EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL</title>
-      <description>23200016 - CEP Jaén | Curso | 01/12/2026 → 15/12/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE049/</link>
-      <guid isPermaLink="false">272318GE049</guid>
-      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
     </item>
     <item>
       <title>272320GE012 — USO DEL ROBOT CARTESIANO PARA ESCUELAS DE ARTE</title>
@@ -336,6 +322,13 @@
       <pubDate>Wed, 25 Nov 2026 12:01:42 +0000</pubDate>
     </item>
     <item>
+      <title>272922GE073 — CONVIVENCIA DOCENTE: HERRAMIENTAS PARA ENSEÑAR CON SENTIDO EN EPER-EEOOII</title>
+      <description>29200014 - CEP Málaga | Encuentro | 03/02/2027 → 03/02/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE073/</link>
+      <guid isPermaLink="false">272922GE073</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
+    </item>
+    <item>
       <title>272922GE094 — CdA: FORMACIÓN DE FAMILIARES Y PARTICIPACIÓN EDUCATIVA DE LA COMUNIDAD EN EL CEIP RAMÓN DE VALLE INCLÁN</title>
       <description>29200014 - CEP Málaga | Curso | 18/01/2027 → 07/04/2027 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272922GE094/</link>
@@ -392,6 +385,13 @@
       <pubDate>Mon, 23 Nov 2026 11:43:18 +0000</pubDate>
     </item>
     <item>
+      <title>272923GE852 — COMPRENDER PARA ACOMPAÑAR EN EDUCACIÓN INFANTIL</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 13/01/2027 → 17/03/2027 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272923GE852/</link>
+      <guid isPermaLink="false">272923GE852</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
+    </item>
+    <item>
       <title>272924GE057 — MATEMÁTICAS EN PRIMARIA: ENFOQUE MANIPULATIVO Y COMPETENCIAL (OAOA)</title>
       <description>29200038 - CEP Ronda | Curso | 15/01/2027 → 18/01/2027 | Dirigido a: Educación primaria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272924GE057/</link>
@@ -425,13 +425,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE028/</link>
       <guid isPermaLink="false">27401GE028</guid>
       <pubDate>Wed, 18 Nov 2026 22:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>27401GE031 — EDUCACIÓN Y CUIDADO DE LA VOZ</title>
-      <description>04200019 - CEP Almería | Curso | 03/12/2026 → 28/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE031/</link>
-      <guid isPermaLink="false">27401GE031</guid>
-      <pubDate>Thu, 29 Oct 2026 07:44:48 +0000</pubDate>
     </item>
     <item>
       <title>27401GE039 — IMPRESIÓN 3D APLICADA A LA PRÓTESIS DENTAL</title>
@@ -593,13 +586,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274130GE009/</link>
       <guid isPermaLink="false">274130GE009</guid>
       <pubDate>Wed, 25 Nov 2026 23:27:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>274131GE010 — ASESORAMIENTO CEIP ANA JOSEFA MATEOS GÓMEZ: PODCAST EDUCATIVOS EN EL AULA</title>
-      <description>41200054 - CEP Lebrija | Otros | 30/11/2026 → 15/12/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE010/</link>
-      <guid isPermaLink="false">274131GE010</guid>
-      <pubDate>Mon, 23 Nov 2026 11:43:18 +0000</pubDate>
     </item>
     <item>
       <title>279901KFP496 — PROYECTOS ERASMUS+ DE CORTA DURACIÓN KA122-VET 2027  (SECTOR FORMACIÓN PROFESIONAL)</title>
@@ -826,11 +812,25 @@
       <pubDate>Thu, 19 Nov 2026 16:15:31 +0000</pubDate>
     </item>
     <item>
+      <title>271408GE043 — ESP32 INICIACIÓN A LA PROGRAMACIÓN Y LOS SISTEMAS INTERACTIVOS (INICIACIÓN)</title>
+      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 01/12/2026 → 17/12/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408GE043/</link>
+      <guid isPermaLink="false">271408GE043</guid>
+      <pubDate>Sat, 14 Nov 2026 00:07:52 +0000</pubDate>
+    </item>
+    <item>
       <title>271408PR030 — RED DE EQUIPOS DIRECTIVOS DE EEOOII</title>
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 09/11/2026 → 04/06/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR030/</link>
       <guid isPermaLink="false">271408PR030</guid>
       <pubDate>Tue, 27 Oct 2026 15:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>271408PR032 — AULA DIGITAL EN ACCIÓN: TALLERES PRÁCTICOS DE TECNOLOGÍA EDUCATIVA PARA EDUCACIÓN PERMANENTE (PRESENCIAL POR LA MAÑANA)</title>
+      <description>14200010 - CEP Córdoba | Curso | 14/01/2027 → 29/01/2027 | Dirigido a: Educación Permanente | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271408PR032/</link>
+      <guid isPermaLink="false">271408PR032</guid>
+      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
     </item>
     <item>
       <title>271410GE001 — USO EDUCATIVO DE LA INTELIGENCIA ARTIFICIAL: INTEGRACIÓN EN EL DÍA A DÍA DOCENTE</title>
@@ -873,13 +873,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE015/</link>
       <guid isPermaLink="false">272318GE015</guid>
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>272318GE017 — ELABORACIÓN DE RECURSOS EDUCATIVOS ABIERTOS (REA) CON EXELEARNING 4.0. PARA PROFESORADO QUE IMPARTE ENSEÑANZA SEMIPRESENCIAL</title>
-      <description>23200016 - CEP Jaén | Curso a Distancia | 04/12/2026 → 02/03/2027 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE017/</link>
-      <guid isPermaLink="false">272318GE017</guid>
-      <pubDate>Wed, 04 Nov 2026 18:24:02 +0000</pubDate>
     </item>
     <item>
       <title>272318GE018 — RED  PROFESIONAL PARA ORIENTADORES/AS</title>
@@ -959,11 +952,46 @@
       <pubDate>Tue, 13 Oct 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
+      <title>272318GE017 — ELABORACIÓN DE RECURSOS EDUCATIVOS ABIERTOS (REA) CON EXELEARNING 4.0. PARA PROFESORADO QUE IMPARTE ENSEÑANZA SEMIPRESENCIAL</title>
+      <description>23200016 - CEP Jaén | Curso a Distancia | 04/12/2026 → 02/03/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE017/</link>
+      <guid isPermaLink="false">272318GE017</guid>
+      <pubDate>Wed, 04 Nov 2026 18:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>272318GE027 — RED DE NEUROEDUCACIÓN: APRENDEMOS EN RED, AVANZAMOS EN EL AULA</title>
+      <description>23200016 - CEP Jaén | Curso con Seguimiento | 01/12/2026 → 27/04/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE027/</link>
+      <guid isPermaLink="false">272318GE027</guid>
+      <pubDate>Thu, 19 Nov 2026 16:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>272318GE046 — EL MATERIAL MANIPULATIVO PARA LA RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS</title>
+      <description>23200016 - CEP Jaén | Curso con Seguimiento | 03/12/2026 → 12/02/2027 | Dirigido a: Educación primaria | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE046/</link>
+      <guid isPermaLink="false">272318GE046</guid>
+      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>272318GE049 — EVALUACIÓN COMPETENCIAL Y MEJORA CONTINUA EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL</title>
+      <description>23200016 - CEP Jaén | Curso | 01/12/2026 → 15/12/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272318GE049/</link>
+      <guid isPermaLink="false">272318GE049</guid>
+      <pubDate>Mon, 16 Nov 2026 10:34:36 +0000</pubDate>
+    </item>
+    <item>
       <title>272925GE505 — JORNADA PARA LA COORDINACIÓN DE GRUPOS DE TRABAJO Y FORMACIÓN EN CENTRO</title>
       <description>29200041 - CEP Antequera | Jornadas | 28/10/2026 → 28/10/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272925GE505/</link>
       <guid isPermaLink="false">272925GE505</guid>
       <pubDate>Mon, 19 Oct 2026 16:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>27401GE031 — EDUCACIÓN Y CUIDADO DE LA VOZ</title>
+      <description>04200019 - CEP Almería | Curso | 03/12/2026 → 28/01/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/27401GE031/</link>
+      <guid isPermaLink="false">27401GE031</guid>
+      <pubDate>Thu, 29 Oct 2026 07:44:48 +0000</pubDate>
     </item>
     <item>
       <title>27401GE032 — EDUCACIÓN Y CUIDADO DE LA VOZ (TURNO DE MAÑANA)</title>
@@ -1225,6 +1253,13 @@
       <pubDate>Thu, 29 Oct 2026 16:29:15 +0000</pubDate>
     </item>
     <item>
+      <title>272116GE103 — DUA Y COMPETENCIA DIGITAL DOCENTE: DISEÑO DE MATERIALES ACCESIBLES E INTERACTIVOS PARA UN AULA INCLUSIVA</title>
+      <description>21200025 - CEP Bollullos - Valverde | Curso | 01/12/2026 → 02/02/2027 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272116GE103/</link>
+      <guid isPermaLink="false">272116GE103</guid>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0000</pubDate>
+    </item>
+    <item>
       <title>272117GE005 — PROGRAMA COMUNICAR-NOS: DESARROLLO DE LAS HABILIDADES METALINGÜÍSTICAS EN EL LENGUAJE ORAL EN EL AULA (CIMIENTOS DEL PROCESO LECTOR)</title>
       <description>21200037 - CEP Aracena | Curso | 22/10/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272117GE005/</link>
@@ -1351,13 +1386,6 @@
       <pubDate>Thu, 29 Oct 2026 16:29:15 +0000</pubDate>
     </item>
     <item>
-      <title>274127ACS002 — JORNADAS TDE</title>
-      <description>41200017 - CEP Sevilla | Curso | 26/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS002/</link>
-      <guid isPermaLink="false">274127ACS002</guid>
-      <pubDate>Wed, 18 Nov 2026 22:27:35 +0000</pubDate>
-    </item>
-    <item>
       <title>274127ACS005 — HISTORIA Y SIMBOLOGÍA DE LA NAVIDAD: DEL SINCRETISMO PAGANO AL IMAGINARIO CONTEMPORÁNEO EN EL AULA DE GEOGRAFÍA E HISTORIA</title>
       <description>41200017 - CEP Sevilla | Curso | 26/11/2026 → 10/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS005/</link>
@@ -1377,13 +1405,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT036/</link>
       <guid isPermaLink="false">274127ACT036</guid>
       <pubDate>Fri, 13 Nov 2026 18:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>274127AFP019 — FORMACIÓN PRÁCTICA: MÉTODOS Y PRODUCTOS CARTOGRÁFICOS</title>
-      <description>41200017 - CEP Sevilla | Curso | 17/11/2026 → 26/11/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP019/</link>
-      <guid isPermaLink="false">274127AFP019</guid>
-      <pubDate>Sun, 01 Nov 2026 22:34:12 +0000</pubDate>
     </item>
     <item>
       <title>274127ALI007 — LABORATORIO DE LINGÜÍSTICA</title>
@@ -1461,6 +1482,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274129ES03/</link>
       <guid isPermaLink="false">274129ES03</guid>
       <pubDate>Mon, 09 Nov 2026 21:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>274131GE010 — ASESORAMIENTO CEIP ANA JOSEFA MATEOS GÓMEZ: PODCAST EDUCATIVOS EN EL AULA</title>
+      <description>41200054 - CEP Lebrija | Otros | 30/11/2026 → 15/12/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274131GE010/</link>
+      <guid isPermaLink="false">274131GE010</guid>
+      <pubDate>Mon, 23 Nov 2026 11:43:18 +0000</pubDate>
     </item>
     <item>
       <title>274132GE007 — ATENDIENDO A LA DIVERSIDAD EN EL AULA ORDINARIA</title>
