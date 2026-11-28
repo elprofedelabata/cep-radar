@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:17:35 +0000</lastBuildDate>
     <item>
       <title>271104FEDAP012 — II JORNADAS REGIONALES ANDALUZAS DEL PROFESORADO DE CENTROS PENITENCIARIOS: AULAS QUE TRANSFORMAN</title>
       <description>11200011 - CEP Cádiz | Jornadas | 21/01/2027 → 22/01/2027 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
@@ -462,6 +462,13 @@
       <pubDate>Mon, 16 Nov 2026 20:46:46 +0000</pubDate>
     </item>
     <item>
+      <title>274127ACS011 — EUROPA EN EL AULA DE GEOGRAFÍA E HISTORIA: DE LAS INSTITUCIONES A LA INNOVACIÓN</title>
+      <description>41200017 - CEP Sevilla | Curso | 21/01/2027 → 28/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACS011/</link>
+      <guid isPermaLink="false">274127ACS011</guid>
+      <pubDate>Sat, 28 Nov 2026 11:17:34 +0000</pubDate>
+    </item>
+    <item>
       <title>274127ACT026 — SOPORTE VITAL BÁSICO Y MANEJO DEL DESFIBRILADOR PARA CENTROS EDUCATIVOS (IES). ZONA ASE</title>
       <description>41200017 - CEP Sevilla | Curso | 13/01/2027 → 27/01/2027 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127ACT026/</link>
@@ -868,13 +875,6 @@
       <pubDate>Tue, 17 Nov 2026 16:39:02 +0000</pubDate>
     </item>
     <item>
-      <title>272320GE012 — USO DEL ROBOT CARTESIANO PARA ESCUELAS DE ARTE</title>
-      <description>23200031 - CEP Úbeda | Curso | 02/12/2026 → 09/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE012/</link>
-      <guid isPermaLink="false">272320GE012</guid>
-      <pubDate>Wed, 21 Oct 2026 20:58:36 +0000</pubDate>
-    </item>
-    <item>
       <title>274127AFP011 — FERMENTACIONES, ALIMENTOS VIVOS Y PROCESOS DE MADURACIÓN EN LA COCINA CONTEMPORÁNEA</title>
       <description>41200017 - CEP Sevilla | Curso | 09/12/2026 → 10/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/274127AFP011/</link>
@@ -1006,13 +1006,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/279930CI257/</link>
       <guid isPermaLink="false">279930CI257</guid>
       <pubDate>Wed, 25 Nov 2026 23:27:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>271104FEDAP002 — MÚSICA PARA LA DANZA DESDE UNA PERSPECTIVA CONTEMPORÁNEA</title>
-      <description>11200011 - CEP Cádiz | Curso | 25/11/2026 → 26/11/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271104FEDAP002/</link>
-      <guid isPermaLink="false">271104FEDAP002</guid>
-      <pubDate>Tue, 03 Nov 2026 14:49:13 +0000</pubDate>
     </item>
     <item>
       <title>271104FEDAP025 — JORNADA PROVINCIAL DE EDUCACIÓN FÍSICA: INNOVACIÓN, INCLUSIÓN Y NUEVAS TENDENCIAS MOTORAS</title>
@@ -1300,6 +1293,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE008/</link>
       <guid isPermaLink="false">272320GE008</guid>
       <pubDate>Mon, 05 Oct 2026 18:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>272320GE012 — USO DEL ROBOT CARTESIANO PARA ESCUELAS DE ARTE</title>
+      <description>23200031 - CEP Úbeda | Curso | 02/12/2026 → 09/12/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/272320GE012/</link>
+      <guid isPermaLink="false">272320GE012</guid>
+      <pubDate>Wed, 21 Oct 2026 20:58:36 +0000</pubDate>
     </item>
     <item>
       <title>272320GE013 — LA VOZ QUE INSPIRA. COMUNICAR PARA FORMAR. INTRODUCCIÓN A LA ORATORIA Y LA COMUNICACIÓN NO VERBAL</title>
